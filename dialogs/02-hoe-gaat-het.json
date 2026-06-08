@@ -1,0 +1,18 @@
+{
+  "id": "basis-2-hoe-gaat-het",
+  "category": "basis",
+  "number": 2,
+  "title": "Hoe gaat het?",
+  "description": "Een van de meest gestelde vragen in het Nederlands. Dit gespreksonderdeel oefent verschillende manieren om over je gevoelens en stemming te praten, van blij en sterk tot moe en nerveus.",
+  "situation": "Een informeel gesprek waarin iemand vertelt hoe hij of zij zich vandaag voelt.",
+  "turns": [
+    { "speaker": "A", "text": "Hoe gaat het?", "id": "A0387"},
+    { "speaker": "B", "text": "Het gaat goed, alles prima!", "id": "A0387-2"},
+    { "speaker": "A", "text": "Ben jij vandaag in een goed humeur?", "id": "A0388"},
+    { "speaker": "B", "text": "Ik ben blij", "id": "A0388-2"},
+    { "speaker": "B", "text": "Ik ben moe, Ik ben verdrietig", "id": "A0389"},
+    { "speaker": "B", "text": "Ik ben boos, Ik ben nerveus", "id": "A0390"},
+    { "speaker": "B", "text": "Ik ben sterk", "id": "A0391"},
+    { "speaker": "B", "text": "Ik ben rustig, Ik ben ontspannen", "id": "A0392"}
+  ]
+}

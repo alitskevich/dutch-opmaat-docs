@@ -1,0 +1,22 @@
+{
+  "id": "eten-1-supermarkt",
+  "category": "eten",
+  "number": 1,
+  "title": "In de Supermarkt",
+  "description": "Deze dialoog speelt zich af in een supermarkt waar een klant vragen stelt aan een medewerker over producten. Het demonstreert alledaagse winkelinteracties en is perfect voor het oefenen van vocabulaire gerelateerd aan boodschappen doen. Let op de beleefdheidsformules en hoe vragen worden gesteld in het Nederlands.",
+  "situation": "Marieke is in de supermarkt en zoekt naar producten voor het avondeten. Ze vraagt een medewerker om hulp.",
+  "turns": [
+    { "speaker": "Marieke", "text": "Goedemiddag, excuseer me. Ik ben op zoek naar de verse groenten. Waar kan ik die vinden?", "id": "A0505" },
+    { "speaker": "Medewerker", "text": "Goedemiddag! De verse groenten vindt u in gangpad drie, helemaal achteraan in de winkel.", "id": "A0506" },
+    { "speaker": "Marieke", "text": "O, dank u. En heeft u ook biologische tomaten? Ik probeer zo veel mogelijk biologisch te kopen.", "id": "A0507" },
+    { "speaker": "Medewerker", "text": "Ja, we hebben een uitgebreid biologisch assortiment. De biologische tomaten staan naast de reguliere tomaten, in een apart schap met een groen etiket.", "id": "A0508" },
+    { "speaker": "Marieke", "text": "Perfect! Zijn ze lokaal geteeld?", "id": "A0509" },
+    { "speaker": "Medewerker", "text": "Deze tomaten komen van een teler uit de buurt van het Westland. Ze zijn gisteren binnengekomen, dus ze zijn heel vers.", "id": "A0510" },
+    { "speaker": "Marieke", "text": "Dat klinkt heerlijk. Mag ik ook vragen waar ik de plantaardige melk kan vinden?", "id": "A0511" },
+    { "speaker": "Medewerker", "text": "Plantaardige melk? Dat vindt u in gangpad zeven, bij de zuivel. We hebben amandel-, soja- en havermelk.", "id": "A0512" },
+    { "speaker": "Marieke", "text": "Perfect, ik neem havermelk. Heeft u ook lactosevrije kaas? Mijn man is lactose-intolerant.", "id": "A0513" },
+    { "speaker": "Medewerker", "text": "Ja, we hebben een speciale afdeling voor lactosevrije producten. Die vindt u ook in gangpad zeven, bij de kaas.", "id": "A0514" },
+    { "speaker": "Marieke", "text": "U bent enorm behulpzaam, dank u wel!", "id": "A0515" },
+    { "speaker": "Medewerker", "text": "Graag gedaan! Nog een prettige dag en eet smakelijk!", "id": "A0516" }
+  ]
+}

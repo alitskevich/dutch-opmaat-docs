@@ -1,0 +1,29 @@
+{
+  "id": "eten-4-markt",
+  "category": "eten",
+  "number": 4,
+  "title": "Op de Markt",
+  "description": "Deze dialoog speelt zich af op een traditionele Nederlandse markt waar een toerist producten koopt van een marktkoopman. Het is perfect voor het oefenen van markttaal en het onderhandelen in informele settings. De sfeer is gezellig en de koopman is vriendelijk maar zakelijk.",
+  "situation": "Hans, een marktkoopman, helpt Lisa, een toerist, met het kiezen van fruit en groenten op de markt.",
+  "turns": [
+    { "speaker": "Lisa", "text": "Goedemorgen! Wat een prachtige markt!", "id": "A0696" },
+    { "speaker": "Hans", "text": "Goedemorgen! Welkom! Kan ik u ergens mee helpen?", "id": "A0697" },
+    { "speaker": "Lisa", "text": "Ik zoek appels. Welke zijn het zoetst?", "id": "A0698" },
+    { "speaker": "Hans", "text": "De Elstar appels zijn heel zoet. Ze zijn van dit seizoen. Deze hier zijn uit Gelderland.", "id": "A0699" },
+    { "speaker": "Lisa", "text": "Geef me er dan maar een kilo van.", "id": "A0700" },
+    { "speaker": "Hans", "text": "Natuurlijk! Was nog iets? Misschien wat aardbeien? Ze zijn nu op hun best.", "id": "A0701" },
+    { "speaker": "Lisa", "text": "O, ja! Hoeveel kost een bakje?", "id": "A0702" },
+    { "speaker": "Hans", "text": "Twee euro vijftig per bakje. Ze zijn zelf geplukt dit weekend.", "id": "A0703" },
+    { "speaker": "Lisa", "text": "Twee bakjes alstublieft. Oh, en ik zie dat u ook kaas verkoopt. Is dat echte Goudse kaas?", "id": "A0704" },
+    { "speaker": "Hans", "text": "Ja, rechtstreeks van de boerderij. Zestig procent vetgehalte. Wilt u even proeven?", "id": "A0705" },
+    { "speaker": "Lisa", "text": "Ja, graag! Mmm, heerlijk romig!", "id": "A0706" },
+    { "speaker": "Hans", "text": "U proeft het verschil, hè? Deze kaas is ambachtelijk gemaakt met koeienmelk van eigen koeien.", "id": "A0707" },
+    { "speaker": "Lisa", "text": "Een half pond alstublieft. Heeft u ook noten?", "id": "A0708" },
+    { "speaker": "Hans", "text": "Ja, verse walnoten en amandelen. De walnoten zijn uit eigen boomgaard.", "id": "A0709" },
+    { "speaker": "Lisa", "text": "Geef me maar een zakje walnoten. Hoeveel is dat in totaal?", "id": "A0710" },
+    { "speaker": "Hans", "text": "De appels zijn drie euro vijftig, de aardbeien vijf euro, de kaas vier euro en de noten drie euro. Samen zestien euro.", "id": "A0711" },
+    { "speaker": "Lisa", "text": "Hier is twintig euro.", "id": "A0712" },
+    { "speaker": "Hans", "text": "Dank u! Veertien euro terug. Geniet van uw producten!", "id": "A0713" },
+    { "speaker": "Lisa", "text": "Dank u! Tot ziens!", "id": "A0714" }
+  ]
+}
