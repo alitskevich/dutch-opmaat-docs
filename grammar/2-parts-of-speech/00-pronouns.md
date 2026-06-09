@@ -47,31 +47,6 @@ Used as the subject or object of a sentence.
 - *hun* is used as indirect object (*ik geef hun een boek* — I give them a book).
 - In practice, *ze* is used most often in speech.
 
-## Demonstrative / Referential Pronouns (Verwijswoorden)
-
-Used to point to or refer back to something.
-
-Dutch distinguishes **near** vs. **far** and **de-words** vs. **het-words**.
-
-| | de-word | het-word | English |
-|------|---------|----------|---------|
-| Near | **deze** | **dit** | this |
-| Far | **die** | **dat** | that |
-
-Examples:
-
-- *deze man* — this man (de man, near)
-- *dit kind* — this child (het kind, near)
-- *die vrouw* — that woman (de vrouw, far)
-- *dat huis* — that house (het huis, far)
-
-### As standalone references
-
-*die* and *dat* are also used to refer back to a previously mentioned noun:
-
-- *Ik zag een film. Die was geweldig.* (I saw a film. That one was great.)
-- *Hij kocht een huis. Dat staat in Amsterdam.* (He bought a house. It's in Amsterdam.)
-
 ---
 
 ## 4. Reflexive Pronouns (Wederkerige / Reflexieve voornaamwoorden)

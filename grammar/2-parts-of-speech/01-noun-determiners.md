@@ -1,13 +1,62 @@
-# Possessives
 
-Possessives indicate ownership: *my*, *your*, *his*, *her*, *our*, *their*.
+# Determiners
+
+Determiners introduce a noun, its belonging and can specify which or how much.
+
+## Articles (Lidwoorden)
+
+One of the hardest aspects of Dutch is knowing whether a noun takes **de** or **het**.
+
+Some rules of thumb:
+
+- All plural nouns use **de**
+- Diminutives always use **het** (*het huisje, het meisje*)
+- Words ending in **-ing, -heid, -schap, -ie** are usually **de**
+- Most nouns referring to people follow natural gender (de man, de vrouw)
+
+| | Definite | Indefinite |
+|-|----------|------------|
+| de-word | **de** | **een** |
+| het-word | **het** | **een** |
+
+- *de tafel* — the table; *een tafel* — a table
+- *het boek* — the book; *een boek* — a book
+
+> When in doubt, look it up — native speakers sometimes disagree too!
+
+## Demonstrative / Referential Pronouns (Verwijswoorden)
+
+Used to point to or refer back to something.
+
+Dutch distinguishes **near** vs. **far** and **de-words** vs. **het-words**.
+
+| | de-word | het-word | English |
+|------|---------|----------|---------|
+| Near | **deze** | **dit** | this |
+| Far | **die** | **dat** | that |
+
+Examples:
+
+- *deze man* — this man (de man, near)
+- *dit kind* — this child (het kind, near)
+- *die vrouw* — that woman (de vrouw, far)
+- *dat huis* — that house (het huis, far)
+
+### As standalone references
+
+*die* and *dat* are also used to refer back to a previously mentioned noun:
+
+- *Ik zag een film. Die was geweldig.* (I saw a film. That one was great.)
+- *Hij kocht een huis. Dat staat in Amsterdam.* (He bought a house. It's in Amsterdam.)
+
+## The Possessive Pronouns
+
+Possessives determine ownership: *my*, *your*, *his*, *her*, *our*, *their*.
 
 Dutch has both
 
 - **possessive pronouns** that sit in front of a noun,
 - and **standalone** forms used without a following noun.
-
-## 1. The Possessive Pronouns
 
 Each pronoun has the **same form before any noun**, with **one exception**: *ons* / *onze*.
 
@@ -32,7 +81,7 @@ Examples:
 - *Onze hond / ons huis* — our dog (de-word) / our house (het-word).
 - *Hun kinderen spelen buiten.* — Their children are playing outside.
 
-## 2. Full vs. Reduced Forms
+### Full vs. Reduced Forms
 
 For 2nd person singular, **jouw** is the full (stressed) form; **je** is the reduced (unstressed) form. Use **jouw** for emphasis or contrast.
 
@@ -43,7 +92,7 @@ For 2nd person singular, **jouw** is the full (stressed) form; **je** is the red
 
 The same emphasis principle applies to subject pronouns: *je* vs *jij*, *ze* vs *zij*.
 
-## 3. The Special Case: **onze** vs **ons**
+### 3. The Special Case: **onze** vs **ons**
 
 Use **onze** before de-words and **ons** before het-words.
 
@@ -56,11 +105,11 @@ Use **onze** before de-words and **ons** before het-words.
 
 > Plurals are always de-words, so they always take **onze**: *onze kinderen*, *onze huizen*.
 
-## 4. Standalone Possessives ("mine, yours, his …")
+### Standalone Possessives ("mine, yours, his …")
 
 When the possessive *is* the noun (no following noun), Dutch uses one of two structures:
 
-### Pattern A: **van** + object pronoun
+#### Pattern A: **van** + object pronoun
 
 Most common in speech.
 
@@ -81,7 +130,7 @@ Examples:
 - *Die auto is **van haar**.* — That car is hers.
 - *Is deze jas **van jou**?* — Is this coat yours?
 
-### Pattern B: **de/het** + possessive + **-e**
+#### Pattern B: **de/het** + possessive + **-e**
 
 More formal/written.
 
@@ -98,7 +147,7 @@ More formal/written.
 - *Dit is mijn boek. **Het jouwe** ligt daar.* — This is my book. Yours is over there.
 - *Mijn auto is rood. **De hare** is blauw.* — My car is red. Hers is blue.
 
-## 5. Possession Without a Pronoun: **van** + Noun
+### Possession Without a Pronoun: **van** + Noun
 
 To express *X's Y*, use **Y van X**.
 
@@ -108,7 +157,7 @@ To express *X's Y*, use **Y van X**.
 
 > The English Saxon genitive (*Anna's*) is also seen in informal Dutch: *Anna's huis*. *van + name* is more common.
 
-## 6. Body Parts and Clothing
+### Body Parts and Clothing
 
 Dutch tends to use **definite articles** (de/het) instead of possessives when the owner is obvious from context, especially with body parts and clothing.
 
@@ -117,7 +166,7 @@ Dutch tends to use **definite articles** (de/het) instead of possessives when th
 | She broke her arm. | Ze brak **haar / de** arm. (both fine; *de* is common in news) |
 | Put your coat on. | Doe **je** jas aan. (possessive used for clarity) |
 
-## Common mistakes
+### Common mistakes
 
 - Using *jullie* with -s, like English: ❌ *jullies* → ✅ *jullie* (uninflected).
 - Forgetting *ons* vs *onze*: ❌ *onze huis* → ✅ *ons huis*.

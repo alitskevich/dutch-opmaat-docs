@@ -1,4 +1,61 @@
-# Calendar
+# Timewise
+
+## Conjunctions of Time
+
+| Dutch | English | Example |
+|-------|---------|---------|
+| **als** | when (conditional/future) | **Als** ik tijd heb, kom ik. (When I have time, I'll come.) |
+| **wanneer** | when (direct question) | **Wanneer** kom je? (When are you coming?) |
+| **terwijl** | while | Ik las **terwijl** hij sliep. (I read while he slept.) |
+| **totdat** | until | Wacht **totdat** ik kom. (Wait until I come.) |
+| **voordat** | before | **Voordat** ik vertrek, bel ik. (Before I leave, I'll call.) |
+| **nadat** | after | **Nadat** ik at, wandelde ik. (After I ate, I walked.) |
+| **sinds** | since | **Sinds** november woont hij hier. (Since November he lives here.) |
+| **zodra** | as soon as | Bel me **zodra** je aankomt. (Call me as soon as you arrive.) |
+| **toch** | still/yet | Het regent, maar ik ga **toch**. (It's raining, but I'm still going.) |
+
+## Time Markers
+
+| Dutch | English | Usage |
+|-------|---------|-------|
+| **nu** | now ||
+| **dadelijk / zo** | in a moment ||
+| **nog** | still/yet | Ben je **nog** hier? (Are you still here?) |
+| **al** | already | Ik heb **al** gegeten. (I've already eaten.) |
+| **pas** | just/only | Ik **pas** aangekomen. (I just arrived.) |
+| **straks** | soon/later today | Ik kom **straks** langs. (I'll stop by soon.) |
+| **zo meteen** | shortly | Ik kom **zo meteen**. (I'm coming shortly.) |
+
+## Prepositions of Time
+
+| Dutch | English | Example |
+|-------|---------|---------|
+| **om** | at (clock time) | De film begint **om** acht uur. |
+| **op** | on (day/date) | **Op** maandag werk ik thuis. |
+| **in** | in (months, years, seasons) | **In** januari sneeuwt het. |
+| **voor** | before | **Voor** het eten was ik moe. |
+| **na** | after | **Na** het werk ga ik sporten. |
+| **tijdens** | during | **Tijdens** de vergadering. |
+| **vanaf** | starting from | **Vanaf** maandag ben ik vrij. |
+| **tot** | until | We blijven **tot** zeven uur. |
+| **sinds** | since | Hij woont hier **sinds** 2010. |
+| **binnen** | within | Ik kom **binnen** een uur. |
+| **over** | in (X time from now) | Ik bel je **over** vijf minuten. |
+
+## Duration
+
+| Dutch | English | Example |
+|-------|---------|---------|
+| **(al) sinds** | since | Ik woon hier **sinds** 2018. |
+| **(al) … lang** | for X | Ik werk hier **al drie jaar**. |
+| **gedurende** | during (formal) | **Gedurende** de zomer reist hij. |
+| **van … tot …** | from … to … | **Van** maandag **tot** vrijdag werk ik. |
+| **vlug** | quickly | Moet **vlug** gaan. (Have to go quickly.) |
+
+> *Over een uur* = "in an hour from now". *Binnen een uur* = "within the next hour" (any time before that limit).
+>
+
+## Calendar
 
 How to talk about *when* things happen — clock time, days, parts of the day, weeks, months, and seasons.
 
