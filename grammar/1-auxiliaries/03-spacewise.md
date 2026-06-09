@@ -1,6 +1,6 @@
-# Spacewise
+# Spacewise  *(A2)*
 
-### Locus
+## Locus
 
 | Dutch | English |
 |-------|---------|
@@ -17,7 +17,7 @@
 >
 > Buildings: usually *in* (*in het station*), but the country **op de fiets / op vakantie / op het werk** are fixed *op*-expressions.
 
-### Prepositions of Collocation
+## Prepositions of collocation
 
 | Dutch | English | Example |
 |-------|---------|---------|
@@ -34,7 +34,7 @@
 | **tegenover** | opposite | De bakker is **tegenover** de school. |
 | **rond / om** | around | Mensen zaten **rond** het vuur. |
 
-### Prepositions of Direction
+## Prepositions of direction
 
 | Dutch | English | Example |
 |-------|---------|---------|

@@ -1,4 +1,4 @@
-# Symbolen
+# Symbolen  *(A1)*
 
 ## Het Nederlandse Alfabet
 

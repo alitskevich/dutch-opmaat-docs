@@ -1,8 +1,8 @@
-# Relative Clauses: **die**, **dat**, **waar-**, **wie**
+# Relative Clauses: **die**, **dat**, **waar-**, **wie**  *(B1)*
 
 A **relative clause** attaches extra information to a noun (the *antecedent*). In Dutch, the relative pronoun is chosen by the noun's **gender** (de-word vs. het-word), not by its grammatical role in the clause. Like all subordinate clauses, the verb goes to the **end**.
 
-### 1. The Core Choice: **die** vs. **dat**
+## The core choice: **die** vs. **dat**
 
 | Antecedent | Pronoun | Example |
 |------------|---------|---------|
@@ -13,7 +13,7 @@ A **relative clause** attaches extra information to a noun (the *antecedent*). I
 
 > Unlike German, Dutch relative pronouns are **not case-marked** — *die* and *dat* serve as both subject and object of their clause. The role is read off word order.
 
-### 2. Plurals: Always **die**
+## Plurals: always **die**
 
 All plural antecedents take **die**, regardless of whether the singular is *de* or *het*.
 
@@ -23,7 +23,7 @@ All plural antecedents take **die**, regardless of whether the singular is *de* 
 | de kinderen | De kinderen **die** mij **belden**, waren neven. |
 | de boeken (← *het boek*) | De boeken **die** ik **las**, waren spannend. |
 
-### 3. Prepositions + Things: **waar-** Fusion
+## Prepositions + things: **waar-** fusion
 
 When the relative pronoun is the **object of a preposition** and refers to a *thing*, Dutch fuses **waar** + preposition into a single word. The preposition stays at the end of the clause (or the fused form sits at the front).
 
@@ -36,7 +36,7 @@ When the relative pronoun is the **object of a preposition** and refers to a *th
 
 > In speech and informal writing, you'll also hear the split form: *De stoel **waar** ik **op** zit*. Both are correct.
 
-### 4. Prepositions + People: *preposition + **wie***
+## Prepositions + people: *preposition + **wie***
 
 For people, **don't** fuse with **waar-**; use **preposition + wie**.
 
@@ -46,7 +46,7 @@ For people, **don't** fuse with **waar-**; use **preposition + wie**.
 | De vrouw **aan wie** ik het **gaf** | The woman to whom I gave it |
 | De vrienden **op wie** ik **wacht** | The friends I'm waiting for |
 
-### 5. Indefinite or Abstract Antecedents: **wat**
+## Indefinite or abstract antecedents: **wat**
 
 When the antecedent is indefinite (*alles*, *iets*, *niets*, *veel*, *het enige*) or a whole clause, use **wat**.
 
@@ -57,13 +57,13 @@ When the antecedent is indefinite (*alles*, *iets*, *niets*, *veel*, *het enige*
 | Het beste **wat** je **kunt doen**, is wachten. | The best thing you can do is wait. |
 | Hij kwam te laat, **wat** mij **stoorde**. | He came late, which annoyed me. |
 
-### 6. Verb-Final and Comma Rules
+## Verb-final and comma rules
 
 - The conjugated verb of the relative clause goes to the **end** (it's a subordinate clause).
 - Relative clauses are typically set off by **commas** in writing, especially when they sit in the middle of a sentence: *De man, **die** daar staat, is mijn buurman.*
 - Restrictive vs. non-restrictive distinction is weaker than in English; Dutch leans on commas rather than choice of pronoun.
 
-### Common mistakes
+## Common mistakes
 
 - Using **die** for a het-word singular: ❌ *het kind **die*** → ✅ *het kind **dat***.
 - Using **dat** for a plural het-word: ❌ *de boeken **dat*** → ✅ *de boeken **die***.

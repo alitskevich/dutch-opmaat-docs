@@ -1,4 +1,4 @@
-# Past narratives
+# Past narratives  *(B1)*
 
 Use:
 
@@ -36,7 +36,7 @@ Once you can build single-tense sentences, the next step is **stitching events i
 Example narrative:
 
 > ***Eerst** stonden we op. **Daarna** ontbeten we samen. **Vervolgens** namen we de fiets naar het station. **Even later** zaten we al in de trein. **Ten slotte** kwamen we om elf uur in Utrecht aan.*
-
+>
 > Each of these can sit at the start of the clause; remember the **V2 rule** — when an adverb opens, the verb still comes second: *Daarna **ontbeten** we …*.
 
 ---
@@ -72,7 +72,7 @@ Time subordinators (*toen, terwijl, voordat, nadat, zodra, totdat, sinds*) send 
 - *Bel me **zodra** je **aankomt**.*
 - ***Nadat** we **gegeten hadden**, gingen we wandelen.* (note pluperfect for the earlier event)
 
-> For the full vocabulary of these subordinators with translations see **[00-conjunctions](#/grammar?doc=00-conjunctions)**. The general subordinate-clause word-order rule is in **[08-word-order-svo](#/grammar?doc=08-word-order-svo)**.
+> For the full vocabulary of these subordinators with translations see [subordinating conjunctions](/#/grammar?doc=5-sentences/03-subordinating-conjunctions.md). The general subordinate-clause word-order rule is in [word order](/#/grammar?doc=4-modes/00-indicative.md).
 
 ## The Pluperfect (Voltooid Verleden Tijd, VVT)
 
@@ -85,7 +85,7 @@ Form: imperfectum of *hebben* (**had / hadden**) or *zijn* (**was / waren**) + p
 
 This tense is essential for narrating *flashbacks* and *prior events* in a past timeline.
 
-#### Perfectum Position in the sentence
+### Perfectum position in the sentence
 
 The auxiliary takes the verb-second position; the past participle goes to the end:
 

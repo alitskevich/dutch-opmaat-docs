@@ -1,6 +1,6 @@
-# Uitspraak
+# Uitspraak  *(A1)*
 
-### Vowels(Klinkers): kort vs lang
+## Vowels (klinkers): kort vs lang
 
 Dutch vowels come in **short** and **long** pairs.
 
@@ -16,7 +16,7 @@ The same letter sounds different depending on whether it's followed by one or tw
 
 **Spelling rule:** in a closed syllable (ending in a consonant), a single vowel = short. To make it long, **double the vowel**: *man* → *manen* (one *a*, but the syllable is open) vs *mannen* (double *n* keeps the *a* short).
 
-### Tweeklanken & Digraphs
+## Tweeklanken & digraphs
 
 These letter combinations represent **single sounds** that are not predictable from their parts.
 
@@ -44,7 +44,7 @@ These letter combinations represent **single sounds** that are not predictable f
 
 > **ei** and **ij** sound **identical**. The only difference is spelling — *ij* is native Dutch, *ei* often comes from older Germanic roots. Dutch children learn to ask "lange ei of korte ei?" when writing.
 
-### Consonants
+## Consonants
 
 | Letter | NL voorbeeld | IPA (klank) | English sample |
 |:------:|:-------------|:------------|:---------------|

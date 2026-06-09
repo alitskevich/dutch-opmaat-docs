@@ -1,4 +1,4 @@
-# Adjectives in Dutch
+# Adjectives in Dutch  *(A2)*
 
 Dutch adjectives describe nouns and follow one main rule: in most contexts they take an **-e** ending. The exception — when they don't — is the trickiest part to learn.
 

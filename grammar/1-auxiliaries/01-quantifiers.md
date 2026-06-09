@@ -1,6 +1,6 @@
-# Quantification
+# Quantification  *(A2)*
 
-### Noun Quantifiers
+## Noun quantifiers
 
 | Dutch | English |
 |-------|---------|
@@ -18,7 +18,7 @@
 > *elk / ieder* take **-e** before de-words: *elke dag* (every day), *elk kind*
 > (every child — het-word, no -e in older style, though *elk(e)* is now often used for both).
 
-### Frequency
+## Frequency
 
 | Dutch | English | Example |
 |-------|---------|---------|
@@ -36,7 +36,7 @@ Position: usually right after the verb, before the object:
 
 - *Ik drink **altijd** koffie 's ochtends.* — I always drink coffee in the morning.
 
-### Degree
+## Degree
 
 | Dutch | English |
 |-------|---------|

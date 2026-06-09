@@ -1,11 +1,11 @@
 
-# The Word **er** and **er-words**
+# The Word **er** and **er-words**  *(B1)*
 
 Pronominal adverb `er` is one of the most versatile — and tricky — words in Dutch.
 
 It plays four distinct roles.
 
-### Existential **er** (there is / there are)
+## Existential **er** (there is / there are)
 
 Used to introduce a new, unspecified noun into the conversation.
 
@@ -21,7 +21,7 @@ Used to introduce a new, unspecified noun into the conversation.
 >
 > This `er` cannot be omitted. Without it the sentence is ungrammatical: ~~*Is een probleem.*~~
 
-### Locative **er** (there — referring to a place)
+## Locative **er** (there — referring to a place)
 
 Replaces a place already mentioned. Equivalent to English "there".
 
@@ -31,7 +31,7 @@ Replaces a place already mentioned. Equivalent to English "there".
 | Ben je in Parijs geweest? Ja, ik ben er vorig jaar geweest. | Have you been to Paris? Yes, I was there last year. |
 | Ga je naar de markt? Ik ga er elke zaterdag naartoe. | Do you go to the market? I go there every Saturday. |
 
-### Quantitative **er** (of them — with numbers)
+## Quantitative **er** (of them — with numbers)
 
 When a counted noun is omitted (already known from context), `er` fills its place.
 
@@ -44,7 +44,7 @@ When a counted noun is omitted (already known from context), `er` fills its plac
 
 > Note: when `er` is existential AND quantitative together: *Er zijn er vijf.* The first `er` = existential, the second `er` = quantitative.
 
-### Pronominal **er-words** (er + preposition)
+## Pronominal **er-words** (er + preposition)
 
 This is the most important use. When referring back to a **thing** (not a person) after a preposition.
 
@@ -73,7 +73,7 @@ Dutch combines `er` with the preposition into a single word — called an **er-w
 > - *Ik denk aan hem.* (I'm thinking about him.) — NOT ~~*ik denk eraan*~~ for a person
 > - *Ik denk eraan.* (I'm thinking about it.) — for a thing ✓
 
-### Splitting er-words
+## Splitting er-words
 
 Er-words can — and often must — be **split** when other words (adverbs, negation) appear between `er` and the preposition.
 

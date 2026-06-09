@@ -1,4 +1,4 @@
-# Passive Voice
+# Passive Voice  *(B2)*
 
 The passive voice (*lijdende vorm*) shifts the focus from **who does** the action to **what undergoes** it. Dutch builds the passive with two different auxiliaries depending on whether you mean the **action itself** or its **finished result**:
 
@@ -14,7 +14,7 @@ This split is the single most important thing to internalise. English collapses 
 
 > **Rule of thumb:** if you can replace the English verb with "is being / was being," use **worden**. If you can replace it with "has been / had been," use **zijn**.
 
-### 3. Present Passive — *worden* + past participle
+## 3. Present passive — *worden* + past participle
 
 Structure: **subject** + *worden* (V2) + … + **past participle** (end of clause).
 
@@ -26,16 +26,16 @@ Structure: **subject** + *worden* (V2) + … + **past participle** (end of claus
 
 The agent — the original subject of the active sentence — is introduced with **door** ("by") and is optional. Drop it whenever the doer is unimportant or unknown.
 
-### 4. Past Passive — *werd / werden* and *is/zijn … (geworden)*
+## 4. Past passive — *werd / werden* and *is/zijn … (geworden)*
 
-#### Imperfectum passive — ongoing past action
+### Imperfectum passive — ongoing past action
 
 *werd / werden* + past participle. Used for narration and description.
 
 - *Het huis **werd** in 1920 **gebouwd**.* — The house was built in 1920.
 - *De brieven **werden** elke dag **bezorgd**.* — The letters were delivered every day.
 
-#### Perfectum passive — completed result
+### Perfectum passive — completed result
 
 *zijn* + past participle. Technically *zijn* + past participle + *geworden*, but **the *geworden* is dropped** in everyday Dutch.
 
@@ -47,7 +47,7 @@ The agent — the original subject of the active sentence — is introduced with
 > - *werd gebouwd* — talks about the **building process** (e.g. *in 1920*).
 > - *is gebouwd* — talks about the **current finished state** (it stands built today).
 
-### 5. Future Passive — *zullen* + *worden*
+## 5. Future passive — *zullen* + *worden*
 
 Structure: **zullen** (V2) + … + past participle + **worden** (end).
 
@@ -56,7 +56,7 @@ Structure: **zullen** (V2) + … + past participle + **worden** (end).
 
 The infinitive *worden* always sits at the very end of the clause, after the participle.
 
-### 6. Modal Verbs in the Passive
+## 6. Modal verbs in the passive
 
 Same end-of-clause pattern: **modal** (V2) + … + **past participle** + **worden**.
 
@@ -66,7 +66,7 @@ Same end-of-clause pattern: **modal** (V2) + … + **past participle** + **worde
 | *Je **kunt** dit boek **lezen**.* | *Dit boek **kan gelezen worden**.* |
 | *Je **mag** hier **roken**.* | *Hier **mag gerookt worden**.* |
 
-### 7. The "*er*"-Passive — No Real Subject
+## 7. The "*er*"-passive — no real subject
 
 When the active sentence has no clear object (intransitive verbs, generic actions), Dutch fills the subject slot with **er**. The verb stays singular.
 
@@ -79,7 +79,7 @@ This construction is everywhere in Dutch, especially in signs, instructions and 
 - *Hier **wordt** Nederlands **gesproken**.* — Dutch is spoken here.
 - *Er **mag** niet **gerookt worden**.* — Smoking is not allowed.
 
-### 8. Active vs. Passive — Side-by-Side
+## 8. Active vs. passive — side-by-side
 
 | Tense | Active | Passive (*worden*/*zijn*) |
 |-------|--------|----------------------------|
@@ -89,7 +89,7 @@ This construction is everywhere in Dutch, especially in signs, instructions and 
 | Future | *Jan zal de brief schrijven.* | *De brief **zal** geschreven **worden**.* |
 | Modal | *Jan moet de brief schrijven.* | *De brief **moet** geschreven **worden**.* |
 
-### 9. When to Use the Passive
+## 9. When to use the passive
 
 | Reason | Example |
 |--------|---------|
@@ -100,7 +100,7 @@ This construction is everywhere in Dutch, especially in signs, instructions and 
 
 In informal speech Dutch often prefers **men** ("one") or **je** ("you" generic) instead of a passive: *Hier spreek je Nederlands* feels lighter than *Hier wordt Nederlands gesproken*.
 
-### Common mistakes
+## Common mistakes
 
 - **Using *zijn* where *worden* is needed** (process vs. state confusion):
   ❌ *De brief **is** nu geschreven door Jan* (sounds like it's already done)

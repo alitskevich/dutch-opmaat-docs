@@ -1,4 +1,4 @@
-# Verbs
+# Verbs  *(A2)*
 
 ## Auxiliary Verbs
 
@@ -93,7 +93,7 @@ Most Dutch verbs follow this rule. Find the **stem** (infinitive minus `-en`), t
 
 > **Inversion drop-t:** when `jij`/`je` comes *after* the verb, the **-t** disappears: *Werk **jij** hier?* (not *werkt jij*).
 
-#### Spelling tweaks
+### Spelling tweaks
 
 - Stem ending in **-v** or **-z** → write **-f** or **-s**: *leven → ik leef*, *reizen → ik reis*.
 - Stem with short vowel + single consonant → double the consonant before `-en`: *zit → wij zitten*.

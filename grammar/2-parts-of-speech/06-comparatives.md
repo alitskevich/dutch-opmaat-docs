@@ -1,6 +1,6 @@
-# Comparatives
+# Comparatives  *(B1)*
 
-### Comparative adjectives
+## Comparative adjectives
 
 Add **-er**
 
@@ -16,7 +16,7 @@ Add **-er**
 >
 > Adjectives ending in **-r** add **-d-** before -er: *duur → duurder*, *zwaar → zwaarder*.
 
-### Superlative adjectives
+## Superlative adjectives
 
 Add **-st**
 
@@ -27,7 +27,7 @@ Add **-st**
 | mooi | mooist |
 | dik | dikst |
 
-### Comparison of Adverbs
+## Comparison of adverbs
 
 Adverbs use the same comparative/superlative endings as adjectives.
 

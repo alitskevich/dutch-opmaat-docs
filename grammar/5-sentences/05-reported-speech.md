@@ -1,4 +1,4 @@
-# Reported Speech with **dat**
+# Reported Speech with **dat**  *(B2)*
 
 In Dutch, **reported (indirect) speech** is built around the subordinator **dat** ("that"). You report what someone said, asked, or thought, and — because **dat** is a subordinator — the verb of the reported clause moves to the **end**.
 
@@ -10,7 +10,7 @@ In Dutch, **reported (indirect) speech** is built around the subordinator **dat*
 | Ze zei: "Ik kom morgen." | Ze zei **dat** ze de volgende dag **zou komen**. |
 | Ik denk: "Het is moeilijk." | Ik denk **dat** het moeilijk **is**. |
 
-> The conjugated verb (*heeft*, *zou komen*, *is*) sits at the very end of the reported clause — that's the subordinate-clause rule from [03-subordinating-conjunctions.md](03-subordinating-conjunctions.md).
+> The conjugated verb (*heeft*, *zou komen*, *is*) sits at the very end of the reported clause — that's the subordinate-clause rule from [subordinating conjunctions](/#/grammar?doc=5-sentences/03-subordinating-conjunctions.md).
 
 ## 2. Pronoun and Time Shifts
 

@@ -1,4 +1,4 @@
-# Dutch Word Order (SVO + V2)
+# Dutch Word Order (SVO + V2)  *(A2)*
 
 Dutch is sometimes called an "SVO" language, but it's more accurate to call it a **V2** language: in main clauses, the **conjugated verb** must be in **second position**, no matter what comes first.
 
@@ -6,7 +6,7 @@ This single rule, plus a few placement conventions, governs almost all Dutch wor
 
 ---
 
-### 1. The V2 Rule (Main Clauses)
+## 1. The V2 Rule (Main Clauses)
 
 In a Dutch main clause, the **finite verb is always the second element** (slot 2). What sits in slot 1 can be a subject, an object, an adverb, or a whole subordinate clause — but slot 2 is always the verb.
 
@@ -19,13 +19,13 @@ In a Dutch main clause, the **finite verb is always the second element** (slot 2
 
 > Notice the subject (**ik**) jumps to slot 3 when something other than the subject opens the sentence. This is **inversion**.
 
-#### Why this matters
+### Why this matters
 
 Many beginners say things like ❌ *Morgen ik werk in Utrecht* (English-style word order). Dutch requires *Morgen **werk** ik …*.
 
 ---
 
-### 2. The Slot Model
+## 2. The Slot Model
 
 Think of a Dutch main clause as having these positions:
 
@@ -43,7 +43,7 @@ Think of a Dutch main clause as having these positions:
 
 ---
 
-### 4. Adverbs in the Sentence: The "Middle Field"
+## 3. Adverbs in the Sentence: The "Middle Field"
 
 Adverbs sit in the *middle field* — between the conjugated verb and any non-finite verbs or objects.
 
@@ -72,7 +72,7 @@ Reorder freely for emphasis by promoting one to slot 1:
 
 ---
 
-### 4. The "Verb Pile" at the End
+## 4. The "Verb Pile" at the End
 
 Any **non-finite verb** (past participle, infinitive) or **separable prefix** clusters at the **end** of the main clause.
 
@@ -86,7 +86,7 @@ Any **non-finite verb** (past participle, infinitive) or **separable prefix** cl
 > If you have *both* a participle and an infinitive, the order is usually **modal infinitive** *then* **participle/infinitive of the main verb**: *Ik heb het **moeten doen**.*
 >
 
-### 5. Pronouns and Definite Objects Move Forward
+## 5. Pronouns and Definite Objects Move Forward
 
 Pronouns and definite noun objects sit **as early as possible** in the middle field — typically right after the verb or subject.
 
@@ -98,7 +98,7 @@ Pronouns and definite noun objects sit **as early as possible** in the middle fi
 
 Rule: **definite / pronoun → before** time adverb; **indefinite → after**.
 
-### Common mistakes
+## Common mistakes
 
 - Forgetting V2 inversion when a non-subject opens the sentence.
 - Putting participles in the middle: ❌ *Ik heb gelezen het boek* → ✅ *Ik heb het boek **gelezen***.

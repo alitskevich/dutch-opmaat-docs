@@ -1,7 +1,7 @@
 
-# Connectors
+# Connectors  *(A1)*
 
-### Assotiative and Logical Conjunctions
+## Associative and logical conjunctions
 
 | Dutch | English | Example |
 |-------|---------|---------|

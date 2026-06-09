@@ -1,8 +1,8 @@
-# Coordinating Conjunctions
+# Coordinating Conjunctions  *(B1)*
 
 Once you can write single Dutch clauses, the simplest way to combine them is with a **coordinating conjunction**. A coordinator joins two clauses of *equal grammatical rank* — neither one is "inside" the other.
 
-### 2. The Five Coordinators
+## The five coordinators
 
 | Conjunction | English | Example |
 |-------------|---------|---------|
@@ -14,7 +14,7 @@ Once you can write single Dutch clauses, the simplest way to combine them is wit
 
 ---
 
-### 4. The **want** vs **omdat** Trap
+## The **want** vs **omdat** trap
 
 Both translate to English "because", but they belong to different families and behave oppositely:
 
@@ -27,7 +27,7 @@ Both translate to English "because", but they belong to different families and b
 
 ---
 
-### 5. The Two Faces of **of**
+## The two faces of **of**
 
 The word *of* is doubly important and trips up almost every learner:
 
@@ -40,7 +40,7 @@ The two are distinguished by what comes *after*: a coordinator-*of* is followed 
 
 ---
 
-### 6. Worked Examples
+## Worked examples
 
 | Sentence | Notes |
 |----------|-------|
@@ -51,7 +51,7 @@ The two are distinguished by what comes *after*: a coordinator-*of* is followed 
 
 ---
 
-### Common mistakes
+## Common mistakes
 
 - Using **want** + verb-final order: ❌ *…want ik moe **ben*** → ✅ *…want ik **ben** moe*.
 - Confusing **want** (coordinator) with **omdat** (subordinator) — same translation, opposite word order.

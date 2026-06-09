@@ -1,8 +1,8 @@
-# Subordinating Conjunctions: Verb to the End
+# Subordinating Conjunctions: Verb to the End  *(B1)*
 
 A **subordinating conjunction** introduces a clause that is grammatically *dependent* on a main clause. The single rule that defines this family: in a Dutch subordinate clause, the **conjugated verb moves to the last position**.
 
-### The Subordinators
+## The subordinators
 
 | Conjunction | English | Example |
 |-------------|---------|---------|
@@ -19,7 +19,7 @@ A **subordinating conjunction** introduces a clause that is grammatically *depen
 | **tenzij** | unless | Ik kom tenzij het **regent**. |
 | **zodra** | as soon as | Bel me zodra je **aankomt**. |
 
-### Subordinate-Clause Word Order in Detail
+## Subordinate-clause word order in detail
 
 Inside a subordinate clause:
 
@@ -36,7 +36,7 @@ Inside a subordinate clause:
 
 > Verb-cluster order at the end is flexible in Dutch (*gelezen heb* / *heb gelezen* are both fine in the Netherlands; Belgians typically prefer *heb gelezen*). Pick one and be consistent.
 
-### Subordinate Clause in Front Position
+## Subordinate clause in front position
 
 A subordinate clause can occupy slot 1 of the main clause. The main clause's verb still comes second — the *whole* subordinate clause counts as one slot.
 
@@ -48,7 +48,7 @@ A subordinate clause can occupy slot 1 of the main clause. The main clause's ver
 
 > The comma between the front-loaded subordinate clause and the main clause is standard in writing.
 
-### Worked Examples
+## Worked examples
 
 | Sentence | Notes |
 |----------|-------|
@@ -59,7 +59,7 @@ A subordinate clause can occupy slot 1 of the main clause. The main clause's ver
 | *Bel me **zodra** je **aankomt**.* | *zodra* with separable-verb cluster at end |
 | *Hij zei **dat** hij het boek **gelezen had**.* | full verb cluster at the end |
 
-### mon mistakes
+## Common mistakes
 
 - Using **omdat** + main-clause order: ❌ *…omdat ik **ben** moe* → ✅ *…omdat ik moe **ben***.
 - Forgetting the verb-final shift in **dat**-clauses: ❌ *…dat hij **komt** morgen* → ✅ *…dat hij morgen **komt***.

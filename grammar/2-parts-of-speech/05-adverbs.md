@@ -1,14 +1,14 @@
-# Adverbs in Dutch
+# Adverbs in Dutch  *(A2)*
 
 Adverbs (*bijwoorden*) modify verbs, adjectives, other adverbs, or whole sentences.
 
-The good news for learners: Dutch adverbs **never inflect** — no endings, no agreement.
+The good news: Dutch adverbs **never inflect** — no endings, no agreement.
 
-The challenge is **word order** and learning the small set of high-frequency adverbs that carry sentence rhythm.
+The challenge is **word order** and the small set of high-frequency adverbs that carry sentence rhythm.
 
-## Adverbs from Adjectives
+## Adverbs from adjectives
 
-In Dutch, most adverbs are simply the **bare adjective form** — no extra ending (unlike English *-ly*).
+Most adverbs are simply the **bare adjective form** — no extra ending (unlike English *-ly*).
 
 - *Hij is **snel**.* — He is fast. (adjective, predicative)
 - *Hij rent **snel**.* — He runs fast. (adverb)
@@ -16,19 +16,101 @@ In Dutch, most adverbs are simply the **bare adjective form** — no extra endin
 
 > **Rule of thumb:** if the word modifies a noun → add -e; if it modifies anything else → leave it bare.
 
-### Pronominal Adverbs: **er**, **daar**, **waar**, **hier** + preposition
+## Types of adverbs
 
-When a preposition refers to a *thing* (not a person), Dutch fuses the preposition with **er** / **daar** / **waar** / **hier**: *eraan, daarover, waarop, hierin*. The pieces can split: *Ik wacht **erop*** = *Daar wacht ik **op***.
+Dutch adverbs fall into a small set of semantic groups. The categories matter because **word order in the middle field follows them** (see `4-modes/00-indicative.md`).
 
-> Note: **met → mee** and **tot → toe** when combined (*ermee, daarmee, ertoe*).
+### Time
+
+| Dutch | English |
+|-------|---------|
+| nu, dan, toen, straks, meteen | now, then, then-past, soon, right away |
+| vandaag, gisteren, morgen, overmorgen | today, yesterday, tomorrow, day after tomorrow |
+| vaak, soms, altijd, nooit, zelden | often, sometimes, always, never, rarely |
+| al, nog, alweer, pas | already, still/yet, again, only-just |
+
+### Place
+
+| Dutch | English |
+|-------|---------|
+| hier, daar, ergens, nergens, overal | here, there, somewhere, nowhere, everywhere |
+| binnen, buiten, boven, beneden | inside, outside, upstairs, downstairs |
+| thuis, weg, terug | at home, away, back |
+
+### Manner
+
+| Dutch | English |
+|-------|---------|
+| snel, langzaam, goed, slecht | fast, slow, well, badly |
+| samen, alleen | together, alone |
+| graag, liever, het liefst | gladly, rather, most preferably |
+
+> *Graag* is one of the most useful Dutch words: *Ik drink **graag** koffie* = "I like drinking coffee."
+
+### Degree
+
+| Dutch | English |
+|-------|---------|
+| heel, erg, zeer, behoorlijk | very, very/quite, very (formal), considerably |
+| een beetje, nogal, redelijk | a little, rather, fairly |
+| te, zo, helemaal | too, so, completely |
+| bijna, ongeveer, precies | almost, approximately, exactly |
+
+### Sentence adverbs (modal particles)
+
+This is the group beginners most often skip — and it's what makes Dutch sound natural.
+
+| Dutch | What it adds |
+|-------|--------------|
+| *wel* | contrast / affirmation against expectation |
+| *toch* | "still" / "anyway" / contradiction softener |
+| *eigenlijk* | "actually" — admits a nuance |
+| *gewoon* | "just" — downplays |
+| *eens* / *'s* | softens a request (*kijk **eens***) |
+| *even* | "just for a moment" |
+| *maar* | "just" / "go ahead" — softens an imperative |
+| *hoor* | tag at sentence end — friendly, reassuring |
+| *misschien* | "maybe" |
+| *waarschijnlijk* | "probably" |
+| *zeker* | "certainly" |
+
+Examples:
+
+- *Doe het **maar**.* — Just go ahead and do it.
+- *Wacht **even**.* — Wait a moment.
+- *Ik kom **wel**, **hoor**.* — I will come, don't worry.
+- *Dat is **eigenlijk gewoon** zo.* — That's actually just how it is.
+
+> A native sentence often stacks two or three of these: *Doe **maar** **even** rustig **hoor**.* They aren't optional — leaving them out makes you sound clipped or bossy.
+
+## Adverbs in the sentence
+
+Adverbs sit in the **middle field** — between the conjugated verb and the verb pile at the end. When you have several, Dutch prefers **Time → Manner → Place**:
+
+- *Ik ga **morgen** **met de trein** **naar Amsterdam**.* — I'm going to Amsterdam by train tomorrow.
+
+> English uses Place–Manner–Time (*home quickly yesterday*); Dutch is the **mirror image**. See `4-modes/00-indicative.md` for the full slot model.
+
+Promoting one adverb to slot 1 (the front) emphasises it and forces V2 inversion:
+
+- *Morgen ga ik met de trein naar Amsterdam.* (emphasis on time)
+- *Met de trein ga ik morgen naar Amsterdam.* (emphasis on manner)
+
+## Pronominal adverbs: *er*, *daar*, *waar*, *hier* + preposition
+
+When a preposition refers to a **thing** (not a person), Dutch fuses the preposition with *er* / *daar* / *waar* / *hier*: *eraan, daarover, waarop, hierin*. The pieces can split: *Ik wacht **erop*** = *Daar wacht ik **op***.
+
+> *Met* → *mee* and *tot* → *toe* when combined: *ermee, daarmee, ertoe*.
 >
-> Full coverage of **er-words** and **waar-words** (existential, locative, quantitative, splitting rules) lives in **[ER-word](/#/grammar?doc=1-auxiliaries/02-er-word.md)**. *daar/hier* follow the same combinatorial pattern but always carry deictic stress (*"that"* / *"this"*).
+> Full coverage of er-words and waar-words (existential, locative, quantitative, splitting rules) lives in [ER-word](/#/grammar?doc=1-auxiliaries/05-er-word.md). *daar* and *hier* follow the same pattern but always carry deictic stress (*"that"* / *"this"*).
 
 ## Common mistakes
 
-- Adding *-ly* equivalents: ❌ *Hij rent **snelle*** → ✅ *Hij rent **snel*** (no inflection on adverbs).
-- English word order: ❌ *Ik ga **naar huis snel gisteren*** → ✅ *Ik ga **gisteren snel naar huis*** (T-M-P).
-- Using *het* after a preposition: ❌ *Ik denk **aan het*** → ✅ *Ik denk **eraan***.
-- Forgetting *wel* in contrastive answers: *Ga je niet?* → *Ik ga **wel***. (Yes, I am — contrasting the negative.)
-- Confusing **al** (already) with **nog** (still / yet): *Ben je **al** klaar?* (already?) vs *Ben je **nog** niet klaar?* (not yet?).
-- Placing *niet* wrong: ❌ *Ik niet werk* → ✅ *Ik werk **niet***.
+- ❌ *Hij rent **snelle*** → ✅ *Hij rent **snel*** — adverbs don't inflect.
+- ❌ *Ik ga **naar huis snel gisteren*** → ✅ *Ik ga **gisteren snel naar huis*** — T-M-P, not English P-M-T.
+- ❌ *Ik denk **aan het*** → ✅ *Ik denk **eraan*** — preposition + *het* for a thing is wrong; use an er-word.
+- ❌ *Ga je niet?* — *Ja* → ✅ *Ga je niet?* — *Ik ga **wel*** — *wel* contradicts a negative; bare *ja* sounds odd.
+- ❌ *Doe het.* (to a friend, as a request) → ✅ *Doe het **maar**.* / *Doe het **even**.* — bare imperatives feel curt without a softening particle.
+- ❌ *Ben je **nog** klaar?* (meaning "already") → ✅ *Ben je **al** klaar?* — *al* = already, *nog* = still/yet.
+- ❌ *Ik **niet** werk* → ✅ *Ik werk **niet*** — *niet* goes at the end (or before what it negates), not before the verb.
+- ❌ *Ik **heel graag** koffie drink* (verb-final outside a subordinate) → ✅ *Ik drink **heel graag** koffie* — main-clause V2.

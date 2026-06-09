@@ -1,6 +1,6 @@
-# The Modalities
+# The Modalities  *(B1)*
 
-### Modal Verbs
+## Modal verbs
 
 Modal verbs (modale werkwoorden) are essential building blocks in Dutch grammar.
 Dutch has six primary modal verbs, each with unique conjugation patterns and usage nuances.
@@ -50,13 +50,13 @@ be expressed by more than one verb or by a non-modal phrase. The table below map
 | 12 | Probability / Deduction | **moeten**, **zullen** + wel | vast (wel), waarschijnlijk, ongetwijfeld |
 | 13 | Politeness / Conditional | **zou(den)**, **willen** | graag, alstublieft, zou je kunnen… |
 
-### 1. Ability — *kunnen*
+## 1. Ability — *kunnen*
 
 - Ik **kan** zwemmen. (I can swim.)
 - Zij **weet** hem **te** overtuigen. (She manages to convince him. — acquired skill)
 - Hij **is in staat om** dit **te** repareren. (He is capable of repairing this.)
 
-### 2. Possibility — *kunnen*
+## 2. Possibility — *kunnen*
 
 - Het **kan** regenen. (It might rain.)
 - **Misschien** komt hij later. (Maybe he'll come later.)
@@ -65,26 +65,26 @@ be expressed by more than one verb or by a non-modal phrase. The table below map
 Distinguish from ability: `Ik **kan** zwemmen` = I have the skill, but in
 `De rivier **kan** bevriezen` it means *it is possible*.
 
-### 3. Permission — *mogen*
+## 3. Permission — *mogen*
 
 - Je **mag** gaan. (You may go.)
 - U **mag** hier parkeren. (You may park here.)
 - Het **is toegestaan om** foto's **te** maken. (Photos are permitted.)
 
-### 4. Prohibition — *mogen* + niet
+## 4. Prohibition — *mogen* + niet
 
 - Je **mag** hier **niet** roken. (You may not smoke here.)
 - Het **is verboden** te zwemmen. (Swimming is forbidden.)
 - Roken **is niet toegestaan**. (Smoking is not permitted.)
 
-### 5. Obligation / Necessity — *moeten*
+## 5. Obligation / necessity — *moeten*
 
 - Ik **moet** werken. (I must work.)
 - We **moeten** op tijd zijn. (We have to be on time.)
 - U **dient** zich **te** legitimeren. (You are required to show ID. — formal)
 - Het **is nodig** dat je belt. (It's necessary that you call.)
 
-### 6. Absence of necessity — *hoeven* + niet/geen
+## 6. Absence of necessity — *hoeven* + niet/geen
 
 `Hoeven` is the negative counterpart of `moeten`. It almost always appears with
 `niet`, `geen`, or `nauwelijks`, and uses `te + infinitive`.
@@ -95,7 +95,7 @@ Distinguish from ability: `Ik **kan** zwemmen` = I have the skill, but in
 
 Watch out: *`Ik moet niet komen`* is uncommon; the natural negative of `moeten` is `hoeven niet`.
 
-### 7. Advice / Recommendation — *moeten*, *zouden moeten*
+## 7. Advice / recommendation — *moeten*, *zouden moeten*
 
 `Moeten` softens to advice in the right context; `zou(den) moeten` is gentler still.
 
@@ -104,14 +104,14 @@ Watch out: *`Ik moet niet komen`* is uncommon; the natural negative of `moeten` 
 - Je **kunt beter** met de trein gaan. (You'd better take the train.)
 - **Het beste** ga je nu. (Best go now.)
 
-### 8. Desire / Wish — *willen*
+## 8. Desire / wish — *willen*
 
 - Ik **wil** koffie. (I want coffee.)
 - Ik **wil graag** komen. (I'd like to come. — softer)
 - Ik **heb zin in** een wandeling. (I feel like a walk.)
 - **Wilt** u suiker? (Would you like sugar?)
 
-### 9. Intention / Plan — *gaan*, *zullen*
+## 9. Intention / plan — *gaan*, *zullen*
 
 - Ik **ga** morgen **studeren**. (I'm going to study tomorrow.)
 - We **gaan** in juni **trouwen**. (We're going to marry in June.)
@@ -120,21 +120,21 @@ Watch out: *`Ik moet niet komen`* is uncommon; the natural negative of `moeten` 
 
 For when to choose `gaan` vs. `zullen` vs. plain present, see **Talking About the Future** below.
 
-### 10. Future / Prediction — *zullen*, *gaan*, present + tijdsbepaling
+## 10. Future / prediction — *zullen*, *gaan*, present + tijdsbepaling
 
 - Het **zal** regenen. (It will rain. — prediction)
 - Hij **gaat** winnen. (He's going to win.)
 - Morgen **vertrek** ik. (I leave tomorrow. — present + time adverb)
 - Ik **zal** het niet **vergeten**. (I won't forget it. — promise)
 
-### 11. Offer / Proposal — *zullen*, *laten we*
+## 11. Offer / proposal — *zullen*, *laten we*
 
 - **Zal** ik je helpen? (Shall I help you?)
 - **Zullen** we beginnen? (Shall we start?)
 - **Laten we** beginnen. (Let's begin.)
 - **Wil** je een kopje thee? (Would you like a cup of tea?)
 
-### 12. Probability / Deduction — *moeten*, *zullen wel*
+## 12. Probability / deduction — *moeten*, *zullen wel*
 
 `Moeten` for confident deduction; `zullen wel` for plausible guessing; `vast (wel)` is colloquial.
 
@@ -143,7 +143,7 @@ For when to choose `gaan` vs. `zullen` vs. plain present, see **Talking About th
 - Ze is **vast** thuis. (She's surely at home.)
 - Het regent **waarschijnlijk** morgen. (It will probably rain tomorrow.)
 
-### 13. Politeness / Conditional — *zou(den)*, *willen*
+## 13. Politeness / conditional — *zou(den)*, *willen*
 
 The past-subjunctive forms of `zullen` and `kunnen` make requests polite.
 
@@ -152,19 +152,19 @@ The past-subjunctive forms of `zullen` and `kunnen` make requests polite.
 - **Mag** ik even? (May I have a moment?)
 - **Kunt** u dat herhalen, alstublieft? (Could you repeat that, please?)
 
-##### Word Order with Modal Verbs
+## Word order with modal verbs
 
 The key modal-specific rule: the **infinitive lands at the end** of the clause.
 
 - *Ik **kan** Frans **spreken**.* (main clause)
 - *Ik **wil** dat boek **lezen**.* (with object)
 
-### Talking About the Future
+## Talking about the future
 
 Dutch has no dedicated future-tense conjugation. Three patterns cover it,
 each with a different feel.
 
-#### Present Tense + Time Marker (most common)
+### Present tense + time marker (most common)
 
 If the time is clear from context, just use the **present tense** with a time word.
 This is the everyday way to talk about the future — natural for fixed plans,
@@ -179,7 +179,7 @@ schedules, and near-future events.
 | **over een uur** | Ik **ben** er over een uur. | I'll be there in an hour. |
 | **volgend jaar** | Volgend jaar **werk** ik in Brussel. | Next year I'll be working in Brussels. |
 
-#### *gaan* + Infinitive (intentional / planned future)
+### *gaan* + infinitive (intentional / planned future)
 
 Use **gaan** + infinitive for something you intend to do, similar to English "I'm going to…".
 Structure: **subject + gaan + … + infinitive (at the end)**.
@@ -196,7 +196,7 @@ Structure: **subject + gaan + … + infinitive (at the end)**.
 
 > Don't double up: ❌ *Ik ga gaan winkelen* → ✅ *Ik ga winkelen*.
 
-#### *zullen* + Infinitive (formal / promise / prediction)
+### *zullen* + infinitive (formal / promise / prediction)
 
 **zullen** carries intention, promise, prediction, or polite suggestion.
 It is more formal than **gaan**.
@@ -210,7 +210,7 @@ The "Shall we…?" form is one of the most useful Dutch sentence patterns:
 - **Zullen** we **eten**? (Shall we eat?)
 - **Zullen** we naar het strand **gaan**? (Shall we go to the beach?)
 
-#### Choosing Between the Three
+### Choosing between the three
 
 | Situation | Best form | Example |
 |-----------|-----------|---------|
@@ -222,7 +222,7 @@ The "Shall we…?" form is one of the most useful Dutch sentence patterns:
 In casual speech Dutch speakers prefer **present + time word** or **gaan + inf.**
 *Zullen* sounds slightly bookish unless you're proposing or promising.
 
-#### Stating Plans Explicitly
+### Stating plans explicitly
 
 | Dutch | English | Example |
 |-------|---------|---------|
@@ -232,14 +232,14 @@ In casual speech Dutch speakers prefer **present + time word** or **gaan + inf.*
 
 > *Ik ben van plan om* always pairs with **te + infinitive** at the end of the clause.
 
-#### Common Mistakes
+### Common mistakes
 
 - Doubling **gaan**: ❌ *Ik ga gaan zwemmen* → ✅ *Ik ga zwemmen*.
 - Using **zullen** for everyday plans (sounds stiff) → use **gaan** + inf. instead.
 - Forgetting that the infinitive lands at the **end** of the sentence after **gaan** / **zullen**.
 - Treating **morgen** as "morning" — it means **tomorrow**. *Morning* is **ochtend**.
 
-### Double Infinitives
+## Double infinitives
 
 When a modal combines with another verb, both stay in the infinitive form.
 

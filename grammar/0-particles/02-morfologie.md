@@ -1,4 +1,4 @@
-# Morfologie
+# Morfologie  *(A2)*
 
 Dutch words are built from a **stam** (stem) plus optional **voorvoegsels** (prefixes), **achtervoegsels** (suffixes), and **flexies** (inflectional endings).
 

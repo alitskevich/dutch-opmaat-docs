@@ -1,7 +1,5 @@
 
-# Determiners
-
-Determiners introduce a noun, its belonging and can specify which or how much.
+# Determiners  *(A1)*
 
 ## Articles (Lidwoorden)
 
@@ -26,7 +24,7 @@ Some rules of thumb:
 
 ## Demonstrative / Referential Pronouns (Verwijswoorden)
 
-Used to point to or refer back to something.
+Used to point to or refer back to specific instance of something.
 
 Dutch distinguishes **near** vs. **far** and **de-words** vs. **het-words**.
 
@@ -60,26 +58,17 @@ Dutch has both
 
 Each pronoun has the **same form before any noun**, with **one exception**: *ons* / *onze*.
 
-| Person | Before de-word | Before het-word | English |
-|--------|----------------|-----------------|---------|
-| 1st sg | **mijn** | **mijn** | my |
-| 2nd sg (informal) | **jouw / je** | **jouw / je** | your |
-| 2nd (formal) | **uw** | **uw** | your |
-| 3rd sg masc | **zijn** | **zijn** | his |
-| 3rd sg fem | **haar** | **haar** | her |
-| 3rd sg neuter | **zijn** | **zijn** | its |
-| 1st pl | **onze** | **ons** | our |
-| 2nd pl | **jullie** | **jullie** | your |
-| 3rd pl | **hun** | **hun** | their |
-
-> The **only** form that changes by noun gender is *onze / ons*. Everything else is invariant.
-
-Examples:
-
-- *Mijn boek ligt op tafel.* — My book is on the table.
-- *Jullie auto is mooi.* — Your car (plural) is nice.
-- *Onze hond / ons huis* — our dog (de-word) / our house (het-word).
-- *Hun kinderen spelen buiten.* — Their children are playing outside.
+| Person | Possessive | English |
+|--------|----------------|---------|
+| 1st sg | **mijn**  | my |
+| 2nd sg (informal) | **jouw / je**  | your |
+| 2nd (formal) | **uw** | your |
+| 3rd sg masc | **zijn**  | his |
+| 3rd sg fem | **haar**  | her |
+| 3rd sg neuter | **zijn**  | its |
+| 1st pl | **onze** de / **ons** het | our |
+| 2nd pl | **jullie**  | your |
+| 3rd pl | **hun**  | their |
 
 ### Full vs. Reduced Forms
 
@@ -92,7 +81,7 @@ For 2nd person singular, **jouw** is the full (stressed) form; **je** is the red
 
 The same emphasis principle applies to subject pronouns: *je* vs *jij*, *ze* vs *zij*.
 
-### 3. The Special Case: **onze** vs **ons**
+### **onze** vs **ons**
 
 Use **onze** before de-words and **ons** before het-words.
 

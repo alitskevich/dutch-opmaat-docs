@@ -1,4 +1,4 @@
-# Question Words (Vraagwoorden)
+# Question Words (Vraagwoorden)  *(B1)*
 
 | Dutch | English | Example | Asks for |
 |-------|---------|---------|----------|
@@ -15,7 +15,7 @@
 | **hoelang** | how long | | |
 | **hoe vaak** | how often | | |
 
-### **wie** — people
+## **wie** — people
 
 | Function | Example |
 |----------|---------|
@@ -24,7 +24,7 @@
 | With preposition | **Met wie** ga je? |
 | Possessive ("whose") | **Van wie** is dit boek? |
 
-### **wat** — things & actions
+## **wat** — things & actions
 
 | Use | Example |
 |-----|---------|
@@ -35,7 +35,7 @@
 
 When **wat** is the object of a preposition for a *thing*, use **waar + preposition** instead (see §4).
 
-### **waar** — places & directional combos
+## **waar** — places & directional combos
 
 | Combo | English | Example |
 |-------|---------|---------|
@@ -43,7 +43,7 @@ When **wat** is the object of a preposition for a *thing*, use **waar + preposit
 | **waar … vandaan** | where from | **Waar** kom je **vandaan**? |
 | **waar … naartoe / heen** | where to | **Waar** ga je **heen**? |
 
-### **hoe** — manner, state, and combinations
+## **hoe** — manner, state, and combinations
 
 By itself, **hoe** asks "how?". It also combines with adjectives to form quantitative or qualitative questions: **hoe + adjective + verb + subject + …?**
 
@@ -57,7 +57,7 @@ By itself, **hoe** asks "how?". It also combines with adjectives to form quantit
 | **hoe duur** | how expensive | **Hoe duur** is dat? |
 | **hoe laat** | what time | **Hoe laat** is het? |
 
-### **welk / welke** — agreement
+## **welk / welke** — agreement
 
 **welke** behaves like an adjective: it must agree with the noun.
 
@@ -68,7 +68,7 @@ By itself, **hoe** asks "how?". It also combines with adjectives to form quantit
 
 Without a following noun, use **welke** for both: *Er staan twee fietsen — **welke** is van jou?*
 
-### **hoeveel** — invariant
+## **hoeveel** — invariant
 
 Doesn't change for gender or number. Works for countable and uncountable:
 
@@ -76,7 +76,7 @@ Doesn't change for gender or number. Works for countable and uncountable:
 - *Hoeveel **suiker** wil je?* — How much sugar?
 - *Hoeveel **kost** dat?* — How much does that cost? *(or: Wat kost dat?)*
 
-### **waarom** & cousins
+## **waarom** & cousins
 
 | Form | Tone | Example |
 |------|------|---------|
@@ -85,14 +85,14 @@ Doesn't change for gender or number. Works for countable and uncountable:
 | **waardoor** | "because of what?" (cause) | *Waardoor is dat gebeurd?* |
 | **waarvoor** | "for what (purpose)?" | *Waarvoor heb je dat nodig?* |
 
-### **wat voor** vs **wat een**
+## **wat voor** vs **wat een**
 
 | Pattern | Use | Example |
 |---------|-----|---------|
 | **wat voor (een) + noun** | what kind of | *Wat voor (een) film vind je leuk?* |
 | **wat een + noun** | exclamation: what a / what an | *Wat een prachtig huis!* |
 
-### **Wanneer** en **Hoe laat/vaak**
+## **Wanneer** en **Hoe laat/vaak**
 
 | Dutch | English |
 |-------|---------|
@@ -101,7 +101,7 @@ Doesn't change for gender or number. Works for countable and uncountable:
 | **Hoe vaak** ga je sporten? | How often do you exercise? |
 | **Sinds wanneer** woont hij hier? | Since when has he lived here? |
 
-### Special Combinations
+## Special combinations
 
 | Combo | English | Example |
 |-------|---------|---------|
@@ -111,7 +111,7 @@ Doesn't change for gender or number. Works for countable and uncountable:
 | **waar dan ook** | wherever | *We zien je waar dan ook.* |
 | **wat dan ook** | whatever | *Ik eet wat dan ook.* |
 
-### **waar-words** — asking about er-words
+## **waar-words** — asking about er-words
 
 To ask a question about an er-word, replace `er` with `waar`:
 
