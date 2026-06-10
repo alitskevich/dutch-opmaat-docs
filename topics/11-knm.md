@@ -150,4 +150,4 @@ Phone numbers
 
 ### Quiz
 
-<Quiz name="knm" data="{loadJson('/knm.json')}"></Quiz>
+<Quiz name="knm" data="{loadJson('/data/knm.json')}"></Quiz>
