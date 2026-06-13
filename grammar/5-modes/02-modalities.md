@@ -1,32 +1,5 @@
 # The Modalities  *(B1)*
 
-## Modal verbs
-
-Modal verbs (modale werkwoorden) are essential building blocks in Dutch grammar.
-Dutch has six primary modal verbs, each with unique conjugation patterns and usage nuances.
-
-| Dutch | English Equivalent | Primary Meaning |
-|-------|-------------------|-----------------|
-| **kunnen** | can, to be able to | ability, possibility |
-| **moeten** | must, to have to | necessity, obligation |
-| **mogen** | may, to be allowed to | permission |
-| **zullen** | shall, will | future, prediction, offer |
-| **willen** | to want, will | desire, intention |
-| **hoeven** | not need to | absence of necessity |
-
-**Conjugation:**
-
-| Infinitive | ik | jij / u | hij / zij / het | wij / jullie / zij | Past (sg) | Past (pl) | Participle |
-|------------|------|---------|-----------------|---------------------|-----------|-----------|------------|
-| **kunnen** | kan | kunt | kan | kunnen | kon | konden | gekund |
-| **moeten** | moet | moet | moet | moeten | moest | moesten | gemoeten |
-| **mogen** | mag | mag | mag | mogen | mocht | mochten | gemogen |
-| **zullen** | zal | zult | zal | zullen | zou | zouden | — |
-| **willen** | wil | wilt | wil | willen | wilde / wou | wilden | gewild |
-| **hoeven** | hoef | hoeft | hoeft | hoeven | hoefde | hoefden | gehoefd |
-
-*Zullen* has no past participle in modern use — perfect-tense modality is expressed with *zou hebben* + infinitive instead. For *willen*, the past *wou/wouden* is colloquial; *wilde/wilden* is standard.
-
 Key pattern: *modal + bare infinitive* — `Ik **moet** werken.`
 Exception: **hoeven** takes `niet/geen … te + infinitive` — `Je **hoeft** niet **te** komen.`
 

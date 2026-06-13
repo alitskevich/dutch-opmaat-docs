@@ -1,97 +1,12 @@
-# Offical topics
-
-## Administrative
-
-| Dutch              | English                   |
-| ------------------ | ------------------------- |
-| verplicht          | mandatory/required        |
-| aanvragen          | to apply for              |
-| inschrijven        | to register               |
-| doorgeven          | to report/notify          |
-| inloggen           | to log in                 |
-| toestemming        | permission                |
-| uitkering          | benefit/allowance         |
-| eigen risico       | deductible                |
-| rijbewijs          | driver's license          |
-| paspoort           | passport                  |
-| identiteitsbewijs  | ID document               |
-| belasting          | tax                       |
-| huur               | rent                      |
-| trouwen            | to marry                  |
-| scheiden           | to divorce                |
-| geslaagd           | passed (exam)             |
-| ziek               | sick                      |
-| kinderopvang       | childcare                 |
-| kinderbijslag      | child benefit             |
-| studiefinanciering | student finance           |
-| vrede en veiligheid | peace and security       |
-
-## Education
-
-### Opleiding — Education
-
-| Nederlands | English |
-|------------|---------|
-| De basisschool | Primary school |
-| De middelbare school | Secondary school |
-| De universiteit | The university |
-| Het diploma | The diploma |
-| De studie | The study / degree |
-
-### Vakken en Examens — Subjects and Exams
-
-| Nederlands | English |
-|------------|---------|
-| Het vak | The subject |
-| Het examen | The exam |
-| Het cijfer | The grade |
-| Slagen | To pass |
-| Zakken | To fail |
-
-## Beroepen — Professions
-
-| Nederlands | English |
-|------------|---------|
-| De leraar / lerares | The teacher |
-| De arts | The doctor |
-| De ingenieur | The engineer |
-| De ondernemer | The entrepreneur |
-| De verkoper | The salesperson |
-
-### Op het Werk — At Work
-
-| Nederlands | English |
-|------------|---------|
-| werk / baan        | work / job                |
-| werkgever          | employer                  |
-| werknemer          | employee                  |
-| De collega | The colleague |
-| De baas | The boss |
-| De vergadering | The meeting |
-| Het salaris | The salary |
-| De werktijden | Working hours |
-| Verlof / vakantie | Leave / holiday |
-
-### Solliciteren — Applying for a Job
-
-| Nederlands | English |
-|------------|---------|
-| De vacature | The vacancy |
-| solliciteren       | to apply for a job        |
-| De sollicitatiebrief | The application letter |
-| Het cv | The resume |
-| Het sollicitatiegesprek | The job interview |
-| Aangenomen worden | To be hired |
-
-## E-mails Schrijven en Beantwoorden in het Nederlands
+# E-mails Schrijven en Beantwoorden in het Nederlands
 
 Een praktische gids voor de tien meest voorkomende e-mailsituaties in het Nederlands — zakelijk én persoonlijk. Voor elke situatie vind je: een typische inkomende brief, een passend antwoord, en een korte strategie om zelf zo'n antwoord te bouwen.
 
-### Inleiding
+## Inleiding
 
 E-mailcorrespondentie in het Nederlands volgt vaste patronen. Wie de structuur van een goede mail begrijpt — aanhef, opening, kern, slot, afsluiting — kan in vrijwel elke situatie een gepast antwoord schrijven. Deze gids verzamelt de tien situaties die je in het dagelijks leven het vaakst tegenkomt: van het bevestigen van een afspraak tot het indienen van een klacht.
 
-#### Algemene Structuur van een Nederlandse E-mail
+## Algemene Structuur van een Nederlandse E-mail
 
 | Onderdeel | Formeel | Informeel |
 |-----------|---------|-----------|
@@ -102,7 +17,7 @@ E-mailcorrespondentie in het Nederlands volgt vaste patronen. Wie de structuur v
 | Afsluiting | Met vriendelijke groet, | Groetjes, / Hartelijke groet, |
 | Ondertekening | [Volledige naam] + functie + bedrijf | [Voornaam] |
 
-#### Toon en Register
+## Toon en Register
 
 In het Nederlands is het verschil tussen **u** (formeel) en **jij/je** (informeel) cruciaal. Bij twijfel: gebruik **u**. Schakel pas over op **jij** als de andere partij dat eerst doet of het expliciet voorstelt ("Je mag me tutoyeren"). Veelgebruikte afsluitingen op formaliteitsschaal:
 
@@ -112,7 +27,7 @@ In het Nederlands is het verschil tussen **u** (formeel) en **jij/je** (informee
 - **Informeel**: *Groetjes,* / *Groet,*
 - **Zeer informeel**: *Liefs,* / *Xx*
 
-### Algemene Strategieën — Zes Universele Regels
+## Algemene Strategieën — Zes Universele Regels
 
 Ongeacht de situatie kun je elke Nederlandse e-mail bouwen met deze zes regels:
 
@@ -128,9 +43,9 @@ Ongeacht de situatie kun je elke Nederlandse e-mail bouwen met deze zes regels:
 
 6. **Lees terug voor je verstuurt.** Zeker in een tweede taal. Typo's in de aanhef (*Geahte*) of foute aanspreekvorm (*u* / *je* door elkaar) maken een slordige indruk.
 
-### Veelgebruikte Formules — Snelle Referentie
+## Veelgebruikte Formules — Snelle Referentie
 
-#### Openingen
+### Openingen
 
 | Doel | Formule |
 |------|---------|
@@ -140,7 +55,7 @@ Ongeacht de situatie kun je elke Nederlandse e-mail bouwen met deze zes regels:
 | Initiatief nemen | Met deze e-mail wil ik graag... |
 | Verwijzen | Zoals afgesproken... / Conform onze afspraak... |
 
-#### Overgangen
+### Overgangen
 
 | Doel | Formule |
 |------|---------|
@@ -149,7 +64,7 @@ Ongeacht de situatie kun je elke Nederlandse e-mail bouwen met deze zes regels:
 | Tegenstelling | Helaas / Echter / Toch wil ik... |
 | Aanvulling | Daarnaast / Verder / Tot slot |
 
-#### Afsluitingen
+### Afsluitingen
 
 | Doel | Formule |
 |------|---------|

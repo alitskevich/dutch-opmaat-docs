@@ -1,6 +1,11 @@
 # Participles as adjectives and nouns  *(B2)*
 
-Dutch has two participles — the **past participle** (*gekookt*, *gelezen*, *gegeten*) and the **present participle** (*lopend*, *slapend*). Beyond their verbal use in tenses, both serve as **adjectives** and can be **nominalized**. The infinitive too can be turned into a neuter noun.
+Dutch has two participles
+
+- the **past participle** (*gekookt*, *gelezen*, *gegeten*)
+- and the **present participle** (*lopend*, *slapend*).
+
+Beyond their verbal use in tenses, both serve as **adjectives** and can be **nominalized**. The infinitive too can be turned into a neuter noun.
 
 For the verbal use of participles (perfect tenses, passive), see [verbs](/#/grammar?doc=2-parts-of-speech/03-verbs.md) and [passive](/#/grammar?doc=4-modes/06-passive.md).
 
@@ -41,7 +46,7 @@ Past participles substantivize freely, mostly with the definite article and an -
 
 > Person-nominals (*de gewonde*) take -en in the plural: *de gewonden*. Neuter abstracts (*het verleden*) don't.
 
-## Present participle: form
+## Present participle
 
 Form: take the infinitive and add **-d**.
 

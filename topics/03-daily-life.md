@@ -43,6 +43,40 @@ Language for everyday shopping in the Netherlands: supermarkets, specialty store
 | Korting | Discount |
 | Te duur | Too expensive |
 
+## Woningen, Kamers, Meubels, Huren en De Buurt
+
+| Nederlands | English |
+|------------|---------|
+| *Het* huis | The house |
+| De flat / het appartement | The apartment |
+| De studio | The studio |
+| De kamer | The room |
+| De woning | The dwelling |
+| samenwonen         | to live together          |
+| De woonkamer | The living room |
+| De slaapkamer | The bedroom |
+| De keuken | The kitchen |
+| De badkamer | The bathroom |
+| De tuin | The garden |
+| De zolder | The attic |
+| De bank | The sofa |
+| De tafel | The table |
+| De stoel | The chair |
+| *Het* bed | The bed |
+| De kast | The cupboard / wardrobe |
+| De huur | The rent |
+| De huurder | The tenant |
+| De huisbaas | The landlord |
+| Een hypotheek | A mortgage |
+| Een woning kopen | To buy a home |
+| makelaar           | real estate agent         |
+| verhuizen          | to move (house)           |
+| De buren | The neighbors |
+| De wijk | The district |
+| Het centrum | The city center |
+| Rustig | Quiet |
+| Gezellig | Cozy / sociable |
+
 ## Transport & Travel
 
 Vocabulary and phrases for getting around the Netherlands: public transport, cars, bicycles, asking for directions, and buying tickets.
@@ -57,6 +91,10 @@ Vocabulary and phrases for getting around the Netherlands: public transport, car
 | De metro | The metro |
 | Het station | The station |
 | De halte | The stop |
+| Een enkele reis | A one-way ticket |
+| Een retour | A return ticket |
+| De OV-chipkaart | The public transport card |
+| In- en uitchecken | To check in and check out |
 
 ### Met de Auto — By Car
 
@@ -88,17 +126,6 @@ Vocabulary and phrases for getting around the Netherlands: public transport, car
 | Tegenover | Opposite |
 | Naast | Next to |
 
-### Kaartjes en Reizen — Tickets and Travel
-
-| Nederlands | English |
-|------------|---------|
-| Een enkele reis | A one-way ticket |
-| Een retour | A return ticket |
-| De OV-chipkaart | The public transport card |
-| In- en uitchecken | To check in and check out |
-
-### Directions: A Mini-Pattern
-
 Combining imperatives with prepositions and turning verbs:
 
 - ***Loop** rechtdoor en **neem** de tweede straat **rechts**.*
@@ -118,11 +145,6 @@ Language for talking about how you spend your free time: hobbies, sport, going o
 | Tuinieren | Gardening |
 | Tekenen | Drawing |
 | Muziek luisteren | Listening to music |
-
-### Sport — Sport
-
-| Nederlands | English |
-|------------|---------|
 | Voetballen | To play football |
 | Hardlopen | To run |
 | Zwemmen | To swim |
@@ -138,11 +160,6 @@ Language for talking about how you spend your free time: hobbies, sport, going o
 | Naar het restaurant | To the restaurant |
 | Een terrasje pakken | To sit on a terrace |
 | Iets afspreken | To plan something |
-
-### Cultuur — Culture
-
-| Nederlands | English |
-|------------|---------|
 | Het museum | The museum |
 | De tentoonstelling | The exhibition |
 | Het concert | The concert |

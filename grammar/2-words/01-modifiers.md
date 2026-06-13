@@ -1,4 +1,4 @@
-# Quantification  *(A2)*
+# Modifiers  *(A2)*
 
 ## Noun quantifiers
 
