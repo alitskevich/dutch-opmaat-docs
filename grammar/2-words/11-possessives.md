@@ -10,13 +10,13 @@ Dutch has both
 | Person | Possessive | English |
 |--------|----------------|---------|
 | 1st sg | **mijn**  | my |
+| 1st pl | **onze** de / **ons** het | our |
 | 2nd sg (informal) | **jouw / je**  | your |
 | 2nd (formal) | **uw** | your |
+| 2nd pl | **jullie**  | your |
 | 3rd sg masc | **zijn**  | his |
 | 3rd sg fem | **haar**  | her |
 | 3rd sg neuter | **zijn**  | its |
-| 1st pl | **onze** de / **ons** het | our |
-| 2nd pl | **jullie**  | your |
 | 3rd pl | **hun**  | their |
 
 ## **onze** vs **ons**
@@ -56,12 +56,12 @@ Most common in speech.
 | English | Dutch |
 |---------|-------|
 | mine | **van mij** |
+| ours | **van ons** |
 | yours (sg) | **van jou** |
 | yours (formal) | **van u** |
+| yours (pl) | **van jullie** |
 | his / its | **van hem** |
 | hers | **van haar** |
-| ours | **van ons** |
-| yours (pl) | **van jullie** |
 | theirs | **van hen / van hun** |
 
 Examples:

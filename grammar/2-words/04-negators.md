@@ -14,8 +14,8 @@ Choosing between them is rule-based; placing **niet** correctly is the trickier 
 | Sentence | Negated |
 |----------|---------|
 | Ik heb **een auto**. | Ik heb **geen** auto. |
-| Ik heb **tijd**. | Ik heb **geen** tijd. |
 | Ik heb **de auto**. | Ik heb **de auto niet**. |
+| Ik heb **tijd**. | Ik heb **geen** tijd. |
 | Hij is **mijn vriend**. | Hij is **mijn vriend niet**. |
 | Het is **mooi**. | Het is **niet** mooi. |
 | Ik werk **vandaag**. | Ik werk **vandaag niet**. |

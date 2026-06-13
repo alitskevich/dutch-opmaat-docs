@@ -10,13 +10,13 @@ And many have two forms: a **full (stressed)** form and a **reduced (unstressed)
 | Person | Full form | Reduced form | English |
 |--------|-----------|--------------|---------|
 | 1st sg | **ik** | 'k | I |
+| 1st pl | **wij** | we | we |
 | 2nd sg | **jij** | je | you (singular) |
 | 2nd sg formal | **u** | u | you (formal) |
+| 2nd pl | **jullie** | — | you (plural) |
 | 3rd sg masc | **hij** | ie | he |
 | 3rd sg fem | **zij** | ze | she |
 | 3rd sg neuter | **het** | 't | it |
-| 1st pl | **wij** | we | we |
-| 2nd pl | **jullie** | — | you (plural) |
 | 3rd pl | **zij** | ze | they |
 
 > The reduced forms (je, ze, we) are used in everyday speech. The full forms (jij, zij, wij) are used for emphasis or contrast: *Jij doet het, niet ik.* ("You do it, not me.")
@@ -26,13 +26,13 @@ And many have two forms: a **full (stressed)** form and a **reduced (unstressed)
 | Person | Form | English |
 |--------|------|---------|
 | 1st sg | **mij / me** | me |
+| 1st pl | **ons** | us |
 | 2nd sg | **jou / je** | you |
 | 2nd formal | **u** | you |
+| 2nd pl | **jullie** | you |
 | 3rd sg masc | **hem** | him |
 | 3rd sg fem | **haar** | her |
 | 3rd sg neuter | **het / 't** | it |
-| 1st pl | **ons** | us |
-| 2nd pl | **jullie** | you |
 | 3rd pl | **hen / hun / ze** | them |
 
 3rd pl - *hen* vs *hun* vs *ze*:
@@ -50,12 +50,11 @@ Dutch uses **zich** for third person and formal second person; other persons use
 | Person | Reflexive | English |
 |--------|-----------|---------|
 | 1st sg | **me / mezelf** | myself |
+| 1st pl | **ons / onszelf** | ourselves |
 | 2nd sg | **je / jezelf** | yourself |
 | 2nd formal | **zich / uzelf** | yourself |
-| 3rd sg | **zich / zichzelf** | himself / herself / itself |
-| 1st pl | **ons / onszelf** | ourselves |
 | 2nd pl | **je / jezelf** | yourselves |
-| 3rd pl | **zich / zichzelf** | themselves |
+| 3rd sg/pl | **zich / zichzelf** | himself / herself / itself / themselves |
 
 > The **-zelf** form adds emphasis: *Hij waste zich.* (He washed himself.) vs. *Hij waste zichzelf.* (He washed himself — emphatic.)
 
@@ -73,10 +72,10 @@ Used to point to or refer back to specific instance of something.
 
 Dutch distinguishes **near** vs. **far** and **de-words** vs. **het-words**.
 
-| | de-word | het-word | English |
+| | de-word | he**t**-word | English |
 |------|---------|----------|---------|
-| Near | **deze** | **dit** | this |
-| Far | **die** | **dat** | that |
+| Near | **deze** | di**t** | this |
+| Far | **die** | da**t** | that |
 
 Examples:
 

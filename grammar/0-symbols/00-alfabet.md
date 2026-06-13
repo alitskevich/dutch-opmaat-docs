@@ -45,7 +45,3 @@ Dutch itself uses very few diacritics — but they appear in loanwords and to di
 | **¨** | trema | "split this vowel from the previous" | België, geïnteresseerd, ruïne, patiënt |
 | **ç** | cedille | French loans | reçu |
 | **ñ** | tilde | Spanish loans | mañana |
-
-Symbols, punctuation, and special characters — and how to **say them aloud** in Dutch.
-
-Knowing the spoken name matters when dictating an email address, a phone number, or a price over the phone.

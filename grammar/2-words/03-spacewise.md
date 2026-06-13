@@ -26,6 +26,7 @@
 | **onder** | under | De kat ligt **onder** de stoel. |
 | **boven** | above | De lamp hangt **boven** de tafel. |
 | **beneden** | below / downstairs ||
+| **dichtbij** , vlakbij | nearby ||
 | **naast** | next to | Hij zit **naast** mij. |
 | **voor** | in front of | Een auto staat **voor** het huis. |
 | **achter** | behind | De tuin ligt **achter** het huis. |

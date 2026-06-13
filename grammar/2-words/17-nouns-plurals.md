@@ -1,6 +1,10 @@
 # Plurals  *(A2)*
 
-Dutch plurals are far more regular than English. Almost every noun takes one of two endings: **-en** (the default) or **-s** (after specific endings). A handful of nouns take **-eren** or change vowel on top of one of those. Once you learn the spelling adjustments that come with -en, you can pluralize most nouns on sight.
+Dutch plurals are far more regular than English.
+
+Almost every noun takes one of two endings: **-en** (the default) or **-s** (after specific endings).
+
+A handful of nouns take **-eren** or change vowel on top of one of those.
 
 > All Dutch plurals are **de-words** in the plural, even if the singular was *het*: *het boek* → *de boeken*.
 

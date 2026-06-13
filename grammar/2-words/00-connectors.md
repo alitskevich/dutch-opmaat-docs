@@ -1,4 +1,3 @@
-
 # Connectors  *(A1)*
 
 ## Associative and logical conjunctions
@@ -23,30 +22,7 @@
 | **tegen** | against / to (someone) | Hij praat **tegen** zijn baas. |
 | **bij** | with / at the home of | Ik woon **bij** mijn ouders. |
 
-### Modality
-
-These colour the whole sentence — they express the speaker's attitude.
-Dutch leans on these heavily, far more than English.
-
-| Dutch | Function | Example |
-|-------|----------|---------|
-| **niet** | negation | *Ik ga **niet** mee.* |
-| **wel** | affirmation, contrast | *Ik ga **wel** mee.* (I am coming along.) |
-| **eigenlijk** | actually | *Dat is **eigenlijk** waar.* |
-| **misschien** (wel) | maybe | *Misschien kom ik later.* |
-| **waarschijnlijk** (wel) | probably | *Hij is **waarschijnlijk** thuis.* |
-| **zeker** | certainly / surely | *Hij komt **zeker**.* |
-| **gewoon** | just / simply | *Doe **gewoon** je werk.* |
-| **toch** | still / anyway / surely | *Je weet het **toch**?* |
-| **even** | even / for a moment | *Wacht **even**.* |
-| **maar** | just (softener) | *Doe het **maar**.* |
-| **eens** | once / sometime (softener) | *Kom **eens** kijken.* |
-| **nou** | well / now (filler) | *Nou, dat is leuk.* |
-| **denk ik** | I think (filler) | Ja, **denk ik**. (Yes, I think so.) |
-| **lijkt me** | seems to me | Dat **lijkt me** goed. (That seems good to me.) |
-| **grotendeels** | largely | Dat is **grotendeels** waar. (That's largely true.) |
-
-### Connectors of Sequence
+## Connectors of Sequence
 
 | Dutch | English | Example |
 |-------|---------|---------|
@@ -59,7 +35,7 @@ Dutch leans on these heavily, far more than English.
 
 > *toen* vs *dan*: both mean "then," but **toen** is only used with past-tense events; **dan** with present/future or sequencing.
 
-### Cause/Effect, Conditions, Examples
+## Cause/Effect, Conditions, Examples
 
 | Dutch | English | Example |
 |-------|---------|---------|

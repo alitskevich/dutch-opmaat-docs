@@ -11,9 +11,7 @@ Knowing the building blocks lets you decode unfamiliar words and conjugate corre
         —            werk           -er            -s        →  werkers
 ```
 
----
-
-## 1. Voorvoegsels (Prefixes)
+## Voorvoegsels (Prefixes)
 
 ### Onscheidbare voorvoegsels (inseparable)
 
@@ -63,9 +61,7 @@ In a main clause, the prefix **detaches** and moves to the end: *Ik **sta** om z
 | **aarts-** | arch-, extreme | **aarts**lui, **aarts**vijand | *extremely lazy*, *arch-enemy* |
 | **oer-** | original, primal | **oer**oud, **oer**woud | *ancient*, *primeval forest* |
 
----
-
-## 2. Achtervoegsels (Suffixes)
+## Achtervoegsels (Suffixes)
 
 Suffixes change a word's **part of speech** or its **shade of meaning**.
 
@@ -100,7 +96,7 @@ Suffixes change a word's **part of speech** or its **shade of meaning**.
 | Suffix | Function | Voorbeeld | English gloss |
 |:------:|:---------|:----------|:--------------|
 | **-en** | infinitive marker | werk**en**, lop**en** | *to work*, *to walk* |
-| **-eren** | from loanwords / nouns | studer**en**, telefoneer**ren** | *to study*, *to call* |
+| **-eren** | from loanwords / nouns | stud**eren**, telefon**eeren** | *to study*, *to call* |
 
 ### Bijwoord-vormend (adverb-forming)
 
@@ -111,78 +107,16 @@ Suffixes change a word's **part of speech** or its **shade of meaning**.
 
 ---
 
-## 3. Verkleinwoorden (Diminutive)
+## Flexies (Inflections)
 
-The diminutive is a hallmark of Dutch — used for size, affection, and even to soften requests (*een biertje, alstublieft*). The base form is **-je**, but the spelling adapts to the final sound of the stem.
+Inflectional endings attach to the very edge of a word and signal **grammatical role**.
 
-| Stem ends in… | Suffix | Voorbeeld | Diminutive |
-|:--------------|:------:|:----------|:-----------|
-| most consonants | **-je** | huis | huis**je** |
-| short vowel + *l, n, r, m* | **-etje** | bal, man, ster | bal**letje**, man**netje**, ster**retje** |
-| long vowel / diphthong + *l, n, r* | **-tje** | stoel, schoen, deur | stoel**tje**, schoen**tje**, deur**tje** |
-| open syllable (long vowel) | **-tje** | auto, oma | auto**tje**, oma**tje** |
-| ending in *-ng* | **-etje** | koning, ring | koning**etje**, ring**etje** |
-| ending in *-m* (long vowel) | **-pje** | boom, raam | boom**pje**, raam**pje** |
-| ending in *-ing* (stress on last) | **-kje** | koning (stress shift) | koninkje |
-
----
-
-## 4. Flexies (Inflections)
-
-Inflectional endings attach to the very edge of a word and signal **grammatical role** — number, tense, person, comparison.
-
-### Naamwoorden — meervoud (noun plurals)
-
-| Ending | Use | Voorbeeld (sg → pl) |
-|:------:|:----|:---------------------|
-| **-en** | default plural | boek → boek**en**, huis → huiz**en** |
-| **-s** | after *-el, -em, -en, -er, -je*, vowels | tafel → tafel**s**, meisje → meisje**s** |
-| **-eren** | small group of neuter nouns | kind → kind**eren**, ei → ei**eren** |
-
-> Plural in *-en* may trigger **stem changes**: final *-s* → *-z* (huis → huizen), final *-f* → *-v* (brief → brieven).
-
-### Bijvoeglijk naamwoord (adjective inflection)
-
-| Form | When | Voorbeeld |
-|:----:|:-----|:----------|
-| **bare stem** | predicative *(after a verb)* | de auto is **groot** |
-| **stem + -e** | attributive *(before a noun)* | de **grote** auto |
-| **bare stem** | attributive + indef. + *het*-word singular | een **groot** huis |
-
-### Werkwoord (verb conjugation — present)
-
-For a regular verb with stem `STAM`:
-
-| Person | Ending | Voorbeeld (*werken*) |
-|:-------|:------:|:---------------------|
-| ik | STAM | ik werk |
-| jij / je | STAM + **-t** | jij werk**t** |
-| jij + inverted | STAM (drops *-t*!) | werk jij? |
-| u / hij / zij / het | STAM + **-t** | hij werk**t** |
-| wij / jullie / zij | STAM + **-en** | wij werk**en** |
-
-### Werkwoord — verleden tijd (past tense)
-
-| Type | Ending | Voorbeeld |
-|:-----|:------:|:----------|
-| zwak — *'t kofschip* (stem ends in *t, k, f, s, ch, p*) | **-te** / **-ten** | werk → werk**te** |
-| zwak — other stems | **-de** / **-den** | leef → leef**de** |
-| sterk — vowel ablaut | stem-vowel change | zing → z**o**ng |
-
-### Voltooid deelwoord (past participle)
-
-| Type | Pattern | Voorbeeld |
-|:-----|:--------|:----------|
-| zwak — *'t kofschip* | ge- + STAM + **-t** | **ge**werk**t** |
-| zwak — other | ge- + STAM + **-d** | **ge**hoor**d** |
-| sterk | ge- + altered stem + **-en** | **ge**lop**en**, **ge**zong**en** |
-| inseparable prefix | (no *ge-*) prefix + STAM + ending | be**taald**, ver**dwenen** |
-| separable prefix | prefix + ge- + stem + ending | op**ge**staan, mee**ge**daan |
-
-### Vergelijking (comparative & superlative)
-
-| Form | Suffix | Voorbeeld |
-|:-----|:------:|:----------|
-| comparative | **-er** | groot → grot**er** |
-| superlative | **-st** | groot → groot**st** |
-| irregular | — | goed → beter → best; veel → meer → meest |
+| Use | Endings |
+|:------:|:----|
+| Naamwoorden — meervoud (noun plurals)| **-en** , **-s** , **-eren** |
+| Naamwoorden — Verkleinwoorden (Diminutive)| **-je** **-etje**, **-tje**, **-pje**, **-kje** |
+| Bijvoeglijk naamwoord (adjective inflection)| **bare stem**, **-e** |
+| Werkwoord (verb conjugation — present)| **bare stem**, **-t**, **-en**, **-eren**|
+| Werkwoord — verleden tijd (past tense)| **-te** / **-ten**, **-de** / **-den**|
+| Voltooid deelwoord (past participle) | **-t** / **-d**, **-en**|
+| Vergelijking (comparative & superlative) | **-er**,**-st** |

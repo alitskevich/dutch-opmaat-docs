@@ -11,9 +11,9 @@ A typical Dutch noun phrase has four slots, in order:
      de             snelle rode      auto      van mijn broer
 ```
 
-- **Determiner**: article, demonstrative, possessive, or quantifier — see [determiners](/#/grammar?doc=2-parts-of-speech/01-noun-determiners.md).
-- **Adjective(s)**: zero or more attributive adjectives, each carrying the -e ending where required — see [adjectives](/#/grammar?doc=2-parts-of-speech/04-adjectives.md).
-- **Noun**: the head, optionally a compound (always written as one word: *huiswerk*, *boekenkast*).
+- **Determiner**: article, demonstrative, possessive, or quantifier .
+- **Adjective(s)**: zero or more attributive adjectives.
+- **Noun**: the head, optionally a compound (always written as one word: *huiswerk*).
 - **Postmodifier**: a prepositional phrase, a relative clause, or both.
 
 Examples:

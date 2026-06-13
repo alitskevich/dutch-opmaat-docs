@@ -14,7 +14,7 @@ The same letter sounds different depending on whether it's followed by one or tw
 | **o** | b**o**s | /ɔ/ | b**oo**t | /oː/ | *"hot"* vs *"boat"* |
 | **u** | b**u**s | /ʏ/ | v**uu**r | /y/ | French *"tu"* (short vs long) |
 
-**Spelling rule:** in a closed syllable (ending in a consonant), a single vowel = short. To make it long, **double the vowel**: *man* → *manen* (one *a*, but the syllable is open) vs *mannen* (double *n* keeps the *a* short).
+> In a closed syllable (ending in a consonant), a single vowel = short. To make it long, **double the vowel**: *man* → *manen* (one *a*, but the syllable is open) vs *mannen* (double *n* keeps the *a* short).
 
 ## Tweeklanken & digraphs
 
@@ -40,9 +40,7 @@ These letter combinations represent **single sounds** that are not predictable f
 
 - **oe** = /u/ as in *"blue"* (e.g. *boek* = book, *moeder* = mother)
 - **ui** = unique Dutch diphthong /œy/, no direct English equivalent (e.g. *huis* = house)
-- **ei / ij** = both /ɛi/, identical pronunciation (e.g. *klein* = small, *wijn* = wine)
-
-> **ei** and **ij** sound **identical**. The only difference is spelling — *ij* is native Dutch, *ei* often comes from older Germanic roots. Dutch children learn to ask "lange ei of korte ei?" when writing.
+- **ei / ij** = both /ɛi/, identical pronunciation (e.g. *klein* = small, *wijn* = wine). The only difference is spelling — *ij* is native Dutch, *ei* often comes from older Germanic roots. Dutch children learn to ask "lange ei of korte ei?" when writing.
 
 ## Consonants
 
