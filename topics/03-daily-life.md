@@ -1,8 +1,8 @@
 # Daily Life
 
-## Groceries & Shopping
+Language for everyday life in the Netherlands.
 
-Language for everyday shopping in the Netherlands: supermarkets, specialty stores, asking for items, comparing prices, and paying.
+## Groceries & Shopping
 
 ### 1. In de Supermarkt — At the Supermarket
 

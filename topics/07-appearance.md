@@ -7,21 +7,21 @@ Het Lichaam — The Body
 | Nederlands | English |
 |------------|---------|
 | Het hoofd | The head |
+| Het been | The leg |
 | De keel | The throat |
 | De buik | The stomach |
 | De rug | The back |
-| Het been | The leg |
 | De arm | The arm |
 
 Uiterlijk — Appearance
 
 | Nederlands | English |
 |------------|---------|
+| Jong / oud | Young / old |
 | Lang / kort | Tall / short |
 | Slank | Slim |
 | Stevig | Sturdy |
 | Knap | Handsome / pretty |
-| Jong / oud | Young / old |
 
 Haar en Ogen — Hair and Eyes
 

@@ -14,15 +14,6 @@
 | tot zo | see you soon |
 | zie je | see you |
 
-## Introducing Myself
-
-| Nederlands | English |
-|------------|---------|
-| Ik heet... | My name is... |
-| Ik kom uit... | I come from... |
-| Ik woon in... | I live in... |
-| Aangenaam kennis te maken | Pleased to meet you |
-
 ## Everyday Expressions
 
 | text | text_en |
@@ -76,38 +67,38 @@
 
 ## Personal information
 
-A handful of formulaic questions cover almost every greeting.
-
-| Dutch | English | Reply |
+| Nederlands | English | Reply |
 |-------|---------|-------|
 | Hoe heet je? | What's your name? | Ik heet … / Mijn naam is … |
-| Waar kom je vandaan? | Where are you from? | Ik kom uit … |
-| Waar woon je? | Where do you live? | Ik woon in … |
-| Wat doe je (voor werk)? | What do you do (for work)? | Ik ben … / Ik werk als … |
-| Hoe oud ben je? | How old are you? | Ik ben … jaar. |
-| Spreek je Engels? | Do you speak English? | Ja, een beetje. |
 | Hoe is je achternaam? | What's your last name? ||
+| Hoe oud ben je? | How old are you? | Ik ben … jaar. |
+| Wat doe je (voor werk)? | What do you do (for work)? | Ik ben … / Ik werk als … |
+| Spreek je Engels? | Do you speak English? | Ja, een beetje. |
+| Waar kom je vandaan? | Where are you from? | Ik kom uit … |
+| Waar woon je nu? | Where do you live? | Ik woon in … |
 | Wat is je adres? | What's your address? ||
 | Wat is je telefoonnummer? | What's your phone number? ||
 | Heb je broers of zussen? | Do you have siblings? ||
 | Heb je kinderen? | Do you have children? ||
 | Wat zijn je hobby's? | What are your hobbies? ||
-| Wat is je lievelings…? | What's your favourite …? ||
+| Wat is je lievelings …? | What's your favourite …? ||
 | Werk je of studeer je? | Do you work or study? ||
 | Hoe lang woon je hier al? | How long have you been living here? ||
+| - |Aangenaam kennis te maken | Pleased to meet you |
 
 ## Jouw huis
 
-- Waar woon je nu?
-- Woon je in een prettige buurt?
-- Hoe groot is je woning?
-- Woon je in een huis of een appartement?
-- Hoeveel kamers heeft je woning?
-- Welke meubels staan in je woning?
-- Ben je tevreden (satisfied) met je woning?
-- Wil je ooit verhuizen?
-- Heb je een tuin of een balkon?
-- Wat wil je veranderen aan je woning?
-- Waar wil je het liefst wonen?
-- Hoe groot is je ideale woning?
-- Hoe ziet je ideale woning eruit?
+| Nederlands | English | Reply |
+|---|---|---|
+| Woon je in een prettige buurt? | Do you live in a nice neighbourhood? | Ja, het is een rustige en groene buurt. |
+| Hoe groot is je woning? | How big is your home? | Mijn woning is ongeveer 70 vierkante meter. |
+| Woon je in een huis of een appartement? | Do you live in a house or an apartment? | Ik woon in een appartement. |
+| Hoeveel kamers heeft je woning? | How many rooms does your home have? | Mijn woning heeft drie kamers. |
+| Welke meubels staan in je woning? | What furniture is in your home? | Een bank, een tafel, een bed en een kast. |
+| Ben je tevreden (satisfied) met je woning? | Are you satisfied with your home? | Ja, ik ben er heel tevreden mee. |
+| Wil je ooit verhuizen? | Do you ever want to move? | Misschien later naar een groter huis. |
+| Heb je een tuin of een balkon? | Do you have a garden or a balcony? | Ik heb een klein balkon. |
+| Wat wil je veranderen aan je woning? | What would you like to change about your home? | Ik wil graag een nieuwe keuken. |
+| Waar wil je het liefst wonen? | Where would you most like to live? | Het liefst woon ik dicht bij het centrum. |
+| Hoe groot is je ideale woning? | How big is your ideal home? | Mijn ideale woning is ongeveer 100 vierkante meter. |
+| Hoe ziet je ideale woning eruit? | What does your ideal home look like? | Een licht huis met een grote tuin. |
