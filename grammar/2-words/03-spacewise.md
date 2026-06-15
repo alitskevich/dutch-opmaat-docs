@@ -2,16 +2,16 @@
 
 ## Locus
 
-| Dutch | English |
-|-------|---------|
-| **hier** | here |
-| **daar** | there |
-| **ergens** | somewhere |
-| **nergens** | nowhere |
-| **overal** | everywhere |
-| **buiten** | outside |
-| **binnen** | inside |
-| **thuis** | at home |
+| Dutch | English | Example |
+|-------|---------|---------|
+| **hier** | here | Ik woon **hier**. (I live here.) |
+| **daar** | there | Kijk, **daar** is de bus. (Look, there is the bus.) |
+| **ergens** | somewhere | Mijn sleutels liggen **ergens** in huis. (My keys are somewhere in the house.) |
+| **nergens** | nowhere | Ik kan mijn telefoon **nergens** vinden. (I can find my phone nowhere.) |
+| **overal** | everywhere | Er ligt **overal** sneeuw. (There is snow everywhere.) |
+| **buiten** | outside | De kinderen spelen **buiten**. (The children play outside.) |
+| **binnen** | inside | Kom maar **binnen**, het regent. (Come inside, it's raining.) |
+| **thuis** | at home | Ik blijf vandaag **thuis**. (I'm staying at home today.) |
 
 > ***In* vs *op***: things sit **in** something with walls (*in een doos*), and **op** flat surfaces (*op tafel*, *op straat*).
 >
@@ -25,8 +25,8 @@
 | **op** | on | De kop staat **op** tafel. |
 | **onder** | under | De kat ligt **onder** de stoel. |
 | **boven** | above | De lamp hangt **boven** de tafel. |
-| **beneden** | below / downstairs ||
-| **dichtbij** , vlakbij | nearby ||
+| **beneden** | below / downstairs | Mijn ouders zijn **beneden**. (My parents are downstairs.) |
+| **dichtbij** , vlakbij | nearby | De winkel is heel **dichtbij**. (The shop is very nearby.) |
 | **naast** | next to | Hij zit **naast** mij. |
 | **voor** | in front of | Een auto staat **voor** het huis. |
 | **achter** | behind | De tuin ligt **achter** het huis. |

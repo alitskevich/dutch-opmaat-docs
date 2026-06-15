@@ -23,20 +23,16 @@ Common mistakes
 
 Once you can build single-tense sentences, the next step is **stitching events into a narrative** — sequencing them in time, distinguishing past habits from past events, and weaving present commentary into past stories. This file covers the connectives, tense shifts, and discourse markers that make natural-sounding Dutch narratives possible.
 
-| Dutch | English |
-|-------|---------|
-| **eerst** | first |
-| **daarna** | then / after that |
-| **vervolgens** | subsequently / next |
-| **toen** | then (at that point) |
-| **even later** | a little later |
-| **uiteindelijk** | eventually |
-| **ten slotte / tenslotte** | finally / lastly |
+| Dutch | English | Example |
+|-------|---------|---------|
+| **eerst** | first | **Eerst** stonden we op. (First we got up.) |
+| **daarna** | then / after that | **Daarna** ontbeten we samen. (After that we had breakfast together.) |
+| **vervolgens** | subsequently / next | **Vervolgens** namen we de fiets naar het station. (Next we took the bike to the station.) |
+| **toen** | then (at that point) | **Toen** ging het licht uit. (Then the light went out.) |
+| **even later** | a little later | **Even later** zaten we al in de trein. (A little later we were already on the train.) |
+| **uiteindelijk** | eventually | **Uiteindelijk** kwamen we aan. (Eventually we arrived.) |
+| **ten slotte / tenslotte** | finally / lastly | **Ten slotte** kwamen we om elf uur in Utrecht aan. (Finally we arrived in Utrecht at eleven.) |
 
-Example narrative:
-
-> ***Eerst** stonden we op. **Daarna** ontbeten we samen. **Vervolgens** namen we de fiets naar het station. **Even later** zaten we al in de trein. **Ten slotte** kwamen we om elf uur in Utrecht aan.*
->
 > Each of these can sit at the start of the clause; remember the **V2 rule** — when an adverb opens, the verb still comes second: *Daarna **ontbeten** we …*.
 
 ---

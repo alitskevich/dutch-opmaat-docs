@@ -3,17 +3,17 @@
 | Dutch | English | Example | Asks for |
 |-------|---------|---------|----------|
 | **wie** | who | **Wie** belt? | Subject |
-| **wat** | what | **Wie** zie je? | Object |
+| **wat** | what | **Wat** zie je? | Object |
 | **welke** | which (de-word) | *Welke trein neem jij?* — Which train are you taking?| a choice|
 | **welk** | which (het-word) | *Welk boek lees je?* — Which book are you reading?| a choice|
-| **wat voor (een)** | what kind of | | a kind / type |
+| **wat voor (een)** | what kind of | **Wat voor** muziek luister je? (What kind of music do you listen to?) | a kind / type |
 | **waar** | where | *Waar woon je?* — Where do you live? | a place|
-| **wanneer** | when | | a time (date / general) |
+| **wanneer** | when | **Wanneer** kom je terug? (When are you coming back?) | a time (date / general) |
 | **hoe** | how |  *Hoe gaat het?* — How are you?| manner / state|
 | **waarom** | why | *Waarom huil je?* — Why are you crying? |a reason|
-| **hoeveel** | how much / how many | | a quantity |
-| **hoelang** | how long | | |
-| **hoe vaak** | how often | | |
+| **hoeveel** | how much / how many | **Hoeveel** kost dit? (How much does this cost?) | a quantity |
+| **hoelang** | how long | **Hoelang** blijf je hier? (How long are you staying here?) | a duration |
+| **hoe vaak** | how often | **Hoe vaak** ga je naar de sportschool? (How often do you go to the gym?) | a frequency |
 
 ## **wie** — people
 
@@ -94,12 +94,12 @@ Doesn't change for gender or number. Works for countable and uncountable:
 
 ## **Wanneer** en **Hoe laat/vaak**
 
-| Dutch | English |
-|-------|---------|
-| **Wanneer** vertrek je? | When are you leaving? |
-| **Hoe laat** begint het? | What time does it start? |
-| **Hoe vaak** ga je sporten? | How often do you exercise? |
-| **Sinds wanneer** woont hij hier? | Since when has he lived here? |
+| Dutch | English | Example |
+|-------|---------|---------|
+| **Wanneer** vertrek je? | When are you leaving? | **Wanneer** vertrek je naar Spanje? (When are you leaving for Spain?) |
+| **Hoe laat** begint het? | What time does it start? | **Hoe laat** begint de film? (What time does the film start?) |
+| **Hoe vaak** ga je sporten? | How often do you exercise? | **Hoe vaak** ga je sporten in de week? (How often do you exercise during the week?) |
+| **Sinds wanneer** woont hij hier? | Since when has he lived here? | **Sinds wanneer** woont hij hier in de stad? (Since when has he lived here in the city?) |
 
 ## Special combinations
 

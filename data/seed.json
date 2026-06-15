@@ -10152,21 +10152,8 @@
       "stem": "kracht"
     },
     {
-      "pos": "noun",
-      "domain": "knowledge",
-      "topic": "script",
-      "level": "b",
       "name": "krant",
-      "name_en": "magazine, newspaper",
-      "similarity": "universal",
-      "id": "p1114",
-      "article": "het",
-      "stem": "tijd",
-      "also": "tijdschrift"
-    },
-    {
-      "name": "krant",
-      "name_en": "newspaper",
+      "name_en": "newspaper, magazine",
       "article": "de",
       "plural": "-en",
       "pos": "noun",
@@ -10176,7 +10163,8 @@
       "id": "p1403",
       "domain": "knowledge",
       "topic": "script",
-      "stem": "krant"
+      "stem": "krant",
+      "also": "tijdschrift"
     },
     {
       "domain": "body",
@@ -10808,18 +10796,6 @@
       "stem": "leeg"
     },
     {
-      "pos": "verb",
-      "domain": "mental",
-      "topic": "acquire",
-      "level": "b",
-      "name": "leeren",
-      "name_en": "learning",
-      "similarity": "soundex",
-      "id": "p1458",
-      "stem": "leer",
-      "also": "leerling"
-    },
-    {
       "pos": "enum",
       "domain": "life",
       "topic": "animals",
@@ -10972,7 +10948,7 @@
       "normalized": 0.4,
       "id": "p1475",
       "stem": "ler",
-      "also": "leraar"
+      "also": "leraar, leerling"
     },
     {
       "pos": "noun",

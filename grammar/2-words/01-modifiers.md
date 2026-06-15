@@ -2,18 +2,18 @@
 
 ## Noun quantifiers
 
-| Dutch | English |
-|-------|---------|
-| **elk / elke** | each, every |
-| **ieder / iedere** | each, every |
-| **alle** | all |
-| **sommige** | some |
-| **veel** | many / much |
-| **weinig** | few / little |
-| **meer** | more |
-| **meest** | most |
-| **genoeg** | enough |
-| **geen** | no / not any |
+| Dutch | English | Example |
+|-------|---------|---------|
+| **elk / elke** | each, every | **Elke** dag lees ik de krant. (Every day I read the newspaper.) |
+| **ieder / iedere** | each, every | **Iedere** ochtend drink ik koffie. (Each morning I drink coffee.) |
+| **alle** | all | **Alle** kinderen spelen buiten. (All the children play outside.) |
+| **sommige** | some | **Sommige** mensen houden niet van kaas. (Some people don't like cheese.) |
+| **veel** | many / much | Er zijn **veel** mensen op het feest. (There are many people at the party.) |
+| **weinig** | few / little | Ik heb **weinig** tijd vandaag. (I have little time today.) |
+| **meer** | more | Ik wil graag **meer** koffie. (I would like more coffee.) |
+| **meest** | most | De **meeste** winkels zijn op zondag dicht. (Most shops are closed on Sunday.) |
+| **genoeg** | enough | We hebben **genoeg** brood voor iedereen. (We have enough bread for everyone.) |
+| **geen** | no / not any | Ik heb **geen** geld bij me. (I have no money on me.) |
 
 > *elk / ieder* take **-e** before de-words: *elke dag* (every day), *elk kind*
 > (every child — het-word, no -e in older style, though *elk(e)* is now often used for both).
@@ -22,35 +22,27 @@
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| **altijd** | always ||
-| **telkens** | everytime ||
+| **altijd** | always | Ik drink **altijd** koffie 's ochtends. (I always drink coffee in the morning.) |
+| **telkens** | everytime | Hij komt **telkens** te laat. (He is late every time.) |
 | **elke** | every day | Ik drink **elke dag** thee. (I drink tea every day.) |
-| **vaak / dikwijls** | often ||
+| **vaak / dikwijls** | often | We gaan **vaak** naar de markt. (We often go to the market.) |
 | **meestal** | usually | **Meestal** fiets ik naar het werk. (I usually cycle to work.) |
 | **soms** | sometimes | **Soms** ga ik met de trein. (Sometimes I take the train.) |
-| **af en toe** | now and then ||
-| **zelden** | rarely ||
-| **bijna nooit** | almost never ||
-| **nooit** | never ||
-
-Position: usually right after the verb, before the object:
-
-- *Ik drink **altijd** koffie 's ochtends.* — I always drink coffee in the morning.
+| **af en toe** | now and then | **Af en toe** eet ik een ijsje. (Now and then I eat an ice cream.) |
+| **zelden** | rarely | Ik ben **zelden** ziek. (I am rarely ill.) |
+| **bijna nooit** | almost never | Hij belt **bijna nooit** op. (He almost never calls.) |
+| **nooit** | never | Ik drink **nooit** alcohol. (I never drink alcohol.) |
 
 ## Degree
 
-| Dutch | English |
-|-------|---------|
-| **te** | too (excessive) |
-| **helemaal** | completely |
-| **bijna** | almost |
-| **heel / erg** | very |
-| **zeer** | very (formal) |
-| **genoeg** | enough |
-| **best** | quite / pretty |
-| **nogal** | rather |
-| **een beetje** | a little |
-
-- *Het is **heel** koud.* — It's very cold.
-- *Dat is **te** duur.* — That's too expensive.
-- *Ik ben **bijna** klaar.* — I'm almost done.
+| Dutch | English | Example |
+|-------|---------|---------|
+| **te** | too (excessive) | Dat is **te** duur. (That's too expensive.) |
+| **helemaal** | completely | Ik ben het **helemaal** vergeten. (I completely forgot it.) |
+| **bijna** | almost | Ik ben **bijna** klaar. (I'm almost done.) |
+| **heel / erg** | very | Het is **heel** koud. (It's very cold.) |
+| **zeer** | very (formal) | Wij zijn **zeer** tevreden. (We are very satisfied.) |
+| **genoeg** | enough | Het is warm **genoeg** vandaag. (It's warm enough today.) |
+| **best** | quite / pretty | De film was **best** goed. (The film was quite good.) |
+| **nogal** | rather | Het is **nogal** druk in de stad. (It's rather busy in town.) |
+| **een beetje** | a little | Ik ben **een beetje** moe. (I'm a little tired.) |

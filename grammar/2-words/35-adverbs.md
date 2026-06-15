@@ -22,39 +22,39 @@ Dutch adverbs fall into a small set of semantic groups. The categories matter be
 
 ### Time
 
-| Dutch | English |
-|-------|---------|
-| nu, dan, toen, straks, meteen | now, then, then-past, soon, right away |
-| vandaag, gisteren, morgen, overmorgen | today, yesterday, tomorrow, day after tomorrow |
-| vaak, soms, altijd, nooit, zelden | often, sometimes, always, never, rarely |
-| al, nog, alweer, pas | already, still/yet, again, only-just |
+| Dutch | English | Example |
+|-------|---------|---------|
+| nu, dan, toen, straks, meteen | now, then, then-past, soon, right away | Ik moet **nu** gaan. (I have to go now.) |
+| vandaag, gisteren, morgen, overmorgen | today, yesterday, tomorrow, day after tomorrow | **Morgen** heb ik vrij. (Tomorrow I'm off.) |
+| vaak, soms, altijd, nooit, zelden | often, sometimes, always, never, rarely | Ik drink **altijd** koffie in de ochtend. (I always drink coffee in the morning.) |
+| al, nog, alweer, pas | already, still/yet, again, only-just | Ben je **al** klaar? (Are you ready already?) |
 
 ### Place
 
-| Dutch | English |
-|-------|---------|
-| hier, daar, ergens, nergens, overal | here, there, somewhere, nowhere, everywhere |
-| binnen, buiten, boven, beneden | inside, outside, upstairs, downstairs |
-| thuis, weg, terug | at home, away, back |
+| Dutch | English | Example |
+|-------|---------|---------|
+| hier, daar, ergens, nergens, overal | here, there, somewhere, nowhere, everywhere | Kom je **hier** wonen? (Are you coming to live here?) |
+| binnen, buiten, boven, beneden | inside, outside, upstairs, downstairs | De kinderen spelen **buiten**. (The children are playing outside.) |
+| thuis, weg, terug | at home, away, back | Ik blijf vanavond **thuis**. (I'm staying home tonight.) |
 
 ### Manner
 
-| Dutch | English |
-|-------|---------|
-| snel, langzaam, goed, slecht | fast, slow, well, badly |
-| samen, alleen | together, alone |
-| graag, liever, het liefst | gladly, rather, most preferably |
+| Dutch | English | Example |
+|-------|---------|---------|
+| snel, langzaam, goed, slecht | fast, slow, well, badly | Hij rijdt te **snel**. (He drives too fast.) |
+| samen, alleen | together, alone | We doen het **samen**. (We do it together.) |
+| graag, liever, het liefst | gladly, rather, most preferably | Ik drink **graag** thee. (I like drinking tea.) |
 
 > *Graag* is one of the most useful Dutch words: *Ik drink **graag** koffie* = "I like drinking coffee."
 
 ### Degree
 
-| Dutch | English |
-|-------|---------|
-| heel, erg, zeer, behoorlijk | very, very/quite, very (formal), considerably |
-| een beetje, nogal, redelijk | a little, rather, fairly |
-| te, zo, helemaal | too, so, completely |
-| bijna, ongeveer, precies | almost, approximately, exactly |
+| Dutch | English | Example |
+|-------|---------|---------|
+| heel, erg, zeer, behoorlijk | very, very/quite, very (formal), considerably | Het is **heel** koud vandaag. (It's very cold today.) |
+| een beetje, nogal, redelijk | a little, rather, fairly | Ik ben **een beetje** moe. (I'm a little tired.) |
+| te, zo, helemaal | too, so, completely | Deze tas is **te** zwaar. (This bag is too heavy.) |
+| bijna, ongeveer, precies | almost, approximately, exactly | We zijn **bijna** thuis. (We're almost home.) |
 
 ### Sentence adverbs (modal particles)
 

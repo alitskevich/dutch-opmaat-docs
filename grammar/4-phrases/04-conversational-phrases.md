@@ -38,7 +38,7 @@
 | Ik hou van … | I love / I'm fond of … | Ik hou van koffie. (I love coffee.) |
 | Ik vind … leuk / niet leuk(saai) | I (don't) like … | Ik vind voetbal leuk. (I like football.) |
 | Ik doe graag … | I like doing … | Ik lees graag in de tuin. (I like reading in the garden.) |
-| Heb je zin in...? | | Do you feel like...? |
+| Heb je zin in...? | Do you feel like...? | Heb je zin in een kopje koffie? (Do you feel like a cup of coffee?) |
 
 > *graag* is an adverb, not a verb — it slots between the conjugated verb and the rest: *Ik drink graag thee*.
 >
@@ -48,11 +48,11 @@
 
 | Dutch | English | Usage |
 |-------|---------|-------|
-| dat klopt | that's correct ||
-| zo is het | that's how it is ||
-| dat mag | that's allowed ||
-| dat kan | that's possible ||
-| dat spreekt | that goes without saying ||
+| dat klopt | that's correct | Ja, dat klopt helemaal. (Yes, that's exactly right.) |
+| zo is het | that's how it is | Tja, zo is het nu eenmaal. (Well, that's just how it is.) |
+| dat mag | that's allowed | Natuurlijk, dat mag. (Of course, that's allowed.) |
+| dat kan | that's possible | Ja hoor, dat kan. (Sure, that's possible.) |
+| dat spreekt | that goes without saying | Dat spreekt vanzelf. (That goes without saying.) |
 | inderdaad | indeed | Inderdaad, dat is waar. (Indeed, that's true.) |
 | natuurlijk | of course | Natuurlijk, ik help je. (Of course, I'll help you.) |
 | natuurlijk wel | of course yes | Natuurlijk wel! (Of course!) |
@@ -69,20 +69,20 @@
 
 ### Polite negation and Hedging Phrases
 
-| Dutch | English |
-|-------|---------|
-| niet echt — not really | *Ik vind het niet echt lekker.* |
-| niet zo — not that… | *Het is niet zo moeilijk.* |
-| niet bepaald — not exactly | *Hij is niet bepaald vriendelijk.* |
-| liever niet — rather not | *Ik wil liever niet gaan.* |
-| ik weet het niet zeker | I'm not sure |
-| het is mogelijk | it's possible |
-| dat zou kunnen | that could be |
-| wie weet | who knows |
-| misschien wel | perhaps indeed |
-| ik denk van wel | I think so |
-| ik hoop van wel | I hope so |
-| ik denk van niet | I don't think so |
+| Dutch | English | Example |
+|-------|---------|---------|
+| niet echt | not really | Ik vind het **niet echt** lekker. (I don't really find it tasty.) |
+| niet zo | not that… | Het is **niet zo** moeilijk. (It's not that difficult.) |
+| niet bepaald | not exactly | Hij is **niet bepaald** vriendelijk. (He is not exactly friendly.) |
+| liever niet | rather not | Ik wil **liever niet** gaan. (I'd rather not go.) |
+| ik weet het niet zeker | I'm not sure | **Ik weet het niet zeker**, vraag het hem maar. (I'm not sure, just ask him.) |
+| het is mogelijk | it's possible | **Het is mogelijk** dat ik later kom. (It's possible that I'll come later.) |
+| dat zou kunnen | that could be | "Komt hij ook?" "**Dat zou kunnen**." ("Is he coming too?" "That could be.") |
+| wie weet | who knows | **Wie weet** zien we elkaar nog eens. (Who knows, maybe we'll meet again.) |
+| misschien wel | perhaps indeed | "Heb je honger?" "**Misschien wel**." ("Are you hungry?" "Perhaps indeed.") |
+| ik denk van wel | I think so | "Komt het goed?" "**Ik denk van wel**." ("Will it be okay?" "I think so.") |
+| ik hoop van wel | I hope so | "Lukt het je?" "**Ik hoop van wel**." ("Will you manage?" "I hope so.") |
+| ik denk van niet | I don't think so | "Regent het morgen?" "**Ik denk van niet**." ("Will it rain tomorrow?" "I don't think so.") |
 
 ### Softener and Polite words
 

@@ -159,7 +159,57 @@ Word of the same class: **"well / come on / oh"**.
 - *Nou ja...* — Well, anyway...
 - *Schiet **nou** op!* — Come on, hurry up!
 
-## Key Insight: Stacking
+## net
+
+A note first: `net` sits slightly **apart** from the previous nine. Those were mood particles (tone, softening). `net` carries **real meaning** — you don't "feel" it, you translate it.
+
+**A. `net` = "just / just now" (time)** — the recent past, seconds or minutes ago.
+
+- *Ik ben **net** thuis.* — I just got home.
+- *Hij is **net** weg.* — He just left.
+- *De trein is **net** vertrokken.* — The train just left.
+
+Clean contrast with `even`:
+
+| Dutch | English | Time |
+|-------|---------|------|
+| Ik ga **even** weg. | I'll step out briefly. | future, short |
+| Ik ben **net** weg(gegaan). | I just left. | past, recent |
+
+**B. `net` = "exactly / just / right"** — emphasis on a precise match.
+
+- ***Net** op tijd.* — Just in time.
+- ***Net** wat ik nodig heb.* — Exactly what I need.
+- *Dat is het **net**.* — That's exactly the point.
+
+Fixed constructions:
+
+- **`net als`** — just like / same as → *Net als gisteren.* — Just like yesterday.
+- **`net zo ... als`** — just as ... as → *Zij is **net zo** slim **als** hij.* — She's just as smart as he is.
+- **`net niet`** — almost / just barely not → *Ik haalde het **net niet**.* — I just barely missed it.
+
+**C. `net` as adjective = "neat / tidy / decent"** (same form, different feel).
+
+- *een **nette** jongen* — a well-behaved boy
+- ***nette** kleren* — decent clothes
+- *Doe **netjes**!* — Behave yourself! (`netjes` = adverb form)
+
+## The "just" trap
+
+ English "just" covers three different Dutch words — the main pitfall:
+
+| English "just" | Dutch | Meaning |
+|----------------|-------|---------|
+| just = quickly | **even** | briefly, for a moment |
+| just = simply | **gewoon** | plainly, without fuss |
+| just = a moment ago | **net** | just now |
+| just = exactly | **net** | precisely, right |
+
+- *Just do it* → **Doe het gewoon.**
+- *Just a sec* → **Even.**
+- *I just got here* → **Ik ben er net.**
+
+## Stacking
 
 The hallmark of fluent, natural speech is **stacking** these particles.
 

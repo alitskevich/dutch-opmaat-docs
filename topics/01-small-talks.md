@@ -2,17 +2,17 @@
 
 ## Begroetingen en Basisuitdrukkingen
 
-| Nederlands | English |
-|------------|---------|
-| Hallo / Hoi | Hello / Hi |
-| Goedemorgen | Good morning |
-| Goedemiddag | Good afternoon |
-| Goedenavond | Good evening |
-| Hoe gaat het (met je)? | How are you? |
-| het gaat wel | it's okay / I'm fine |
-| Tot ziens | Goodbye |
-| tot zo | see you soon |
-| zie je | see you |
+| Nederlands | English | Example |
+|------------|---------|---------|
+| Hallo / Hoi | Hello / Hi | **Hoi** Lisa, hoe is het? (Hi Lisa, how are you?) |
+| Goedemorgen | Good morning | **Goedemorgen** allemaal! (Good morning everyone!) |
+| Goedemiddag | Good afternoon | **Goedemiddag** mevrouw, kan ik u helpen? (Good afternoon madam, can I help you?) |
+| Goedenavond | Good evening | **Goedenavond**, welkom in ons restaurant. (Good evening, welcome to our restaurant.) |
+| Hoe gaat het (met je)? | How are you? | **Hoe gaat het met je** vandaag? (How are you today?) |
+| het gaat wel | it's okay / I'm fine | Niet super, maar **het gaat wel**. (Not great, but I'm okay.) |
+| Tot ziens | Goodbye | **Tot ziens**, fijne dag nog! (Goodbye, have a nice day!) |
+| tot zo | see you soon | Ik ben zo klaar, **tot zo**! (I'm almost done, see you soon!) |
+| zie je | see you | **Zie je** morgen op school. (See you tomorrow at school.) |
 
 ## Everyday Expressions
 
@@ -70,20 +70,20 @@
 | Nederlands | English | Reply |
 |-------|---------|-------|
 | Hoe heet je? | What's your name? | Ik heet … / Mijn naam is … |
-| Hoe is je achternaam? | What's your last name? ||
+| Hoe is je achternaam? | What's your last name? | Mijn achternaam is … |
 | Hoe oud ben je? | How old are you? | Ik ben … jaar. |
 | Wat doe je (voor werk)? | What do you do (for work)? | Ik ben … / Ik werk als … |
 | Spreek je Engels? | Do you speak English? | Ja, een beetje. |
 | Waar kom je vandaan? | Where are you from? | Ik kom uit … |
 | Waar woon je nu? | Where do you live? | Ik woon in … |
-| Wat is je adres? | What's your address? ||
-| Wat is je telefoonnummer? | What's your phone number? ||
-| Heb je broers of zussen? | Do you have siblings? ||
-| Heb je kinderen? | Do you have children? ||
-| Wat zijn je hobby's? | What are your hobbies? ||
-| Wat is je lievelings …? | What's your favourite …? ||
-| Werk je of studeer je? | Do you work or study? ||
-| Hoe lang woon je hier al? | How long have you been living here? ||
+| Wat is je adres? | What's your address? | Ik woon op de … straat, nummer … |
+| Wat is je telefoonnummer? | What's your phone number? | Mijn nummer is 06 … |
+| Heb je broers of zussen? | Do you have siblings? | Ja, ik heb een broer en een zus. / Nee, ik ben enig kind. |
+| Heb je kinderen? | Do you have children? | Ja, ik heb twee kinderen. / Nee, nog niet. |
+| Wat zijn je hobby's? | What are your hobbies? | Ik hou van lezen en fietsen. |
+| Wat is je lievelings …? | What's your favourite …? | Mijn lievelingskleur is blauw. |
+| Werk je of studeer je? | Do you work or study? | Ik werk. / Ik studeer nog. |
+| Hoe lang woon je hier al? | How long have you been living here? | Ik woon hier al twee jaar. |
 | - |Aangenaam kennis te maken | Pleased to meet you |
 
 ## Jouw huis

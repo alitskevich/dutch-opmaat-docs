@@ -9,13 +9,13 @@ It plays four distinct roles.
 
 Used to introduce a new, unspecified noun into the conversation.
 
-| Dutch | English |
-|-------|---------|
-| Er is een probleem. | There is a problem. |
-| Er zijn veel mensen op straat. | There are many people on the street. |
-| Er was eens een koning. | Once upon a time there was a king. |
-| Er is geen melk meer. | There is no milk left. |
-| Er wordt hier niet gerookt. | Smoking is not allowed here. (lit. It is not smoked here.) |
+| Dutch | English | Example |
+|-------|---------|---------|
+| Er is een probleem. | There is a problem. | **Er is** een probleem met mijn computer. (There is a problem with my computer.) |
+| Er zijn veel mensen op straat. | There are many people on the street. | **Er zijn** vandaag veel mensen op straat. (There are many people on the street today.) |
+| Er was eens een koning. | Once upon a time there was a king. | **Er was** eens een koning die in een groot kasteel woonde. (Once upon a time there was a king who lived in a big castle.) |
+| Er is geen melk meer. | There is no milk left. | **Er is** geen melk meer in de koelkast. (There is no milk left in the fridge.) |
+| Er wordt hier niet gerookt. | Smoking is not allowed here. (lit. It is not smoked here.) | In dit restaurant **wordt** niet **gerookt**. (Smoking is not allowed in this restaurant.) |
 
 > Always at or near the start of the sentence.
 >
@@ -25,22 +25,22 @@ Used to introduce a new, unspecified noun into the conversation.
 
 Replaces a place already mentioned. Equivalent to English "there".
 
-| Dutch | English |
-|-------|---------|
-| Ik woon in Amsterdam. Ik woon er al tien jaar. | I've lived there for ten years. |
-| Ben je in Parijs geweest? Ja, ik ben er vorig jaar geweest. | Have you been to Paris? Yes, I was there last year. |
-| Ga je naar de markt? Ik ga er elke zaterdag naartoe. | Do you go to the market? I go there every Saturday. |
+| Dutch | English | Example |
+|-------|---------|---------|
+| Ik woon in Amsterdam. Ik woon er al tien jaar. | I've lived there for ten years. | Ik woon in Amsterdam en ik woon **er** al tien jaar. (I live in Amsterdam and I've lived there for ten years.) |
+| Ben je in Parijs geweest? Ja, ik ben er vorig jaar geweest. | Have you been to Paris? Yes, I was there last year. | Ben je in Parijs geweest? Ja, ik ben **er** vorig jaar geweest. (Have you been to Paris? Yes, I was there last year.) |
+| Ga je naar de markt? Ik ga er elke zaterdag naartoe. | Do you go to the market? I go there every Saturday. | Ga je naar de markt? Ik ga **er** elke zaterdag naartoe. (Do you go to the market? I go there every Saturday.) |
 
 ## Quantitative **er** (of them — with numbers)
 
 When a counted noun is omitted (already known from context), `er` fills its place.
 
-| Dutch | English |
-|-------|---------|
-| Hoeveel appels heb je? — Ik heb er drie. | How many apples do you have? — I have three (of them). |
-| Er zijn er vijf over. | There are five (of them) left. |
-| Ik ken er maar één. | I only know one (of them). |
-| Ze heeft er veel gekocht. | She bought a lot of them. |
+| Dutch | English | Example |
+|-------|---------|---------|
+| Hoeveel appels heb je? — Ik heb er drie. | How many apples do you have? — I have three (of them). | Hoeveel appels heb je? Ik heb **er** drie. (How many apples do you have? I have three of them.) |
+| Er zijn er vijf over. | There are five (of them) left. | Er waren tien koekjes en nu zijn **er** nog vijf over. (There were ten cookies and now there are five of them left.) |
+| Ik ken er maar één. | I only know one (of them). | Van die acteurs ken ik **er** maar één. (Of those actors I only know one of them.) |
+| Ze heeft er veel gekocht. | She bought a lot of them. | De aardbeien waren goedkoop, dus ze heeft **er** veel gekocht. (The strawberries were cheap, so she bought a lot of them.) |
 
 > Note: when `er` is existential AND quantitative together: *Er zijn er vijf.* The first `er` = existential, the second `er` = quantitative.
 

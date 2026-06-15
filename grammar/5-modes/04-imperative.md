@@ -59,12 +59,12 @@ You can stack them: ***Kom** maar eens **binnen**!* — Do come in!
 
 For first-person plural commands ("let's go", "let's eat"), use **laten we** + infinitive.
 
-| Dutch | English |
-|-------|---------|
-| **Laten we** beginnen. | Let's begin. |
-| **Laten we** naar huis gaan. | Let's go home. |
-| **Laten we** een pauze nemen. | Let's take a break. |
-| **Laten we** dat niet doen. | Let's not do that. |
+| Dutch | English | Example |
+|-------|---------|---------|
+| **Laten we** beginnen. | Let's begin. | **Laten we** beginnen, het is al laat. (Let's begin, it's already late.) |
+| **Laten we** naar huis gaan. | Let's go home. | Ik ben moe, **laten we** naar huis gaan. (I'm tired, let's go home.) |
+| **Laten we** een pauze nemen. | Let's take a break. | **Laten we** even een pauze nemen. (Let's take a short break.) |
+| **Laten we** dat niet doen. | Let's not do that. | Nee, **laten we** dat niet doen. (No, let's not do that.) |
 
 ## 6. Negative Imperatives
 
