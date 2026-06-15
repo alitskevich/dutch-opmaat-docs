@@ -21,6 +21,20 @@
 | **pas** | just/only | Ik **pas** aangekomen. (I just arrived.) |
 | **straks** | soon/later today | Ik kom **straks** langs. (I'll stop by soon.) |
 | **zo meteen** | shortly | Ik kom **zo meteen**. (I'm coming shortly.) |
+| **meteen** | right away | Ik kom **meteen**. (I'm coming right away.) |
+| **dan** | then | Eerst eten we, **dan** gaan we weg. (First we eat, then we leave.) |
+| **toen** | then (in the past) | **Toen** was ik nog jong. (Back then I was still young.) |
+| **alweer** | again | Ben je **alweer** te laat? (Are you late again?) |
+
+## Frequency
+
+| Dutch | English | Example |
+|-------|---------|---------|
+| **altijd** | always | Ik drink **altijd** koffie in de ochtend. (I always drink coffee in the morning.) |
+| **vaak** | often | Ik ga **vaak** naar de markt. (I often go to the market.) |
+| **soms** | sometimes | **Soms** regent het. (Sometimes it rains.) |
+| **zelden** | rarely | Hij komt **zelden** op tijd. (He's rarely on time.) |
+| **nooit** | never | Ik ben **nooit** in Parijs geweest. (I've never been to Paris.) |
 
 ## Prepositions of Time
 

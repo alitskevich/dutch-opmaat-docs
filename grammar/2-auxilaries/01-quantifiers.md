@@ -1,4 +1,4 @@
-# Modifiers  *(A2)*
+# Quantifiers  *(A2)*
 
 ## Noun quantifiers
 
@@ -10,8 +10,6 @@
 | **sommige** | some | **Sommige** mensen houden niet van kaas. (Some people don't like cheese.) |
 | **veel** | many / much | Er zijn **veel** mensen op het feest. (There are many people at the party.) |
 | **weinig** | few / little | Ik heb **weinig** tijd vandaag. (I have little time today.) |
-| **meer** | more | Ik wil graag **meer** koffie. (I would like more coffee.) |
-| **meest** | most | De **meeste** winkels zijn op zondag dicht. (Most shops are closed on Sunday.) |
 | **genoeg** | enough | We hebben **genoeg** brood voor iedereen. (We have enough bread for everyone.) |
 | **geen** | no / not any | Ik heb **geen** geld bij me. (I have no money on me.) |
 
@@ -33,7 +31,7 @@
 | **bijna nooit** | almost never | Hij belt **bijna nooit** op. (He almost never calls.) |
 | **nooit** | never | Ik drink **nooit** alcohol. (I never drink alcohol.) |
 
-## Degree
+## Degree and approximation
 
 | Dutch | English | Example |
 |-------|---------|---------|
@@ -46,3 +44,8 @@
 | **best** | quite / pretty | De film was **best** goed. (The film was quite good.) |
 | **nogal** | rather | Het is **nogal** druk in de stad. (It's rather busy in town.) |
 | **een beetje** | a little | Ik ben **een beetje** moe. (I'm a little tired.) |
+| **behoorlijk** | considerably | Het is **behoorlijk** koud vandaag. (It's considerably cold today.) |
+| **redelijk** | fairly | Het was **redelijk** druk. (It was fairly busy.) |
+| **zo** | so | Deze tas is **zo** zwaar. (This bag is so heavy.) |
+| **ongeveer** | approximately | Het duurt **ongeveer** een uur. (It takes approximately an hour.) |
+| **precies** | exactly | Dat is **precies** wat ik bedoel. (That's exactly what I mean.) |

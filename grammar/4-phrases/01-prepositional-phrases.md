@@ -35,22 +35,6 @@ For direction "to", Dutch prefers **naar** with most goals:
 
 > *Naar huis* (going home) is a fixed phrase without an article. Same for *naar bed*, *naar school*, *naar werk*.
 
-## Time prepositions (overview)
-
-| Dutch | English | Example |
-|-------|---------|---------|
-| **om** | at (a clock time) | *om drie uur* |
-| **op** | on (a day or date) | *op maandag, op 5 mei* |
-| **in** | in (a month, year, season) | *in mei, in 2024, in de zomer* |
-| **na** | after | *na het eten* |
-| **voor** | before | *voor de les* |
-| **tijdens** | during | *tijdens de vergadering* |
-| **sinds** | since | *sinds vorig jaar* |
-| **tot** | until | *tot morgen* |
-| **vanaf** | from (onwards) | *vanaf maandag* |
-
-Full treatment with the *half-trap* and date conventions in [timewise](/#/grammar?doc=1-auxiliaries/02-timewise.md).
-
 ## Postpositions and circumpositions
 
 Some Dutch prepositions can sit **after** the noun, especially with motion:

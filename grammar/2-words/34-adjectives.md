@@ -72,15 +72,6 @@ Use *de/het* + adjective + **-ste** in attributive position:
 - *de **kleinste** kamer* — the smallest room
 - *het **grootste** huis* — the biggest house
 
-### Irregular forms
-
-| Positive | Comparative | Superlative |
-|----------|-------------|-------------|
-| **goed** | beter | best |
-| **veel** | meer | meest |
-| **weinig** | minder | minst |
-| **graag** | liever | liefst |
-
 ## 6. Adjectives Used as Nouns
 
 Adding **-e** turns an adjective into a noun referring to a person:
