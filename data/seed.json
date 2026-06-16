@@ -94,10 +94,12 @@
       "stem": "meld"
     },
     {
+      "name": "aanmoedigen",
+      "name_en": "encourage",
+      "id": "p12",
       "domain": "socium",
       "topic": "convince",
       "level": "b",
-      "name": "aanmoedigen",
       "name_nl2": "aanmoediging",
       "tags": "regulat",
       "Sg1": "Ik moedig aan",
@@ -107,26 +109,24 @@
       "PastPl": "Zijn moedigden aan",
       "Perf": "Je hebt aangemoedigd.",
       "adj": "aangemoedigd",
-      "id": "p12",
       "pos": "verb",
-      "name_en": "encourage",
       "similarity": "native",
       "stem": "moed",
       "also": "ontmoedigend"
     },
     {
-      "name": "aannemer",
-      "name_en": "building contractor",
-      "article": "de",
-      "plural": "-s",
-      "pos": "noun",
+      "name": "aannemen",
+      "name_en": "assumes",
+      "pos": "verb",
       "level": "b",
       "normalized": 0.842,
       "similarity": "native",
       "id": "p14",
-      "domain": "socium",
+      "domain": "mental",
       "topic": "common",
-      "stem": "neem"
+      "stem": "neem",
+      "also": "aanneemt",
+      "name_nl2": "aannemer"
     },
     {
       "name": "aanpassen",
@@ -214,10 +214,12 @@
       "stem": "trek"
     },
     {
+      "name": "aanvallen",
+      "name_en": "attack",
+      "id": "p24",
       "domain": "socium",
       "topic": "conflict",
       "level": "a",
-      "name": "aanvallen",
       "name_nl2": "aanval",
       "tags": "regulat",
       "Sg1": "Ik val aan",
@@ -227,9 +229,7 @@
       "PastPl": "Zijn vielen aan",
       "Perf": "Je hebt aangevallen.",
       "adj": "aangevallen",
-      "id": "p24",
       "pos": "verb",
-      "name_en": "attack",
       "similarity": "native",
       "stem": "val"
     },
@@ -248,6 +248,9 @@
     {
       "name": "aanwijzen",
       "name_en": "point out",
+      "id": "p26",
+      "also": "aanwijzingen",
+      "domain": "language",
       "verb1": "wees aan",
       "verb2": "wezen aan",
       "verb3": "heeft aangewezen",
@@ -255,10 +258,9 @@
       "level": "b",
       "normalized": 1,
       "similarity": "native",
-      "id": "p26",
-      "domain": "language",
       "topic": "communicate",
-      "stem": "wijs"
+      "stem": "wijs",
+      "name_nl2": "aanwijzing"
     },
     {
       "pos": "verb",
@@ -348,16 +350,17 @@
       "stem": "accent"
     },
     {
-      "pos": "noun",
-      "domain": "agentic",
+      "pos": "verb",
+      "domain": "mental",
       "topic": "acceptance",
       "level": "b",
-      "name": "acceptatie",
-      "name_en": "acceptance",
+      "name": "accepteren",
+      "name_en": "accepted",
       "similarity": "universal",
       "id": "p36",
-      "article": "de",
-      "stem": "accept"
+      "stem": "accept",
+      "also": "accepteerde, geaccepteerd",
+      "name_nl2": "acceptatie"
     },
     {
       "name": "accountant",
@@ -618,30 +621,6 @@
       "stem": "neem"
     },
     {
-      "domain": "civil",
-      "topic": "deal",
-      "level": "a",
-      "name": "afrekenen",
-      "name_nl2": "afrekening",
-      "tags": "regulat",
-      "Sg1": "Ik reken af",
-      "Sg2": "Hij rekent af",
-      "Pl": "Zijn afrekenend",
-      "PastSg": "Ik rekende af",
-      "PastPl": "Zijn rekenden af",
-      "Perf": "Je hebt afgerekend.",
-      "adj": "afgerekend",
-      "name_en": "pay",
-      "verb1": "rekende af",
-      "verb2": "rekenden af",
-      "verb3": "heeft afgerekend",
-      "pos": "verb",
-      "normalized": 1,
-      "similarity": "native",
-      "id": "p69",
-      "stem": "reken"
-    },
-    {
       "domain": "core",
       "topic": "control",
       "level": "a",
@@ -742,16 +721,17 @@
       "stem": "was"
     },
     {
-      "pos": "noun",
+      "pos": "verb",
       "domain": "agentic",
       "topic": "prevention",
       "level": "c",
-      "name": "afwijzing",
-      "name_en": "rejection",
+      "name": "afwijzen",
+      "name_en": "rejected",
       "similarity": "native",
       "id": "p80",
-      "article": "de",
-      "stem": "wijs"
+      "stem": "wijs",
+      "also": "afgewezen",
+      "name_nl2": "afwijzing"
     },
     {
       "name": "agenda",
@@ -1012,7 +992,7 @@
       "domain": "socium",
       "topic": "common",
       "stem": "arts",
-      "also": "huisarts"
+      "also": "huisarts, dokter"
     },
     {
       "name": "auto",
@@ -1407,17 +1387,6 @@
       "stem": "beer"
     },
     {
-      "pos": "verb",
-      "domain": "body",
-      "topic": "eating",
-      "level": "c",
-      "name": "beet, bijting",
-      "name_en": "bite",
-      "similarity": "native",
-      "id": "p168",
-      "stem": "beet"
-    },
-    {
       "pos": "noun",
       "domain": "core",
       "topic": "group",
@@ -1431,18 +1400,18 @@
       "stem": "beetje"
     },
     {
-      "pos": "noun",
-      "domain": "language",
+      "pos": "verb",
+      "domain": "core",
       "topic": "sequence",
       "level": "u",
-      "name": "begin",
-      "name_en": "beginning, start",
+      "name": "beginnen",
+      "name_en": "to begin",
       "similarity": "native",
-      "article": "het",
-      "plural": null,
       "normalized": 0.688,
       "id": "p171",
-      "stem": "begin"
+      "stem": "begin",
+      "also": "begon, begonnen, begint",
+      "name_nl2": "begin"
     },
     {
       "pos": "noun",
@@ -1455,32 +1424,6 @@
       "id": "p173",
       "article": "de",
       "stem": "begoocheel"
-    },
-    {
-      "pos": "verb",
-      "domain": "mental",
-      "topic": "understanding",
-      "level": "b",
-      "name": "begrijpen",
-      "example": "Jij begrijpt dit voor mij.",
-      "example_en": "You understand this for me.",
-      "name_nl2": "begrip",
-      "tags": "prefix",
-      "Sg1": "Ik begrijp",
-      "Sg2": "Hij begrijpt",
-      "Pl": "Zijn begrijpend",
-      "PastSg": "Ik begreep",
-      "PastPl": "Zijn begrepen",
-      "Perf": "Je hebt begrepen.",
-      "adj": "begrepen",
-      "name_en": "understand",
-      "verb1": "begreep",
-      "verb2": "begrepen",
-      "verb3": "heeft begrepen",
-      "normalized": 0.9,
-      "similarity": "native",
-      "id": "p174",
-      "stem": "grijp"
     },
     {
       "domain": "core",
@@ -1602,7 +1545,8 @@
       "id": "p193",
       "domain": "language",
       "topic": "communicate",
-      "stem": "loof"
+      "stem": "loof",
+      "also": "belofte"
     },
     {
       "name": "beneden",
@@ -1866,10 +1810,12 @@
       "stem": "besef"
     },
     {
+      "name": "beslissen",
+      "name_en": "decide",
+      "id": "p220",
       "domain": "mental",
       "topic": "intellect",
       "level": "a",
-      "name": "beslissen",
       "name_nl2": "beslissing",
       "tags": "regulat",
       "Sg1": "Ik beslis",
@@ -1879,9 +1825,7 @@
       "PastPl": "Zijn beslisten",
       "Perf": "Je hebt beslist.",
       "adj": "beslist",
-      "id": "p220",
       "pos": "verb",
-      "name_en": "decide",
       "similarity": "native",
       "stem": "slis"
     },
@@ -2007,7 +1951,8 @@
       "normalized": 0.857,
       "similarity": "native",
       "id": "p230",
-      "stem": "taal"
+      "stem": "taal",
+      "also": "afrekenen, afrekening"
     },
     {
       "pos": "noun",
@@ -2081,10 +2026,13 @@
       "stem": "beven"
     },
     {
+      "name": "bevestigen",
+      "name_en": "confirm",
+      "id": "p237",
+      "also": "bevel",
       "domain": "socium",
       "topic": "negotiate",
       "level": "b",
-      "name": "bevestigen",
       "name_nl2": "bevestiging",
       "tags": "regulat",
       "Sg1": "Ik bevestig",
@@ -2094,9 +2042,7 @@
       "PastPl": "Zijn bevestigden",
       "Perf": "Je hebt bevestigd.",
       "adj": "bevestigd",
-      "id": "p237",
       "pos": "verb",
-      "name_en": "confirm",
       "similarity": "native",
       "stem": "bevest"
     },
@@ -2272,10 +2218,13 @@
       "also": "hebbelijk"
     },
     {
-      "pos": "verb",
-      "domain": "spatial",
-      "topic": "spatial",
       "name": "bezoeken",
+      "name_en": "visit",
+      "id": "p257",
+      "also": "bewust",
+      "domain": "spatial",
+      "pos": "verb",
+      "topic": "spatial",
       "example": "Jullie bezoeken onze familie in Utrecht.",
       "example_en": "You [plural] visit our family in Utrecht.",
       "level": "a",
@@ -2288,13 +2237,11 @@
       "PastPl": "Zijn bezochten",
       "Perf": "Je hebt bezocht.",
       "adj": "bezoekend",
-      "name_en": "visit",
       "verb1": "bezocht",
       "verb2": "bezochten",
       "verb3": "heeft bezocht",
       "normalized": 1,
       "similarity": "native",
-      "id": "p257",
       "stem": "zoek"
     },
     {
@@ -2349,7 +2296,8 @@
       "pos": "verb",
       "name_en": "influence",
       "similarity": "native",
-      "stem": "vloed"
+      "stem": "vloed",
+      "also": "invloed"
     },
     {
       "domain": "socium",
@@ -2436,7 +2384,8 @@
       "pos": "verb",
       "name_en": "bite",
       "similarity": "soundex",
-      "stem": "bijt"
+      "stem": "bijt",
+      "also": "beet, bijting"
     },
     {
       "name": "bijvoorbeeld",
@@ -2959,7 +2908,8 @@
       "normalized": 1,
       "similarity": "native",
       "id": "p322",
-      "stem": "boos"
+      "stem": "boos",
+      "also": "kwaad"
     },
     {
       "name": "boot",
@@ -3385,7 +3335,8 @@
       "id": "p380",
       "domain": "artifacts",
       "topic": "building",
-      "stem": "café"
+      "stem": "café",
+      "also": "kroeg"
     },
     {
       "name": "cake",
@@ -3525,6 +3476,8 @@
     {
       "name": "combineren",
       "name_en": "combine",
+      "id": "p398",
+      "domain": "agentic",
       "similarity": "soundex",
       "verb1": "combineerde",
       "verb2": "combineerden",
@@ -3532,14 +3485,15 @@
       "pos": "verb",
       "level": "b",
       "normalized": 0.3,
-      "id": "p398",
-      "domain": "agentic",
       "topic": "operation",
-      "stem": "combin"
+      "stem": "combin",
+      "name_nl2": "combinatie"
     },
     {
       "name": "communiceren",
       "name_en": "communicate",
+      "id": "p399",
+      "domain": "language",
       "similarity": "soundex",
       "verb1": "communiceerde",
       "verb2": "communiceerden",
@@ -3547,10 +3501,9 @@
       "pos": "verb",
       "level": "b",
       "normalized": 0.25,
-      "id": "p399",
-      "domain": "language",
       "topic": "communicate",
-      "stem": "commun"
+      "stem": "commun",
+      "name_nl2": "communicatie"
     },
     {
       "pos": "adj",
@@ -4197,20 +4150,6 @@
       "similarity": "native",
       "id": "p682",
       "stem": "dof"
-    },
-    {
-      "name": "dokter",
-      "name_en": "doctor, physician",
-      "similarity": "soundex",
-      "article": "de",
-      "plural": "-s",
-      "pos": "noun",
-      "level": "b",
-      "normalized": 0.765,
-      "id": "p683",
-      "domain": "socium",
-      "topic": "common",
-      "stem": "dokter"
     },
     {
       "name": "dom",
@@ -5225,47 +5164,40 @@
       "stem": "erg"
     },
     {
+      "pos": "verb",
+      "domain": "mental",
+      "topic": "emotion",
+      "level": "b",
       "name": "ergeren",
-      "preposition": "aan",
       "name_en": "be irritated",
       "similarity": "native",
+      "id": "p810",
+      "stem": "erger",
+      "preposition": "aan",
       "verb1": "ergerde zich",
       "verb2": "ergerden zich",
       "verb3": "heeft zich geërgerd",
-      "pos": "verb",
-      "level": "b",
       "normalized": 0.75,
-      "id": "p810",
-      "domain": "mental",
-      "topic": "emotion",
-      "stem": "erger"
+      "name_nl2": "ergernis"
     },
     {
       "pos": "verb",
       "domain": "mental",
-      "topic": "emotion",
-      "level": "c",
-      "name": "ergernis",
-      "name_en": "annoying",
-      "similarity": "native",
-      "id": "p811",
-      "stem": "erger"
-    },
-    {
-      "pos": "noun",
-      "domain": "socium",
       "topic": "recognition",
       "level": "b",
-      "name": "erkenning",
-      "name_en": "recognition",
+      "name": "erkennen",
+      "name_en": "acknowledged",
       "similarity": "native",
       "id": "p812",
-      "article": "de",
-      "stem": "ken"
+      "stem": "ken",
+      "also": "erkende",
+      "name_nl2": "erkenning"
     },
     {
       "name": "ervaren",
       "name_en": "experience",
+      "id": "p815",
+      "domain": "experience",
       "similarity": "native",
       "verb1": "ervoer",
       "verb2": "ervoeren",
@@ -5273,10 +5205,9 @@
       "pos": "verb",
       "level": "a",
       "normalized": 0.6,
-      "id": "p815",
-      "domain": "experience",
       "topic": "perceive",
-      "stem": "vaar"
+      "stem": "vaar",
+      "name_nl2": "ervaring"
     },
     {
       "pos": "noun",
@@ -5334,18 +5265,6 @@
       "name_en": "evaluate",
       "similarity": "soundex",
       "stem": "eval"
-    },
-    {
-      "pos": "noun",
-      "domain": "system",
-      "topic": "systain",
-      "level": "b",
-      "name": "evenwicht",
-      "name_en": "balance",
-      "similarity": "native",
-      "id": "p826",
-      "article": "het",
-      "stem": "evenwicht"
     },
     {
       "name": "examen",
@@ -5978,15 +5897,16 @@
     },
     {
       "pos": "verb",
-      "domain": "agentic",
+      "domain": "socium",
       "topic": "operation",
       "level": "a",
-      "name": "gedrag",
-      "name_en": "performance",
+      "name": "gedragen",
+      "name_en": "behaves",
       "similarity": "native",
       "id": "p900",
       "stem": "drag",
-      "also": "houding, optreden"
+      "also": "gedraagt",
+      "name_nl2": "gedrag"
     },
     {
       "pos": "noun",
@@ -6478,20 +6398,6 @@
       "stem": "gezicht"
     },
     {
-      "name": "gezin, familie",
-      "name_en": "family",
-      "article": "het",
-      "plural": "-nen",
-      "pos": "noun",
-      "level": "b",
-      "normalized": 0.833,
-      "similarity": "native",
-      "id": "p953",
-      "domain": "socium",
-      "topic": "family",
-      "stem": "gezin"
-    },
-    {
       "name": "gezondheid",
       "name_en": "health",
       "similarity": "native",
@@ -6523,7 +6429,8 @@
       "pos": "verb",
       "name_en": "pour",
       "similarity": "native",
-      "stem": "giet"
+      "stem": "giet",
+      "also": "schenken, schenk"
     },
     {
       "pos": "adj",
@@ -6573,19 +6480,8 @@
       "domain": "artifacts",
       "topic": "utensils",
       "level": "b",
-      "stem": "glas"
-    },
-    {
-      "pos": "enum",
-      "domain": "nature",
-      "topic": "substance",
-      "level": "b",
-      "name": "glazen",
-      "name_en": "glass",
-      "similarity": "native",
-      "id": "p965",
-      "article": "het",
-      "stem": "glaz"
+      "stem": "glas",
+      "also": "glazen"
     },
     {
       "domain": "spatial",
@@ -6689,7 +6585,8 @@
       "pos": "verb",
       "name_en": "throw",
       "similarity": "native",
-      "stem": "gooi"
+      "stem": "gooi",
+      "also": "werpen, worp"
     },
     {
       "name": "gootsteen",
@@ -6897,17 +6794,17 @@
       "stem": "gril"
     },
     {
-      "pos": "noun",
-      "domain": "system",
+      "pos": "verb",
+      "domain": "life",
       "topic": "systain",
       "level": "b",
-      "name": "groei",
-      "name_en": "growth",
+      "name": "groeien",
+      "name_en": "grow",
       "similarity": "native",
       "id": "p996",
-      "article": "de",
       "stem": "groei",
-      "also": "opgroeien"
+      "also": "opgroeien",
+      "name_nl2": "groei"
     },
     {
       "pos": "enum",
@@ -7083,18 +6980,17 @@
       "stem": "haas"
     },
     {
-      "pos": "noun",
-      "domain": "system",
+      "pos": "verb",
+      "domain": "agentic",
       "topic": "style",
       "level": "b",
-      "name": "haast",
+      "name": "haasten",
       "name_en": "hurry",
       "similarity": "native",
-      "article": "de",
-      "plural": null,
       "normalized": 0.8,
       "id": "p1014",
-      "stem": "haast"
+      "stem": "haast",
+      "name_nl2": "haast"
     },
     {
       "pos": "enum",
@@ -7163,20 +7059,6 @@
       "stem": "haal"
     },
     {
-      "name": "hals",
-      "name_en": "neck",
-      "article": "de",
-      "plural": "halzen",
-      "pos": "noun",
-      "level": "b",
-      "normalized": 1,
-      "similarity": "universal",
-      "id": "p1021",
-      "domain": "body",
-      "topic": "bodypart",
-      "stem": "hal"
-    },
-    {
       "name": "ham",
       "name_en": "ham",
       "article": "de",
@@ -7219,22 +7101,15 @@
       "stem": "hand"
     },
     {
-      "pos": "noun",
-      "domain": "resource",
-      "topic": "trade",
-      "level": "b",
-      "name": "handel",
-      "name_en": "trade",
-      "similarity": "native",
-      "id": "p1030",
-      "article": "de",
-      "stem": "handel"
-    },
-    {
+      "pos": "verb",
       "domain": "core",
       "topic": "effort",
       "level": "a",
       "name": "handelen",
+      "name_en": "act, trade",
+      "similarity": "native",
+      "id": "p1030",
+      "stem": "handel",
       "name_nl2": "handel",
       "tags": "regulat",
       "Sg1": "Ik handel",
@@ -7243,12 +7118,7 @@
       "PastSg": "Ik handelde",
       "PastPl": "Zijn handelden",
       "Perf": "Je hebt gehandeld.",
-      "adj": "handelend",
-      "id": "p1031",
-      "pos": "verb",
-      "name_en": "act, trade",
-      "similarity": "native",
-      "stem": "handel"
+      "adj": "handelend"
     },
     {
       "pos": "adj",
@@ -7375,7 +7245,8 @@
       "id": "p1042",
       "domain": "mental",
       "topic": "emotion",
-      "stem": "haat"
+      "stem": "haat",
+      "also": "haat"
     },
     {
       "pos": "enum",
@@ -7439,7 +7310,8 @@
       "similarity": "native",
       "normalized": 0.75,
       "id": "p1046",
-      "stem": "heel"
+      "stem": "heel",
+      "also": "zeer"
     },
     {
       "name": "heer",
@@ -7466,7 +7338,8 @@
       "domain": "experience",
       "topic": "taste",
       "article": "de",
-      "stem": "heer"
+      "stem": "heer",
+      "also": "verrukkelijk"
     },
     {
       "pos": "enum",
@@ -7583,10 +7456,12 @@
       "stem": "inner"
     },
     {
+      "name": "herkennen",
+      "name_en": "recognize",
+      "id": "p1066",
       "domain": "mental",
       "topic": "learn",
       "level": "a",
-      "name": "herkennen",
       "preposition": "aan",
       "name_nl2": "herkenning",
       "tags": "prefix",
@@ -7597,9 +7472,7 @@
       "PastPl": "Zijn herkenden",
       "Perf": "Je hebt herkend.",
       "adj": "herkend",
-      "id": "p1066",
       "pos": "verb",
-      "name_en": "recognize",
       "similarity": "native",
       "stem": "ken"
     },
@@ -7618,18 +7491,17 @@
       "stem": "hersen"
     },
     {
-      "pos": "noun",
+      "pos": "verb",
       "domain": "body",
       "topic": "health",
       "level": "b",
-      "name": "herstel",
-      "name_en": "recovery",
+      "name": "herstellen",
+      "name_en": "recover",
       "similarity": "native",
-      "article": "het",
-      "plural": null,
       "normalized": 0.75,
       "id": "p1069",
-      "stem": "stel"
+      "stem": "stel",
+      "name_nl2": "herstel"
     },
     {
       "pos": "enum",
@@ -7666,19 +7538,6 @@
       "normalized": 0.778,
       "id": "p1120",
       "stem": "heet"
-    },
-    {
-      "name": "hetzelfde",
-      "name_en": "the same",
-      "similarity": "native",
-      "pos": "adj",
-      "level": "b",
-      "normalized": 0.778,
-      "id": "p1121",
-      "domain": "core",
-      "topic": "compare",
-      "article": "het",
-      "stem": "zelf"
     },
     {
       "name": "heup",
@@ -7919,7 +7778,8 @@
       "verb3": "heeft gehoopt",
       "normalized": 0.2,
       "id": "p1153",
-      "stem": "hoop"
+      "stem": "hoop",
+      "also": "hoop"
     },
     {
       "pos": "verb",
@@ -8521,8 +8381,11 @@
     },
     {
       "name": "interesseren",
-      "preposition": "voor",
       "name_en": "be interested",
+      "id": "p1227",
+      "also": "interesse",
+      "domain": "mental",
+      "preposition": "voor",
       "similarity": "native",
       "verb1": "interesseerde zich",
       "verb2": "interesseerden zich",
@@ -8530,11 +8393,9 @@
       "pos": "verb",
       "level": "b",
       "normalized": 0.538,
-      "id": "p1227",
-      "domain": "mental",
       "topic": "attitude",
       "stem": "interes",
-      "also": "interesse"
+      "name_nl2": "interesse"
     },
     {
       "domain": "civil",
@@ -8568,18 +8429,6 @@
       "id": "p1234",
       "article": "de",
       "stem": "zet"
-    },
-    {
-      "pos": "noun",
-      "domain": "mental",
-      "topic": "understanding",
-      "level": "b",
-      "name": "inzicht, doorhebben",
-      "name_en": "insight",
-      "similarity": "native",
-      "id": "p1235",
-      "article": "het",
-      "stem": "zicht"
     },
     {
       "domain": "mental",
@@ -9315,17 +9164,6 @@
       "stem": "klaar"
     },
     {
-      "pos": "verb",
-      "domain": "socium",
-      "topic": "negotiate",
-      "level": "b",
-      "name": "klacht",
-      "name_en": "complain",
-      "similarity": "native",
-      "id": "p1325",
-      "stem": "klacht"
-    },
-    {
       "domain": "socium",
       "topic": "negotiate",
       "level": "a",
@@ -9344,7 +9182,8 @@
       "pos": "verb",
       "name_en": "complain",
       "similarity": "native",
-      "stem": "klaag"
+      "stem": "klaag",
+      "also": "klacht"
     },
     {
       "name": "klant",
@@ -9379,20 +9218,6 @@
       "name_en": "clap",
       "similarity": "native",
       "stem": "klap"
-    },
-    {
-      "pos": "verb",
-      "domain": "body",
-      "topic": "behave",
-      "level": "b",
-      "name": "kleding",
-      "name_en": "clothes",
-      "article": "de",
-      "plural": null,
-      "normalized": 0.857,
-      "similarity": "native",
-      "id": "p1333",
-      "stem": "kleding"
     },
     {
       "name": "kleed",
@@ -9470,7 +9295,8 @@
       "id": "p1345",
       "domain": "artifacts",
       "topic": "clothing",
-      "stem": "kleer"
+      "stem": "kleer",
+      "also": "kleding"
     },
     {
       "name": "kletsen",
@@ -9519,7 +9345,8 @@
       "pos": "verb",
       "name_en": "stick",
       "similarity": "native",
-      "stem": "kleef"
+      "stem": "kleef",
+      "also": "plakken"
     },
     {
       "pos": "enum",
@@ -9957,7 +9784,8 @@
       "domain": "artifacts",
       "topic": "utensils",
       "level": "b",
-      "stem": "kop"
+      "stem": "kop",
+      "also": "kopje"
     },
     {
       "pos": "verb",
@@ -10242,20 +10070,6 @@
       "stem": "kring"
     },
     {
-      "name": "kroeg",
-      "name_en": "pub",
-      "article": "de",
-      "plural": "-en",
-      "pos": "noun",
-      "level": "b",
-      "normalized": 1,
-      "similarity": "native",
-      "id": "p1411",
-      "domain": "artifacts",
-      "topic": "building",
-      "stem": "kroeg"
-    },
-    {
       "name": "krop",
       "name_en": "head (of lettuce)",
       "article": "de",
@@ -10346,7 +10160,8 @@
       "id": "p1418",
       "domain": "artifacts",
       "topic": "furniture",
-      "stem": "kruk"
+      "stem": "kruk",
+      "also": "krukje"
     },
     {
       "name": "krullend",
@@ -10469,18 +10284,6 @@
       "stem": "kust"
     },
     {
-      "name": "kwaad",
-      "name_en": "angry",
-      "pos": "adj",
-      "level": "b",
-      "normalized": 1,
-      "similarity": "native",
-      "id": "p1428",
-      "domain": "mental",
-      "topic": "emotion",
-      "stem": "kwaad"
-    },
-    {
       "pos": "noun",
       "domain": "core",
       "topic": "compare",
@@ -10533,21 +10336,6 @@
       "id": "p1432",
       "article": "de",
       "stem": "kwets"
-    },
-    {
-      "name": "kwijtraken",
-      "name_en": "lose",
-      "verb1": "raakte kwijt",
-      "verb2": "raakten kwijt",
-      "verb3": "is kwijtgeraakt",
-      "pos": "verb",
-      "level": "b",
-      "normalized": 0.9,
-      "similarity": "native",
-      "id": "p1433",
-      "domain": "agentic",
-      "topic": "operation",
-      "stem": "raak"
     },
     {
       "name": "laag",
@@ -11103,7 +10891,8 @@
       "id": "p1493",
       "domain": "culture",
       "topic": "arts",
-      "stem": "lied"
+      "stem": "lied",
+      "also": "liedje, liedjes"
     },
     {
       "name": "lief",
@@ -12377,7 +12166,8 @@
       "normalized": 0,
       "similarity": "universal",
       "id": "p1630",
-      "stem": "moment"
+      "stem": "moment",
+      "also": "ogenblik"
     },
     {
       "name": "mond",
@@ -12695,7 +12485,8 @@
       "domain": "body",
       "topic": "headparts",
       "level": "b",
-      "stem": "nek"
+      "stem": "nek",
+      "also": "hals"
     },
     {
       "pos": "verb",
@@ -12885,18 +12676,6 @@
       "stem": "noem"
     },
     {
-      "pos": "noun",
-      "domain": "system",
-      "topic": "potention",
-      "level": "b",
-      "name": "noodlot",
-      "name_en": "fate",
-      "similarity": "native",
-      "id": "p1700",
-      "article": "het",
-      "stem": "nood"
-    },
-    {
       "pos": "adj",
       "domain": "language",
       "topic": "compare",
@@ -13016,10 +12795,12 @@
       "stem": "ochtend"
     },
     {
+      "name": "oefenen",
+      "name_en": "practise, to exercise",
+      "id": "p1717",
       "domain": "core",
       "topic": "effort",
       "level": "a",
-      "name": "oefenen",
       "name_nl2": "oefening",
       "tags": "regulat",
       "Sg1": "Ik oefen",
@@ -13029,29 +12810,13 @@
       "PastPl": "Zijn oefenden",
       "Perf": "Je hebt geoefend.",
       "adj": "geoefend",
-      "name_en": "practise, to exercise",
       "verb1": "oefende",
       "verb2": "oefenden",
       "verb3": "heeft geoefend",
       "pos": "verb",
       "normalized": 0.857,
       "similarity": "native",
-      "id": "p1717",
       "stem": "oefen"
-    },
-    {
-      "name": "ogenblik",
-      "name_en": "moment",
-      "similarity": "native",
-      "article": "het",
-      "plural": "-ken",
-      "pos": "noun",
-      "level": "b",
-      "normalized": 0.75,
-      "id": "p1720",
-      "domain": "system",
-      "topic": "occurence",
-      "stem": "ogenblik"
     },
     {
       "name": "olie",
@@ -13280,7 +13045,8 @@
       "pos": "verb",
       "name_en": "support",
       "similarity": "native",
-      "stem": "steun"
+      "stem": "steun",
+      "also": "steun"
     },
     {
       "name": "onderweg",
@@ -13296,39 +13062,17 @@
       "stem": "weg"
     },
     {
-      "domain": "socium",
-      "topic": "cooperate",
-      "level": "a",
-      "name": "onderwijzen",
-      "name_nl2": "onderwijs",
-      "tags": "regulat",
-      "Sg1": "Ik onderwijs",
-      "Sg2": "Hij onderwijst",
-      "Pl": "Zijn onderwijzend",
-      "PastSg": "Ik onderwees",
-      "PastPl": "Zijn onderwezen",
-      "Perf": "Je hebt onderwezen.",
-      "adj": "onderwezen",
-      "id": "p1753",
       "pos": "verb",
-      "name_en": "teach",
-      "similarity": "native",
-      "stem": "wijs",
-      "also": "onderwijs"
-    },
-    {
-      "pos": "noun",
-      "domain": "mental",
+      "domain": "knowledge",
       "topic": "acquire",
       "level": "b",
-      "name": "onderzoek",
-      "name_en": "research; investigation",
-      "article": "het",
-      "plural": "-en",
+      "name": "onderzoeken",
+      "name_en": "investigate",
       "normalized": 0.87,
       "similarity": "native",
       "id": "p1754",
-      "stem": "zoek"
+      "stem": "zoek",
+      "name_nl2": "onderzoek"
     },
     {
       "name": "ongeveer",
@@ -13449,10 +13193,12 @@
       "stem": "moet"
     },
     {
+      "name": "ontspannen",
+      "name_en": "relax",
+      "id": "p1775",
       "domain": "experience",
       "topic": "emotion",
       "level": "a",
-      "name": "ontspannen",
       "name_nl2": "ontspanning",
       "tags": "regulat",
       "Sg1": "Ik ontspan",
@@ -13462,9 +13208,7 @@
       "PastPl": "Zijn ontspanden",
       "Perf": "Je hebt ontspannen.",
       "adj": "ontspannend",
-      "id": "p1775",
       "pos": "verb",
-      "name_en": "relax",
       "similarity": "native",
       "stem": "span"
     },
@@ -13530,10 +13274,12 @@
       "stem": "werp"
     },
     {
+      "name": "ontwikkelen",
+      "name_en": "develop",
+      "id": "p1784",
       "domain": "core",
       "topic": "produce",
       "level": "b",
-      "name": "ontwikkelen",
       "name_nl2": "ontwikkeling",
       "tags": "regulat",
       "Sg1": "Ik ontwikkel",
@@ -13543,14 +13289,12 @@
       "PastPl": "Zijn ontwikkelden",
       "Perf": "Je hebt ontwikkeld.",
       "adj": "ontwikkeld",
-      "name_en": "develop",
       "verb1": "ontwikkelde zich",
       "verb2": "ontwikkelden zich",
       "verb3": "heeft zich ontwikkeld",
       "pos": "verb",
       "normalized": 0.818,
       "similarity": "native",
-      "id": "p1784",
       "stem": "wikkel"
     },
     {
@@ -13801,10 +13545,13 @@
       "stem": "leid"
     },
     {
+      "name": "oplossen",
+      "name_en": "solve, dissolve",
+      "id": "p1819",
+      "also": "oplossingen",
       "domain": "mental",
       "topic": "intellect",
       "level": "a",
-      "name": "oplossen",
       "name_nl2": "oplossing",
       "tags": "regulat",
       "Sg1": "Ik los op",
@@ -13814,9 +13561,7 @@
       "PastPl": "Zijn losten op",
       "Perf": "Je hebt opgelost.",
       "adj": "opgelost",
-      "id": "p1819",
       "pos": "verb",
-      "name_en": "solve, dissolve",
       "similarity": "native",
       "stem": "los"
     },
@@ -14028,18 +13773,18 @@
       "stem": "val"
     },
     {
-      "name": "opvoeding",
-      "name_en": "education",
-      "article": "de",
-      "plural": null,
-      "pos": "noun",
+      "name": "opvoeden",
+      "name_en": "raised",
+      "pos": "verb",
       "level": "b",
       "normalized": 0.889,
       "similarity": "native",
       "id": "p1839",
-      "domain": "knowledge",
+      "domain": "socium",
       "topic": "knowledge",
-      "stem": "voed"
+      "stem": "voed",
+      "also": "opgevoed, grootbrengen, grootgebracht",
+      "name_nl2": "opvoeding"
     },
     {
       "domain": "experience",
@@ -14102,24 +13847,16 @@
       "stem": "orde"
     },
     {
-      "name": "organisatie",
-      "name_en": "organisation",
-      "article": "de",
-      "plural": "-s",
-      "pos": "noun",
+      "name": "organiseren",
+      "name_en": "organise",
+      "pos": "verb",
       "level": "b",
-      "normalized": 0.167,
-      "similarity": "universal",
+      "normalized": 0.273,
+      "similarity": "soundex",
       "id": "p1845",
-      "domain": "civil",
-      "topic": "business",
-      "stem": "organ"
-    },
-    {
       "domain": "core",
       "topic": "control",
-      "level": "b",
-      "name": "organiseren",
+      "stem": "organ",
       "name_nl2": "organisatie",
       "tags": "regulat",
       "Sg1": "Ik organiseer",
@@ -14129,15 +13866,9 @@
       "PastPl": "Zijn organiseerden",
       "Perf": "Je hebt georganiseerd.",
       "adj": "georganiseerd",
-      "name_en": "organise",
-      "similarity": "soundex",
       "verb1": "organiseerde",
       "verb2": "organiseerden",
-      "verb3": "heeft georganiseerd",
-      "pos": "verb",
-      "normalized": 0.273,
-      "id": "p1846",
-      "stem": "organ"
+      "verb3": "heeft georganiseerd"
     },
     {
       "pos": "enum",
@@ -14234,20 +13965,6 @@
       "stem": "eenkomst"
     },
     {
-      "name": "overhemd",
-      "name_en": "shirt",
-      "article": "het",
-      "plural": "-en",
-      "pos": "noun",
-      "level": "b",
-      "normalized": 0.875,
-      "similarity": "native",
-      "id": "p1861",
-      "domain": "artifacts",
-      "topic": "clothing",
-      "stem": "hemd"
-    },
-    {
       "name": "overkant",
       "name_en": "other side, opposite side",
       "article": "de",
@@ -14280,21 +13997,6 @@
       "name_en": "happen to",
       "similarity": "native",
       "stem": "koom"
-    },
-    {
-      "name": "overlijden",
-      "name_en": "die",
-      "similarity": "native",
-      "verb1": "overleed",
-      "verb2": "overleden",
-      "verb3": "is overleden",
-      "pos": "verb",
-      "level": "b",
-      "normalized": 0.8,
-      "id": "p1866",
-      "domain": "life",
-      "topic": "species",
-      "stem": "lijd"
     },
     {
       "name": "overstappen",
@@ -14658,18 +14360,18 @@
       "stem": "patron"
     },
     {
-      "name": "pauze",
-      "name_en": "break, interval",
-      "article": "de",
-      "plural": "-s",
-      "pos": "noun",
+      "name": "pauzeren",
+      "name_en": "pause",
+      "pos": "verb",
       "level": "b",
       "normalized": 0.867,
       "similarity": "universal",
       "id": "p1906",
-      "domain": "system",
+      "domain": "core",
       "topic": "timeline",
-      "stem": "pauz"
+      "stem": "pauz",
+      "also": "pauzeer",
+      "name_nl2": "pauze"
     },
     {
       "name": "peer",
@@ -14887,15 +14589,14 @@
       "domain": "agentic",
       "topic": "solution",
       "level": "b",
-      "name": "plan",
-      "name_en": "plan",
-      "article": "het",
-      "plural": "plannen",
+      "name": "plannen",
+      "name_en": "to plan",
       "normalized": 0,
       "similarity": "same",
       "id": "p1939",
       "stem": "plan",
-      "also": "plattegrond"
+      "also": "gepland",
+      "name_nl2": "plan"
     },
     {
       "pos": "enum",
@@ -15095,18 +14796,17 @@
       "stem": "positief"
     },
     {
-      "name": "post",
+      "name": "posten",
       "name_en": "post",
-      "article": "de",
-      "plural": null,
-      "pos": "noun",
+      "pos": "verb",
       "level": "b",
       "normalized": 0,
       "similarity": "universal",
       "id": "p1966",
       "domain": "language",
       "topic": "communicate",
-      "stem": "post"
+      "stem": "post",
+      "name_nl2": "post"
     },
     {
       "name": "postbode",
@@ -16100,16 +15800,17 @@
       "stem": "retour"
     },
     {
-      "pos": "noun",
-      "domain": "spatial",
+      "pos": "verb",
+      "domain": "agentic",
       "topic": "direction",
       "level": "b",
-      "name": "richting",
-      "name_en": "direction",
+      "name": "richten",
+      "name_en": "aims",
       "similarity": "native",
       "id": "p2062",
-      "article": "de",
-      "stem": "richt"
+      "stem": "richt",
+      "also": "richt",
+      "name_nl2": "richting"
     },
     {
       "pos": "enum",
@@ -16352,16 +16053,17 @@
     },
     {
       "pos": "verb",
-      "domain": "socium",
+      "domain": "language",
       "topic": "talk",
       "level": "b",
-      "name": "roep",
-      "name_en": "call",
+      "name": "roepen",
+      "name_en": "called",
       "similarity": "native",
       "id": "p2080",
       "parent": "p2081",
       "stem": "roep",
-      "also": "omroeper"
+      "also": "riep",
+      "name_nl2": "roep"
     },
     {
       "domain": "civil",
@@ -16413,20 +16115,6 @@
       "stem": "rook"
     },
     {
-      "name": "rol",
-      "name_en": "roll",
-      "similarity": "universal",
-      "article": "de",
-      "plural": "-len",
-      "pos": "noun",
-      "level": "b",
-      "normalized": 0.25,
-      "id": "p2085",
-      "domain": "artifacts",
-      "topic": "tool",
-      "stem": "rol"
-    },
-    {
       "domain": "spatial",
       "topic": "transform",
       "level": "b",
@@ -16445,7 +16133,8 @@
       "name_en": "roll",
       "similarity": "soundex",
       "stem": "rol",
-      "also": ""
+      "also": "rol",
+      "normalized": 0.25
     },
     {
       "pos": "adj",
@@ -16609,19 +16298,18 @@
       "stem": "ruim"
     },
     {
-      "pos": "noun",
-      "domain": "system",
+      "pos": "verb",
+      "domain": "body",
       "topic": "style",
       "level": "b",
-      "name": "rust",
+      "name": "rusten",
       "name_en": "rest",
       "similarity": "native",
-      "article": "de",
-      "plural": null,
       "normalized": 0.25,
       "id": "p2106",
       "stem": "rust",
-      "also": "uitrusten"
+      "also": "uitrusten",
+      "name_nl2": "rust"
     },
     {
       "pos": "adj",
@@ -16787,10 +16475,12 @@
       "stem": "schat"
     },
     {
+      "name": "scheiden",
+      "name_en": "separate, divorce",
+      "id": "p2125",
       "domain": "core",
       "topic": "thing",
       "level": "a",
-      "name": "scheiden",
       "preposition": "van",
       "name_nl2": "scheiding",
       "tags": "mix2",
@@ -16801,9 +16491,7 @@
       "PastPl": "Zijn scheidden",
       "Perf": "Je hebt gescheiden.",
       "adj": "gescheiden",
-      "id": "p2125",
       "pos": "verb",
-      "name_en": "separate, divorce",
       "similarity": "native",
       "stem": "scheid"
     },
@@ -17403,7 +17091,8 @@
       "domain": "artifacts",
       "topic": "clothing",
       "level": "b",
-      "stem": "shirt"
+      "stem": "shirt",
+      "also": "overhemd"
     },
     {
       "name": "simpel",
@@ -17493,18 +17182,6 @@
       "name_en": "hit, strike",
       "similarity": "native",
       "stem": "slaan"
-    },
-    {
-      "pos": "verb",
-      "domain": "agentic",
-      "topic": "result",
-      "level": "b",
-      "name": "slag, succes",
-      "name_en": "success",
-      "similarity": "native",
-      "id": "p2200",
-      "stem": "slaag",
-      "also": "slaagden"
     },
     {
       "name": "slagen",
@@ -17818,7 +17495,8 @@
       "pos": "verb",
       "normalized": 0.8,
       "id": "p2226",
-      "stem": "snap"
+      "stem": "snap",
+      "also": "begrijpen, begrip, verstaan, verstand"
     },
     {
       "pos": "enum",
@@ -18046,10 +17724,12 @@
       "stem": "spel"
     },
     {
-      "pos": "verb",
-      "domain": "agentic",
-      "topic": "common",
       "name": "spelen",
+      "name_en": "play",
+      "id": "p2251",
+      "domain": "agentic",
+      "pos": "verb",
+      "topic": "common",
       "example": "De kinderen spelen in onze tuin.",
       "example_en": "The children play in our garden.",
       "level": "a",
@@ -18062,13 +17742,11 @@
       "PastPl": "Zijn speelden",
       "Perf": "Je hebt gespeeld.",
       "adj": "spelend",
-      "name_en": "play",
       "similarity": "universal",
       "verb1": "speelde",
       "verb2": "speelde",
       "verb3": "heeft gespeeld",
       "normalized": 0.667,
-      "id": "p2251",
       "stem": "spel"
     },
     {
@@ -18738,7 +18416,9 @@
       "pos": "verb",
       "name_en": "die",
       "similarity": "native",
-      "stem": "sterf"
+      "stem": "sterf",
+      "also": "overlijden",
+      "normalized": 0.8
     },
     {
       "name": "stevig",
@@ -19028,30 +18708,6 @@
       "stem": "stream"
     },
     {
-      "domain": "spatial",
-      "topic": "transform",
-      "level": "b",
-      "name": "strekken",
-      "name_nl2": "strekking",
-      "tags": "regulat",
-      "Sg1": "Ik strek",
-      "Sg2": "Hij strekt",
-      "Pl": "Zijn strekkend",
-      "PastSg": "Ik strekte",
-      "PastPl": "Zijn strekten",
-      "Perf": "Je hebt gestrekt.",
-      "adj": "strekkend",
-      "name_en": "stretch",
-      "similarity": "native",
-      "verb1": "strekte",
-      "verb2": "strekten",
-      "verb3": "heeft gestrekt",
-      "pos": "verb",
-      "normalized": 0.5,
-      "id": "p2334",
-      "stem": "strek"
-    },
-    {
       "domain": "experience",
       "topic": "emotion",
       "level": "c",
@@ -19283,18 +18939,6 @@
     },
     {
       "pos": "noun",
-      "domain": "agentic",
-      "topic": "solution",
-      "level": "b",
-      "name": "taak, opdracht",
-      "name_en": "task",
-      "similarity": "native",
-      "id": "p2362",
-      "article": "de",
-      "stem": "taak"
-    },
-    {
-      "pos": "noun",
       "domain": "knowledge",
       "topic": "language",
       "level": "a",
@@ -19428,7 +19072,8 @@
       "id": "p2376",
       "domain": "artifacts",
       "topic": "accessories",
-      "stem": "tas"
+      "stem": "tas",
+      "also": "zak"
     },
     {
       "pos": "noun",
@@ -19811,20 +19456,6 @@
       "stem": "tocht"
     },
     {
-      "name": "toegang, ingang",
-      "name_en": "entrance",
-      "similarity": "native",
-      "article": "de",
-      "plural": "-en",
-      "pos": "noun",
-      "level": "b",
-      "normalized": 0.75,
-      "id": "p2429",
-      "domain": "spatial",
-      "topic": "place",
-      "stem": "gang"
-    },
-    {
       "name": "toekomst",
       "name_en": "future",
       "article": "de",
@@ -19836,7 +19467,8 @@
       "id": "p2430",
       "domain": "system",
       "topic": "timeline",
-      "stem": "komst"
+      "stem": "komst",
+      "also": "toekomstig"
     },
     {
       "name": "toenemen",
@@ -20422,18 +20054,17 @@
     },
     {
       "pos": "verb",
-      "domain": "socium",
+      "domain": "language",
       "topic": "negotiate",
       "level": "c",
-      "name": "uitleg",
-      "name_en": "explanation",
-      "article": "de",
-      "plural": null,
+      "name": "uitleggen",
+      "name_en": "to explain",
       "normalized": 0.909,
       "similarity": "native",
       "id": "p2495",
       "parent": "p2496",
-      "stem": "leeg"
+      "stem": "leeg",
+      "name_nl2": "uitleg"
     },
     {
       "domain": "core",
@@ -20456,10 +20087,12 @@
       "stem": "len"
     },
     {
+      "name": "uitnodigen",
+      "name_en": "invite",
+      "id": "p2498",
       "domain": "socium",
       "topic": "convince",
       "level": "a",
-      "name": "uitnodigen",
       "preposition": "voor",
       "name_nl2": "uitnodiging",
       "tags": "regulat",
@@ -20470,14 +20103,12 @@
       "PastPl": "Zijn nodigden uit",
       "Perf": "Je hebt uitgenodigd.",
       "adj": "uitgenodigd",
-      "name_en": "invite",
       "similarity": "native",
       "verb1": "nodigde uit",
       "verb2": "nodigden uit",
       "verb3": "heeft uitgenodigd",
       "pos": "verb",
       "normalized": 0.6,
-      "id": "p2498",
       "stem": "nodig"
     },
     {
@@ -20665,7 +20296,8 @@
       "similarity": "native",
       "id": "p2522",
       "article": "de",
-      "stem": "vaard"
+      "stem": "vaard",
+      "also": "vaardigheid, vaardigheden"
     },
     {
       "pos": "verb",
@@ -21268,7 +20900,8 @@
       "similarity": "native",
       "normalized": 0.778,
       "id": "p2592",
-      "stem": "lies"
+      "stem": "lies",
+      "also": "kwijtraken"
     },
     {
       "pos": "noun",
@@ -21337,10 +20970,13 @@
       "stem": "kundig"
     },
     {
+      "name": "verrassen",
+      "name_en": "surprise",
+      "id": "p2603",
+      "also": "verrassingen",
       "domain": "experience",
       "topic": "emotion",
       "level": "a",
-      "name": "verrassen",
       "name_nl2": "verrassing",
       "tags": "regulat",
       "Sg1": "Ik verras",
@@ -21350,23 +20986,9 @@
       "PastPl": "Zijn verrasten",
       "Perf": "Je hebt verrast.",
       "adj": "verrassend",
-      "id": "p2603",
       "pos": "verb",
-      "name_en": "surprise",
       "similarity": "native",
       "stem": "verras"
-    },
-    {
-      "name": "verrukkelijk",
-      "name_en": "delicious, very nice",
-      "similarity": "native",
-      "pos": "verb",
-      "level": "b",
-      "normalized": 0.8,
-      "id": "p2606",
-      "domain": "experience",
-      "topic": "taste",
-      "stem": "rukk"
     },
     {
       "pos": "enum",
@@ -21446,30 +21068,6 @@
       "name_en": "waste",
       "similarity": "native",
       "stem": "spiil"
-    },
-    {
-      "domain": "mental",
-      "topic": "learn",
-      "level": "a",
-      "name": "verstaan",
-      "name_nl2": "verstand",
-      "tags": "prefix",
-      "Sg1": "Ik versta",
-      "Sg2": "Hij verstaat",
-      "Pl": "Zijn verstaand",
-      "PastSg": "Ik verstond",
-      "PastPl": "Zijn verstonden",
-      "Perf": "Je hebt verstaan.",
-      "adj": "verstaan",
-      "name_en": "understand",
-      "similarity": "universal",
-      "verb1": "verstond",
-      "verb2": "verstonden",
-      "verb3": "heeft verstaan",
-      "pos": "verb",
-      "normalized": 0.5,
-      "id": "p2616",
-      "stem": "staan"
     },
     {
       "name": "verstoppen",
@@ -22132,10 +21730,13 @@
       "also": "volledig, helemaal"
     },
     {
+      "name": "volgen",
+      "name_en": "follow",
+      "id": "p2682",
+      "also": "vervolgens",
       "domain": "core",
       "topic": "flow",
       "level": "a",
-      "name": "volgen",
       "name_nl2": "volging",
       "tags": "regulat",
       "Sg1": "Ik volg",
@@ -22145,16 +21746,13 @@
       "PastPl": "Zijn volgden",
       "Perf": "Je hebt gevolgd.",
       "adj": "volgend, gevolgd",
-      "name_en": "follow",
       "similarity": "native",
       "verb1": "volgde",
       "verb2": "volgden",
       "verb3": "heeft gevolgd",
       "pos": "verb",
       "normalized": 0.667,
-      "id": "p2682",
-      "stem": "volg",
-      "also": "vervolgens"
+      "stem": "volg"
     },
     {
       "name": "volgorde",
@@ -22426,17 +22024,17 @@
       "stem": "vork"
     },
     {
-      "pos": "noun",
-      "domain": "core",
+      "pos": "verb",
+      "domain": "system",
       "topic": "pattern",
       "level": "b",
-      "name": "vorm",
-      "name_en": "form",
+      "name": "vormen",
+      "name_en": "to form",
       "similarity": "universal",
       "id": "p2713",
-      "article": "de",
       "stem": "vorm",
-      "also": " vormvast, vervormbaar"
+      "also": " vormvast, vervormbaar",
+      "name_nl2": "vorm"
     },
     {
       "pos": "enum",
@@ -22724,16 +22322,17 @@
       "stem": "waard"
     },
     {
-      "pos": "noun",
+      "pos": "verb",
       "domain": "mental",
       "topic": "attitude",
       "level": "c",
-      "name": "waardering",
-      "name_en": "appreciation",
+      "name": "waarderen",
+      "name_en": "to appreciate",
       "similarity": "native",
       "id": "p2745",
-      "article": "de",
-      "stem": "waard"
+      "stem": "waard",
+      "also": "waardeer, gewaardeerd",
+      "name_nl2": "waardering"
     },
     {
       "pos": "noun",
@@ -22827,10 +22426,12 @@
       "also": "ontwaken"
     },
     {
+      "name": "wandelen",
+      "name_en": "go for a walk",
+      "id": "p2758",
       "domain": "spatial",
       "topic": "move",
       "level": "a",
-      "name": "wandelen",
       "name_nl2": "wandeling",
       "tags": "regulat",
       "Sg1": "Ik wandel",
@@ -22840,14 +22441,12 @@
       "PastPl": "Zijn wandelden",
       "Perf": "Je hebt gewandeld.",
       "adj": "wandelend",
-      "name_en": "go for a walk",
       "verb1": "wandelde",
       "verb2": "wandelden",
       "verb3": "heeft gewandeld",
       "pos": "verb",
       "normalized": 0.923,
       "similarity": "native",
-      "id": "p2758",
       "stem": "wandel",
       "also": "wandeling"
     },
@@ -23131,7 +22730,8 @@
       "similarity": "native",
       "id": "p2786",
       "article": "de",
-      "stem": "wel"
+      "stem": "wel",
+      "also": "welvaart"
     },
     {
       "pos": "noun",
@@ -23182,10 +22782,12 @@
       "also": "gewenning"
     },
     {
-      "pos": "verb",
-      "domain": "mental",
-      "topic": "mental",
       "name": "wensen",
+      "name_en": "wish",
+      "id": "p2791",
+      "domain": "mental",
+      "pos": "verb",
+      "topic": "mental",
       "example": "Wij wensen hem succes voor zijn werk.",
       "example_en": "We wish him success for his work.",
       "level": "a",
@@ -23197,10 +22799,9 @@
       "PastPl": "Zijn wensten",
       "Perf": "Je hebt gewenst.",
       "adj": "gewenst",
-      "name_en": "wish",
       "similarity": "native",
-      "id": "p2791",
-      "stem": "wens"
+      "stem": "wens",
+      "name_nl2": "wens"
     },
     {
       "pos": "noun",
@@ -23217,18 +22818,18 @@
       "stem": "wereld"
     },
     {
-      "pos": "noun",
+      "pos": "verb",
       "domain": "agentic",
       "topic": "operation",
       "level": "a",
-      "name": "werk",
-      "name_en": "work",
+      "name": "werken",
+      "name_en": "to work",
       "similarity": "native",
-      "article": "het",
-      "plural": null,
       "normalized": 0.25,
       "id": "p2794",
-      "stem": "werk"
+      "stem": "werk",
+      "also": "werkt, gewerkt",
+      "name_nl2": "werk"
     },
     {
       "pos": "noun",
@@ -23257,26 +22858,6 @@
       "domain": "socium",
       "topic": "common",
       "stem": "werk"
-    },
-    {
-      "pos": "verb",
-      "domain": "spatial",
-      "topic": "impulse",
-      "level": "b",
-      "name": "werpen",
-      "name_nl2": "worp",
-      "tags": "present",
-      "Sg1": "Ik werp",
-      "Sg2": "Hij werpt",
-      "Pl": "Zijn werpend",
-      "PastSg": "Ik wierp",
-      "PastPl": "Zijn wierpen",
-      "Perf": "Je hebt geworpen.",
-      "adj": "geworpen",
-      "name_en": "throw",
-      "similarity": "native",
-      "id": "p2803",
-      "stem": "werp"
     },
     {
       "pos": "noun",
@@ -23518,18 +23099,17 @@
       "stem": "wind"
     },
     {
-      "name": "winkel",
-      "name_en": "shop",
-      "article": "de",
-      "plural": "-s",
-      "pos": "noun",
+      "name": "winkelen",
+      "name_en": "to shop",
+      "pos": "verb",
       "level": "b",
       "normalized": 1,
       "similarity": "native",
       "id": "p2826",
-      "domain": "artifacts",
+      "domain": "resource",
       "topic": "building",
-      "stem": "winkel"
+      "stem": "winkel",
+      "name_nl2": "winkel"
     },
     {
       "pos": "verb",
@@ -23924,20 +23504,6 @@
       "stem": "zacht"
     },
     {
-      "name": "zak",
-      "name_en": "bag",
-      "similarity": "native",
-      "article": "de",
-      "plural": "-ken",
-      "pos": "noun",
-      "level": "b",
-      "normalized": 0.667,
-      "id": "p2860",
-      "domain": "artifacts",
-      "topic": "accessories",
-      "stem": "zak"
-    },
-    {
       "domain": "spatial",
       "topic": "transfer",
       "level": "a",
@@ -24154,18 +23720,6 @@
       "similarity": "soundex",
       "id": "p2892",
       "stem": "zicht"
-    },
-    {
-      "pos": "enum",
-      "domain": "nature",
-      "topic": "materials",
-      "level": "b",
-      "name": "zijde",
-      "name_en": "side",
-      "similarity": "native",
-      "id": "p2894",
-      "article": "de",
-      "stem": "zijd"
     },
     {
       "pos": "verb",
@@ -24669,4365 +24223,4775 @@
       "name": "helpen",
       "name_en": "to help",
       "id": "p2941",
-      "also": "helpt, help, geholpen"
+      "also": "helpt, help, geholpen",
+      "domain": "agentic"
     },
     {
       "name": "nodig",
       "name_en": "needed",
-      "id": "p2942"
+      "id": "p2942",
+      "domain": "core"
     },
     {
       "name": "bedankt",
       "name_en": "thanks",
-      "id": "p2943"
-    },
-    {
-      "name": "hoop",
-      "name_en": "hope",
-      "id": "p2944"
+      "id": "p2943",
+      "domain": "socium"
     },
     {
       "name": "volgend",
       "name_en": "next",
       "id": "p2945",
-      "also": "volgende"
+      "also": "volgende",
+      "domain": "core"
     },
     {
       "name": "jij",
       "name_en": "you (jij)",
       "id": "p2946",
-      "also": "jou, jouw"
+      "also": "jou, jouw",
+      "domain": "core"
     },
     {
       "name": "elk",
       "name_en": "each/every (elk)",
       "id": "p2947",
-      "also": "elke"
+      "also": "elke",
+      "domain": "core"
     },
     {
       "name": "alsjeblieft",
       "name_en": "please",
-      "id": "p2948"
+      "id": "p2948",
+      "domain": "socium"
     },
     {
       "name": "hopelijk",
       "name_en": "hopefully",
-      "id": "p2949"
+      "id": "p2949",
+      "domain": "mental"
     },
     {
       "name": "iemand",
       "name_en": "someone",
-      "id": "p2950"
+      "id": "p2950",
+      "domain": "core"
     },
     {
       "name": "meteen",
       "name_en": "immediately",
-      "id": "p2951"
+      "id": "p2951",
+      "domain": "core"
     },
     {
       "name": "voorkeur",
       "name_en": "preference",
       "id": "p2952",
-      "also": "voorkeuren"
-    },
-    {
-      "name": "werken",
-      "name_en": "to work",
-      "id": "p2953",
-      "also": "werkt, gewerkt"
-    },
-    {
-      "name": "beginnen",
-      "name_en": "to begin",
-      "id": "p2954",
-      "also": "begon, begonnen, begint"
+      "also": "voorkeuren",
+      "domain": "mental"
     },
     {
       "name": "jongen",
       "name_en": "boy",
       "id": "p2955",
-      "also": "jongens"
+      "also": "jongens",
+      "domain": "life"
     },
     {
       "name": "wachten",
       "name_en": "to wait",
       "id": "p2956",
-      "also": "wachtte, gewacht"
+      "also": "wachtte, gewacht",
+      "domain": "agentic"
     },
     {
       "name": "welk",
       "name_en": "which",
       "id": "p2957",
-      "also": "welke"
+      "also": "welke",
+      "domain": "core"
     },
     {
       "name": "al",
       "name_en": "all",
       "id": "p2958",
-      "also": "alle"
+      "also": "alle",
+      "domain": "core"
     },
     {
       "name": "alles",
       "name_en": "everything",
-      "id": "p2959"
+      "id": "p2959",
+      "domain": "core"
     },
     {
       "name": "druk",
       "name_en": "busy",
-      "id": "p2960"
+      "id": "p2960",
+      "domain": "core"
     },
     {
       "name": "geheel",
       "name_en": "whole",
       "id": "p2961",
-      "also": "hele"
+      "also": "hele",
+      "domain": "core"
     },
     {
       "name": "niemand",
       "name_en": "nobody",
-      "id": "p2962"
+      "id": "p2962",
+      "domain": "core"
     },
     {
       "name": "ons",
       "name_en": "our",
       "id": "p2963",
-      "also": "onze"
-    },
-    {
-      "name": "plannen",
-      "name_en": "to plan",
-      "id": "p2964",
-      "also": "gepland"
+      "also": "onze",
+      "domain": "core"
     },
     {
       "name": "vlucht",
       "name_en": "flight",
-      "id": "p2965"
+      "id": "p2965",
+      "domain": "spatial",
+      "also": "vliegreis"
     },
     {
       "name": "waard",
       "name_en": "worth",
-      "id": "p2966"
+      "id": "p2966",
+      "domain": "resource"
     },
     {
       "name": "behoorlijk",
       "name_en": "quite",
       "id": "p2967",
-      "also": "behoorlijke"
+      "also": "behoorlijke",
+      "domain": "core"
     },
     {
       "name": "interessant",
       "name_en": "interesting",
       "id": "p2968",
-      "also": "interessants, interessanter"
+      "also": "interessants, interessanter",
+      "domain": "experience"
     },
     {
       "name": "jullie",
       "name_en": "you",
-      "id": "p2969"
+      "id": "p2969",
+      "domain": "core"
     },
     {
       "name": "kant",
       "name_en": "side",
       "id": "p2970",
-      "also": "kanten"
+      "also": "kanten, zijde, zijkant",
+      "domain": "spatial",
+      "topic": "materials",
+      "level": "b",
+      "similarity": "native",
+      "stem": "zijd"
     },
     {
       "name": "lastig",
       "name_en": "tricky",
-      "id": "p2971"
+      "id": "p2971",
+      "domain": "core"
     },
     {
       "name": "maaltijd",
       "name_en": "meal",
       "id": "p2972",
-      "also": "maaltijden"
+      "also": "maaltijden",
+      "domain": "food"
     },
     {
       "name": "plek",
       "name_en": "place",
       "id": "p2973",
-      "also": "plekken"
-    },
-    {
-      "name": "vaardigheid",
-      "name_en": "skill",
-      "id": "p2974",
-      "also": "vaardigheden"
+      "also": "plekken",
+      "domain": "spatial"
     },
     {
       "name": "vanavond",
       "name_en": "tonight",
-      "id": "p2975"
+      "id": "p2975",
+      "domain": "core"
     },
     {
       "name": "veranderen",
       "name_en": "to change",
       "id": "p2976",
-      "also": "veranderd, veranderende, veranderingen, verandert"
-    },
-    {
-      "name": "waarderen",
-      "name_en": "to appreciate",
-      "id": "p2977",
-      "also": "waardeer, gewaardeerd"
+      "also": "veranderd, veranderende, veranderingen, verandert",
+      "domain": "core"
     },
     {
       "name": "anders",
       "name_en": "different",
-      "id": "p2978"
+      "id": "p2978",
+      "domain": "core"
     },
     {
       "name": "controleren",
       "name_en": "to check (controleren)",
       "id": "p2979",
-      "also": "controleer"
+      "also": "controleer",
+      "domain": "agentic"
     },
     {
       "name": "cruciaal",
       "name_en": "crucial",
       "id": "p2980",
-      "also": "cruciale"
+      "also": "cruciale",
+      "domain": "core"
     },
     {
       "name": "eerlijk",
       "name_en": "honest (eerlijk)",
       "id": "p2981",
-      "also": "eerlijke"
+      "also": "eerlijke",
+      "domain": "mental"
     },
     {
       "name": "ergens",
       "name_en": "somewhere",
-      "id": "p2982"
+      "id": "p2982",
+      "domain": "spatial"
     },
     {
       "name": "essentieel",
       "name_en": "essential",
-      "id": "p2983"
+      "id": "p2983",
+      "domain": "core"
     },
     {
       "name": "foto",
       "name_en": "photo",
       "id": "p2984",
-      "also": "foto's"
+      "also": "foto's",
+      "domain": "culture"
     },
     {
       "name": "gevoel",
       "name_en": "feeling",
       "id": "p2985",
-      "also": "gevoelens"
+      "also": "gevoelens",
+      "domain": "mental"
     },
     {
       "name": "meestal",
       "name_en": "usually",
-      "id": "p2986"
+      "id": "p2986",
+      "domain": "core"
     },
     {
       "name": "meisje",
       "name_en": "girl",
       "id": "p2987",
-      "also": "meisjes"
+      "also": "meisjes",
+      "domain": "life"
     },
     {
       "name": "minuut",
       "name_en": "minute",
       "id": "p2988",
-      "also": "minuten, minuutje"
+      "also": "minuten, minuutje",
+      "domain": "core"
     },
     {
       "name": "persoonlijk",
       "name_en": "personal",
       "id": "p2989",
-      "also": "persoonlijke"
+      "also": "persoonlijke",
+      "domain": "mental"
     },
     {
       "name": "vereisen",
       "name_en": "required",
       "id": "p2990",
-      "also": "vereist"
+      "also": "vereist",
+      "domain": "system"
     },
     {
       "name": "verschillend",
       "name_en": "different (verschillend)",
       "id": "p2991",
-      "also": "verschillende"
+      "also": "verschillende",
+      "domain": "core"
     },
     {
       "name": "vertrouwen",
       "name_en": "to trust",
       "id": "p2992",
-      "also": "vertrouw"
+      "also": "vertrouw",
+      "domain": "mental"
     },
     {
       "name": "voorbereiden",
       "name_en": "to prepare",
       "id": "p2993",
-      "also": "voorbereid"
+      "also": "voorbereid",
+      "domain": "agentic"
     },
     {
       "name": "zetten",
       "name_en": "to set",
       "id": "p2994",
-      "also": "zet, gezet"
+      "also": "zet, gezet",
+      "domain": "agentic"
     },
     {
       "name": "avondeten",
       "name_en": "dinner",
-      "id": "p2995"
-    },
-    {
-      "name": "binnenkort",
-      "name_en": "soon",
-      "id": "p2996"
+      "id": "p2995",
+      "domain": "food"
     },
     {
       "name": "conferentie",
       "name_en": "conference",
       "id": "p2997",
-      "also": "conferenties"
+      "also": "conferenties",
+      "domain": "socium"
     },
     {
       "name": "dankbaar",
       "name_en": "grateful",
-      "id": "p2998"
+      "id": "p2998",
+      "domain": "mental"
     },
     {
       "name": "familie",
       "name_en": "family",
-      "id": "p2999"
+      "id": "p2999",
+      "domain": "socium",
+      "also": "gezin",
+      "topic": "family",
+      "level": "b",
+      "similarity": "native",
+      "normalized": 0.833,
+      "stem": "gezin"
     },
     {
       "name": "fantastisch",
       "name_en": "fantastic",
-      "id": "p3000"
+      "id": "p3000",
+      "domain": "experience"
     },
     {
       "name": "frustrerend",
       "name_en": "frustrating",
-      "id": "p3001"
+      "id": "p3001",
+      "domain": "mental"
     },
     {
       "name": "gebouw",
       "name_en": "building",
-      "id": "p3002"
+      "id": "p3002",
+      "domain": "artifacts"
     },
     {
       "name": "gelukkig",
       "name_en": "happy",
-      "id": "p3003"
+      "id": "p3003",
+      "domain": "mental"
     },
     {
       "name": "gerust",
       "name_en": "at ease",
-      "id": "p3004"
+      "id": "p3004",
+      "domain": "mental"
     },
     {
       "name": "golf",
       "name_en": "wave",
       "id": "p3005",
-      "also": "golven"
+      "also": "golven",
+      "domain": "nature"
     },
     {
       "name": "handig",
       "name_en": "handy",
-      "id": "p3006"
-    },
-    {
-      "name": "herstellen",
-      "name_en": "recover",
-      "id": "p3007"
+      "id": "p3006",
+      "domain": "core"
     },
     {
       "name": "indrukwekkend",
       "name_en": "impressive",
       "id": "p3008",
-      "also": "indrukwekkende"
+      "also": "indrukwekkende",
+      "domain": "experience"
     },
     {
       "name": "klas",
       "name_en": "class",
-      "id": "p3009"
+      "id": "p3009",
+      "domain": "knowledge"
     },
     {
       "name": "knop",
       "name_en": "button",
       "id": "p3010",
-      "also": "knoppen"
-    },
-    {
-      "name": "kopje",
-      "name_en": "cup",
-      "id": "p3011"
+      "also": "knoppen",
+      "domain": "artifacts"
     },
     {
       "name": "leeftijd",
       "name_en": "age",
-      "id": "p3012"
+      "id": "p3012",
+      "domain": "life"
     },
     {
       "name": "meest",
       "name_en": "most",
       "id": "p3013",
-      "also": "meeste"
+      "also": "meeste",
+      "domain": "core"
     },
     {
       "name": "nadenken",
       "name_en": "to think about",
       "id": "p3014",
-      "also": "nagedacht"
-    },
-    {
-      "name": "oefening",
-      "name_en": "exercise",
-      "id": "p3015"
+      "also": "nagedacht",
+      "domain": "mental"
     },
     {
       "name": "potlood",
       "name_en": "pencil",
       "id": "p3016",
-      "also": "potloden"
-    },
-    {
-      "name": "rusten",
-      "name_en": "rest",
-      "id": "p3017"
+      "also": "potloden",
+      "domain": "artifacts"
     },
     {
       "name": "ruzie",
       "name_en": "quarrel",
       "id": "p3018",
-      "also": "ruzies"
+      "also": "ruzies",
+      "domain": "socium"
     },
     {
       "name": "steeds",
       "name_en": "constantly",
-      "id": "p3019"
+      "id": "p3019",
+      "domain": "core"
     },
     {
       "name": "telefoon",
       "name_en": "phone",
-      "id": "p3020"
+      "id": "p3020",
+      "domain": "artifacts"
     },
     {
       "name": "vanwege",
       "name_en": "because of",
-      "id": "p3021"
+      "id": "p3021",
+      "domain": "core"
     },
     {
       "name": "veiligheid",
       "name_en": "safety",
-      "id": "p3022"
+      "id": "p3022",
+      "domain": "civil"
     },
     {
       "name": "woordenboek",
       "name_en": "dictionary",
-      "id": "p3023"
+      "id": "p3023",
+      "domain": "language"
     },
     {
       "name": "zoveel",
       "name_en": "so much",
-      "id": "p3024"
+      "id": "p3024",
+      "domain": "core"
     },
     {
       "name": "balpen",
       "name_en": "ballpoint pen",
-      "id": "p3025"
-    },
-    {
-      "name": "beslissing",
-      "name_en": "decision",
-      "id": "p3026"
+      "id": "p3025",
+      "domain": "artifacts"
     },
     {
       "name": "blad",
       "name_en": "leaf",
       "id": "p3027",
-      "also": "bladeren"
-    },
-    {
-      "name": "communicatie",
-      "name_en": "communication",
-      "id": "p3028"
+      "also": "bladeren",
+      "domain": "nature"
     },
     {
       "name": "enthousiast",
       "name_en": "enthusiastic",
-      "id": "p3029"
+      "id": "p3029",
+      "domain": "mental"
     },
     {
       "name": "eruit",
       "name_en": "out",
-      "id": "p3030"
+      "id": "p3030",
+      "domain": "spatial"
     },
     {
       "name": "ervan",
       "name_en": "of it",
-      "id": "p3031"
-    },
-    {
-      "name": "ervaring",
-      "name_en": "experience",
-      "id": "p3032"
+      "id": "p3031",
+      "domain": "core"
     },
     {
       "name": "fout",
       "name_en": "mistake",
       "id": "p3033",
-      "also": "fouten"
+      "also": "fouten",
+      "domain": "core"
     },
     {
       "name": "gefeliciteerd",
       "name_en": "congratulations",
-      "id": "p3034"
+      "id": "p3034",
+      "domain": "socium"
     },
     {
       "name": "gezond",
       "name_en": "healthy",
       "id": "p3035",
-      "also": "gezonde"
+      "also": "gezonde",
+      "domain": "body"
     },
     {
       "name": "inlegzool",
       "name_en": "insoles",
       "id": "p3036",
-      "also": "inlegzolen"
-    },
-    {
-      "name": "interesse",
-      "name_en": "interest",
-      "id": "p3037",
-      "also": "interesses"
-    },
-    {
-      "name": "invloed",
-      "name_en": "influence",
-      "id": "p3038"
+      "also": "inlegzolen",
+      "domain": "artifacts"
     },
     {
       "name": "jezelf",
       "name_en": "yourself",
-      "id": "p3039"
+      "id": "p3039",
+      "domain": "core"
     },
     {
       "name": "les",
       "name_en": "lesson",
-      "id": "p3040"
+      "id": "p3040",
+      "domain": "knowledge"
     },
     {
       "name": "liefdesbrief",
       "name_en": "love letter",
       "id": "p3041",
-      "also": "liefdesbrieven"
+      "also": "liefdesbrieven",
+      "domain": "language"
     },
     {
       "name": "lossen",
       "name_en": "solve",
-      "id": "p3042"
+      "id": "p3042",
+      "domain": "agentic"
     },
     {
       "name": "mogelijk",
       "name_en": "possible",
-      "id": "p3043"
+      "id": "p3043",
+      "domain": "core"
     },
     {
       "name": "naartoe",
       "name_en": "toward",
-      "id": "p3044"
+      "id": "p3044",
+      "domain": "spatial"
     },
     {
       "name": "nieuws",
       "name_en": "news",
-      "id": "p3045"
+      "id": "p3045",
+      "domain": "knowledge"
     },
     {
       "name": "nogal",
       "name_en": "rather",
-      "id": "p3046"
+      "id": "p3046",
+      "domain": "core"
     },
     {
       "name": "onbeleefd",
       "name_en": "rude",
-      "id": "p3047"
+      "id": "p3047",
+      "domain": "socium"
     },
     {
       "name": "onderwijs",
       "name_en": "education",
-      "id": "p3048"
+      "id": "p3048",
+      "domain": "knowledge"
     },
     {
       "name": "ontroerend",
       "name_en": "moving",
-      "id": "p3049"
-    },
-    {
-      "name": "oplossing",
-      "name_en": "solution",
-      "id": "p3050",
-      "also": "oplossingen"
+      "id": "p3049",
+      "domain": "experience"
     },
     {
       "name": "optie",
       "name_en": "option",
       "id": "p3051",
-      "also": "opties"
+      "also": "opties",
+      "domain": "core"
     },
     {
       "name": "optreden",
       "name_en": "performance",
-      "id": "p3052"
+      "id": "p3052",
+      "domain": "culture"
     },
     {
       "name": "overwegen",
       "name_en": "to consider (overweeg)",
       "id": "p3053",
-      "also": "overweeg"
+      "also": "overweeg",
+      "domain": "mental"
     },
     {
       "name": "overwinnen",
       "name_en": "overcome",
-      "id": "p3054"
+      "id": "p3054",
+      "domain": "agentic",
+      "pos": "verb",
+      "name_nl2": "overwinning"
     },
     {
       "name": "portemonnee",
       "name_en": "wallet",
-      "id": "p3055"
+      "id": "p3055",
+      "domain": "artifacts"
     },
     {
       "name": "rapport",
       "name_en": "report",
-      "id": "p3056"
+      "id": "p3056",
+      "domain": "knowledge"
     },
     {
       "name": "rustig",
       "name_en": "calm",
-      "id": "p3057"
+      "id": "p3057",
+      "domain": "mental"
     },
     {
       "name": "schattig",
       "name_en": "cute",
       "id": "p3058",
-      "also": "schattigste"
-    },
-    {
-      "name": "scheiding",
-      "name_en": "separation",
-      "id": "p3059"
+      "also": "schattigste",
+      "domain": "experience"
     },
     {
       "name": "slim",
       "name_en": "smart (slim)",
       "id": "p3060",
-      "also": "slimme"
+      "also": "slimme",
+      "domain": "mental"
     },
     {
       "name": "sneeuwstorm",
       "name_en": "snowstorm",
-      "id": "p3061"
+      "id": "p3061",
+      "domain": "nature"
     },
     {
       "name": "staat",
       "name_en": "state",
       "id": "p3062",
-      "also": "staten"
+      "also": "staten",
+      "domain": "civil"
     },
     {
       "name": "succes",
       "name_en": "success",
-      "id": "p3063"
+      "id": "p3063",
+      "domain": "agentic",
+      "also": "slag, slaagden",
+      "topic": "result",
+      "level": "b",
+      "similarity": "native",
+      "stem": "slaag"
     },
     {
       "name": "teken",
       "name_en": "sign",
-      "id": "p3064"
+      "id": "p3064",
+      "domain": "language"
     },
     {
       "name": "tijdje",
       "name_en": "a while",
-      "id": "p3065"
+      "id": "p3065",
+      "domain": "core"
     },
     {
       "name": "vanochtend",
       "name_en": "this morning",
-      "id": "p3066"
+      "id": "p3066",
+      "domain": "core"
     },
     {
       "name": "vast",
       "name_en": "stuck",
-      "id": "p3067"
+      "id": "p3067",
+      "domain": "core"
     },
     {
       "name": "verbeteren",
       "name_en": "improve",
-      "id": "p3068"
+      "id": "p3068",
+      "also": "verbeteringen",
+      "domain": "agentic",
+      "pos": "verb",
+      "name_nl2": "verbetering"
     },
     {
       "name": "verder",
       "name_en": "further",
-      "id": "p3069"
+      "id": "p3069",
+      "domain": "core"
     },
     {
       "name": "verenigd",
       "name_en": "united",
       "id": "p3070",
-      "also": "verenigde"
+      "also": "verenigde",
+      "domain": "socium"
     },
     {
       "name": "veroorzaken",
       "name_en": "to cause",
       "id": "p3071",
-      "also": "veroorzaakt"
+      "also": "veroorzaakt",
+      "domain": "system"
     },
     {
       "name": "vertalen",
       "name_en": "translate",
-      "id": "p3072"
+      "id": "p3072",
+      "domain": "language",
+      "pos": "verb",
+      "name_nl2": "vertaling"
     },
     {
       "name": "verwachten",
       "name_en": "to expect",
       "id": "p3073",
-      "also": "verwacht"
+      "also": "verwacht",
+      "domain": "mental",
+      "pos": "verb",
+      "name_nl2": "verwachting"
     },
     {
       "name": "vooral",
       "name_en": "especially",
-      "id": "p3074"
+      "id": "p3074",
+      "domain": "core"
     },
     {
       "name": "waardevol",
       "name_en": "valuable",
       "id": "p3075",
-      "also": "waardevolle"
+      "also": "waardevolle",
+      "domain": "resource"
     },
     {
       "name": "waarschijnlijk",
       "name_en": "probably",
-      "id": "p3076"
+      "id": "p3076",
+      "domain": "core"
     },
     {
       "name": "aangenaam",
       "name_en": "pleasant",
       "id": "p3077",
-      "also": "aangename, aangenamer"
+      "also": "aangename, aangenamer",
+      "domain": "experience"
     },
     {
       "name": "aarzelen",
       "name_en": "hesitated",
       "id": "p3078",
-      "also": "aarzelde"
+      "also": "aarzelde",
+      "domain": "mental"
     },
     {
       "name": "activiteit",
       "name_en": "activity",
       "id": "p3079",
-      "also": "activiteiten"
+      "also": "activiteiten",
+      "domain": "agentic"
     },
     {
       "name": "afspreken",
       "name_en": "arrange",
-      "id": "p3080"
+      "id": "p3080",
+      "domain": "socium"
     },
     {
       "name": "begrijpelijk",
       "name_en": "understandable",
-      "id": "p3081"
+      "id": "p3081",
+      "domain": "mental"
     },
     {
       "name": "bemachtigen",
       "name_en": "obtain",
-      "id": "p3082"
+      "id": "p3082",
+      "domain": "agentic"
     },
     {
       "name": "besluiten",
       "name_en": "decided",
       "id": "p3083",
-      "also": "besloten"
+      "also": "besloten",
+      "domain": "mental"
     },
     {
       "name": "besluiteloosheid",
       "name_en": "indecisiveness",
-      "id": "p3084"
+      "id": "p3084",
+      "domain": "mental"
     },
     {
       "name": "betekenen",
       "name_en": "means",
       "id": "p3085",
-      "also": "betekent"
+      "also": "betekent",
+      "domain": "language"
     },
     {
       "name": "beterschap",
       "name_en": "get well",
-      "id": "p3086"
+      "id": "p3086",
+      "domain": "body"
     },
     {
       "name": "bevredigend",
       "name_en": "satisfying",
       "id": "p3087",
-      "also": "bevredigende"
+      "also": "bevredigende",
+      "domain": "experience"
     },
     {
       "name": "bodyboarden",
       "name_en": "bodyboarding",
-      "id": "p3088"
+      "id": "p3088",
+      "domain": "experience"
     },
     {
       "name": "bruiloft",
       "name_en": "wedding",
-      "id": "p3089"
+      "id": "p3089",
+      "domain": "socium"
     },
     {
       "name": "burger",
       "name_en": "burger",
       "id": "p3090",
-      "also": "burgers"
+      "also": "burgers",
+      "domain": "food"
     },
     {
       "name": "checken",
       "name_en": "check",
-      "id": "p3091"
+      "id": "p3091",
+      "domain": "agentic"
     },
     {
       "name": "chocolade",
       "name_en": "chocolate",
-      "id": "p3092"
-    },
-    {
-      "name": "combinatie",
-      "name_en": "combination",
-      "id": "p3093"
+      "id": "p3092",
+      "domain": "food"
     },
     {
       "name": "concentreren",
       "name_en": "concentrate",
-      "id": "p3094"
+      "id": "p3094",
+      "domain": "mental"
     },
     {
       "name": "creditcard",
       "name_en": "credit card",
       "id": "p3095",
-      "also": "creditcards"
+      "also": "creditcards",
+      "domain": "resource"
     },
     {
       "name": "dagboek",
       "name_en": "diary",
-      "id": "p3096"
+      "id": "p3096",
+      "domain": "language"
     },
     {
       "name": "dansles",
       "name_en": "dance lesson",
-      "id": "p3097"
+      "id": "p3097",
+      "domain": "culture"
     },
     {
-      "name": "diner",
-      "name_en": "dinner",
-      "id": "p3098"
+      "name": "dineren",
+      "name_en": "dine",
+      "id": "p3098",
+      "domain": "food",
+      "pos": "verb",
+      "name_nl2": "diner"
     },
     {
       "name": "doorgang",
       "name_en": "passage",
-      "id": "p3099"
+      "id": "p3099",
+      "domain": "spatial"
     },
     {
       "name": "dringend",
       "name_en": "urgent",
-      "id": "p3100"
+      "id": "p3100",
+      "domain": "core"
     },
     {
       "name": "echt",
       "name_en": "real",
       "id": "p3101",
-      "also": "echte"
+      "also": "echte",
+      "domain": "core"
     },
     {
       "name": "eerlijkheid",
       "name_en": "honesty",
-      "id": "p3102"
+      "id": "p3102",
+      "domain": "mental"
     },
     {
       "name": "enig",
       "name_en": "only",
       "id": "p3103",
-      "also": "enige"
+      "also": "enige",
+      "domain": "core"
     },
     {
       "name": "ernaar",
       "name_en": "to it",
-      "id": "p3104"
+      "id": "p3104",
+      "domain": "core"
     },
     {
       "name": "erop",
       "name_en": "on it",
-      "id": "p3105"
+      "id": "p3105",
+      "domain": "core"
     },
     {
       "name": "erover",
       "name_en": "about it",
-      "id": "p3106"
+      "id": "p3106",
+      "domain": "core"
     },
     {
       "name": "evenement",
       "name_en": "event",
       "id": "p3107",
-      "also": "evenementen"
+      "also": "evenementen",
+      "domain": "socium"
     },
     {
       "name": "fabriek",
       "name_en": "factory",
-      "id": "p3108"
+      "id": "p3108",
+      "domain": "resource"
     },
     {
       "name": "fotograferen",
       "name_en": "to photograph",
-      "id": "p3109"
+      "id": "p3109",
+      "domain": "culture"
     },
     {
       "name": "gebakken",
       "name_en": "fried",
-      "id": "p3110"
+      "id": "p3110",
+      "domain": "food"
     },
     {
       "name": "gedicht",
       "name_en": "poem",
-      "id": "p3111"
+      "id": "p3111",
+      "domain": "culture"
     },
     {
       "name": "geleden",
       "name_en": "ago",
-      "id": "p3112"
+      "id": "p3112",
+      "domain": "core"
     },
     {
       "name": "gelijk",
       "name_en": "right",
-      "id": "p3113"
+      "id": "p3113",
+      "domain": "core"
     },
     {
       "name": "gemak",
       "name_en": "ease",
-      "id": "p3114"
+      "id": "p3114",
+      "domain": "core"
     },
     {
       "name": "genre",
       "name_en": "genre",
       "id": "p3115",
-      "also": "genres"
+      "also": "genres",
+      "domain": "culture"
     },
     {
       "name": "georganiseerd",
       "name_en": "organized",
-      "id": "p3116"
+      "id": "p3116",
+      "domain": "mental"
     },
     {
       "name": "gerecht",
       "name_en": "dish",
       "id": "p3117",
-      "also": "gerechten"
+      "also": "gerechten",
+      "domain": "food"
     },
     {
       "name": "geruststellend",
       "name_en": "reassuring",
-      "id": "p3118"
+      "id": "p3118",
+      "domain": "mental"
     },
     {
       "name": "skiën",
       "name_en": "skied",
       "id": "p3119",
-      "also": "geskied"
+      "also": "geskied",
+      "domain": "experience"
     },
     {
       "name": "getalenteerd",
       "name_en": "talented",
-      "id": "p3120"
+      "id": "p3120",
+      "domain": "agentic"
     },
     {
       "name": "gewend",
       "name_en": "used to",
-      "id": "p3121"
+      "id": "p3121",
+      "domain": "mental"
     },
     {
       "name": "geïnteresseerd",
       "name_en": "interested",
-      "id": "p3122"
+      "id": "p3122",
+      "domain": "mental"
     },
     {
       "name": "gids",
       "name_en": "guide",
       "id": "p3123",
-      "also": "gidsen"
+      "also": "gidsen",
+      "domain": "knowledge"
     },
     {
       "name": "gisteravond",
       "name_en": "last night",
-      "id": "p3124"
+      "id": "p3124",
+      "domain": "core"
     },
     {
       "name": "griepprik",
       "name_en": "flu shot",
-      "id": "p3125"
+      "id": "p3125",
+      "domain": "body"
     },
     {
       "name": "grootouder",
       "name_en": "grandparent",
       "id": "p3126",
-      "also": "grootouders"
-    },
-    {
-      "name": "haat",
-      "name_en": "hate",
-      "id": "p3127"
+      "also": "grootouders",
+      "domain": "socium"
     },
     {
       "name": "hereniging",
       "name_en": "reunion",
       "id": "p3128",
-      "also": "herenigingen"
+      "also": "herenigingen",
+      "domain": "socium"
     },
     {
       "name": "hoogte",
       "name_en": "height",
-      "id": "p3129"
+      "id": "p3129",
+      "domain": "spatial"
     },
     {
       "name": "huishoudelijk",
       "name_en": "household",
       "id": "p3130",
-      "also": "huishoudelijke"
+      "also": "huishoudelijke",
+      "domain": "socium"
     },
     {
       "name": "huiswerk",
       "name_en": "homework",
-      "id": "p3131"
+      "id": "p3131",
+      "domain": "knowledge"
     },
     {
       "name": "importeren",
       "name_en": "to import",
-      "id": "p3132"
+      "id": "p3132",
+      "domain": "resource"
     },
     {
       "name": "inbreker",
       "name_en": "burglar",
-      "id": "p3133"
+      "id": "p3133",
+      "domain": "civil"
     },
     {
       "name": "ingang",
       "name_en": "entrance",
-      "id": "p3134"
+      "id": "p3134",
+      "domain": "spatial",
+      "also": "toegang",
+      "topic": "place",
+      "level": "b",
+      "similarity": "native",
+      "normalized": 0.75,
+      "stem": "gang"
     },
     {
       "name": "ingewikkeld",
       "name_en": "complicated",
-      "id": "p3135"
+      "id": "p3135",
+      "domain": "core"
     },
     {
       "name": "inktcartridge",
       "name_en": "ink cartridge",
-      "id": "p3136"
+      "id": "p3136",
+      "domain": "artifacts"
     },
     {
       "name": "inzet",
       "name_en": "effort",
-      "id": "p3137"
+      "id": "p3137",
+      "domain": "agentic"
     },
     {
       "name": "kaart",
       "name_en": "map",
-      "id": "p3138"
+      "id": "p3138",
+      "domain": "spatial"
     },
     {
       "name": "keuze",
       "name_en": "choice",
-      "id": "p3139"
+      "id": "p3139",
+      "domain": "mental"
     },
     {
       "name": "king",
       "name_en": "king",
       "id": "p3140",
-      "also": "kings"
+      "also": "kings",
+      "domain": "civil"
     },
     {
       "name": "kramp",
       "name_en": "cramp",
-      "id": "p3141"
+      "id": "p3141",
+      "domain": "body"
     },
     {
       "name": "laatst",
       "name_en": "recently",
-      "id": "p3142"
+      "id": "p3142",
+      "domain": "core",
+      "also": "onlangs"
     },
     {
       "name": "letten",
       "name_en": "mind",
       "id": "p3143",
-      "also": "let"
+      "also": "let",
+      "domain": "mental"
     },
     {
       "name": "liefde",
       "name_en": "love",
-      "id": "p3144"
+      "id": "p3144",
+      "domain": "mental"
     },
     {
       "name": "logisch",
       "name_en": "logical",
-      "id": "p3145"
+      "id": "p3145",
+      "domain": "mental"
     },
     {
       "name": "lonen",
       "name_en": "pays off",
       "id": "p3146",
-      "also": "loont"
+      "also": "loont",
+      "domain": "resource"
     },
     {
       "name": "medicijn",
       "name_en": "medicine",
-      "id": "p3147"
+      "id": "p3147",
+      "domain": "body"
     },
     {
       "name": "meenemen",
       "name_en": "brought along",
       "id": "p3148",
-      "also": "meegenomen"
-    },
-    {
-      "name": "misdrijf",
-      "name_en": "crime",
-      "id": "p3149"
+      "also": "meegenomen",
+      "domain": "agentic"
     },
     {
       "name": "misleiden",
       "name_en": "to mislead",
-      "id": "p3150"
+      "id": "p3150",
+      "domain": "socium"
     },
     {
       "name": "misverstand",
       "name_en": "misunderstanding",
       "id": "p3151",
-      "also": "misverstanden"
+      "also": "misverstanden",
+      "domain": "language"
     },
     {
       "name": "neer",
       "name_en": "down",
-      "id": "p3152"
+      "id": "p3152",
+      "domain": "spatial"
     },
     {
       "name": "onderwerp",
       "name_en": "subject",
-      "id": "p3153"
+      "id": "p3153",
+      "domain": "knowledge"
     },
     {
       "name": "ongelijk",
       "name_en": "wrong",
-      "id": "p3154"
+      "id": "p3154",
+      "domain": "mental"
     },
     {
       "name": "onmogelijk",
       "name_en": "impossible",
-      "id": "p3155"
+      "id": "p3155",
+      "domain": "core"
     },
     {
       "name": "ontdooien",
       "name_en": "to thaw",
       "id": "p3156",
-      "also": "ontdooit"
+      "also": "ontdooit",
+      "domain": "food"
     },
     {
       "name": "ontspannend",
       "name_en": "relaxing",
-      "id": "p3157"
-    },
-    {
-      "name": "ontspanning",
-      "name_en": "relaxation",
-      "id": "p3158"
+      "id": "p3157",
+      "domain": "experience"
     },
     {
       "name": "onverwacht",
       "name_en": "unexpected",
-      "id": "p3159"
+      "id": "p3159",
+      "domain": "core"
     },
     {
       "name": "opluchting",
       "name_en": "relief",
-      "id": "p3160"
+      "id": "p3160",
+      "domain": "mental"
     },
     {
       "name": "opvolgen",
       "name_en": "to follow up",
       "id": "p3161",
-      "also": "opgevolgd"
+      "also": "opgevolgd",
+      "domain": "agentic"
     },
     {
       "name": "oudere",
       "name_en": "older person",
       "id": "p3162",
-      "also": "ouderen"
+      "also": "ouderen",
+      "domain": "life"
     },
     {
       "name": "paspoort",
       "name_en": "passport",
-      "id": "p3163"
+      "id": "p3163",
+      "domain": "civil"
     },
     {
       "name": "perspectief",
       "name_en": "perspective",
       "id": "p3164",
-      "also": "perspectieven"
+      "also": "perspectieven",
+      "domain": "mental"
     },
     {
       "name": "politie",
       "name_en": "police",
-      "id": "p3165"
+      "id": "p3165",
+      "domain": "civil"
     },
     {
       "name": "politiek",
       "name_en": "political",
       "id": "p3166",
-      "also": "politieke"
+      "also": "politieke",
+      "domain": "civil"
     },
     {
       "name": "pop",
       "name_en": "doll",
-      "id": "p3167"
+      "id": "p3167",
+      "domain": "artifacts"
     },
     {
       "name": "regelen",
       "name_en": "to arrange",
-      "id": "p3168"
+      "id": "p3168",
+      "domain": "agentic"
     },
     {
       "name": "regenen",
       "name_en": "to rain",
       "id": "p3169",
-      "also": "regent"
-    },
-    {
-      "name": "roepen",
-      "name_en": "called",
-      "id": "p3170",
-      "also": "riep"
+      "also": "regent",
+      "domain": "nature"
     },
     {
       "name": "schade",
       "name_en": "damage",
-      "id": "p3171"
+      "id": "p3171",
+      "domain": "core"
     },
     {
       "name": "schuld",
       "name_en": "guilt",
-      "id": "p3172"
+      "id": "p3172",
+      "domain": "mental"
     },
     {
       "name": "sciencefiction",
       "name_en": "science fiction",
-      "id": "p3173"
+      "id": "p3173",
+      "domain": "culture"
     },
     {
       "name": "specifiek",
       "name_en": "specific",
       "id": "p3174",
-      "also": "specifieke"
-    },
-    {
-      "name": "spel",
-      "name_en": "game",
-      "id": "p3175"
+      "also": "specifieke",
+      "domain": "core"
     },
     {
       "name": "sterk",
       "name_en": "strong",
       "id": "p3176",
-      "also": "sterke"
-    },
-    {
-      "name": "steun",
-      "name_en": "support",
-      "id": "p3177"
+      "also": "sterke",
+      "domain": "body"
     },
     {
       "name": "stil",
       "name_en": "quiet",
-      "id": "p3178"
+      "id": "p3178",
+      "domain": "experience"
     },
     {
       "name": "stukje",
       "name_en": "piece",
       "id": "p3179",
-      "also": "stukjes"
+      "also": "stukjes",
+      "domain": "core"
     },
     {
       "name": "surfen",
       "name_en": "to surf",
-      "id": "p3180"
+      "id": "p3180",
+      "also": "surfers",
+      "domain": "experience",
+      "pos": "verb",
+      "name_nl2": "surfer"
     },
     {
       "name": "technologie",
       "name_en": "technology",
-      "id": "p3181"
+      "id": "p3181",
+      "domain": "system"
     },
     {
       "name": "tegenwoordig",
       "name_en": "nowadays",
-      "id": "p3182"
+      "id": "p3182",
+      "domain": "core"
     },
     {
       "name": "tijdstip",
       "name_en": "time",
-      "id": "p3183"
+      "id": "p3183",
+      "domain": "core"
     },
     {
       "name": "toegeven",
       "name_en": "to admit",
-      "id": "p3184"
+      "id": "p3184",
+      "domain": "mental"
     },
     {
       "name": "toets",
       "name_en": "test",
-      "id": "p3185"
+      "id": "p3185",
+      "domain": "knowledge"
     },
     {
       "name": "tonen",
       "name_en": "to show",
       "id": "p3186",
-      "also": "toonde"
+      "also": "toonde",
+      "domain": "agentic"
     },
     {
       "name": "trouwdag",
       "name_en": "wedding day",
-      "id": "p3187"
+      "id": "p3187",
+      "domain": "socium"
     },
     {
       "name": "tuurlijk",
       "name_en": "of course",
-      "id": "p3188"
+      "id": "p3188",
+      "domain": "core"
     },
     {
       "name": "uitdagend",
       "name_en": "challenging",
       "id": "p3189",
-      "also": "uitdagende"
-    },
-    {
-      "name": "uitleggen",
-      "name_en": "to explain",
-      "id": "p3190"
+      "also": "uitdagende",
+      "domain": "experience"
     },
     {
       "name": "uitzicht",
       "name_en": "view",
-      "id": "p3191"
+      "id": "p3191",
+      "domain": "experience"
     },
     {
       "name": "verbaasd",
       "name_en": "surprised",
-      "id": "p3192"
+      "id": "p3192",
+      "domain": "mental"
     },
     {
       "name": "verbazingwekkend",
       "name_en": "amazing",
-      "id": "p3193"
-    },
-    {
-      "name": "verblijf",
-      "name_en": "stay",
-      "id": "p3194"
+      "id": "p3193",
+      "domain": "experience"
     },
     {
       "name": "verbranden",
       "name_en": "to burn",
       "id": "p3195",
-      "also": "verbrand"
+      "also": "verbrand",
+      "domain": "body"
     },
     {
       "name": "verdragen",
       "name_en": "to endure",
-      "id": "p3196"
+      "id": "p3196",
+      "domain": "mental"
     },
     {
       "name": "verfrissend",
       "name_en": "refreshing",
-      "id": "p3197"
+      "id": "p3197",
+      "domain": "experience"
     },
     {
       "name": "verlengen",
       "name_en": "to extend",
       "id": "p3198",
-      "also": "verlengde"
+      "also": "verlengde",
+      "domain": "core"
     },
     {
       "name": "versperren",
       "name_en": "to block",
       "id": "p3199",
-      "also": "versper"
+      "also": "versper",
+      "domain": "spatial"
     },
     {
       "name": "versturen",
       "name_en": "to send",
-      "id": "p3200"
+      "id": "p3200",
+      "domain": "language"
     },
     {
       "name": "vertrouwelijk",
       "name_en": "confidential",
       "id": "p3201",
-      "also": "vertrouwelijke"
+      "also": "vertrouwelijke",
+      "domain": "knowledge"
     },
     {
-      "name": "verzekering",
-      "name_en": "insurance",
+      "name": "verzekeren",
+      "name_en": "assure",
       "id": "p3202",
-      "also": "verzekeringen"
+      "also": "verzeker",
+      "domain": "resource",
+      "pos": "verb",
+      "name_nl2": "verzekering"
     },
     {
       "name": "vloeiend",
       "name_en": "fluent",
-      "id": "p3203"
-    },
-    {
-      "name": "volger",
-      "name_en": "follower",
-      "id": "p3204",
-      "also": "volgers"
+      "id": "p3203",
+      "domain": "language"
     },
     {
       "name": "voorop",
       "name_en": "in front",
-      "id": "p3205"
+      "id": "p3205",
+      "domain": "spatial"
     },
     {
       "name": "vooruitgaan",
       "name_en": "improved",
       "id": "p3206",
-      "also": "vooruitgegaan"
-    },
-    {
-      "name": "vormen",
-      "name_en": "to form",
-      "id": "p3207"
+      "also": "vooruitgegaan",
+      "domain": "agentic"
     },
     {
       "name": "vrede",
       "name_en": "peace",
-      "id": "p3208"
+      "id": "p3208",
+      "domain": "civil"
     },
     {
       "name": "vredesnaam",
       "name_en": "heaven's sake",
-      "id": "p3209"
+      "id": "p3209",
+      "domain": "language"
     },
     {
       "name": "vriendelijk",
       "name_en": "friendly",
-      "id": "p3210"
+      "id": "p3210",
+      "domain": "socium"
     },
     {
       "name": "vriendin",
       "name_en": "girlfriend",
-      "id": "p3211"
+      "id": "p3211",
+      "domain": "socium"
     },
     {
       "name": "vroeg",
       "name_en": "early",
-      "id": "p3212"
-    },
-    {
-      "name": "wandeling",
-      "name_en": "walk",
-      "id": "p3213"
+      "id": "p3212",
+      "domain": "core"
     },
     {
       "name": "wedstrijd",
       "name_en": "match",
-      "id": "p3214"
+      "id": "p3214",
+      "domain": "experience"
     },
     {
       "name": "welkom",
       "name_en": "welcome",
-      "id": "p3215"
+      "id": "p3215",
+      "domain": "socium"
     },
     {
       "name": "wereldwijd",
       "name_en": "worldwide",
       "id": "p3216",
-      "also": "wereldwijde"
+      "also": "wereldwijde",
+      "domain": "spatial"
     },
     {
       "name": "zakkenroller",
       "name_en": "pickpocket",
-      "id": "p3217"
+      "id": "p3217",
+      "domain": "civil"
     },
     {
       "name": "zekerheid",
       "name_en": "certainty",
-      "id": "p3218"
+      "id": "p3218",
+      "domain": "mental"
     },
     {
       "name": "zelf",
       "name_en": "self",
-      "id": "p3219"
+      "id": "p3219",
+      "domain": "core"
     },
     {
       "name": "zoiets",
       "name_en": "something like that",
-      "id": "p3220"
+      "id": "p3220",
+      "domain": "core"
     },
     {
       "name": "zomer",
       "name_en": "summer",
-      "id": "p3221"
+      "id": "p3221",
+      "domain": "nature"
     },
     {
       "name": "zorgvuldig",
       "name_en": "careful (zorgvuldig)",
       "id": "p3222",
-      "also": "zorgvuldige"
+      "also": "zorgvuldige",
+      "domain": "mental"
     },
     {
       "name": "zorgwekkend",
       "name_en": "worrying",
-      "id": "p3223"
+      "id": "p3223",
+      "domain": "mental"
     },
     {
       "name": "zouden",
       "name_en": "would",
-      "id": "p3224"
+      "id": "p3224",
+      "domain": "core"
     },
     {
       "name": "aanbod",
       "name_en": "offer",
-      "id": "p3225"
+      "id": "p3225",
+      "domain": "resource"
     },
     {
       "name": "aandoen",
       "name_en": "to put on",
-      "id": "p3226"
+      "id": "p3226",
+      "domain": "agentic"
     },
     {
       "name": "aankoop",
       "name_en": "purchase",
-      "id": "p3227"
-    },
-    {
-      "name": "aanmoediging",
-      "name_en": "encouragement",
-      "id": "p3228"
-    },
-    {
-      "name": "aannemen",
-      "name_en": "assumes",
-      "id": "p3229",
-      "also": "aanneemt"
-    },
-    {
-      "name": "aanpak",
-      "name_en": "approach",
-      "id": "p3230"
+      "id": "p3227",
+      "domain": "resource"
     },
     {
       "name": "aanpakken",
       "name_en": "to tackle",
-      "id": "p3231"
+      "id": "p3230",
+      "domain": "agentic",
+      "pos": "verb",
+      "name_nl2": "aanpak"
     },
     {
       "name": "aanrennen",
       "name_en": "to run toward",
-      "id": "p3232"
-    },
-    {
-      "name": "aanvaller",
-      "name_en": "attacker",
-      "id": "p3233"
+      "id": "p3232",
+      "domain": "spatial"
     },
     {
       "name": "aanvulling",
       "name_en": "addition",
-      "id": "p3234"
-    },
-    {
-      "name": "aanwijzing",
-      "name_en": "direction",
-      "id": "p3235",
-      "also": "aanwijzingen"
-    },
-    {
-      "name": "accepteren",
-      "name_en": "accepted",
-      "id": "p3236",
-      "also": "accepteerde, geaccepteerd"
+      "id": "p3234",
+      "domain": "core"
     },
     {
       "name": "achterlaten",
       "name_en": "left behind",
       "id": "p3237",
-      "also": "achtergelaten"
-    },
-    {
-      "name": "achterhalen",
-      "name_en": "to find out",
-      "id": "p3238"
+      "also": "achtergelaten",
+      "domain": "agentic"
     },
     {
       "name": "actiefilm",
       "name_en": "action film",
-      "id": "p3239"
+      "id": "p3239",
+      "domain": "culture"
     },
     {
       "name": "adembenemend",
       "name_en": "breathtaking",
-      "id": "p3240"
+      "id": "p3240",
+      "domain": "experience"
     },
     {
       "name": "adresboekje",
       "name_en": "address book",
-      "id": "p3241"
+      "id": "p3241",
+      "domain": "artifacts"
     },
     {
       "name": "adviseur",
       "name_en": "advisor",
       "id": "p3242",
-      "also": "adviseurs"
+      "also": "adviseurs",
+      "domain": "socium"
     },
     {
       "name": "afgelast",
       "name_en": "cancelled",
-      "id": "p3243"
+      "id": "p3243",
+      "domain": "core"
     },
     {
       "name": "afronden",
       "name_en": "completed",
       "id": "p3244",
-      "also": "afgerond"
-    },
-    {
-      "name": "afwijzen",
-      "name_en": "rejected",
-      "id": "p3245",
-      "also": "afgewezen"
+      "also": "afgerond",
+      "domain": "agentic"
     },
     {
       "name": "afhankelijk",
       "name_en": "dependent",
-      "id": "p3246"
+      "id": "p3246",
+      "domain": "core"
     },
     {
       "name": "afkeer",
       "name_en": "aversion",
-      "id": "p3247"
+      "id": "p3247",
+      "domain": "mental"
     },
     {
       "name": "afkoelen",
       "name_en": "cooled down",
       "id": "p3248",
-      "also": "afkoelde"
+      "also": "afkoelde",
+      "domain": "nature"
     },
     {
       "name": "alternatief",
       "name_en": "alternative",
-      "id": "p3249"
+      "id": "p3249",
+      "domain": "core"
     },
     {
       "name": "applaudisseren",
       "name_en": "applauded",
       "id": "p3250",
-      "also": "applaudisseerde"
+      "also": "applaudisseerde",
+      "domain": "culture"
     },
     {
       "name": "applaus",
       "name_en": "applause",
-      "id": "p3251"
+      "id": "p3251",
+      "domain": "culture"
     },
     {
       "name": "armoede",
       "name_en": "poverty",
-      "id": "p3252"
+      "id": "p3252",
+      "domain": "resource"
     },
     {
       "name": "arresteren",
       "name_en": "arrested",
       "id": "p3253",
-      "also": "arresteerde, gearresteerd"
+      "also": "arresteerde, gearresteerd",
+      "domain": "civil"
     },
     {
       "name": "artiest",
       "name_en": "artist",
       "id": "p3254",
-      "also": "artiesten"
+      "also": "artiesten",
+      "domain": "culture"
     },
     {
       "name": "artikel",
       "name_en": "article",
       "id": "p3255",
-      "also": "artikelen"
+      "also": "artikelen",
+      "domain": "knowledge"
     },
     {
       "name": "aspirine",
       "name_en": "aspirin",
-      "id": "p3256"
+      "id": "p3256",
+      "domain": "body"
     },
     {
       "name": "astronomie",
       "name_en": "astronomy",
-      "id": "p3257"
+      "id": "p3257",
+      "domain": "knowledge"
     },
     {
       "name": "avondkrant",
       "name_en": "evening paper",
-      "id": "p3258"
+      "id": "p3258",
+      "domain": "knowledge"
     },
     {
       "name": "baanzekerheid",
       "name_en": "job security",
-      "id": "p3259"
+      "id": "p3259",
+      "domain": "agentic"
     },
     {
       "name": "balans",
       "name_en": "balance",
-      "id": "p3260"
+      "id": "p3260",
+      "domain": "core",
+      "also": "evenwicht",
+      "topic": "systain",
+      "level": "b",
+      "similarity": "native",
+      "stem": "evenwicht"
     },
     {
       "name": "bazig",
       "name_en": "bossy",
-      "id": "p3261"
+      "id": "p3261",
+      "domain": "mental"
     },
     {
       "name": "bedreiging",
       "name_en": "threat",
-      "id": "p3262"
+      "id": "p3262",
+      "domain": "civil"
     },
     {
       "name": "bedreven",
       "name_en": "skilled",
-      "id": "p3263"
+      "id": "p3263",
+      "domain": "agentic"
     },
     {
       "name": "bedrijfsbeheer",
       "name_en": "business management",
-      "id": "p3264"
+      "id": "p3264",
+      "domain": "resource"
     },
     {
       "name": "begeleiding",
       "name_en": "guidance",
-      "id": "p3265"
+      "id": "p3265",
+      "domain": "socium"
     },
     {
       "name": "begrip",
       "name_en": "understanding",
-      "id": "p3266"
+      "id": "p3266",
+      "domain": "mental"
     },
     {
       "name": "behandelen",
       "name_en": "treated",
       "id": "p3267",
-      "also": "behandeld"
+      "also": "behandeld",
+      "domain": "body"
     },
     {
       "name": "behoefte",
       "name_en": "need (behoefte)",
       "id": "p3268",
-      "also": "behoeften"
+      "also": "behoeften",
+      "domain": "mental"
     },
     {
       "name": "beide",
       "name_en": "both",
-      "id": "p3269"
+      "id": "p3269",
+      "domain": "core"
     },
     {
       "name": "bekijken",
       "name_en": "view",
-      "id": "p3270"
+      "id": "p3270",
+      "domain": "experience"
     },
     {
       "name": "belasting",
       "name_en": "tax",
-      "id": "p3271"
+      "id": "p3271",
+      "domain": "resource"
     },
     {
       "name": "beleefd",
       "name_en": "polite",
-      "id": "p3272"
+      "id": "p3272",
+      "domain": "socium"
     },
     {
       "name": "beleefdheid",
       "name_en": "politeness",
-      "id": "p3273"
+      "id": "p3273",
+      "domain": "socium"
     },
     {
       "name": "belemmering",
       "name_en": "obstacle",
-      "id": "p3274"
-    },
-    {
-      "name": "belofte",
-      "name_en": "promise",
-      "id": "p3275"
+      "id": "p3274",
+      "domain": "core"
     },
     {
       "name": "beluisteren",
       "name_en": "listen to",
-      "id": "p3276"
-    },
-    {
-      "name": "bereiding",
-      "name_en": "leg",
-      "id": "p3277",
-      "also": "benen"
+      "id": "p3276",
+      "domain": "experience"
     },
     {
       "name": "bereiden",
       "name_en": "preparation",
-      "id": "p3278",
-      "also": "bereiding"
+      "id": "p3277",
+      "also": "bereiding",
+      "domain": "food",
+      "pos": "verb",
+      "name_nl2": "bereiding"
     },
     {
       "name": "beschikbaar",
       "name_en": "prepares",
       "id": "p3279",
-      "also": "bereidt"
+      "also": "bereidt",
+      "domain": "core"
     },
     {
       "name": "beslist",
       "name_en": "realized",
       "id": "p3280",
-      "also": "besefte"
+      "also": "besefte",
+      "domain": "mental"
     },
     {
       "name": "besluitvaardig",
       "name_en": "definitely",
       "id": "p3281",
-      "also": "beslist"
+      "also": "beslist",
+      "domain": "mental"
     },
     {
       "name": "besluitvorming",
       "name_en": "decisive",
       "id": "p3282",
-      "also": "besluitvaardig"
+      "also": "besluitvaardig",
+      "domain": "mental"
     },
     {
       "name": "besparen",
       "name_en": "decision-making",
       "id": "p3283",
-      "also": "besluitvorming"
+      "also": "besluitvorming",
+      "domain": "resource"
     },
     {
       "name": "bespelen",
       "name_en": "save",
       "id": "p3284",
-      "also": "besparen"
+      "also": "besparen",
+      "domain": "culture"
     },
     {
       "name": "betekenisvol",
       "name_en": "paid",
       "id": "p3285",
-      "also": "betaald"
+      "also": "betaald",
+      "domain": "mental"
     },
     {
       "name": "betrokkenheid",
       "name_en": "bit",
       "id": "p3286",
-      "also": "beten"
+      "also": "beten",
+      "domain": "socium"
     },
     {
       "name": "beu",
       "name_en": "reliable",
       "id": "p3287",
-      "also": "betrouwbare"
+      "also": "betrouwbare",
+      "domain": "mental"
     },
     {
       "name": "beurs",
       "name_en": "fed up",
       "id": "p3288",
-      "also": "beu"
+      "also": "beu",
+      "domain": "resource"
     },
     {
       "name": "bevel",
       "name_en": "fair",
       "id": "p3289",
-      "also": "beurs"
-    },
-    {
-      "name": "bevestiging",
-      "name_en": "command",
-      "id": "p3290",
-      "also": "bevel"
+      "also": "beurs",
+      "domain": "agentic"
     },
     {
       "name": "bewust",
       "name_en": "confirmation",
       "id": "p3291",
-      "also": "bevestiging"
-    },
-    {
-      "name": "bezoeker",
-      "name_en": "aware",
-      "id": "p3292",
-      "also": "bewust"
+      "also": "bevestiging",
+      "domain": "mental"
     },
     {
       "name": "bezorgd",
       "name_en": "visitor",
       "id": "p3293",
-      "also": "bezoekers"
+      "also": "bezoekers",
+      "domain": "mental"
     },
     {
       "name": "bijdragen",
       "name_en": "offers",
       "id": "p3294",
-      "also": "biedt"
+      "also": "biedt",
+      "domain": "agentic"
     },
     {
       "name": "bijeen",
       "name_en": "contribute",
       "id": "p3295",
-      "also": "bijdragen"
+      "also": "bijdragen",
+      "domain": "socium"
     },
     {
       "name": "bijeenkomst",
       "name_en": "together",
       "id": "p3296",
-      "also": "bijeen"
+      "also": "bijeen",
+      "domain": "socium"
     },
     {
       "name": "bijhouden",
       "name_en": "meeting",
       "id": "p3297",
-      "also": "bijeenkomst"
+      "also": "bijeenkomst",
+      "domain": "agentic"
     },
     {
       "name": "bijna",
       "name_en": "keep track",
       "id": "p3298",
-      "also": "bijhouden"
+      "also": "bijhouden",
+      "domain": "core"
     },
     {
       "name": "bizar",
       "name_en": "almost",
       "id": "p3299",
-      "also": "bijna"
+      "also": "bijna",
+      "domain": "mental"
     },
     {
       "name": "bleek",
       "name_en": "blue",
       "id": "p3300",
-      "also": "blauwe"
+      "also": "blauwe",
+      "domain": "experience"
     },
     {
       "name": "bloemenmotief",
       "name_en": "pale",
       "id": "p3301",
-      "also": "bleek"
+      "also": "bleek",
+      "domain": "culture"
     },
     {
       "name": "boekenkast",
       "name_en": "floral patterns",
       "id": "p3302",
-      "also": "bloemenmotieven"
+      "also": "bloemenmotieven",
+      "domain": "artifacts"
     },
     {
       "name": "boeket",
       "name_en": "bookcase",
       "id": "p3303",
-      "also": "boekenkast"
+      "also": "boekenkast",
+      "domain": "artifacts"
     },
     {
       "name": "boer",
       "name_en": "bouquet",
       "id": "p3304",
-      "also": "boeket"
+      "also": "boeket",
+      "domain": "socium"
     },
     {
       "name": "botsen",
       "name_en": "groceries",
       "id": "p3305",
-      "also": "boodschappen"
+      "also": "boodschappen",
+      "domain": "spatial"
     },
     {
       "name": "branche",
       "name_en": "collided",
       "id": "p3306",
-      "also": "botste"
+      "also": "botste",
+      "domain": "system"
     },
     {
       "name": "briefje",
       "name_en": "industry",
       "id": "p3307",
-      "also": "branche"
+      "also": "branche",
+      "domain": "language"
     },
     {
       "name": "bron",
       "name_en": "letter (brief)",
       "id": "p3308",
-      "also": "brieven"
+      "also": "brieven",
+      "domain": "knowledge"
     },
     {
       "name": "buitenleven",
       "name_en": "bridge",
       "id": "p3309",
-      "also": "bruggen"
+      "also": "bruggen",
+      "domain": "nature"
     },
     {
       "name": "buur",
       "name_en": "outdoor life",
       "id": "p3310",
-      "also": "buitenleven"
+      "also": "buitenleven",
+      "domain": "socium"
     },
     {
       "name": "buurland",
       "name_en": "neighbor",
       "id": "p3311",
-      "also": "buren"
+      "also": "buren",
+      "domain": "civil"
     },
     {
       "name": "buurman",
       "name_en": "neighboring countries",
       "id": "p3312",
-      "also": "buurlanden"
+      "also": "buurlanden",
+      "domain": "socium"
     },
     {
       "name": "cafeïne",
       "name_en": "gift",
       "id": "p3313",
-      "also": "cadeaus"
+      "also": "cadeaus",
+      "domain": "food"
     },
     {
       "name": "capabel",
       "name_en": "caffeine",
       "id": "p3314",
-      "also": "cafeïne"
+      "also": "cafeïne",
+      "domain": "agentic"
     },
     {
       "name": "capaciteit",
       "name_en": "capable",
       "id": "p3315",
-      "also": "capabel"
+      "also": "capabel",
+      "domain": "system"
     },
     {
       "name": "carrièreadvies",
       "name_en": "capacity",
       "id": "p3316",
-      "also": "capaciteit"
+      "also": "capaciteit",
+      "domain": "agentic"
     },
     {
       "name": "carrièreambitie",
       "name_en": "career advice",
       "id": "p3317",
-      "also": "carrièreadvies"
+      "also": "carrièreadvies",
+      "domain": "agentic"
     },
     {
       "name": "carrièrekeuze",
       "name_en": "career ambitions",
       "id": "p3318",
-      "also": "carrièreambities"
+      "also": "carrièreambities",
+      "domain": "agentic"
     },
     {
       "name": "charme",
       "name_en": "career choice",
       "id": "p3319",
-      "also": "carrièrekeuze"
+      "also": "carrièrekeuze",
+      "domain": "experience"
     },
     {
       "name": "concertkaartje",
       "name_en": "communicated",
       "id": "p3320",
-      "also": "communiceerden"
+      "also": "communiceerden",
+      "domain": "culture"
     },
     {
       "name": "",
       "name_en": "concert tickets",
       "id": "p3321",
-      "also": "concertkaartjes"
+      "also": "concertkaartjes",
+      "domain": "culture"
     },
     {
       "name": "conflict",
       "name_en": "conflict",
       "id": "p3322",
-      "also": "conflicten"
+      "also": "conflicten",
+      "domain": "socium"
     },
     {
       "name": "controversieel",
       "name_en": "controversial",
       "id": "p3323",
-      "also": "controversiële"
+      "also": "controversiële",
+      "domain": "socium"
     },
     {
       "name": "cultuur",
       "name_en": "culture",
-      "id": "p3324"
+      "id": "p3324",
+      "domain": "culture"
     },
     {
       "name": "curryrijst",
       "name_en": "curry rice",
-      "id": "p3325"
+      "id": "p3325",
+      "domain": "food"
     },
     {
       "name": "dame",
       "name_en": "lady",
-      "id": "p3326"
+      "id": "p3326",
+      "domain": "socium"
     },
     {
       "name": "degene",
       "name_en": "the one",
-      "id": "p3327"
+      "id": "p3327",
+      "domain": "core"
     },
     {
       "name": "denkwijze",
       "name_en": "mindset",
       "id": "p3328",
-      "also": "denkwijzen"
+      "also": "denkwijzen",
+      "domain": "mental"
     },
     {
       "name": "derde",
       "name_en": "third",
-      "id": "p3329"
+      "id": "p3329",
+      "domain": "core"
     },
     {
       "name": "deskundige",
       "name_en": "expert",
-      "id": "p3330"
+      "id": "p3330",
+      "domain": "knowledge"
     },
     {
       "name": "detectiveverhaal",
       "name_en": "detective story",
       "id": "p3331",
-      "also": "detectiveverhalen"
+      "also": "detectiveverhalen",
+      "domain": "culture"
     },
     {
       "name": "dezelfde",
       "name_en": "the same",
-      "id": "p3332"
+      "id": "p3332",
+      "domain": "core",
+      "also": "hetzelfde",
+      "topic": "compare",
+      "level": "b",
+      "similarity": "native",
+      "normalized": 0.778,
+      "stem": "zelf"
     },
     {
       "name": "dichterbij",
       "name_en": "closer",
-      "id": "p3333"
-    },
-    {
-      "name": "dineren",
-      "name_en": "dine",
-      "id": "p3334"
+      "id": "p3333",
+      "domain": "spatial"
     },
     {
       "name": "documentaire",
       "name_en": "documentary",
-      "id": "p3335"
+      "id": "p3335",
+      "domain": "culture"
     },
     {
       "name": "document",
       "name_en": "document",
       "id": "p3336",
-      "also": "documenten"
+      "also": "documenten",
+      "domain": "knowledge"
     },
     {
       "name": "donkergrijs",
       "name_en": "dark gray",
-      "id": "p3337"
+      "id": "p3337",
+      "domain": "experience"
     },
     {
       "name": "doorvoeren",
       "name_en": "implemented",
       "id": "p3338",
-      "also": "doorgevoerd"
+      "also": "doorgevoerd",
+      "domain": "agentic"
     },
     {
       "name": "doorlopen",
       "name_en": "go through",
-      "id": "p3339"
+      "id": "p3339",
+      "domain": "agentic"
     },
     {
       "name": "drijven",
       "name_en": "drives",
       "id": "p3340",
-      "also": "drijft"
+      "also": "drijft",
+      "domain": "core"
     },
     {
       "name": "drugsgebruik",
       "name_en": "drug use",
-      "id": "p3341"
+      "id": "p3341",
+      "domain": "civil"
     },
     {
       "name": "duizelig",
       "name_en": "dizzy",
-      "id": "p3342"
+      "id": "p3342",
+      "domain": "body"
     },
     {
       "name": "dumpen",
       "name_en": "dumped",
       "id": "p3343",
-      "also": "dumpte"
+      "also": "dumpte",
+      "domain": "socium"
     },
     {
       "name": "economisch",
       "name_en": "economic",
       "id": "p3344",
-      "also": "economische"
+      "also": "economische",
+      "domain": "resource"
     },
     {
       "name": "efficiëntie",
       "name_en": "efficiency",
-      "id": "p3345"
+      "id": "p3345",
+      "domain": "system"
     },
     {
       "name": "egocentrisch",
       "name_en": "self-centered",
-      "id": "p3346"
+      "id": "p3346",
+      "domain": "mental"
     },
     {
       "name": "elektriciteit",
       "name_en": "electricity",
-      "id": "p3347"
+      "id": "p3347",
+      "domain": "resource"
     },
     {
       "name": "elektronisch",
       "name_en": "electronic",
       "id": "p3348",
-      "also": "elektronische"
+      "also": "elektronische",
+      "domain": "system"
     },
     {
       "name": "emotioneel",
       "name_en": "emotional",
-      "id": "p3349"
+      "id": "p3349",
+      "domain": "mental"
     },
     {
       "name": "eng",
       "name_en": "scary",
-      "id": "p3350"
+      "id": "p3350",
+      "domain": "experience"
     },
     {
       "name": "envelop",
       "name_en": "envelope",
-      "id": "p3351"
+      "id": "p3351",
+      "domain": "artifacts"
     },
     {
       "name": "erachter",
       "name_en": "behind it",
-      "id": "p3352"
+      "id": "p3352",
+      "domain": "spatial"
     },
     {
       "name": "ergst",
       "name_en": "worst",
       "id": "p3353",
-      "also": "ergste"
-    },
-    {
-      "name": "erkennen",
-      "name_en": "acknowledged",
-      "id": "p3354",
-      "also": "erkende"
+      "also": "ergste",
+      "domain": "core"
     },
     {
       "name": "ernstig",
       "name_en": "serious",
-      "id": "p3355"
+      "id": "p3355",
+      "domain": "core"
     },
     {
       "name": "eroverheen",
       "name_en": "over it",
-      "id": "p3356"
+      "id": "p3356",
+      "domain": "spatial"
     },
     {
       "name": "exemplaar",
       "name_en": "copy",
-      "id": "p3357"
+      "id": "p3357",
+      "domain": "core"
     },
     {
       "name": "fantasierijk",
       "name_en": "imaginative",
-      "id": "p3358"
+      "id": "p3358",
+      "domain": "mental"
     },
     {
       "name": "fascinerend",
       "name_en": "fascinating",
-      "id": "p3359"
+      "id": "p3359",
+      "domain": "experience"
     },
     {
       "name": "feestdag",
       "name_en": "holidays",
       "id": "p3360",
-      "also": "feestdagen"
+      "also": "feestdagen",
+      "domain": "culture"
     },
     {
       "name": "feestje",
       "name_en": "party",
-      "id": "p3361"
+      "id": "p3361",
+      "domain": "socium"
     },
     {
       "name": "financieel",
       "name_en": "financial",
       "id": "p3362",
-      "also": "financiële"
+      "also": "financiële",
+      "domain": "resource"
     },
     {
       "name": "flatteus",
       "name_en": "more flattering",
       "id": "p3363",
-      "also": "flatteuzer"
+      "also": "flatteuzer",
+      "domain": "experience"
     },
     {
       "name": "fluisteren",
       "name_en": "whispered",
       "id": "p3364",
-      "also": "fluisterde"
+      "also": "fluisterde",
+      "domain": "language"
     },
     {
       "name": "foutopsporing",
       "name_en": "debugging",
-      "id": "p3365"
+      "id": "p3365",
+      "domain": "system"
     },
     {
       "name": "fysiotherapeut",
       "name_en": "physiotherapist",
-      "id": "p3366"
+      "id": "p3366",
+      "domain": "body"
     },
     {
       "name": "gangbaar",
       "name_en": "common",
-      "id": "p3367"
+      "id": "p3367",
+      "domain": "core"
     },
     {
       "name": "gat",
       "name_en": "hole",
       "id": "p3368",
-      "also": "gaten"
+      "also": "gaten",
+      "domain": "spatial"
     },
     {
       "name": "achten",
       "name_en": "esteemed",
       "id": "p3369",
-      "also": "geacht"
+      "also": "geacht",
+      "domain": "mental"
     },
     {
       "name": "geborgenheid",
       "name_en": "security",
-      "id": "p3370"
+      "id": "p3370",
+      "domain": "mental"
     },
     {
       "name": "gedetailleerd",
       "name_en": "detailed",
-      "id": "p3371"
+      "id": "p3371",
+      "domain": "core"
     },
     {
       "name": "gedoe",
       "name_en": "hassle",
-      "id": "p3372"
-    },
-    {
-      "name": "gedragen",
-      "name_en": "behaves",
-      "id": "p3373",
-      "also": "gedraagt"
+      "id": "p3372",
+      "domain": "core"
     },
     {
       "name": "gegrild",
       "name_en": "grilled",
       "id": "p3374",
-      "also": "gegrilde"
+      "also": "gegrilde",
+      "domain": "food"
     },
     {
       "name": "geldlimiet",
       "name_en": "spending limit",
-      "id": "p3375"
+      "id": "p3375",
+      "domain": "resource"
     },
     {
       "name": "gelegenheid",
       "name_en": "opportunity",
-      "id": "p3376"
+      "id": "p3376",
+      "domain": "core"
     },
     {
       "name": "gelijkmatig",
       "name_en": "even",
-      "id": "p3377"
+      "id": "p3377",
+      "domain": "core"
     },
     {
       "name": "gemeenschappelijk",
       "name_en": "common",
       "id": "p3378",
-      "also": "gemeenschappelijke"
+      "also": "gemeenschappelijke",
+      "domain": "socium"
     },
     {
       "name": "geschiedenisboek",
       "name_en": "history book",
-      "id": "p3379"
+      "id": "p3379",
+      "domain": "knowledge"
     },
     {
       "name": "geslacht",
       "name_en": "gender",
-      "id": "p3380"
+      "id": "p3380",
+      "domain": "life"
     },
     {
       "name": "geval",
       "name_en": "case",
-      "id": "p3381"
+      "id": "p3381",
+      "domain": "core"
     },
     {
       "name": "geweld",
       "name_en": "violence",
-      "id": "p3382"
+      "id": "p3382",
+      "domain": "civil"
     },
     {
       "name": "geweldloos",
       "name_en": "nonviolent",
       "id": "p3383",
-      "also": "geweldloze"
+      "also": "geweldloze",
+      "domain": "civil"
     },
     {
       "name": "gewond",
       "name_en": "injured",
-      "id": "p3384"
+      "id": "p3384",
+      "domain": "body"
     },
     {
       "name": "gewoonte",
       "name_en": "habit",
-      "id": "p3385"
+      "id": "p3385",
+      "domain": "mental"
     },
     {
       "name": "gezamenlijk",
       "name_en": "joint",
       "id": "p3386",
-      "also": "gezamenlijke"
+      "also": "gezamenlijke",
+      "domain": "socium"
     },
     {
       "name": "gezondheidsproblemen",
       "name_en": "health problems",
-      "id": "p3387"
+      "id": "p3387",
+      "domain": "body"
     },
     {
       "name": "erven",
       "name_en": "inherited",
       "id": "p3388",
-      "also": "geërfd"
+      "also": "geërfd",
+      "domain": "resource"
     },
     {
       "name": "gitaar",
       "name_en": "guitar",
-      "id": "p3389"
+      "id": "p3389",
+      "domain": "culture"
     },
     {
       "name": "gitaarspelen",
       "name_en": "guitar playing",
-      "id": "p3390"
+      "id": "p3390",
+      "domain": "culture"
     },
     {
       "name": "goedaardig",
       "name_en": "benign",
-      "id": "p3391"
+      "id": "p3391",
+      "domain": "body"
     },
     {
       "name": "goedmaken",
       "name_en": "make up",
-      "id": "p3392"
+      "id": "p3392",
+      "domain": "socium"
     },
     {
       "name": "greep",
       "name_en": "grip",
-      "id": "p3393"
+      "id": "p3393",
+      "domain": "core"
     },
     {
       "name": "griezelig",
       "name_en": "creepy",
-      "id": "p3394"
-    },
-    {
-      "name": "groeien",
-      "name_en": "grow",
-      "id": "p3395"
-    },
-    {
-      "name": "grootbrengen",
-      "name_en": "raised",
-      "id": "p3396",
-      "also": "grootgebracht"
+      "id": "p3394",
+      "domain": "experience"
     },
     {
       "name": "grootmoeder",
       "name_en": "grandmother",
-      "id": "p3397"
+      "id": "p3397",
+      "domain": "socium"
     },
     {
       "name": "grootvader",
       "name_en": "grandfather",
-      "id": "p3398"
+      "id": "p3398",
+      "domain": "socium"
     },
     {
       "name": "haard",
       "name_en": "fireplace",
-      "id": "p3399"
-    },
-    {
-      "name": "haasten",
-      "name_en": "hurry",
-      "id": "p3400"
+      "id": "p3399",
+      "domain": "artifacts"
     },
     {
       "name": "halfrond",
       "name_en": "hemisphere",
-      "id": "p3401"
+      "id": "p3401",
+      "domain": "spatial"
     },
     {
       "name": "handdruk",
       "name_en": "handshake",
-      "id": "p3402"
+      "id": "p3402",
+      "domain": "socium"
     },
     {
       "name": "hapje",
       "name_en": "snack",
-      "id": "p3403"
+      "id": "p3403",
+      "domain": "food"
     },
     {
       "name": "helaas",
       "name_en": "unfortunately",
-      "id": "p3404"
+      "id": "p3404",
+      "domain": "core"
     },
     {
       "name": "helft",
       "name_en": "half",
-      "id": "p3405"
+      "id": "p3405",
+      "domain": "core"
     },
     {
       "name": "herfst",
       "name_en": "autumn",
-      "id": "p3406"
-    },
-    {
-      "name": "herkenning",
-      "name_en": "recognition",
-      "id": "p3407"
+      "id": "p3406",
+      "domain": "nature"
     },
     {
       "name": "heterdaad",
       "name_en": "red-handed",
-      "id": "p3408"
+      "id": "p3408",
+      "domain": "civil"
     },
     {
       "name": "hevig",
       "name_en": "intense",
-      "id": "p3409"
+      "id": "p3409",
+      "domain": "core"
     },
     {
       "name": "hierheen",
       "name_en": "here",
-      "id": "p3410"
+      "id": "p3410",
+      "domain": "spatial"
     },
     {
       "name": "hiernaast",
       "name_en": "next door",
-      "id": "p3411"
+      "id": "p3411",
+      "domain": "spatial"
     },
     {
       "name": "hiervandaan",
       "name_en": "from here",
-      "id": "p3412"
+      "id": "p3412",
+      "domain": "spatial"
     },
     {
       "name": "hongerig",
       "name_en": "hungry",
       "id": "p3413",
-      "also": "hongerige"
+      "also": "hongerige",
+      "domain": "body"
     },
     {
       "name": "honing",
       "name_en": "honey",
-      "id": "p3414"
+      "id": "p3414",
+      "domain": "food"
     },
     {
       "name": "hoofddoel",
       "name_en": "main goal",
-      "id": "p3415"
+      "id": "p3415",
+      "domain": "agentic"
     },
     {
       "name": "hoofdstad",
       "name_en": "capital",
-      "id": "p3416"
+      "id": "p3416",
+      "domain": "spatial"
     },
     {
       "name": "huisvrouw",
       "name_en": "housewife",
-      "id": "p3417"
+      "id": "p3417",
+      "domain": "socium"
     },
     {
       "name": "ieder",
       "name_en": "each",
-      "id": "p3418"
+      "id": "p3418",
+      "domain": "core"
     },
     {
       "name": "iemands",
       "name_en": "someone's",
-      "id": "p3419"
+      "id": "p3419",
+      "domain": "core"
     },
     {
       "name": "indruk",
       "name_en": "impression",
-      "id": "p3420"
+      "id": "p3420",
+      "domain": "experience"
     },
     {
       "name": "informeel",
       "name_en": "informal",
       "id": "p3421",
-      "also": "informele"
+      "also": "informele",
+      "domain": "socium"
     },
     {
       "name": "invullen",
       "name_en": "filled in",
       "id": "p3422",
-      "also": "ingevuld"
+      "also": "ingevuld",
+      "domain": "agentic"
     },
     {
       "name": "inkoop",
       "name_en": "purchases",
       "id": "p3423",
-      "also": "inkopen"
+      "also": "inkopen",
+      "domain": "resource"
     },
     {
       "name": "inpakken",
       "name_en": "pack",
-      "id": "p3424"
+      "id": "p3424",
+      "domain": "agentic"
     },
     {
       "name": "inrichten",
       "name_en": "furnish",
-      "id": "p3425"
+      "id": "p3425",
+      "domain": "spatial"
     },
     {
       "name": "inspannen",
       "name_en": "exert",
-      "id": "p3426"
-    },
-    {
-      "name": "inspanning",
-      "name_en": "effort",
-      "id": "p3427"
+      "id": "p3426",
+      "domain": "agentic",
+      "pos": "verb",
+      "name_nl2": "inspanning"
     },
     {
       "name": "integriteit",
       "name_en": "integrity",
-      "id": "p3428"
+      "id": "p3428",
+      "domain": "mental"
     },
     {
       "name": "inwoner",
       "name_en": "inhabitant",
       "id": "p3429",
-      "also": "inwoners"
+      "also": "inwoners",
+      "domain": "socium"
     },
     {
       "name": "inzicht",
       "name_en": "insight",
       "id": "p3430",
-      "also": "inzichten"
+      "also": "inzichten, doorhebben",
+      "domain": "mental",
+      "topic": "understanding",
+      "level": "b",
+      "similarity": "native",
+      "stem": "zicht"
     },
     {
       "name": "irritant",
       "name_en": "annoying",
-      "id": "p3431"
+      "id": "p3431",
+      "domain": "mental",
+      "also": "vervelend"
     },
     {
       "name": "italiaans",
       "name_en": "italian",
       "id": "p3432",
-      "also": "italiaanse"
+      "also": "italiaanse",
+      "domain": "culture"
     },
     {
       "name": "jaloers",
       "name_en": "jealous",
-      "id": "p3433"
+      "id": "p3433",
+      "domain": "mental"
     },
     {
       "name": "jeugdherinnering",
       "name_en": "childhood memories",
       "id": "p3434",
-      "also": "jeugdherinneringen"
+      "also": "jeugdherinneringen",
+      "domain": "mental"
     },
     {
       "name": "jl",
       "name_en": "last",
-      "id": "p3435"
+      "id": "p3435",
+      "domain": "core"
     },
     {
       "name": "jongeman",
       "name_en": "young man",
-      "id": "p3436"
+      "id": "p3436",
+      "domain": "life"
     },
     {
       "name": "kaartlimiet",
       "name_en": "card limit",
-      "id": "p3437"
+      "id": "p3437",
+      "domain": "resource"
     },
     {
       "name": "kandidaat",
       "name_en": "candidate",
-      "id": "p3438"
+      "id": "p3438",
+      "domain": "socium"
     },
     {
       "name": "kapot",
       "name_en": "broken",
-      "id": "p3439"
+      "id": "p3439",
+      "domain": "core"
     },
     {
       "name": "kasteel",
       "name_en": "castle",
-      "id": "p3440"
+      "id": "p3440",
+      "domain": "artifacts"
     },
     {
       "name": "kernwapen",
       "name_en": "nuclear weapons",
       "id": "p3441",
-      "also": "kernwapens"
+      "also": "kernwapens",
+      "domain": "civil"
     },
     {
       "name": "kerstvakantie",
       "name_en": "christmas holiday",
-      "id": "p3442"
+      "id": "p3442",
+      "domain": "culture"
     },
     {
       "name": "klassiek",
       "name_en": "classic",
       "id": "p3443",
-      "also": "klassieke"
+      "also": "klassieke",
+      "domain": "culture"
     },
     {
       "name": "klimaatverandering",
       "name_en": "climate change",
-      "id": "p3444"
+      "id": "p3444",
+      "domain": "nature"
     },
     {
       "name": "koesteren",
       "name_en": "cherish",
       "id": "p3445",
-      "also": "koester"
+      "also": "koester",
+      "domain": "mental"
     },
     {
       "name": "kok",
       "name_en": "cook",
-      "id": "p3446"
+      "id": "p3446",
+      "domain": "socium"
     },
     {
       "name": "krachttraining",
       "name_en": "strength training",
-      "id": "p3447"
+      "id": "p3447",
+      "domain": "body"
     },
     {
       "name": "krap",
       "name_en": "tight",
-      "id": "p3448"
+      "id": "p3448",
+      "domain": "core"
     },
     {
       "name": "kringloop",
       "name_en": "thrift",
-      "id": "p3449"
-    },
-    {
-      "name": "krukje",
-      "name_en": "stool",
-      "id": "p3450"
+      "id": "p3449",
+      "domain": "resource"
     },
     {
       "name": "kwalijk",
       "name_en": "bad",
-      "id": "p3451"
+      "id": "p3451",
+      "domain": "core"
     },
     {
       "name": "lancering",
       "name_en": "launch",
       "id": "p3452",
-      "also": "lanceringen"
+      "also": "lanceringen",
+      "domain": "agentic"
     },
     {
       "name": "landschap",
       "name_en": "landscape",
-      "id": "p3453"
+      "id": "p3453",
+      "domain": "nature"
     },
     {
       "name": "langeafstandsrelatie",
       "name_en": "long-distance relationship",
-      "id": "p3454"
+      "id": "p3454",
+      "domain": "socium"
     },
     {
       "name": "leeftijdsgenoot",
       "name_en": "peer",
       "id": "p3455",
-      "also": "leeftijdsgenoten"
+      "also": "leeftijdsgenoten",
+      "domain": "socium"
     },
     {
       "name": "leerproces",
       "name_en": "learning process",
-      "id": "p3456"
+      "id": "p3456",
+      "domain": "knowledge"
     },
     {
       "name": "leesplezier",
       "name_en": "reading pleasure",
-      "id": "p3457"
+      "id": "p3457",
+      "domain": "culture"
     },
     {
       "name": "lesgeven",
       "name_en": "teach",
-      "id": "p3458"
+      "id": "p3458",
+      "domain": "knowledge",
+      "also": "onderwijzen, onderwijs",
+      "topic": "cooperate",
+      "level": "a",
+      "similarity": "native",
+      "stem": "wijs"
     },
     {
       "name": "leugen",
       "name_en": "lie",
-      "id": "p3459"
+      "id": "p3459",
+      "domain": "language"
     },
     {
       "name": "leunen",
       "name_en": "leans",
       "id": "p3460",
-      "also": "leunt"
+      "also": "leunt",
+      "domain": "core"
     },
     {
       "name": "lichaamsbeweging",
       "name_en": "exercise",
-      "id": "p3461"
-    },
-    {
-      "name": "liedje",
-      "name_en": "song",
-      "id": "p3462",
-      "also": "liedjes"
+      "id": "p3461",
+      "domain": "body"
     },
     {
       "name": "liefdevol",
       "name_en": "loving",
-      "id": "p3463"
+      "id": "p3463",
+      "domain": "mental"
     },
     {
       "name": "lift",
       "name_en": "elevator",
-      "id": "p3464"
+      "id": "p3464",
+      "domain": "artifacts"
     },
     {
       "name": "literatuur",
       "name_en": "literature",
-      "id": "p3465"
+      "id": "p3465",
+      "domain": "culture"
     },
     {
       "name": "lonend",
       "name_en": "rewarding",
-      "id": "p3466"
+      "id": "p3466",
+      "domain": "agentic"
     },
     {
       "name": "loslopen",
       "name_en": "runs loose",
       "id": "p3467",
-      "also": "losloopt"
+      "also": "losloopt",
+      "domain": "spatial"
     },
     {
       "name": "lot",
       "name_en": "fate",
-      "id": "p3468"
+      "id": "p3468",
+      "domain": "core",
+      "also": "noodlot",
+      "topic": "potention",
+      "level": "b",
+      "similarity": "native",
+      "stem": "nood"
     },
     {
       "name": "mate",
       "name_en": "degree",
-      "id": "p3469"
+      "id": "p3469",
+      "domain": "core"
     },
     {
       "name": "meemaken",
       "name_en": "experienced",
       "id": "p3470",
-      "also": "meegemaakt"
+      "also": "meegemaakt",
+      "domain": "experience"
     },
     {
       "name": "menselijk",
       "name_en": "human",
-      "id": "p3471"
+      "id": "p3471",
+      "domain": "life"
     },
     {
       "name": "mentor",
       "name_en": "mentor",
       "id": "p3472",
-      "also": "mentoren"
+      "also": "mentoren",
+      "domain": "socium"
     },
     {
       "name": "metgezel",
       "name_en": "companion",
       "id": "p3473",
-      "also": "metgezellen"
+      "also": "metgezellen",
+      "domain": "socium"
     },
     {
       "name": "meubelfabriek",
       "name_en": "furniture factory",
-      "id": "p3474"
+      "id": "p3474",
+      "domain": "resource"
     },
     {
       "name": "middag",
       "name_en": "afternoon",
-      "id": "p3475"
+      "id": "p3475",
+      "domain": "core"
     },
     {
       "name": "middagvlucht",
       "name_en": "afternoon flight",
-      "id": "p3476"
+      "id": "p3476",
+      "domain": "spatial"
     },
     {
       "name": "middelbaar",
       "name_en": "secondary",
       "id": "p3477",
-      "also": "middelbare"
+      "also": "middelbare",
+      "domain": "knowledge"
     },
     {
       "name": "middernacht",
       "name_en": "midnight",
-      "id": "p3478"
+      "id": "p3478",
+      "domain": "core"
     },
     {
       "name": "mijl",
       "name_en": "mile",
-      "id": "p3479"
+      "id": "p3479",
+      "domain": "spatial"
     },
     {
       "name": "mijne",
       "name_en": "mine",
-      "id": "p3480"
+      "id": "p3480",
+      "domain": "core"
     },
     {
       "name": "minst",
       "name_en": "least",
       "id": "p3481",
-      "also": "minste"
+      "also": "minste",
+      "domain": "core"
     },
     {
       "name": "misdaad",
       "name_en": "crime",
-      "id": "p3482"
+      "id": "p3482",
+      "domain": "civil",
+      "also": "misdrijf"
     },
     {
       "name": "mobiel",
       "name_en": "mobile",
-      "id": "p3483"
+      "id": "p3483",
+      "domain": "artifacts"
     },
     {
       "name": "moedertaal",
       "name_en": "mother tongue",
-      "id": "p3484"
+      "id": "p3484",
+      "domain": "language"
     },
     {
       "name": "monumentaal",
       "name_en": "monumental",
-      "id": "p3485"
+      "id": "p3485",
+      "domain": "culture"
     },
     {
       "name": "muggenbeet",
       "name_en": "mosquito bites",
       "id": "p3486",
-      "also": "muggenbeten"
+      "also": "muggenbeten",
+      "domain": "body"
     },
     {
       "name": "muggenspray",
       "name_en": "mosquito spray",
-      "id": "p3487"
+      "id": "p3487",
+      "domain": "artifacts"
     },
     {
       "name": "mysterieus",
       "name_en": "mysterious",
       "id": "p3488",
-      "also": "mysterieuze"
+      "also": "mysterieuze",
+      "domain": "experience"
     },
     {
       "name": "naderen",
       "name_en": "approaches",
       "id": "p3489",
-      "also": "nadert"
+      "also": "nadert",
+      "domain": "spatial"
     },
     {
       "name": "najagen",
       "name_en": "pursue",
-      "id": "p3490"
+      "id": "p3490",
+      "domain": "agentic"
     },
     {
       "name": "nat",
       "name_en": "wet",
-      "id": "p3491"
+      "id": "p3491",
+      "domain": "core"
     },
     {
       "name": "nationaal",
       "name_en": "national",
       "id": "p3492",
-      "also": "nationale"
+      "also": "nationale",
+      "domain": "civil"
     },
     {
       "name": "nauwkeurig",
       "name_en": "accurate",
-      "id": "p3493"
+      "id": "p3493",
+      "domain": "core"
     },
     {
       "name": "neergang",
       "name_en": "declines",
       "id": "p3494",
-      "also": "neergangen"
+      "also": "neergangen",
+      "domain": "core"
     },
     {
       "name": "niks",
       "name_en": "nothing",
-      "id": "p3495"
+      "id": "p3495",
+      "domain": "core"
     },
     {
       "name": "nood",
       "name_en": "need",
-      "id": "p3496"
+      "id": "p3496",
+      "domain": "core"
     },
     {
       "name": "noodzakelijk",
       "name_en": "necessary",
-      "id": "p3497"
+      "id": "p3497",
+      "domain": "core"
     },
     {
       "name": "ochtends",
       "name_en": "mornings",
-      "id": "p3498"
+      "id": "p3498",
+      "domain": "core"
     },
     {
       "name": "olympisch",
       "name_en": "olympic",
       "id": "p3499",
-      "also": "olympische"
+      "also": "olympische",
+      "domain": "experience"
     },
     {
       "name": "omcirkelen",
       "name_en": "circled",
       "id": "p3500",
-      "also": "omcirkeld"
+      "also": "omcirkeld",
+      "domain": "agentic"
     },
     {
       "name": "omhoog",
       "name_en": "up",
-      "id": "p3501"
+      "id": "p3501",
+      "domain": "spatial"
     },
     {
       "name": "omvang",
       "name_en": "size",
-      "id": "p3502"
+      "id": "p3502",
+      "domain": "core"
     },
     {
       "name": "onaanvaardbaar",
       "name_en": "unacceptable",
-      "id": "p3503"
+      "id": "p3503",
+      "domain": "core"
     },
     {
       "name": "onderneming",
       "name_en": "enterprise",
-      "id": "p3504"
+      "id": "p3504",
+      "domain": "resource"
     },
     {
       "name": "onderrug",
       "name_en": "lower back",
-      "id": "p3505"
+      "id": "p3505",
+      "domain": "body"
     },
     {
       "name": "onderwijssysteem",
       "name_en": "education system",
-      "id": "p3506"
-    },
-    {
-      "name": "onderzoeken",
-      "name_en": "investigate",
-      "id": "p3507"
+      "id": "p3506",
+      "domain": "knowledge"
     },
     {
       "name": "ongekend",
       "name_en": "unprecedented",
-      "id": "p3508"
+      "id": "p3508",
+      "domain": "core"
     },
     {
       "name": "ongelooflijk",
       "name_en": "incredible",
-      "id": "p3509"
+      "id": "p3509",
+      "domain": "experience"
     },
     {
       "name": "ongeluk",
       "name_en": "accident",
-      "id": "p3510"
+      "id": "p3510",
+      "domain": "core"
     },
     {
       "name": "ongemakkelijk",
       "name_en": "uncomfortable",
-      "id": "p3511"
+      "id": "p3511",
+      "domain": "experience"
     },
     {
       "name": "ongewoon",
       "name_en": "unusual",
-      "id": "p3512"
-    },
-    {
-      "name": "onlangs",
-      "name_en": "recently",
-      "id": "p3513"
+      "id": "p3512",
+      "domain": "core"
     },
     {
       "name": "onmiddellijk",
       "name_en": "immediate",
       "id": "p3514",
-      "also": "onmiddellijke"
+      "also": "onmiddellijke",
+      "domain": "core"
     },
     {
       "name": "onmisbaar",
       "name_en": "indispensable",
-      "id": "p3515"
+      "id": "p3515",
+      "domain": "core"
     },
     {
       "name": "ontwapening",
       "name_en": "disarmament",
-      "id": "p3516"
-    },
-    {
-      "name": "ontwikkeling",
-      "name_en": "development",
-      "id": "p3517"
+      "id": "p3516",
+      "domain": "civil"
     },
     {
       "name": "onverschillig",
       "name_en": "indifferent",
-      "id": "p3518"
+      "id": "p3518",
+      "domain": "mental"
     },
     {
       "name": "onvoorspelbaar",
       "name_en": "unpredictable",
-      "id": "p3519"
+      "id": "p3519",
+      "domain": "core"
     },
     {
       "name": "onzeker",
       "name_en": "uncertain",
       "id": "p3520",
-      "also": "onzekere"
+      "also": "onzekere",
+      "domain": "mental"
     },
     {
       "name": "oordeel",
       "name_en": "judgment",
-      "id": "p3521"
+      "id": "p3521",
+      "domain": "mental"
     },
     {
       "name": "opblijven",
       "name_en": "stay up",
-      "id": "p3522"
+      "id": "p3522",
+      "domain": "core"
     },
     {
       "name": "opduiken",
       "name_en": "pop up",
-      "id": "p3523"
+      "id": "p3523",
+      "domain": "core"
     },
     {
       "name": "openbaar",
       "name_en": "public",
-      "id": "p3524"
+      "id": "p3524",
+      "domain": "civil"
     },
     {
       "name": "openen",
       "name_en": "open",
-      "id": "p3525"
-    },
-    {
-      "name": "opvoeden",
-      "name_en": "raised",
-      "id": "p3526",
-      "also": "opgevoed"
+      "id": "p3525",
+      "domain": "agentic"
     },
     {
       "name": "opgewonden",
       "name_en": "excited",
-      "id": "p3527"
+      "id": "p3527",
+      "domain": "mental"
     },
     {
       "name": "opkijken",
       "name_en": "looks up",
       "id": "p3528",
-      "also": "opkijkt"
+      "also": "opkijkt",
+      "domain": "core"
     },
     {
       "name": "opkomend",
       "name_en": "emerging",
       "id": "p3529",
-      "also": "opkomende"
+      "also": "opkomende",
+      "domain": "core"
     },
     {
       "name": "oplader",
       "name_en": "charger",
-      "id": "p3530"
+      "id": "p3530",
+      "domain": "artifacts"
     },
     {
       "name": "opmerkelijk",
       "name_en": "remarkable",
-      "id": "p3531"
+      "id": "p3531",
+      "domain": "core"
     },
     {
       "name": "oprit",
       "name_en": "driveway",
-      "id": "p3532"
+      "id": "p3532",
+      "domain": "spatial"
     },
     {
       "name": "opwindend",
       "name_en": "exciting",
-      "id": "p3533"
+      "id": "p3533",
+      "domain": "experience"
     },
     {
       "name": "ouderenzorg",
       "name_en": "elderly care",
-      "id": "p3534"
+      "id": "p3534",
+      "domain": "socium"
     },
     {
       "name": "overal",
       "name_en": "everywhere",
-      "id": "p3535"
+      "id": "p3535",
+      "domain": "spatial"
     },
     {
       "name": "overdrijven",
       "name_en": "exaggerate",
       "id": "p3536",
-      "also": "overdrijf"
+      "also": "overdrijf",
+      "domain": "language"
     },
     {
       "name": "overnemen",
       "name_en": "take over",
-      "id": "p3537"
+      "id": "p3537",
+      "domain": "agentic"
     },
     {
       "name": "overtreffen",
       "name_en": "surpassed",
       "id": "p3538",
-      "also": "overtrof"
+      "also": "overtrof",
+      "domain": "agentic"
     },
     {
       "name": "overtuigend",
       "name_en": "convincing",
-      "id": "p3539"
-    },
-    {
-      "name": "overwinning",
-      "name_en": "victory",
-      "id": "p3540"
+      "id": "p3539",
+      "domain": "language"
     },
     {
       "name": "overzien",
       "name_en": "oversee",
-      "id": "p3541"
+      "id": "p3541",
+      "domain": "agentic"
     },
     {
       "name": "pagina",
       "name_en": "page",
-      "id": "p3542"
+      "id": "p3542",
+      "domain": "artifacts"
     },
     {
       "name": "pak",
       "name_en": "suit",
-      "id": "p3543"
+      "id": "p3543",
+      "domain": "artifacts"
     },
     {
       "name": "paradijs",
       "name_en": "paradise",
-      "id": "p3544"
+      "id": "p3544",
+      "domain": "experience"
     },
     {
       "name": "pasje",
       "name_en": "pass",
-      "id": "p3545"
-    },
-    {
-      "name": "pauzeren",
-      "name_en": "pause",
-      "id": "p3546",
-      "also": "pauzeer"
+      "id": "p3545",
+      "domain": "artifacts"
     },
     {
       "name": "peinzend",
       "name_en": "pensive",
-      "id": "p3547"
+      "id": "p3547",
+      "domain": "mental"
     },
     {
       "name": "persoonlijkheid",
       "name_en": "personality",
-      "id": "p3548"
+      "id": "p3548",
+      "domain": "mental"
     },
     {
       "name": "pianoles",
       "name_en": "piano lesson",
-      "id": "p3549"
+      "id": "p3549",
+      "domain": "culture"
     },
     {
       "name": "picknick",
       "name_en": "picnic",
-      "id": "p3550"
+      "id": "p3550",
+      "domain": "experience"
     },
     {
       "name": "piepen",
       "name_en": "beep",
-      "id": "p3551"
+      "id": "p3551",
+      "domain": "core"
     },
     {
       "name": "piloot",
       "name_en": "pilot",
-      "id": "p3552"
+      "id": "p3552",
+      "domain": "socium"
     },
     {
       "name": "plaatsvinden",
       "name_en": "take place",
-      "id": "p3553"
-    },
-    {
-      "name": "plakken",
-      "name_en": "stick",
-      "id": "p3554"
+      "id": "p3553",
+      "domain": "core"
     },
     {
       "name": "plank",
       "name_en": "shelf",
-      "id": "p3555"
+      "id": "p3555",
+      "domain": "artifacts"
     },
     {
       "name": "platteland",
       "name_en": "countryside",
-      "id": "p3556"
+      "id": "p3556",
+      "domain": "nature"
     },
     {
       "name": "plattelandsleven",
       "name_en": "country life",
-      "id": "p3557"
+      "id": "p3557",
+      "domain": "nature"
     },
     {
       "name": "podium",
       "name_en": "stage",
-      "id": "p3558"
+      "id": "p3558",
+      "domain": "culture"
     },
     {
       "name": "positie",
       "name_en": "position",
-      "id": "p3559"
-    },
-    {
-      "name": "posten",
-      "name_en": "post",
-      "id": "p3560"
+      "id": "p3559",
+      "domain": "core"
     },
     {
       "name": "postkantoor",
       "name_en": "post office",
-      "id": "p3561"
+      "id": "p3561",
+      "domain": "civil"
     },
     {
       "name": "prioriteit",
       "name_en": "priority",
-      "id": "p3562"
+      "id": "p3562",
+      "domain": "agentic"
     },
     {
       "name": "proces",
       "name_en": "process",
-      "id": "p3563"
+      "id": "p3563",
+      "domain": "system"
     },
     {
       "name": "productie",
       "name_en": "production",
-      "id": "p3564"
+      "id": "p3564",
+      "domain": "resource"
     },
     {
       "name": "productief",
       "name_en": "productive",
-      "id": "p3565"
+      "id": "p3565",
+      "domain": "agentic"
     },
     {
       "name": "professioneel",
       "name_en": "professional",
-      "id": "p3566"
+      "id": "p3566",
+      "domain": "agentic"
     },
     {
       "name": "profiel",
       "name_en": "profile",
-      "id": "p3567"
+      "id": "p3567",
+      "domain": "knowledge"
     },
     {
       "name": "profielfoto",
       "name_en": "profile picture",
-      "id": "p3568"
+      "id": "p3568",
+      "domain": "culture"
     },
     {
       "name": "publiek",
       "name_en": "audience",
-      "id": "p3569"
+      "id": "p3569",
+      "domain": "socium"
     },
     {
       "name": "punt",
       "name_en": "point",
-      "id": "p3570"
+      "id": "p3570",
+      "domain": "core"
     },
     {
       "name": "puzzel",
       "name_en": "puzzle",
-      "id": "p3571"
+      "id": "p3571",
+      "domain": "culture"
     },
     {
       "name": "raap",
       "name_en": "turnip",
-      "id": "p3572"
+      "id": "p3572",
+      "domain": "food"
     },
     {
       "name": "rammelen",
       "name_en": "rattle",
       "id": "p3573",
-      "also": "rammel"
+      "also": "rammel",
+      "domain": "core"
     },
     {
       "name": "ras",
       "name_en": "breed",
-      "id": "p3574"
+      "id": "p3574",
+      "domain": "life"
     },
     {
       "name": "recht",
       "name_en": "right",
-      "id": "p3575"
+      "id": "p3575",
+      "domain": "civil"
     },
     {
       "name": "rechtstreeks",
       "name_en": "direct",
-      "id": "p3576"
+      "id": "p3576",
+      "domain": "core"
     },
     {
       "name": "reiken",
       "name_en": "reached",
       "id": "p3577",
-      "also": "reikte"
+      "also": "reikte",
+      "domain": "spatial"
     },
     {
       "name": "reisplannen",
       "name_en": "travel plans",
-      "id": "p3578"
+      "id": "p3578",
+      "domain": "spatial"
     },
     {
       "name": "rekken",
       "name_en": "stretch",
-      "id": "p3579"
+      "id": "p3579",
+      "domain": "body",
+      "also": "strekken, strekking",
+      "topic": "transform",
+      "level": "b",
+      "similarity": "native",
+      "normalized": 0.5,
+      "stem": "strek"
     },
     {
       "name": "respecteren",
       "name_en": "respect",
-      "id": "p3580"
-    },
-    {
-      "name": "richten",
-      "name_en": "aims",
-      "id": "p3581",
-      "also": "richt"
+      "id": "p3580",
+      "domain": "socium"
     },
     {
       "name": "richtlijn",
       "name_en": "guideline",
       "id": "p3582",
-      "also": "richtlijnen"
+      "also": "richtlijnen",
+      "domain": "system"
     },
     {
       "name": "roman",
       "name_en": "novel",
-      "id": "p3583"
+      "id": "p3583",
+      "domain": "culture"
     },
     {
       "name": "room",
       "name_en": "cream",
-      "id": "p3584"
+      "id": "p3584",
+      "domain": "food"
     },
     {
       "name": "rustgevend",
       "name_en": "soothing",
-      "id": "p3585"
+      "id": "p3585",
+      "domain": "experience"
     },
     {
       "name": "schaduw",
       "name_en": "shadow",
-      "id": "p3586"
-    },
-    {
-      "name": "schenken",
-      "name_en": "pour",
-      "id": "p3587",
-      "also": "schenk"
+      "id": "p3586",
+      "domain": "nature"
     },
     {
       "name": "schilderachtig",
       "name_en": "picturesque",
-      "id": "p3588"
+      "id": "p3588",
+      "domain": "experience"
     },
     {
       "name": "scholier",
       "name_en": "pupil",
       "id": "p3589",
-      "also": "scholieren"
+      "also": "scholieren",
+      "domain": "socium"
     },
     {
       "name": "schoolevenementen",
       "name_en": "school events",
-      "id": "p3590"
+      "id": "p3590",
+      "domain": "knowledge"
     },
     {
       "name": "schoolreisje",
       "name_en": "school trip",
-      "id": "p3591"
+      "id": "p3591",
+      "domain": "knowledge"
     },
     {
       "name": "schoolvakantie",
       "name_en": "school holiday",
-      "id": "p3592"
+      "id": "p3592",
+      "domain": "knowledge"
     },
     {
       "name": "schoot",
       "name_en": "lap",
-      "id": "p3593"
+      "id": "p3593",
+      "domain": "body"
     },
     {
       "name": "schrapen",
       "name_en": "scrapes",
       "id": "p3594",
-      "also": "schraapt"
+      "also": "schraapt",
+      "domain": "core"
     },
     {
       "name": "sigaret",
       "name_en": "cigarettes",
       "id": "p3595",
-      "also": "sigaretten"
+      "also": "sigaretten",
+      "domain": "artifacts"
     },
     {
       "name": "skiresort",
       "name_en": "ski resorts",
       "id": "p3596",
-      "also": "skiresorts"
+      "also": "skiresorts",
+      "domain": "spatial"
     },
     {
       "name": "slaperig",
       "name_en": "sleepy",
-      "id": "p3597"
+      "id": "p3597",
+      "domain": "body"
     },
     {
       "name": "slokje",
       "name_en": "sip",
-      "id": "p3598"
+      "id": "p3598",
+      "domain": "food"
     },
     {
       "name": "sneeuwen",
       "name_en": "snows",
       "id": "p3599",
-      "also": "sneeuwt"
+      "also": "sneeuwt",
+      "domain": "nature"
     },
     {
       "name": "solide",
       "name_en": "solid",
-      "id": "p3600"
+      "id": "p3600",
+      "domain": "core"
     },
     {
       "name": "sommige",
       "name_en": "some",
-      "id": "p3601"
+      "id": "p3601",
+      "domain": "core"
     },
     {
       "name": "spektakel",
       "name_en": "spectacle",
-      "id": "p3602"
+      "id": "p3602",
+      "domain": "culture"
     },
     {
       "name": "spoedig",
       "name_en": "soon",
-      "id": "p3603"
+      "id": "p3603",
+      "domain": "core",
+      "also": "binnenkort"
     },
     {
       "name": "sportdag",
       "name_en": "sports day",
-      "id": "p3604"
+      "id": "p3604",
+      "domain": "experience"
     },
     {
       "name": "spreekvaardigheid",
       "name_en": "speaking skill",
-      "id": "p3605"
+      "id": "p3605",
+      "domain": "language"
     },
     {
       "name": "stabiliseren",
       "name_en": "stabilizes",
       "id": "p3606",
-      "also": "stabiliseert"
+      "also": "stabiliseert",
+      "domain": "system"
     },
     {
       "name": "stadhuis",
       "name_en": "town hall",
-      "id": "p3607"
+      "id": "p3607",
+      "domain": "civil"
     },
     {
       "name": "stadsleven",
       "name_en": "city life",
-      "id": "p3608"
+      "id": "p3608",
+      "domain": "socium"
     },
     {
       "name": "stijlvol",
       "name_en": "stylish",
-      "id": "p3609"
+      "id": "p3609",
+      "domain": "experience"
     },
     {
       "name": "strategiespellen",
       "name_en": "strategy games",
-      "id": "p3610"
+      "id": "p3610",
+      "domain": "culture"
     },
     {
       "name": "strategie",
       "name_en": "strategy",
       "id": "p3611",
-      "also": "strategieën"
+      "also": "strategieën",
+      "domain": "agentic"
     },
     {
       "name": "streven",
       "name_en": "strive",
       "id": "p3612",
-      "also": "streef"
+      "also": "streef",
+      "domain": "agentic"
     },
     {
       "name": "streng",
       "name_en": "strict",
-      "id": "p3613"
+      "id": "p3613",
+      "domain": "mental"
     },
     {
       "name": "student",
       "name_en": "student",
       "id": "p3614",
-      "also": "studenten"
+      "also": "studenten",
+      "domain": "socium"
     },
     {
       "name": "studentenpas",
       "name_en": "student card",
-      "id": "p3615"
+      "id": "p3615",
+      "domain": "artifacts"
     },
     {
       "name": "subtiel",
       "name_en": "subtle",
       "id": "p3616",
-      "also": "subtiele"
-    },
-    {
-      "name": "surfer",
-      "name_en": "surfer",
-      "id": "p3617",
-      "also": "surfers"
+      "also": "subtiele",
+      "domain": "experience"
     },
     {
       "name": "taak",
       "name_en": "task",
-      "id": "p3618"
+      "id": "p3618",
+      "domain": "agentic",
+      "also": "opdracht",
+      "topic": "solution",
+      "level": "b",
+      "similarity": "native",
+      "stem": "taak"
     },
     {
       "name": "taxfreeshops",
       "name_en": "tax-free shops",
-      "id": "p3619"
+      "id": "p3619",
+      "domain": "resource"
     },
     {
       "name": "taxfreewinkelen",
       "name_en": "tax-free shopping",
-      "id": "p3620"
+      "id": "p3620",
+      "domain": "resource"
     },
     {
       "name": "telefoonnummer",
       "name_en": "phone number",
-      "id": "p3621"
+      "id": "p3621",
+      "domain": "core"
     },
     {
       "name": "teleurstellend",
       "name_en": "disappointing",
-      "id": "p3622"
+      "id": "p3622",
+      "domain": "mental"
     },
     {
       "name": "televisie",
       "name_en": "television",
       "id": "p3623",
-      "also": "televisies"
+      "also": "televisies",
+      "domain": "artifacts"
     },
     {
       "name": "tempo",
       "name_en": "pace",
-      "id": "p3624"
+      "id": "p3624",
+      "domain": "core"
     },
     {
       "name": "tennisbaan",
       "name_en": "tennis court",
-      "id": "p3625"
+      "id": "p3625",
+      "domain": "spatial"
     },
     {
       "name": "tennissen",
       "name_en": "to play tennis",
-      "id": "p3626"
+      "id": "p3626",
+      "domain": "experience"
     },
     {
       "name": "term",
       "name_en": "term",
       "id": "p3627",
-      "also": "termen"
+      "also": "termen",
+      "domain": "language"
     },
     {
       "name": "terras",
       "name_en": "terrace",
-      "id": "p3628"
+      "id": "p3628",
+      "domain": "spatial"
     },
     {
       "name": "teruggeven",
       "name_en": "gives back",
       "id": "p3629",
-      "also": "teruggeeft"
+      "also": "teruggeeft",
+      "domain": "core"
     },
     {
       "name": "terugschroeven",
       "name_en": "to scale back",
-      "id": "p3630"
+      "id": "p3630",
+      "domain": "core"
     },
     {
       "name": "tevredenheid",
       "name_en": "satisfaction",
-      "id": "p3631"
+      "id": "p3631",
+      "domain": "mental"
     },
     {
       "name": "thuisblijven",
       "name_en": "to stay home",
-      "id": "p3632"
+      "id": "p3632",
+      "domain": "core"
     },
     {
       "name": "tien",
       "name_en": "ten",
-      "id": "p3633"
+      "id": "p3633",
+      "domain": "core"
     },
     {
       "name": "tientje",
       "name_en": "ten euros",
-      "id": "p3634"
+      "id": "p3634",
+      "domain": "resource"
     },
     {
       "name": "tijdmanagement",
       "name_en": "time management",
-      "id": "p3635"
+      "id": "p3635",
+      "domain": "agentic"
     },
     {
       "name": "tijdverdrijf",
       "name_en": "pastime",
-      "id": "p3636"
+      "id": "p3636",
+      "domain": "experience"
     },
     {
       "name": "timmerman",
       "name_en": "carpenter",
-      "id": "p3637"
+      "id": "p3637",
+      "domain": "socium"
     },
     {
       "name": "timmerwerk",
       "name_en": "carpentry",
-      "id": "p3638"
+      "id": "p3638",
+      "domain": "artifacts"
     },
     {
       "name": "toegankelijk",
       "name_en": "accessible",
-      "id": "p3639"
+      "id": "p3639",
+      "domain": "core"
     },
     {
       "name": "toegepast",
       "name_en": "applied",
-      "id": "p3640"
-    },
-    {
-      "name": "toekomstig",
-      "name_en": "future",
-      "id": "p3641"
+      "id": "p3640",
+      "domain": "core"
     },
     {
       "name": "toeslaan",
       "name_en": "to strike",
-      "id": "p3642"
+      "id": "p3642",
+      "domain": "core"
     },
     {
       "name": "toevallig",
       "name_en": "by chance",
-      "id": "p3643"
+      "id": "p3643",
+      "domain": "core"
     },
     {
       "name": "toewijding",
       "name_en": "dedication",
-      "id": "p3644"
+      "id": "p3644",
+      "domain": "mental"
     },
     {
       "name": "topseizoen",
       "name_en": "peak season",
-      "id": "p3645"
+      "id": "p3645",
+      "domain": "core"
     },
     {
       "name": "totaal",
       "name_en": "total",
-      "id": "p3646"
+      "id": "p3646",
+      "domain": "core"
     },
     {
       "name": "traankanaal",
       "name_en": "tear duct",
-      "id": "p3647"
+      "id": "p3647",
+      "domain": "body"
     },
     {
       "name": "tragisch",
       "name_en": "tragic",
-      "id": "p3648"
+      "id": "p3648",
+      "domain": "experience"
     },
     {
       "name": "triest",
       "name_en": "sad",
-      "id": "p3649"
+      "id": "p3649",
+      "domain": "mental"
     },
     {
       "name": "turbulentie",
       "name_en": "turbulence",
-      "id": "p3650"
+      "id": "p3650",
+      "domain": "nature"
     },
     {
       "name": "tyfoon",
       "name_en": "typhoon",
-      "id": "p3651"
+      "id": "p3651",
+      "domain": "nature"
     },
     {
       "name": "uitdrukking",
       "name_en": "expression",
-      "id": "p3652"
+      "id": "p3652",
+      "domain": "language"
     },
     {
       "name": "uiteen",
       "name_en": "apart",
-      "id": "p3653"
+      "id": "p3653",
+      "domain": "spatial"
     },
     {
       "name": "uiten",
       "name_en": "to express",
-      "id": "p3654"
+      "id": "p3654",
+      "domain": "language"
     },
     {
       "name": "uitpakken",
       "name_en": "unpacked",
       "id": "p3655",
-      "also": "uitgepakt"
+      "also": "uitgepakt",
+      "domain": "agentic"
     },
     {
       "name": "uitrekken",
       "name_en": "stretched",
       "id": "p3656",
-      "also": "uitgerekt"
-    },
-    {
-      "name": "uitnodiging",
-      "name_en": "invitation",
-      "id": "p3657"
+      "also": "uitgerekt",
+      "domain": "body"
     },
     {
       "name": "uitstellen",
       "name_en": "to postpone",
-      "id": "p3658"
+      "id": "p3658",
+      "domain": "core"
     },
     {
       "name": "uitzoeken",
       "name_en": "to find out",
-      "id": "p3659"
+      "id": "p3659",
+      "domain": "knowledge",
+      "also": "achterhalen"
     },
     {
       "name": "vakambacht",
       "name_en": "craft",
-      "id": "p3660"
+      "id": "p3660",
+      "domain": "artifacts"
     },
     {
       "name": "vakantie",
       "name_en": "holiday",
-      "id": "p3661"
+      "id": "p3661",
+      "domain": "experience"
     },
     {
       "name": "vanmiddag",
       "name_en": "this afternoon",
-      "id": "p3662"
+      "id": "p3662",
+      "domain": "core"
     },
     {
       "name": "vastberadenheid",
       "name_en": "determination",
-      "id": "p3663"
+      "id": "p3663",
+      "domain": "mental"
     },
     {
       "name": "vastbesloten",
       "name_en": "determined",
-      "id": "p3664"
+      "id": "p3664",
+      "domain": "mental"
     },
     {
       "name": "vatten",
       "name_en": "to grasp",
-      "id": "p3665"
+      "id": "p3665",
+      "domain": "mental"
     },
     {
       "name": "veld",
       "name_en": "field",
-      "id": "p3666"
+      "id": "p3666",
+      "domain": "spatial"
     },
     {
       "name": "ventilatie",
       "name_en": "ventilation",
-      "id": "p3667"
-    },
-    {
-      "name": "verbetering",
-      "name_en": "improvement",
-      "id": "p3668",
-      "also": "verbeteringen"
+      "id": "p3667",
+      "domain": "system"
     },
     {
       "name": "verbindend",
       "name_en": "connecting",
       "id": "p3669",
-      "also": "verbindende"
+      "also": "verbindende",
+      "domain": "system"
     },
     {
       "name": "verbinding",
       "name_en": "connection",
       "id": "p3670",
-      "also": "verbindingen"
+      "also": "verbindingen",
+      "domain": "system"
     },
     {
       "name": "vergelijkbaar",
       "name_en": "comparable",
       "id": "p3671",
-      "also": "vergelijkbare"
-    },
-    {
-      "name": "verheldering",
-      "name_en": "clarification",
-      "id": "p3672"
+      "also": "vergelijkbare",
+      "domain": "core"
     },
     {
       "name": "verhelderen",
       "name_en": "clarifies",
-      "id": "p3673",
-      "also": "verheldert"
+      "id": "p3672",
+      "domain": "language",
+      "also": "verheldert",
+      "pos": "verb",
+      "name_nl2": "verheldering"
     },
     {
       "name": "verhouden",
       "name_en": "to relate",
-      "id": "p3674"
+      "id": "p3674",
+      "domain": "core"
     },
     {
       "name": "verhuur",
       "name_en": "rental",
-      "id": "p3675"
+      "id": "p3675",
+      "domain": "resource"
     },
     {
       "name": "verkoop",
       "name_en": "sale",
-      "id": "p3676"
+      "id": "p3676",
+      "domain": "resource"
     },
     {
       "name": "verkouden",
       "name_en": "having a cold",
-      "id": "p3677"
+      "id": "p3677",
+      "domain": "body"
     },
     {
       "name": "verlaten",
       "name_en": "to leave",
-      "id": "p3678"
+      "id": "p3678",
+      "domain": "spatial"
     },
     {
       "name": "verliefd",
       "name_en": "in love",
-      "id": "p3679"
+      "id": "p3679",
+      "domain": "mental"
     },
     {
       "name": "verlies",
       "name_en": "loss",
-      "id": "p3680"
+      "id": "p3680",
+      "domain": "core"
     },
     {
       "name": "verloren",
       "name_en": "lost",
-      "id": "p3681"
+      "id": "p3681",
+      "domain": "core"
     },
     {
       "name": "vermoeiend",
       "name_en": "tiring",
-      "id": "p3682"
+      "id": "p3682",
+      "domain": "body"
     },
     {
       "name": "vernietigen",
       "name_en": "destroyed",
       "id": "p3683",
-      "also": "vernietigd"
+      "also": "vernietigd",
+      "domain": "core"
     },
     {
       "name": "verontrustend",
       "name_en": "disturbing",
-      "id": "p3684"
+      "id": "p3684",
+      "domain": "mental"
     },
     {
       "name": "verpleging",
       "name_en": "nursing",
-      "id": "p3685"
+      "id": "p3685",
+      "domain": "body"
     },
     {
       "name": "verrassend",
       "name_en": "surprising",
-      "id": "p3686"
-    },
-    {
-      "name": "verrassing",
-      "name_en": "surprise",
-      "id": "p3687",
-      "also": "verrassingen"
+      "id": "p3686",
+      "domain": "experience"
     },
     {
       "name": "verrijken",
       "name_en": "to enrich",
-      "id": "p3688"
+      "id": "p3688",
+      "domain": "core"
     },
     {
       "name": "verruimen",
       "name_en": "broadens",
       "id": "p3689",
-      "also": "verruimt"
+      "also": "verruimt",
+      "domain": "mental"
     },
     {
       "name": "verscheidenheid",
       "name_en": "variety",
-      "id": "p3690"
+      "id": "p3690",
+      "domain": "core"
     },
     {
       "name": "verstandig",
       "name_en": "sensible",
-      "id": "p3691"
+      "id": "p3691",
+      "domain": "mental"
     },
     {
       "name": "verstopt",
       "name_en": "hidden",
-      "id": "p3692"
-    },
-    {
-      "name": "vertaling",
-      "name_en": "translation",
-      "id": "p3693"
+      "id": "p3692",
+      "domain": "core"
     },
     {
       "name": "vervangend",
       "name_en": "replacement",
       "id": "p3694",
-      "also": "vervangende"
-    },
-    {
-      "name": "vervelend",
-      "name_en": "annoying",
-      "id": "p3695"
-    },
-    {
-      "name": "verwachting",
-      "name_en": "expectation",
-      "id": "p3696",
-      "also": "verwachtingen"
+      "also": "vervangende",
+      "domain": "core"
     },
     {
       "name": "verwoestend",
       "name_en": "devastating",
-      "id": "p3697"
-    },
-    {
-      "name": "verzekeren",
-      "name_en": "assure",
-      "id": "p3698",
-      "also": "verzeker"
+      "id": "p3697",
+      "domain": "core"
     },
     {
       "name": "verzekeringsmaatschappij",
       "name_en": "insurance company",
-      "id": "p3699"
+      "id": "p3699",
+      "domain": "resource"
     },
     {
       "name": "verzonken",
       "name_en": "sunk",
-      "id": "p3700"
+      "id": "p3700",
+      "domain": "core"
     },
     {
       "name": "verzorger",
       "name_en": "caregiver",
       "id": "p3701",
-      "also": "verzorgers"
+      "also": "verzorgers",
+      "domain": "socium"
     },
     {
       "name": "vier",
       "name_en": "four",
-      "id": "p3702"
+      "id": "p3702",
+      "domain": "core"
     },
     {
       "name": "vieren",
       "name_en": "to celebrate",
-      "id": "p3703"
+      "id": "p3703",
+      "domain": "culture"
     },
     {
       "name": "vijver",
       "name_en": "pond",
-      "id": "p3704"
+      "id": "p3704",
+      "domain": "nature"
     },
     {
       "name": "vindingrijk",
       "name_en": "resourceful",
-      "id": "p3705"
+      "id": "p3705",
+      "domain": "mental"
     },
     {
       "name": "vioolspelen",
       "name_en": "violin playing",
-      "id": "p3706"
+      "id": "p3706",
+      "domain": "culture"
     },
     {
       "name": "visum",
       "name_en": "visa",
-      "id": "p3707"
-    },
-    {
-      "name": "vliegreis",
-      "name_en": "flight",
-      "id": "p3708"
+      "id": "p3707",
+      "domain": "civil"
     },
     {
       "name": "vliegveld",
       "name_en": "airport",
-      "id": "p3709"
+      "id": "p3709",
+      "domain": "spatial"
     },
     {
       "name": "voedselveiligheid",
       "name_en": "food safety",
-      "id": "p3710"
+      "id": "p3710",
+      "domain": "food"
     },
     {
       "name": "volgepropt",
       "name_en": "crammed",
-      "id": "p3711"
+      "id": "p3711",
+      "domain": "core"
     },
     {
       "name": "volwassen",
       "name_en": "adult",
-      "id": "p3712"
+      "id": "p3712",
+      "domain": "life"
     },
     {
       "name": "voorschrijven",
       "name_en": "prescribed",
       "id": "p3713",
-      "also": "voorgeschreven"
+      "also": "voorgeschreven",
+      "domain": "body"
     },
     {
       "name": "voorkant",
       "name_en": "front",
-      "id": "p3714"
+      "id": "p3714",
+      "domain": "spatial"
     },
     {
       "name": "voorraadkast",
       "name_en": "pantry",
-      "id": "p3715"
+      "id": "p3715",
+      "domain": "artifacts"
     },
     {
       "name": "voorziening",
       "name_en": "facility",
       "id": "p3716",
-      "also": "voorzieningen"
+      "also": "voorzieningen",
+      "domain": "resource"
     },
     {
       "name": "vreedzaam",
       "name_en": "peaceful",
       "id": "p3717",
-      "also": "vreedzame"
+      "also": "vreedzame",
+      "domain": "civil"
     },
     {
       "name": "vuurwerk",
       "name_en": "fireworks",
-      "id": "p3718"
+      "id": "p3718",
+      "domain": "culture"
     },
     {
       "name": "vuurwerkshows",
       "name_en": "fireworks shows",
-      "id": "p3719"
+      "id": "p3719",
+      "domain": "culture"
     },
     {
       "name": "waarin",
       "name_en": "in which",
-      "id": "p3720"
+      "id": "p3720",
+      "domain": "core"
     },
     {
       "name": "waarmee",
       "name_en": "with which",
-      "id": "p3721"
+      "id": "p3721",
+      "domain": "core"
     },
     {
       "name": "waarover",
       "name_en": "about which",
-      "id": "p3722"
+      "id": "p3722",
+      "domain": "core"
     },
     {
       "name": "waarvan",
       "name_en": "of which",
-      "id": "p3723"
+      "id": "p3723",
+      "domain": "core"
     },
     {
       "name": "wachttijd",
       "name_en": "waiting time",
-      "id": "p3724"
+      "id": "p3724",
+      "domain": "core"
     },
     {
       "name": "war",
       "name_en": "confused",
-      "id": "p3725"
+      "id": "p3725",
+      "domain": "mental"
     },
     {
       "name": "warmen",
       "name_en": "to warm",
-      "id": "p3726"
+      "id": "p3726",
+      "domain": "core"
     },
     {
       "name": "weerhouden",
       "name_en": "restrained",
       "id": "p3727",
-      "also": "weerhield"
+      "also": "weerhield",
+      "domain": "core"
     },
     {
       "name": "weersvoorspelling",
       "name_en": "weather forecast",
-      "id": "p3728"
+      "id": "p3728",
+      "domain": "nature"
     },
     {
       "name": "wees",
       "name_en": "orphan",
-      "id": "p3729"
+      "id": "p3729",
+      "domain": "socium"
     },
     {
       "name": "weggelegd",
       "name_en": "reserved",
-      "id": "p3730"
-    },
-    {
-      "name": "welvaart",
-      "name_en": "prosperity",
-      "id": "p3731"
+      "id": "p3730",
+      "domain": "core"
     },
     {
       "name": "welverdiend",
       "name_en": "well-deserved",
-      "id": "p3732"
-    },
-    {
-      "name": "wens",
-      "name_en": "wish",
-      "id": "p3733"
+      "id": "p3732",
+      "domain": "core"
     },
     {
       "name": "werkdag",
       "name_en": "workdays",
       "id": "p3734",
-      "also": "werkdagen"
+      "also": "werkdagen",
+      "domain": "agentic"
     },
     {
       "name": "werkkansen",
       "name_en": "job opportunities",
-      "id": "p3735"
+      "id": "p3735",
+      "domain": "agentic"
     },
     {
       "name": "werkperspectieven",
       "name_en": "job prospects",
-      "id": "p3736"
+      "id": "p3736",
+      "domain": "agentic"
     },
     {
       "name": "werkverplichtingen",
       "name_en": "work obligations",
-      "id": "p3737"
+      "id": "p3737",
+      "domain": "agentic"
     },
     {
       "name": "wij",
       "name_en": "we",
-      "id": "p3738"
-    },
-    {
-      "name": "winkelen",
-      "name_en": "to shop",
-      "id": "p3739"
+      "id": "p3738",
+      "domain": "core"
     },
     {
       "name": "wintermaanden",
       "name_en": "winter months",
-      "id": "p3740"
+      "id": "p3740",
+      "domain": "nature"
     },
     {
       "name": "wiskunde",
       "name_en": "mathematics",
-      "id": "p3741"
+      "id": "p3741",
+      "domain": "knowledge"
     },
     {
       "name": "wreed",
       "name_en": "cruel",
-      "id": "p3742"
+      "id": "p3742",
+      "domain": "mental"
     },
     {
       "name": "zakenreis",
       "name_en": "business trip",
-      "id": "p3743"
+      "id": "p3743",
+      "domain": "spatial"
     },
     {
       "name": "zalm",
       "name_en": "salmon",
-      "id": "p3744"
-    },
-    {
-      "name": "zeer",
-      "name_en": "very",
-      "id": "p3745"
+      "id": "p3744",
+      "domain": "food"
     },
     {
       "name": "zeldzaam",
       "name_en": "rare",
-      "id": "p3746"
+      "id": "p3746",
+      "domain": "core"
     },
     {
       "name": "zelfs",
       "name_en": "even",
-      "id": "p3747"
+      "id": "p3747",
+      "domain": "core"
     },
     {
       "name": "zender",
       "name_en": "channel",
-      "id": "p3748"
+      "id": "p3748",
+      "domain": "culture"
     },
     {
       "name": "zes",
       "name_en": "six",
-      "id": "p3749"
+      "id": "p3749",
+      "domain": "core"
     },
     {
       "name": "zestig",
       "name_en": "sixty",
-      "id": "p3750"
+      "id": "p3750",
+      "domain": "core"
     },
     {
       "name": "zeven",
       "name_en": "seven",
-      "id": "p3751"
+      "id": "p3751",
+      "domain": "core"
     },
     {
       "name": "zichtbaar",
       "name_en": "visible",
-      "id": "p3752"
+      "id": "p3752",
+      "domain": "experience"
     },
     {
       "name": "ziekenhuis",
       "name_en": "hospital",
       "id": "p3753",
-      "also": "ziekenhuizen"
-    },
-    {
-      "name": "zijkant",
-      "name_en": "side",
-      "id": "p3754"
+      "also": "ziekenhuizen",
+      "domain": "body"
     },
     {
       "name": "zomaar",
       "name_en": "just like that",
-      "id": "p3755"
+      "id": "p3755",
+      "domain": "core"
     },
     {
       "name": "zuidelijk",
       "name_en": "southern",
-      "id": "p3756"
+      "id": "p3756",
+      "domain": "spatial"
     },
     {
       "name": "zulk",
       "name_en": "such",
       "id": "p3757",
-      "also": "zulke"
+      "also": "zulke",
+      "domain": "core"
     },
     {
       "name": "zusje",
       "name_en": "little sister",
-      "id": "p3758"
+      "id": "p3758",
+      "domain": "socium"
     },
     {
       "name": "zwak",
       "name_en": "weak",
       "id": "p3759",
-      "also": "zwakke"
+      "also": "zwakke",
+      "domain": "body"
     },
     {
       "name": "zwemkunst",
       "name_en": "swimming skill",
-      "id": "p3760"
+      "id": "p3760",
+      "domain": "body"
     }
   ]
 }

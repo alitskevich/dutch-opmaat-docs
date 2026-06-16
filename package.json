@@ -1,0 +1,20 @@
+{
+  "name": "dutch-opmaat-docs",
+  "version": "1.0.0",
+  "description": "Dutch language learning reference content — markdown and JSON — served as raw files to the [opmaat](https://github.com/alitskevich/codespace/tree/main/apps/opmaat) app via the GitHub trees API.",
+  "homepage": "https://github.com/alitskevich/dutch-opmaat-docs#readme",
+  "bugs": {
+    "url": "https://github.com/alitskevich/dutch-opmaat-docs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alitskevich/dutch-opmaat-docs.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
