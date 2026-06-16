@@ -2,6 +2,12 @@
 
 Language for everyday life in the Netherlands.
 
+## My day
+
+<Section>
+<Dialog id="06-mijn-dag.json"/>
+</Section>
+
 ## Groceries & Shopping
 
 ### 1. In de Supermarkt — At the Supermarket
@@ -150,6 +156,23 @@ Language for talking about how you spend your free time: hobbies, sport, going o
 | Zwemmen | To swim | In de zomer ga ik graag **zwemmen**. (In summer I like to swim.) |
 | Wielrennen | To cycle (sport) | Mijn broer doet aan **wielrennen**. (My brother does cycling as a sport.) |
 | Yoga | Yoga | Ik doe twee keer per week **yoga**. (I do yoga twice a week.) |
+
+### Naar het restaurant
+
+| text | text_en |
+|------|---------|
+| Eet smakelijk! | Enjoy your meal! |
+| Proost! | Cheers! |
+| Voeg zout toe. | Add salt. |
+| Pas op! | Watch out! |
+| Probeer het maar. | Just give it a try. |
+| Mag ik een koffie, alstublieft? | Can I have a coffee, please? |
+| Wil je iets drinken? | Would you like a drink? |
+| Waar is het toilet? | Where's the toilet? |
+
+<Section>
+<Dialog id="08-in-restaurant.json"/>
+</Section>
 
 ### Uitgaan — Going Out
 

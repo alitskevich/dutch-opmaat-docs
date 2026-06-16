@@ -14,7 +14,9 @@
 | tot zo | see you soon | Ik ben zo klaar, **tot zo**! (I'm almost done, see you soon!) |
 | zie je | see you | **Zie je** morgen op school. (See you tomorrow at school.) |
 
+<Section>
 <Dialog id="02-hoe-gaat-het.json"/>
+</Section>
 
 ## Everyday Expressions
 
@@ -29,17 +31,9 @@
 | wat nu | what's next |
 | en wat dan | so what |
 | nou en | so what / big deal |
-| Eet smakelijk! | Enjoy your meal! |
-| Proost! | Cheers! |
-| Voeg zout toe. | Add salt. |
-| Pas op! | Watch out! |
-| Probeer het maar. | Just give it a try. |
-| Mag ik een koffie, alstublieft? | Can I have a coffee, please? |
-| Wil je iets drinken? | Would you like a drink? |
 | Kun je me helpen? | Can you help me? |
 | Heb je een momentje? | Do you have a moment? |
 | Hoe laat is het? | What time is it? |
-| Waar is het toilet? | Where's the toilet? |
 
 ## Afsprak maken
 
@@ -74,6 +68,10 @@
 | Werk je of studeer je? | Do you work or study? | Ik werk. / Ik studeer nog. |
 | Hoe lang woon je hier al? | How long have you been living here? | Ik woon hier al twee jaar. |
 | - |Aangenaam kennis te maken | Pleased to meet you |
+
+<Section>
+<Dialog id="03-meet-markus.json"/>
+</Section>
 
 ## Jouw huis
 
