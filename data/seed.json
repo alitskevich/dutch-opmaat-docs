@@ -5,7 +5,8 @@
       "name_en": "offer",
       "id": "p3225",
       "domain": "resource",
-      "stem": "bied"
+      "stem": "bied",
+      "parent": "p264"
     },
     {
       "pos": "noun",
@@ -141,7 +142,8 @@
       "pos": "verb",
       "similarity": "native",
       "stem": "moed",
-      "also": "ontmoedigend"
+      "also": "ontmoedigend",
+      "parent": "p1621"
     },
     {
       "name": "aannemen",
@@ -164,7 +166,8 @@
       "domain": "agentic",
       "pos": "verb",
       "name_nl2": "aanpak",
-      "stem": "pak"
+      "stem": "pak",
+      "parent": "p1881"
     },
     {
       "name": "aanpassen",
@@ -180,7 +183,8 @@
       "id": "p15",
       "domain": "agentic",
       "topic": "operation",
-      "stem": "pas"
+      "stem": "pas",
+      "parent": "p1898"
     },
     {
       "name": "aanrecht",
@@ -201,7 +205,8 @@
       "name_en": "to run toward",
       "id": "p3232",
       "domain": "spatial",
-      "stem": "ren"
+      "stem": "ren",
+      "parent": "p2054"
     },
     {
       "name": "aanspreken",
@@ -337,7 +342,8 @@
       "domain": "food",
       "topic": "ingredients",
       "level": "b",
-      "stem": "appel"
+      "stem": "appel",
+      "parent": "p113"
     },
     {
       "name": "aardbei",
@@ -501,7 +507,8 @@
       "topic": "attitude",
       "article": "de",
       "stem": "act",
-      "also": "activiteit"
+      "also": "activiteit",
+      "parent": "p45"
     },
     {
       "name": "actiefilm",
@@ -516,7 +523,8 @@
       "id": "p3079",
       "also": "activiteiten",
       "domain": "agentic",
-      "stem": "act"
+      "stem": "act",
+      "parent": "p45"
     },
     {
       "name": "actueel",
@@ -587,13 +595,6 @@
       "stem": "adres"
     },
     {
-      "name": "adresboekje",
-      "name_en": "address book",
-      "id": "p3241",
-      "domain": "artifacts",
-      "stem": "boek"
-    },
-    {
       "pos": "verb",
       "domain": "socium",
       "topic": "promotion",
@@ -627,7 +628,8 @@
       "id": "p3242",
       "also": "adviseurs",
       "domain": "socium",
-      "stem": "advie"
+      "stem": "advie",
+      "parent": "p56"
     },
     {
       "domain": "civil",
@@ -713,7 +715,8 @@
       "id": "p3248",
       "also": "afkoelde",
       "domain": "nature",
-      "stem": "koel"
+      "stem": "koel",
+      "parent": "p1373"
     },
     {
       "pos": "noun",
@@ -740,7 +743,8 @@
       "id": "p67",
       "domain": "agentic",
       "topic": "operation",
-      "stem": "maak"
+      "stem": "maak",
+      "parent": "p1550"
     },
     {
       "domain": "core",
@@ -768,7 +772,8 @@
       "id": "p3244",
       "also": "afgerond",
       "domain": "agentic",
-      "stem": "rond"
+      "stem": "rond",
+      "parent": "p2092"
     },
     {
       "domain": "core",
@@ -788,7 +793,8 @@
       "pos": "verb",
       "name_en": "close off, conclude",
       "similarity": "native",
-      "stem": "sluit"
+      "stem": "sluit",
+      "parent": "p2218"
     },
     {
       "name": "afspoelen",
@@ -919,14 +925,6 @@
       "stem": "agent"
     },
     {
-      "name": "al",
-      "name_en": "all",
-      "id": "p2958",
-      "also": "alle",
-      "domain": "core",
-      "stem": "al"
-    },
-    {
       "name": "alledaags",
       "name_en": "everyday, ordinary",
       "pos": "noun",
@@ -938,51 +936,6 @@
       "topic": "repeat",
       "article": "de",
       "stem": "daag"
-    },
-    {
-      "name": "alleenstaand",
-      "name_en": "single",
-      "pos": "noun",
-      "level": "b",
-      "normalized": 0.917,
-      "similarity": "native",
-      "id": "p91",
-      "domain": "socium",
-      "topic": "common",
-      "article": "de",
-      "stem": "alleen"
-    },
-    {
-      "name": "allemaal",
-      "name_en": "all, all together",
-      "similarity": "universal",
-      "pos": "adv",
-      "level": "b",
-      "normalized": 0.706,
-      "id": "p92",
-      "domain": "language",
-      "topic": "multitude",
-      "stem": "allemaal"
-    },
-    {
-      "name": "allerlei",
-      "name_en": "all kinds of",
-      "similarity": "native",
-      "pos": "noun",
-      "level": "b",
-      "normalized": 0.75,
-      "id": "p95",
-      "domain": "core",
-      "topic": "group",
-      "article": "de",
-      "stem": "allerlei"
-    },
-    {
-      "name": "alles",
-      "name_en": "everything",
-      "id": "p2959",
-      "domain": "core",
-      "stem": "al"
     },
     {
       "name": "alsjeblieft",
@@ -1024,19 +977,6 @@
       "domain": "food",
       "topic": "ingredients",
       "stem": "ananas"
-    },
-    {
-      "pos": "adj",
-      "domain": "language",
-      "topic": "compare",
-      "level": "u",
-      "name": "ander",
-      "name_en": "other, different",
-      "normalized": 0.812,
-      "similarity": "native",
-      "id": "p102",
-      "stem": "ander",
-      "also": "verander"
     },
     {
       "name": "anders",
@@ -1121,14 +1061,6 @@
       "stem": "appel"
     },
     {
-      "name": "applaudisseren",
-      "name_en": "applauded",
-      "id": "p3250",
-      "also": "applaudisseerde",
-      "domain": "culture",
-      "stem": "applaus"
-    },
-    {
       "name": "applaus",
       "name_en": "applause",
       "id": "p3251",
@@ -1179,7 +1111,7 @@
       "name_en": "poverty",
       "id": "p3252",
       "domain": "resource",
-      "stem": "arm"
+      "stem": "armoed"
     },
     {
       "name": "arresteren",
@@ -1234,20 +1166,6 @@
       "also": "huisarts, dokter"
     },
     {
-      "name": "aspirine",
-      "name_en": "aspirin",
-      "id": "p3256",
-      "domain": "body",
-      "stem": "aspirine"
-    },
-    {
-      "name": "astronomie",
-      "name_en": "astronomy",
-      "id": "p3257",
-      "domain": "knowledge",
-      "stem": "astronom"
-    },
-    {
       "name": "auto",
       "name_en": "car",
       "article": "de",
@@ -1292,14 +1210,16 @@
       "name_en": "dinner",
       "id": "p2995",
       "domain": "food",
-      "stem": "eet"
+      "stem": "eet",
+      "parent": "p822"
     },
     {
       "name": "avondkrant",
       "name_en": "evening paper",
       "id": "p3258",
       "domain": "knowledge",
-      "stem": "krant"
+      "stem": "krant",
+      "parent": "p1403"
     },
     {
       "pos": "noun",
@@ -1333,7 +1253,8 @@
       "name_en": "job security",
       "id": "p3259",
       "domain": "agentic",
-      "stem": "zeek"
+      "stem": "zeek",
+      "parent": "p2873"
     },
     {
       "name": "baas",
@@ -1521,7 +1442,8 @@
       "name_en": "bossy",
       "id": "p3261",
       "domain": "mental",
-      "stem": "baas"
+      "stem": "baas",
+      "parent": "p135"
     },
     {
       "pos": "enum",
@@ -1561,7 +1483,8 @@
       "name_en": "thanks",
       "id": "p2943",
       "domain": "socium",
-      "stem": "dank"
+      "stem": "dank",
+      "parent": "p156"
     },
     {
       "domain": "core",
@@ -1673,7 +1596,8 @@
       "name_en": "business management",
       "id": "p3264",
       "domain": "resource",
-      "stem": "beheer"
+      "stem": "beheer",
+      "parent": "p178"
     },
     {
       "pos": "enum",
@@ -1731,7 +1655,8 @@
       "name_en": "guidance",
       "id": "p3265",
       "domain": "socium",
-      "stem": "leid"
+      "stem": "leid",
+      "parent": "p1464"
     },
     {
       "pos": "verb",
@@ -1764,7 +1689,8 @@
       "name_en": "understandable",
       "id": "p3081",
       "domain": "mental",
-      "stem": "grijp"
+      "stem": "grijp",
+      "parent": "p3266"
     },
     {
       "name": "begrip",
@@ -1807,7 +1733,8 @@
       "id": "p3268",
       "also": "behoeften",
       "domain": "mental",
-      "stem": "hoef"
+      "stem": "hoef",
+      "parent": "p1138"
     },
     {
       "name": "behoorlijk",
@@ -1865,7 +1792,8 @@
       "name_en": "view",
       "id": "p3270",
       "domain": "experience",
-      "stem": "kijk"
+      "stem": "kijk",
+      "parent": "p1314"
     },
     {
       "name": "belachelijk",
@@ -1877,7 +1805,8 @@
       "id": "p188",
       "domain": "mental",
       "topic": "attitude",
-      "stem": "lach"
+      "stem": "lach",
+      "parent": "p1437"
     },
     {
       "pos": "adj",
@@ -1910,7 +1839,8 @@
       "name_en": "politeness",
       "id": "p3273",
       "domain": "socium",
-      "stem": "leef"
+      "stem": "leef",
+      "parent": "p3272"
     },
     {
       "name": "belemmering",
@@ -1967,7 +1897,8 @@
       "name_en": "listen to",
       "id": "p3276",
       "domain": "experience",
-      "stem": "luister"
+      "stem": "luister",
+      "parent": "p1526"
     },
     {
       "name": "bemachtigen",
@@ -2154,7 +2085,8 @@
       "name_en": "damaged",
       "similarity": "native",
       "id": "p211",
-      "stem": "schadigd"
+      "stem": "schadigd",
+      "parent": "p3171"
     },
     {
       "pos": "noun",
@@ -2199,7 +2131,8 @@
       "pos": "verb",
       "name_en": "protect",
       "similarity": "native",
-      "stem": "scherm"
+      "stem": "scherm",
+      "parent": "p2133"
     },
     {
       "name": "beschikbaar",
@@ -2279,14 +2212,16 @@
       "name_en": "decided, definitely",
       "id": "p3280",
       "domain": "mental",
-      "stem": "slis"
+      "stem": "slis",
+      "parent": "p220"
     },
     {
       "name": "besluiteloosheid",
       "name_en": "indecisiveness",
       "id": "p3084",
       "domain": "mental",
-      "stem": "sluit"
+      "stem": "sluit",
+      "parent": "p220"
     },
     {
       "name": "besluiten",
@@ -2294,28 +2229,32 @@
       "id": "p3083",
       "also": "besloten",
       "domain": "mental",
-      "stem": "sluit"
+      "stem": "sluit",
+      "parent": "p220"
     },
     {
       "name": "besluitvaardig",
       "name_en": "decisive",
       "id": "p3281",
       "domain": "mental",
-      "stem": "sluit"
+      "stem": "sluit",
+      "parent": "p220"
     },
     {
       "name": "besluitvorming",
       "name_en": "decision-making",
       "id": "p3282",
       "domain": "mental",
-      "stem": "sluit"
+      "stem": "sluit",
+      "parent": "p220"
     },
     {
       "name": "besparen",
       "name_en": "to save",
       "id": "p3283",
       "domain": "resource",
-      "stem": "spaar"
+      "stem": "spaar",
+      "parent": "p2245"
     },
     {
       "name": "bespelen",
@@ -2455,7 +2394,8 @@
       "id": "p3085",
       "also": "betekent",
       "domain": "language",
-      "stem": "teken"
+      "stem": "teken",
+      "parent": "p232"
     },
     {
       "pos": "noun",
@@ -2474,7 +2414,8 @@
       "name_en": "meaningful",
       "id": "p3285",
       "domain": "mental",
-      "stem": "teken"
+      "stem": "teken",
+      "parent": "p232"
     },
     {
       "pos": "adj",
@@ -2494,7 +2435,8 @@
       "name_en": "get well",
       "id": "p3086",
       "domain": "body",
-      "stem": "beter"
+      "stem": "beter",
+      "parent": "p233"
     },
     {
       "name": "betrokkenheid",
@@ -2513,7 +2455,8 @@
       "similarity": "native",
       "normalized": 0.762,
       "id": "p234",
-      "stem": "trouw"
+      "stem": "trouw",
+      "parent": "p2624"
     },
     {
       "name": "beu",
@@ -2751,7 +2694,8 @@
       "id": "p253",
       "domain": "experience",
       "topic": "visual",
-      "stem": "zicht"
+      "stem": "zicht",
+      "parent": "p2892"
     },
     {
       "name": "bezig",
@@ -2809,7 +2753,8 @@
       "name_en": "worried, concerned",
       "id": "p3293",
       "domain": "mental",
-      "stem": "zorg"
+      "stem": "zorg",
+      "parent": "p2920"
     },
     {
       "name": "bezwaar",
@@ -2925,7 +2870,8 @@
       "name_en": "together",
       "id": "p3295",
       "domain": "socium",
-      "stem": "een"
+      "stem": "een",
+      "parent": "p762"
     },
     {
       "name": "bijeenkomst",
@@ -2960,13 +2906,6 @@
       "name_en": "recover, come to",
       "similarity": "native",
       "stem": "koom"
-    },
-    {
-      "name": "bijna",
-      "name_en": "almost",
-      "id": "p3298",
-      "domain": "core",
-      "stem": "bijna"
     },
     {
       "domain": "body",
@@ -3368,13 +3307,6 @@
       "stem": "bloos"
     },
     {
-      "name": "bodyboarden",
-      "name_en": "bodyboarding",
-      "id": "p3088",
-      "domain": "experience",
-      "stem": "bodyboard"
-    },
-    {
       "name": "boeiend",
       "name_en": "fascinating, exciting",
       "pos": "noun",
@@ -3426,7 +3358,8 @@
       "name_en": "bookcase",
       "id": "p3302",
       "domain": "artifacts",
-      "stem": "kast"
+      "stem": "kast",
+      "parent": "p512"
     },
     {
       "name": "boeket",
@@ -3454,7 +3387,8 @@
       "domain": "artifacts",
       "topic": "building",
       "level": "b",
-      "stem": "boer"
+      "stem": "boer",
+      "parent": "p3304"
     },
     {
       "name": "boete",
@@ -4445,7 +4379,8 @@
       "name_en": "diary",
       "id": "p3096",
       "domain": "language",
-      "stem": "boek"
+      "stem": "boek",
+      "parent": "p310"
     },
     {
       "name": "dak",
@@ -5175,7 +5110,8 @@
       "name_en": "transparent",
       "similarity": "native",
       "id": "p702",
-      "stem": "zicht"
+      "stem": "zicht",
+      "parent": "p2892"
     },
     {
       "name": "doos",
@@ -5975,7 +5911,8 @@
       "topic": "seescape",
       "level": "b",
       "stem": "land",
-      "also": "landtong"
+      "also": "landtong",
+      "parent": "p1442"
     },
     {
       "pos": "verb",
@@ -6124,7 +6061,8 @@
       "name_en": "enormous",
       "similarity": "universal",
       "id": "p805",
-      "stem": "norm"
+      "stem": "norm",
+      "parent": "p1704"
     },
     {
       "name": "enthousiast",
@@ -6169,13 +6107,6 @@
       "stem": "erg"
     },
     {
-      "name": "ergens",
-      "name_en": "somewhere",
-      "id": "p2982",
-      "domain": "spatial",
-      "stem": "ergens"
-    },
-    {
       "pos": "verb",
       "domain": "mental",
       "topic": "emotion",
@@ -6198,7 +6129,8 @@
       "id": "p3353",
       "also": "ergste",
       "domain": "core",
-      "stem": "erg"
+      "stem": "erg",
+      "parent": "p808"
     },
     {
       "pos": "verb",
@@ -6212,13 +6144,6 @@
       "stem": "ken",
       "also": "erkende",
       "name_nl2": "erkenning"
-    },
-    {
-      "name": "ernaar",
-      "name_en": "to it",
-      "id": "p3104",
-      "domain": "core",
-      "stem": "naar"
     },
     {
       "name": "ernstig",
@@ -7052,7 +6977,8 @@
       "name_en": "building",
       "id": "p3002",
       "domain": "artifacts",
-      "stem": "bouw"
+      "stem": "bouw",
+      "parent": "p334"
     },
     {
       "name": "gebrek",
@@ -7066,7 +6992,8 @@
       "id": "p894",
       "domain": "resource",
       "topic": "dispose",
-      "stem": "brek"
+      "stem": "brek",
+      "parent": "p345"
     },
     {
       "pos": "verb",
@@ -7197,7 +7124,8 @@
       "name_en": "congratulations",
       "id": "p3034",
       "domain": "socium",
-      "stem": "felicit"
+      "stem": "felicit",
+      "parent": "p848"
     },
     {
       "name": "gegrild",
@@ -7453,7 +7381,8 @@
       "name_en": "ease",
       "id": "p3114",
       "domain": "core",
-      "stem": "mak"
+      "stem": "mak",
+      "parent": "p1551"
     },
     {
       "pos": "noun",
@@ -7518,7 +7447,8 @@
       "name_en": "organized",
       "id": "p3116",
       "domain": "mental",
-      "stem": "organis"
+      "stem": "organis",
+      "parent": "p1845"
     },
     {
       "name": "gerecht",
@@ -7565,7 +7495,8 @@
       "domain": "socium",
       "topic": "family",
       "article": "de",
-      "stem": "scheid"
+      "stem": "scheid",
+      "parent": "p2125"
     },
     {
       "name": "geschiedenis",
@@ -7626,7 +7557,8 @@
       "id": "p936",
       "domain": "language",
       "topic": "communicate",
-      "stem": "spreek"
+      "stem": "spreek",
+      "parent": "p2271"
     },
     {
       "name": "getalenteerd",
@@ -7699,7 +7631,8 @@
       "id": "p2985",
       "also": "gevoelens",
       "domain": "mental",
-      "stem": "voel"
+      "stem": "voel",
+      "parent": "p2674"
     },
     {
       "pos": "adj",
@@ -7795,7 +7728,8 @@
       "id": "p3386",
       "also": "gezamenlijke",
       "domain": "socium",
-      "stem": "samen"
+      "stem": "samen",
+      "parent": "p2113"
     },
     {
       "name": "gezellig",
@@ -7860,7 +7794,8 @@
       "name_en": "interested",
       "id": "p3122",
       "domain": "mental",
-      "stem": "interess"
+      "stem": "interess",
+      "parent": "p1227"
     },
     {
       "name": "gids",
@@ -7907,7 +7842,7 @@
       "name_en": "last night",
       "id": "p3124",
       "domain": "core",
-      "parent": "p960",
+      "parent": "p129",
       "stem": "avond"
     },
     {
@@ -8425,7 +8360,8 @@
       "id": "p3126",
       "also": "grootouders",
       "domain": "socium",
-      "stem": "ouder"
+      "stem": "ouder",
+      "parent": "p1850"
     },
     {
       "name": "grootvader",
@@ -8705,7 +8641,8 @@
       "similarity": "native",
       "id": "p501",
       "article": "de",
-      "stem": "schoen"
+      "stem": "schoen",
+      "parent": "p2146"
     },
     {
       "name": "handvaardigheid",
@@ -9009,7 +8946,8 @@
       "id": "p2941",
       "also": "helpt, help, geholpen",
       "domain": "agentic",
-      "stem": "help"
+      "stem": "help",
+      "parent": "p1169"
     },
     {
       "name": "hereniging",
@@ -9017,7 +8955,8 @@
       "id": "p3128",
       "also": "herenigingen",
       "domain": "socium",
-      "stem": "een"
+      "stem": "een",
+      "parent": "p762"
     },
     {
       "name": "herfst",
@@ -9218,21 +9157,8 @@
       "name_en": "here",
       "id": "p3410",
       "domain": "spatial",
-      "stem": "hier"
-    },
-    {
-      "name": "hiernaast",
-      "name_en": "next door",
-      "id": "p3411",
-      "domain": "spatial",
-      "stem": "naast"
-    },
-    {
-      "name": "hiervandaan",
-      "name_en": "from here",
-      "id": "p3412",
-      "domain": "spatial",
-      "stem": "vandaan"
+      "stem": "hier",
+      "parent": "p1125"
     },
     {
       "domain": "spatial",
@@ -9717,13 +9643,6 @@
       "stem": "imitaat"
     },
     {
-      "name": "importeren",
-      "name_en": "to import",
-      "id": "p3132",
-      "domain": "resource",
-      "stem": "import"
-    },
-    {
       "name": "inchecken",
       "name_en": "check in",
       "similarity": "native",
@@ -9876,7 +9795,8 @@
       "id": "p3423",
       "also": "inkopen",
       "domain": "resource",
-      "stem": "koop"
+      "stem": "koop",
+      "parent": "p1391"
     },
     {
       "name": "inlegzool",
@@ -9899,7 +9819,8 @@
       "id": "p1203",
       "domain": "agentic",
       "topic": "operation",
-      "stem": "lever"
+      "stem": "lever",
+      "parent": "p1482"
     },
     {
       "name": "innemen",
@@ -9932,7 +9853,8 @@
       "name_en": "pack",
       "id": "p3424",
       "domain": "agentic",
-      "stem": "pak"
+      "stem": "pak",
+      "parent": "p1881"
     },
     {
       "pos": "noun",
@@ -10059,7 +9981,8 @@
       "id": "p1216",
       "domain": "agentic",
       "topic": "operation",
-      "stem": "stap"
+      "stem": "stap",
+      "parent": "p2288"
     },
     {
       "name": "instellen",
@@ -10201,7 +10124,8 @@
       "id": "p3422",
       "also": "ingevuld",
       "domain": "agentic",
-      "stem": "vul"
+      "stem": "vul",
+      "parent": "p944"
     },
     {
       "name": "inwoner",
@@ -10209,7 +10133,8 @@
       "id": "p3429",
       "also": "inwoners",
       "domain": "socium",
-      "stem": "woon"
+      "stem": "woon",
+      "parent": "p2841"
     },
     {
       "name": "inzet",
@@ -11572,7 +11497,8 @@
       "similarity": "native",
       "id": "p524",
       "article": "de",
-      "stem": "kast"
+      "stem": "kast",
+      "parent": "p512"
     },
     {
       "name": "koesteren",
@@ -12502,7 +12428,8 @@
       "name_en": "landscape",
       "id": "p3453",
       "domain": "nature",
-      "stem": "land"
+      "stem": "land",
+      "parent": "p1443"
     },
     {
       "pos": "adj",
@@ -13391,14 +13318,16 @@
       "id": "p3467",
       "also": "losloopt",
       "domain": "spatial",
-      "stem": "lop"
+      "stem": "lop",
+      "parent": "p1518"
     },
     {
       "name": "lossen",
       "name_en": "solve",
       "id": "p3042",
       "domain": "agentic",
-      "stem": "los"
+      "stem": "los",
+      "parent": "p1819"
     },
     {
       "name": "lot",
@@ -13558,20 +13487,6 @@
       "domain": "resource",
       "topic": "measure",
       "stem": "maat"
-    },
-    {
-      "name": "maatschappijleer",
-      "name_en": "social science",
-      "article": "de",
-      "plural": null,
-      "pos": "noun",
-      "level": "b",
-      "normalized": 0.875,
-      "similarity": "native",
-      "id": "p1540",
-      "domain": "knowledge",
-      "topic": "knowledge",
-      "stem": "maatschap"
     },
     {
       "pos": "noun",
@@ -13807,7 +13722,8 @@
       "similarity": "native",
       "id": "p1564",
       "article": "het",
-      "stem": "lijd"
+      "stem": "lijd",
+      "parent": "p1501"
     },
     {
       "name": "medicijn",
@@ -13866,14 +13782,6 @@
       "id": "p1097",
       "article": "het",
       "stem": "meer"
-    },
-    {
-      "name": "meest",
-      "name_en": "most",
-      "id": "p3013",
-      "also": "meeste",
-      "domain": "core",
-      "stem": "meest"
     },
     {
       "name": "meestal",
@@ -14181,7 +14089,8 @@
       "name_en": "midnight",
       "id": "p3478",
       "domain": "core",
-      "stem": "nacht"
+      "stem": "nacht",
+      "parent": "p1652"
     },
     {
       "name": "mijden",
@@ -14288,7 +14197,8 @@
       "name_en": "to mislead",
       "id": "p3150",
       "domain": "socium",
-      "stem": "leid"
+      "stem": "leid",
+      "parent": "p1464"
     },
     {
       "name": "misschien",
@@ -14455,7 +14365,8 @@
       "name_en": "possible",
       "id": "p3043",
       "domain": "core",
-      "stem": "mog"
+      "stem": "mog",
+      "parent": "p1628"
     },
     {
       "pos": "verb",
@@ -14744,7 +14655,8 @@
       "id": "p3014",
       "also": "nagedacht",
       "domain": "mental",
-      "stem": "denk"
+      "stem": "denk",
+      "parent": "p650"
     },
     {
       "name": "naderen",
@@ -14973,13 +14885,6 @@
       "stem": "nicht"
     },
     {
-      "name": "niemand",
-      "name_en": "nobody",
-      "id": "p2962",
-      "domain": "core",
-      "stem": "niemand"
-    },
-    {
       "name": "nier",
       "name_en": "kidney",
       "similarity": "native",
@@ -15024,7 +14929,8 @@
       "domain": "mental",
       "topic": "attitude",
       "article": "de",
-      "stem": "nieuw"
+      "stem": "nieuw",
+      "parent": "p195"
     },
     {
       "domain": "body",
@@ -15065,7 +14971,8 @@
       "name_en": "needed",
       "id": "p2942",
       "domain": "core",
-      "stem": "nood"
+      "stem": "nood",
+      "parent": "p3496"
     },
     {
       "domain": "socium",
@@ -15212,7 +15119,8 @@
       "name_en": "mornings",
       "id": "p3498",
       "domain": "core",
-      "stem": "ochtend"
+      "stem": "ochtend",
+      "parent": "p1716"
     },
     {
       "name": "oefenen",
@@ -15311,7 +15219,8 @@
       "name_en": "up",
       "id": "p3501",
       "domain": "spatial",
-      "stem": "hoog"
+      "stem": "hoog",
+      "parent": "p1150"
     },
     {
       "name": "omhouden",
@@ -15440,19 +15349,6 @@
       "stem": "houd"
     },
     {
-      "name": "ondernemend",
-      "name_en": "enterprising",
-      "similarity": "native",
-      "pos": "noun",
-      "level": "b",
-      "normalized": 0.667,
-      "id": "p1746",
-      "domain": "mental",
-      "topic": "attitude",
-      "article": "de",
-      "stem": "nem"
-    },
-    {
       "name": "onderneming",
       "name_en": "enterprise",
       "id": "p3504",
@@ -15476,7 +15372,8 @@
       "name_en": "lower back",
       "id": "p3505",
       "domain": "body",
-      "stem": "rug"
+      "stem": "rug",
+      "parent": "p2100"
     },
     {
       "pos": "enum",
@@ -15570,7 +15467,8 @@
       "name_en": "wrong",
       "id": "p3154",
       "domain": "mental",
-      "stem": "lijk"
+      "stem": "lijk",
+      "parent": "p3113"
     },
     {
       "name": "ongelooflijk",
@@ -15584,14 +15482,16 @@
       "name_en": "accident",
       "id": "p3510",
       "domain": "core",
-      "stem": "luk"
+      "stem": "luk",
+      "parent": "p1527"
     },
     {
       "name": "ongemakkelijk",
       "name_en": "uncomfortable",
       "id": "p3511",
       "domain": "experience",
-      "stem": "mak"
+      "stem": "mak",
+      "parent": "p1551"
     },
     {
       "name": "ongeveer",
@@ -15610,7 +15510,8 @@
       "name_en": "unusual",
       "id": "p3512",
       "domain": "core",
-      "stem": "woon"
+      "stem": "woon",
+      "parent": "p949"
     },
     {
       "name": "onmiddellijk",
@@ -15632,7 +15533,8 @@
       "name_en": "impossible",
       "id": "p3155",
       "domain": "core",
-      "stem": "mog"
+      "stem": "mog",
+      "parent": "p1628"
     },
     {
       "name": "ontbijt",
@@ -15753,7 +15655,8 @@
       "name_en": "moving",
       "id": "p3049",
       "domain": "experience",
-      "stem": "roer"
+      "stem": "roer",
+      "parent": "p2082"
     },
     {
       "name": "ontspannen",
@@ -15780,7 +15683,8 @@
       "name_en": "relaxing",
       "id": "p3157",
       "domain": "experience",
-      "stem": "span"
+      "stem": "span",
+      "parent": "p1775"
     },
     {
       "domain": "spatial",
@@ -15898,7 +15802,8 @@
       "name_en": "unexpected",
       "id": "p3159",
       "domain": "core",
-      "stem": "wacht"
+      "stem": "wacht",
+      "parent": "p3073"
     },
     {
       "name": "onvoorspelbaar",
@@ -15968,7 +15873,8 @@
       "name_en": "judgment",
       "id": "p3521",
       "domain": "mental",
-      "stem": "oordeel"
+      "stem": "oordeel",
+      "parent": "p196"
     },
     {
       "name": "oorlog",
@@ -16130,7 +16036,8 @@
       "name_en": "excited",
       "id": "p3527",
       "domain": "mental",
-      "stem": "wind"
+      "stem": "wind",
+      "parent": "p1840"
     },
     {
       "name": "ophalen",
@@ -16168,7 +16075,8 @@
       "id": "p3528",
       "also": "opkijkt",
       "domain": "core",
-      "stem": "kijk"
+      "stem": "kijk",
+      "parent": "p1314"
     },
     {
       "name": "opkomend",
@@ -16187,14 +16095,16 @@
       "name_en": "rechargeable",
       "similarity": "native",
       "id": "p1817",
-      "stem": "laad"
+      "stem": "laad",
+      "parent": "p1438"
     },
     {
       "name": "oplader",
       "name_en": "charger",
       "id": "p3530",
       "domain": "artifacts",
-      "stem": "laad"
+      "stem": "laad",
+      "parent": "p1438"
     },
     {
       "name": "opleiding",
@@ -16302,7 +16212,8 @@
       "name_en": "again",
       "similarity": "native",
       "id": "p1825",
-      "stem": "nieuw"
+      "stem": "nieuw",
+      "parent": "p1690"
     },
     {
       "name": "oppervlakte",
@@ -16316,7 +16227,8 @@
       "id": "p1826",
       "domain": "spatial",
       "topic": "surface",
-      "stem": "vlak"
+      "stem": "vlak",
+      "parent": "p617"
     },
     {
       "pos": "noun",
@@ -16524,7 +16436,8 @@
       "name_en": "exciting",
       "id": "p3533",
       "domain": "experience",
-      "stem": "wind"
+      "stem": "wind",
+      "parent": "p1840"
     },
     {
       "name": "opzoeken",
@@ -16539,7 +16452,8 @@
       "id": "p1842",
       "domain": "agentic",
       "topic": "operation",
-      "stem": "zoek"
+      "stem": "zoek",
+      "parent": "p2906"
     },
     {
       "pos": "enum",
@@ -16689,13 +16603,6 @@
       "stem": "oven"
     },
     {
-      "name": "overal",
-      "name_en": "everywhere",
-      "id": "p3535",
-      "domain": "spatial",
-      "stem": "al"
-    },
-    {
       "name": "overdrijven",
       "name_en": "exaggerate",
       "id": "p3536",
@@ -16771,7 +16678,8 @@
       "id": "p1868",
       "domain": "agentic",
       "topic": "operation",
-      "stem": "stap"
+      "stem": "stap",
+      "parent": "p2288"
     },
     {
       "name": "overtreffen",
@@ -16837,7 +16745,8 @@
       "domain": "agentic",
       "pos": "verb",
       "name_nl2": "overwinning",
-      "stem": "win"
+      "stem": "win",
+      "parent": "p2830"
     },
     {
       "name": "overzien",
@@ -17464,7 +17373,8 @@
       "name_en": "take place",
       "id": "p3553",
       "domain": "core",
-      "stem": "plaats"
+      "stem": "plaats",
+      "parent": "p1935"
     },
     {
       "name": "plafond",
@@ -17520,7 +17430,8 @@
       "name_en": "countryside",
       "id": "p3556",
       "domain": "nature",
-      "stem": "land"
+      "stem": "land",
+      "parent": "p1443"
     },
     {
       "name": "plattelandsleven",
@@ -17863,7 +17774,8 @@
       "id": "p3016",
       "also": "potloden",
       "domain": "artifacts",
-      "stem": "potlood"
+      "stem": "potlood",
+      "parent": "p565"
     },
     {
       "name": "prachtig",
@@ -18184,20 +18096,6 @@
       "stem": "promot"
     },
     {
-      "name": "psychologie",
-      "name_en": "psychology",
-      "article": "de",
-      "plural": null,
-      "pos": "noun",
-      "level": "b",
-      "normalized": 0.182,
-      "similarity": "universal",
-      "id": "p2004",
-      "domain": "knowledge",
-      "topic": "knowledge",
-      "stem": "psych"
-    },
-    {
       "name": "publiek",
       "name_en": "audience",
       "id": "p3569",
@@ -18320,14 +18218,6 @@
       "id": "p2015",
       "stem": "raak",
       "also": "aanraken"
-    },
-    {
-      "name": "rammelen",
-      "name_en": "rattle",
-      "id": "p3573",
-      "also": "rammel",
-      "domain": "core",
-      "stem": "rammel"
     },
     {
       "pos": "adj",
@@ -18517,7 +18407,8 @@
       "domain": "spatial",
       "topic": "direction",
       "article": "de",
-      "stem": "recht"
+      "stem": "recht",
+      "parent": "p2028"
     },
     {
       "name": "rechtstreeks",
@@ -18706,7 +18597,8 @@
       "normalized": 0.857,
       "similarity": "universal",
       "id": "p2041",
-      "stem": "reis"
+      "stem": "reis",
+      "parent": "p2042"
     },
     {
       "pos": "verb",
@@ -18966,7 +18858,8 @@
       "id": "p3582",
       "also": "richtlijnen",
       "domain": "system",
-      "stem": "richt"
+      "stem": "richt",
+      "parent": "p2062"
     },
     {
       "pos": "enum",
@@ -20394,7 +20287,8 @@
       "id": "p2189",
       "domain": "food",
       "topic": "ingredients",
-      "stem": "appel"
+      "stem": "appel",
+      "parent": "p113"
     },
     {
       "name": "situatie",
@@ -20939,13 +20833,6 @@
       "stem": "solide"
     },
     {
-      "name": "sommige",
-      "name_en": "some",
-      "id": "p3601",
-      "domain": "core",
-      "stem": "sommig"
-    },
-    {
       "name": "soort",
       "name_en": "sort, kind",
       "similarity": "soundex",
@@ -21207,14 +21094,6 @@
       "domain": "system",
       "topic": "timeline",
       "stem": "spits"
-    },
-    {
-      "name": "spoedig",
-      "name_en": "soon",
-      "id": "p3603",
-      "domain": "core",
-      "also": "binnenkort",
-      "stem": "spoed"
     },
     {
       "name": "spontaan",
@@ -21587,7 +21466,8 @@
       "id": "p2289",
       "domain": "agentic",
       "topic": "operation",
-      "stem": "stap"
+      "stem": "stap",
+      "parent": "p2288"
     },
     {
       "domain": "body",
@@ -22806,7 +22686,8 @@
       "id": "p2406",
       "domain": "spatial",
       "topic": "direction",
-      "stem": "rug"
+      "stem": "rug",
+      "parent": "p2100"
     },
     {
       "name": "teruggeven",
@@ -22867,7 +22748,8 @@
       "name_en": "to scale back",
       "id": "p3630",
       "domain": "core",
-      "stem": "schroef"
+      "stem": "schroef",
+      "parent": "p580"
     },
     {
       "pos": "noun",
@@ -22887,7 +22769,8 @@
       "name_en": "satisfaction",
       "id": "p3631",
       "domain": "mental",
-      "stem": "tevreed"
+      "stem": "tevreed",
+      "parent": "p2412"
     },
     {
       "name": "theater",
@@ -22947,14 +22830,16 @@
       "name_en": "time",
       "id": "p3183",
       "domain": "core",
-      "stem": "tijd"
+      "stem": "tijd",
+      "parent": "p2419"
     },
     {
       "name": "tijdverdrijf",
       "name_en": "pastime",
       "id": "p3636",
       "domain": "experience",
-      "stem": "tijd"
+      "stem": "tijd",
+      "parent": "p2419"
     },
     {
       "pos": "verb",
@@ -23008,13 +22893,6 @@
       "topic": "attitude",
       "article": "de",
       "stem": "timid"
-    },
-    {
-      "name": "timmerman",
-      "name_en": "carpenter",
-      "id": "p3637",
-      "domain": "socium",
-      "stem": "timmer"
     },
     {
       "name": "timmerwerk",
@@ -23077,7 +22955,8 @@
       "name_en": "applied",
       "id": "p3640",
       "domain": "core",
-      "stem": "pas"
+      "stem": "pas",
+      "parent": "p2433"
     },
     {
       "name": "toegeven",
@@ -23263,7 +23142,8 @@
       "name_en": "peak season",
       "id": "p3645",
       "domain": "core",
-      "stem": "seizoen"
+      "stem": "seizoen",
+      "parent": "p2178"
     },
     {
       "name": "totaal",
@@ -23271,13 +23151,6 @@
       "id": "p3646",
       "domain": "core",
       "stem": "totaal"
-    },
-    {
-      "name": "traankanaal",
-      "name_en": "tear duct",
-      "id": "p3647",
-      "domain": "body",
-      "stem": "traan"
     },
     {
       "name": "traditie",
@@ -23527,19 +23400,6 @@
       "parent": "p2461"
     },
     {
-      "name": "trouwens",
-      "name_en": "by the way, for that matter",
-      "pos": "noun",
-      "level": "b",
-      "normalized": 0.926,
-      "similarity": "native",
-      "id": "p2463",
-      "domain": "language",
-      "topic": "relation",
-      "article": "de",
-      "stem": "trouw"
-    },
-    {
       "pos": "noun",
       "domain": "agentic",
       "topic": "solution",
@@ -23599,13 +23459,6 @@
       "id": "p3650",
       "domain": "nature",
       "stem": "turbulent"
-    },
-    {
-      "name": "tuurlijk",
-      "name_en": "of course",
-      "id": "p3188",
-      "domain": "core",
-      "stem": "natuur"
     },
     {
       "name": "tweeling",
@@ -23725,7 +23578,8 @@
       "name_en": "apart",
       "id": "p3653",
       "domain": "spatial",
-      "stem": "een"
+      "stem": "een",
+      "parent": "p762"
     },
     {
       "name": "uiten",
@@ -23849,7 +23703,8 @@
       "pos": "verb",
       "name_en": "lend",
       "similarity": "native",
-      "stem": "len"
+      "stem": "len",
+      "parent": "p1470"
     },
     {
       "name": "uitnodigen",
@@ -23882,7 +23737,8 @@
       "id": "p3655",
       "also": "uitgepakt",
       "domain": "agentic",
-      "stem": "pak"
+      "stem": "pak",
+      "parent": "p1881"
     },
     {
       "pos": "noun",
@@ -23902,7 +23758,8 @@
       "id": "p3656",
       "also": "uitgerekt",
       "domain": "body",
-      "stem": "strek"
+      "stem": "strek",
+      "parent": "p3579"
     },
     {
       "name": "uitschrijven",
@@ -23926,7 +23783,8 @@
       "id": "p2506",
       "domain": "agentic",
       "topic": "operation",
-      "stem": "stap"
+      "stem": "stap",
+      "parent": "p2288"
     },
     {
       "pos": "adj",
@@ -24025,7 +23883,8 @@
       "name_en": "view",
       "id": "p3191",
       "domain": "experience",
-      "stem": "zicht"
+      "stem": "zicht",
+      "parent": "p2892"
     },
     {
       "name": "uitzoeken",
@@ -24220,7 +24079,7 @@
       "name_en": "tonight",
       "id": "p2975",
       "domain": "core",
-      "parent": "p2536",
+      "parent": "p129",
       "stem": "avond"
     },
     {
@@ -24271,13 +24130,6 @@
       "domain": "core",
       "parent": "p2536",
       "stem": "ochtend"
-    },
-    {
-      "name": "vanwege",
-      "name_en": "because of",
-      "id": "p3021",
-      "domain": "core",
-      "stem": "weg"
     },
     {
       "domain": "spatial",
@@ -24457,7 +24309,8 @@
       "similarity": "native",
       "id": "p2557",
       "article": "de",
-      "stem": "antwoord"
+      "stem": "antwoord",
+      "parent": "p109"
     },
     {
       "name": "verbaasd",
@@ -24490,7 +24343,8 @@
       "pos": "verb",
       "normalized": 0.75,
       "id": "p2559",
-      "stem": "baas"
+      "stem": "verbaz",
+      "parent": "p2603"
     },
     {
       "name": "verbazingwekkend",
@@ -24508,7 +24362,8 @@
       "domain": "agentic",
       "pos": "verb",
       "name_nl2": "verbetering",
-      "stem": "beter"
+      "stem": "beter",
+      "parent": "p233"
     },
     {
       "name": "verbindend",
@@ -24516,7 +24371,7 @@
       "id": "p3669",
       "also": "verbindende",
       "domain": "system",
-      "parent": "p3670",
+      "parent": "p278",
       "stem": "bind"
     },
     {
@@ -24525,7 +24380,8 @@
       "id": "p3670",
       "also": "verbindingen",
       "domain": "system",
-      "stem": "bind"
+      "stem": "bind",
+      "parent": "p278"
     },
     {
       "name": "verbranden",
@@ -24552,7 +24408,8 @@
       "name_en": "further",
       "id": "p3069",
       "domain": "core",
-      "stem": "ver"
+      "stem": "ver",
+      "parent": "p2554"
     },
     {
       "domain": "core",
@@ -24652,7 +24509,8 @@
       "id": "p3070",
       "also": "verenigde",
       "domain": "socium",
-      "stem": "een"
+      "stem": "een",
+      "parent": "p762"
     },
     {
       "name": "verfrissend",
@@ -24768,7 +24626,8 @@
       "also": "verheldert",
       "pos": "verb",
       "name_nl2": "verheldering",
-      "stem": "helder"
+      "stem": "helder",
+      "parent": "p1054"
     },
     {
       "name": "verheugen",
@@ -24798,7 +24657,8 @@
       "name_en": "rental",
       "id": "p3675",
       "domain": "resource",
-      "stem": "huur"
+      "stem": "huur",
+      "parent": "p1173"
     },
     {
       "pos": "noun",
@@ -24888,14 +24748,16 @@
       "normalized": 0.875,
       "similarity": "native",
       "id": "p2584",
-      "stem": "koop"
+      "stem": "koop",
+      "parent": "p1391"
     },
     {
       "name": "verkouden",
       "name_en": "having a cold",
       "id": "p3677",
       "domain": "body",
-      "stem": "koud"
+      "stem": "koud",
+      "parent": "p1399"
     },
     {
       "name": "verlaten",
@@ -24937,14 +24799,16 @@
       "id": "p3198",
       "also": "verlengde",
       "domain": "core",
-      "stem": "lang"
+      "stem": "lang",
+      "parent": "p1446"
     },
     {
       "name": "verliefd",
       "name_en": "in love",
       "id": "p3679",
       "domain": "mental",
-      "stem": "lief"
+      "stem": "lief",
+      "parent": "p1494"
     },
     {
       "name": "verlies",
@@ -24991,7 +24855,8 @@
       "name_en": "tiring",
       "id": "p3682",
       "domain": "body",
-      "stem": "moe"
+      "stem": "moe",
+      "parent": "p1620"
     },
     {
       "name": "vernietigen",
@@ -24999,7 +24864,8 @@
       "id": "p3683",
       "also": "vernietigd",
       "domain": "core",
-      "stem": "niet"
+      "stem": "niet",
+      "parent": "p2595"
     },
     {
       "pos": "noun",
@@ -25018,7 +24884,8 @@
       "name_en": "disturbing",
       "id": "p3684",
       "domain": "mental",
-      "stem": "rust"
+      "stem": "rust",
+      "parent": "p2106"
     },
     {
       "domain": "socium",
@@ -25066,7 +24933,8 @@
       "pos": "verb",
       "name_en": "move, relocate",
       "similarity": "native",
-      "stem": "plaat"
+      "stem": "plaat",
+      "parent": "p1935"
     },
     {
       "name": "verpleegkundige",
@@ -25131,7 +24999,8 @@
       "id": "p3689",
       "also": "verruimt",
       "domain": "mental",
-      "stem": "ruim"
+      "stem": "ruim",
+      "parent": "p2104"
     },
     {
       "pos": "enum",
@@ -25280,7 +25149,8 @@
       "name_en": "to send",
       "id": "p3200",
       "domain": "language",
-      "stem": "stuur"
+      "stem": "stuur",
+      "parent": "p2356"
     },
     {
       "name": "vertalen",
@@ -25365,7 +25235,8 @@
       "id": "p3201",
       "also": "vertrouwelijke",
       "domain": "knowledge",
-      "stem": "trouw"
+      "stem": "trouw",
+      "parent": "p2624"
     },
     {
       "name": "vertrouwen",
@@ -25373,7 +25244,8 @@
       "id": "p2992",
       "also": "vertrouw",
       "domain": "mental",
-      "stem": "trouw"
+      "stem": "trouw",
+      "parent": "p2624"
     },
     {
       "pos": "noun",
@@ -25520,7 +25392,8 @@
       "similarity": "native",
       "id": "p2637",
       "article": "de",
-      "stem": "wonder"
+      "stem": "wonder",
+      "parent": "p249"
     },
     {
       "name": "verzamelen",
@@ -25535,7 +25408,8 @@
       "id": "p2638",
       "domain": "agentic",
       "topic": "operation",
-      "stem": "samen"
+      "stem": "samen",
+      "parent": "p2113"
     },
     {
       "name": "verzekeren",
@@ -25545,7 +25419,8 @@
       "domain": "resource",
       "pos": "verb",
       "name_nl2": "verzekering",
-      "stem": "zeek"
+      "stem": "zeek",
+      "parent": "p2873"
     },
     {
       "name": "verzekeringsmaatschappij",
@@ -25592,7 +25467,8 @@
       "name_en": "sunk",
       "id": "p3700",
       "domain": "core",
-      "stem": "zink"
+      "stem": "zink",
+      "parent": "p2899"
     },
     {
       "name": "verzorger",
@@ -25600,7 +25476,8 @@
       "id": "p3701",
       "also": "verzorgers",
       "domain": "socium",
-      "stem": "zorg"
+      "stem": "zorg",
+      "parent": "p2920"
     },
     {
       "name": "vest",
@@ -25923,7 +25800,8 @@
       "name_en": "fluent",
       "id": "p3203",
       "domain": "language",
-      "stem": "vloei"
+      "stem": "vloei",
+      "parent": "p2667"
     },
     {
       "name": "vlucht",
@@ -25967,7 +25845,8 @@
       "similarity": "native",
       "id": "p2673",
       "article": "het",
-      "stem": "voeder"
+      "stem": "voeder",
+      "parent": "p2675"
     },
     {
       "name": "voedselveiligheid",
@@ -26160,13 +26039,6 @@
       "stem": "was"
     },
     {
-      "name": "vooral",
-      "name_en": "especially",
-      "id": "p3074",
-      "domain": "core",
-      "stem": "al"
-    },
-    {
       "pos": "noun",
       "domain": "core",
       "topic": "pattern",
@@ -26186,7 +26058,8 @@
       "id": "p2993",
       "also": "voorbereid",
       "domain": "agentic",
-      "stem": "reid"
+      "stem": "reid",
+      "parent": "p3277"
     },
     {
       "name": "voordeel",
@@ -26293,7 +26166,8 @@
       "name_en": "pantry",
       "id": "p3715",
       "domain": "artifacts",
-      "stem": "kast"
+      "stem": "kast",
+      "parent": "p512"
     },
     {
       "name": "voorschrijven",
@@ -27111,7 +26985,8 @@
       "name_en": "weather forecast",
       "id": "p3728",
       "domain": "nature",
-      "stem": "weer"
+      "stem": "weer",
+      "parent": "p1119"
     },
     {
       "name": "wees",
@@ -27244,7 +27119,8 @@
       "name_en": "well-deserved",
       "id": "p3732",
       "domain": "core",
-      "stem": "dien"
+      "stem": "dien",
+      "parent": "p2566"
     },
     {
       "pos": "noun",
@@ -27338,14 +27214,6 @@
       "domain": "spatial",
       "parent": "p2792",
       "stem": "wereld"
-    },
-    {
-      "name": "werkdag",
-      "name_en": "workdays",
-      "id": "p3734",
-      "also": "werkdagen",
-      "domain": "agentic",
-      "stem": "werk"
     },
     {
       "pos": "noun",
@@ -28054,7 +27922,8 @@
       "name_en": "business trip",
       "id": "p3743",
       "domain": "spatial",
-      "stem": "reis"
+      "stem": "reis",
+      "parent": "p2042"
     },
     {
       "domain": "spatial",
@@ -28217,7 +28086,8 @@
       "name_en": "rare",
       "id": "p3746",
       "domain": "core",
-      "stem": "zeld"
+      "stem": "zeld",
+      "parent": "p2874"
     },
     {
       "name": "zelfstandig",
@@ -28268,7 +28138,8 @@
       "similarity": "native",
       "id": "p2886",
       "stem": "zicht",
-      "also": "zichtbaar"
+      "also": "zichtbaar",
+      "parent": "p2892"
     },
     {
       "name": "zichtbaar",
