@@ -2,31 +2,67 @@
 
 Language for everyday life in the Netherlands.
 
-## Groceries & Shopping
-
-### 1. In de Supermarkt
+## Shopping
 
 | Nederlands | English | Example |
 |------------|---------|---------|
+| Heeft u...? | Do you have...? | **Heeft u** ook verse vis? (Do you also have fresh fish?) |
+| Wat kost...? | What does ... cost? | **Wat kost** deze kaas? (What does this cheese cost?) |
+| Te duur | Too expensive | Die jas vind ik **te duur**. (I find that coat too expensive.) |
+| Waar vind ik...? | Where can I find...? | **Waar vind ik** de melk? (Where can I find the milk?) |
+| Mag ik een kilo...? | May I have a kilo of...? | **Mag ik een kilo** aardappelen? (May I have a kilo of potatoes?) |
+| Pinnen | To pay by card | Kan ik hier **pinnen**? (Can I pay by card here?) |
 | Het boodschappenlijstje | The shopping list | Ik schrijf een **boodschappenlijstje** voor ik ga winkelen. (I write a shopping list before I go shopping.) |
 | Een winkelmandje | A basket | Voor een paar dingen pak ik een **winkelmandje**. (For a few things I grab a basket.) |
 | Een winkelwagen | A shopping cart | Ik heb een euro nodig voor de **winkelwagen**. (I need a euro for the shopping cart.) |
 | De kassa | The checkout | Er staat een lange rij bij de **kassa**. (There's a long queue at the checkout.) |
-| De aanbieding | The special offer | De koffie is deze week in de **aanbieding**. (The coffee is on special offer this week.) |
-| Heeft u...? | Do you have...? | **Heeft u** ook verse vis? (Do you also have fresh fish?) |
-| Wat kost...? | What does ... cost? | **Wat kost** deze kaas? (What does this cheese cost?) |
-| Mag ik een kilo...? | May I have a kilo of...? | **Mag ik een kilo** aardappelen? (May I have a kilo of potatoes?) |
-| Waar vind ik...? | Where can I find...? | **Waar vind ik** de melk? (Where can I find the milk?) |
-| Pinnen | To pay by card | Kan ik hier **pinnen**? (Can I pay by card here?) |
 | Contant | Cash | Ik betaal liever **contant**. (I prefer to pay cash.) |
 | De bon | The receipt | Wilt u **de bon** in de tas? (Do you want the receipt in the bag?) |
 | Korting | Discount | Op deze schoenen krijg je **korting**. (You get a discount on these shoes.) |
-| Te duur | Too expensive | Die jas vind ik **te duur**. (I find that coat too expensive.) |
+| De aanbieding | The special offer | De koffie is deze week in de **aanbieding**. (The coffee is on special offer this week.) |
 | De bakker | The bakery | Ik haal vers brood bij **de bakker**. (I get fresh bread at the bakery.) |
 | De slager | The butcher | Bij **de slager** koop ik een stukje vlees. (At the butcher I buy a bit of meat.) |
 | De groenteboer | The greengrocer | **De groenteboer** heeft vandaag lekkere appels. (The greengrocer has tasty apples today.) |
 | De markt | The market | Op zaterdag gaan we naar **de markt**. (On Saturday we go to the market.) |
 | De drogist | The drugstore | Tandpasta koop ik bij **de drogist**. (I buy toothpaste at the drugstore.) |
+
+## Foods and meals
+
+| Nederlands | English | Example |
+|------------|---------|---------|
+| Het ontbijt | Breakfast | Ik eet **het ontbijt** om zeven uur. (I eat breakfast at seven o'clock.) |
+| De lunch | Lunch | Tussen de middag neem ik een korte **lunch**. (At midday I have a short lunch.) |
+| Het avondeten | Dinner | We eten **het avondeten** om zes uur. (We have dinner at six o'clock.) |
+| Het brood | Bread | 's Ochtends eet ik een boterham met **brood**. (In the morning I eat a slice of bread.) |
+| De kaas | Cheese | Op mijn boterham doe ik **kaas**. (I put cheese on my sandwich.) |
+| Het ei | Egg | Ik kook elke ochtend een **ei**. (I boil an egg every morning.) |
+| De melk | Milk | Wil je **melk** in je koffie? (Do you want milk in your coffee?) |
+| Het fruit | Fruit | Na het eten neem ik wat **fruit**. (After the meal I have some fruit.) |
+| De appel | Apple | Een **appel** per dag is gezond. (An apple a day is healthy.) |
+| De groente | Vegetables | Bij het avondeten eten we veel **groente**. (At dinner we eat a lot of vegetables.) |
+| De aardappel | Potato | In Nederland eet men vaak **aardappelen**. (In the Netherlands people often eat potatoes.) |
+| Het vlees | Meat | Ik eet niet elke dag **vlees**. (I don't eat meat every day.) |
+| De vis | Fish | Op vrijdag eten we vaak **vis**. (On Fridays we often eat fish.) |
+| De soep | Soup | Bij koud weer maak ik graag **soep**. (In cold weather I like to make soup.) |
+| De rijst | Rice | Vanavond eten we kip met **rijst**. (Tonight we're having chicken with rice.) |
+| De koffie | Coffee | Ik drink 's ochtends een kop **koffie**. (I drink a cup of coffee in the morning.) |
+| De thee | Tea | Wil je een kopje **thee**? (Would you like a cup of tea?) |
+| Het water | Water | Drink genoeg **water** op een warme dag. (Drink enough water on a hot day.) |
+| De suiker | Sugar | Doe je **suiker** in je thee? (Do you put sugar in your tea?) |
+
+## Naar het restaurant
+
+| text | text_en |
+|------|---------|
+| Lekker | Tasty |
+| Eet smakelijk! | Enjoy your meal! |
+| Proost! | Cheers! |
+| Voeg zout toe. | Add salt. |
+| Pas op! | Watch out! |
+| Probeer het maar. | Just give it a try. |
+| Mag ik een koffie, alstublieft? | Can I have a coffee, please? |
+| Wil je iets drinken? | Would you like a drink? |
+| Waar is het toilet? | Where's the toilet? |
 
 ## Woningen, Kamers, Meubels, Huren en De Buurt
 
@@ -64,10 +100,6 @@ Language for everyday life in the Netherlands.
 
 ## Transport & Travel
 
-Vocabulary and phrases for getting around the Netherlands: public transport, cars, bicycles, asking for directions, and buying tickets.
-
-### Openbaar Vervoer — Public Transport
-
 | Nederlands | English | Example |
 |------------|---------|---------|
 | De trein | The train | Ik neem elke ochtend **de trein** naar mijn werk. (I take the train to work every morning.) |
@@ -80,11 +112,6 @@ Vocabulary and phrases for getting around the Netherlands: public transport, car
 | Een retour | A return ticket | Mag ik **een retour** naar Rotterdam? (May I have a return ticket to Rotterdam?) |
 | De OV-chipkaart | The public transport card | Vergeet je **OV-chipkaart** niet. (Don't forget your public transport card.) |
 | In- en uitchecken | To check in and check out | Je moet **in- en uitchecken** bij de poortjes. (You have to check in and check out at the gates.) |
-
-### Met de Auto — By Car
-
-| Nederlands | English | Example |
-|------------|---------|---------|
 | De auto | The car | We gaan met **de auto** naar het strand. (We're going to the beach by car.) |
 | De weg | The road | **De weg** is glad door de regen. (The road is slippery from the rain.) |
 | De file | The traffic jam | Ik stond een uur in **de file**. (I was stuck in a traffic jam for an hour.) |
@@ -114,24 +141,6 @@ Language for talking about how you spend your free time: hobbies, sport, going o
 | Zwemmen | To swim | In de zomer ga ik graag **zwemmen**. (In summer I like to swim.) |
 | Wielrennen | To cycle (sport) | Mijn broer doet aan **wielrennen**. (My brother does cycling as a sport.) |
 | Yoga | Yoga | Ik doe twee keer per week **yoga**. (I do yoga twice a week.) |
-
-### Naar het restaurant
-
-| text | text_en |
-|------|---------|
-| Eet smakelijk! | Enjoy your meal! |
-| Proost! | Cheers! |
-| Voeg zout toe. | Add salt. |
-| Pas op! | Watch out! |
-| Probeer het maar. | Just give it a try. |
-| Mag ik een koffie, alstublieft? | Can I have a coffee, please? |
-| Wil je iets drinken? | Would you like a drink? |
-| Waar is het toilet? | Where's the toilet? |
-
-### Uitgaan — Going Out
-
-| Nederlands | English | Example |
-|------------|---------|---------|
 | Naar de bioscoop | To the cinema | Vanavond gaan we **naar de bioscoop**. (Tonight we're going to the cinema.) |
 | Naar het café | To the pub/café | Na het werk gaan we **naar het café**. (After work we go to the café.) |
 | Naar het restaurant | To the restaurant | Op haar verjaardag gaan we **naar het restaurant**. (On her birthday we go to the restaurant.) |

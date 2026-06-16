@@ -1,24 +1,10 @@
 [
   {
-    "id": "kVukjX3evwo",
-    "name": "A Calm Story in Dutch",
-    "label": "Time to Fall Asleep",
-    "level": "B",
-    "group": "sleep"
-  },
-  {
     "id": "87_3ttC1eDE",
     "name": "A Simple Story in Dutch",
     "label": "An Exciting New Beginning",
     "level": "B",
     "group": "story"
-  },
-  {
-    "id": "KZkP8wdZ9OI",
-    "name": "How to Celebrate New Year's Eve in the Netherlands",
-    "label": "Words and Concepts Explained",
-    "level": "B",
-    "group": "culture"
   },
   {
     "id": "52MPQeOaVb8",
@@ -35,13 +21,6 @@
     "group": "conversation"
   },
   {
-    "id": "acImXNOIx_c",
-    "name": "1 Hour Christmas in Dutch",
-    "label": "Learn Dutch with a Christmas Story",
-    "level": "B",
-    "group": "culture"
-  },
-  {
     "id": "zPxdM1P6QNw",
     "name": "How to Talk About Feelings in Dutch?",
     "label": "Simple Dutch",
@@ -56,33 +35,11 @@
     "group": "method"
   },
   {
-    "id": "gBc3XzyPulY",
-    "name": "My 12 Favourite Words from 2025",
-    "label": "Simply Explained for Beginners",
-    "level": "B",
-    "group": "vocabulary"
-  },
-  {
-    "id": "oKy5v5f_Rw0",
-    "name": "Christmas in the Netherlands",
-    "label": "What Are Christmas and Sinterklaas?",
-    "label2": "Explained",
-    "level": "B",
-    "group": "culture"
-  },
-  {
     "id": "h-uTIVqaAxU",
     "name": "Everyday Speaking",
     "label": "Practise Smalltalk and Improve Your Dutch",
     "level": "B",
     "group": "conversation"
-  },
-  {
-    "id": "DQuYq-T01ys",
-    "name": "My First Winter in the Netherlands",
-    "label": "Key Words and Concepts",
-    "level": "B",
-    "group": "culture"
   },
   {
     "id": "dwvdvZsm0-I",
@@ -98,25 +55,11 @@
     "group": "method"
   },
   {
-    "id": "bHveWbPE4Wc",
-    "name": "60 Minutes of Dutch to Fall Asleep To",
-    "label": "Simple & Relaxing",
-    "level": "B",
-    "group": "sleep"
-  },
-  {
     "id": "4ZMccq_HAqY",
     "name": "How I Learned Dutch as a Foreigner",
     "label": "My Life in the Netherlands",
     "level": "B",
     "group": "method"
-  },
-  {
-    "id": "I2aYwzXTHek",
-    "name": "5 Words That Exist Only in Dutch",
-    "label": "Simple Explanation",
-    "level": "B",
-    "group": "vocabulary"
   },
   {
     "id": "zFmY96IhDM4",
@@ -200,12 +143,6 @@
     "name": "Don't understand Dutch? Here's how to!",
     "level": "B",
     "group": "method"
-  },
-  {
-    "id": "9Y6TJ7ddTh8",
-    "name": "Learn Dutch in Your Sleep: This Method Really Works!",
-    "level": "B",
-    "group": "sleep"
   },
   {
     "id": "v33WKXcimdw",
@@ -345,13 +282,6 @@
     "group": "story"
   },
   {
-    "id": "DZHng9uh3m8",
-    "name": "Learn Dutch While You Sleep",
-    "label": "Easy and Effective Methods!",
-    "level": "B",
-    "group": "sleep"
-  },
-  {
     "id": "mo1AQJtwHks",
     "name": "Learn to Speak Dutch: Train Your Brain",
     "label": "Speak Dutch Like a Native",
@@ -405,12 +335,6 @@
     "label": "Dutch for Beginners A1-A2",
     "level": "B",
     "group": "method"
-  },
-  {
-    "id": "ddc1DYlZYSk",
-    "name": "Top 10 Dutch Words for Beginners",
-    "level": "A",
-    "group": "vocabulary"
   },
   {
     "id": "XrChXUi3AUs",
@@ -675,13 +599,6 @@
     "group": "story"
   },
   {
-    "id": "kATGUPHBRQs",
-    "name": "Leer Nederlands In Je Slaap",
-    "label": "Dutch Sleep Story for Beginners",
-    "level": "A",
-    "group": "sleep"
-  },
-  {
     "id": "7r_TVy5Hrys",
     "name": "Don’t Translate! Speak Dutch Naturally",
     "label": "Dutch Story for Beginners",
@@ -696,13 +613,6 @@
     "group": "method"
   },
   {
-    "id": "2cKmvVnkOkQ",
-    "name": "Nederlandse Slaap-Hypnose",
-    "label": "Dutch Sleep Story for Beginners",
-    "level": "A",
-    "group": "sleep"
-  },
-  {
     "id": "9R1kJQ95LY8",
     "name": "Learn Dutch with Motivational Stories",
     "label": "Improve Your Dutch Listening Skills",
@@ -710,54 +620,11 @@
     "group": "story"
   },
   {
-    "id": "que5iPs92QA",
-    "name": "Leer Nederlands In Je Slaap",
-    "label": "Dutch Sleep Story for Beginners",
-    "level": "A",
-    "group": "sleep"
-  },
-  {
-    "id": "_Z8PGGFNvZI",
-    "name": "Leer Nederlands Door Geschiedenis",
-    "label": "De opkomst van het Romeinse Rijk",
-    "level": "B",
-    "group": "culture"
-  },
-  {
     "id": "xKAVhRN0zsE",
     "name": "Waarom Nederlands leren?",
     "label": "Nederlands leren voor beginners - Episode 01",
     "level": "B",
     "group": "method"
-  },
-  {
-    "id": "qxhPcfwvJJQ",
-    "name": "Leer Nederlands In Je Slaap",
-    "label": "Relaxing Dutch Story Practice",
-    "label2": "Sleep Learning",
-    "level": "B",
-    "group": "sleep"
-  },
-  {
-    "id": "aoQ3tyPg02w",
-    "name": "Dutch Listening Practice: From the Netherlands to Game of Thrones",
-    "label": "The Story of Carice van Houten",
-    "level": "B",
-    "group": "culture"
-  },
-  {
-    "id": "OGBdu2ri6ww",
-    "name": "Learn Dutch with Vincent van Gogh's Story",
-    "label": "Dutch Listening Practice B1-B2 with English Subtitles",
-    "level": "B",
-    "group": "culture"
-  },
-  {
-    "id": "2zaD_PDi3Z0",
-    "name": "Leer Nederlands in je slaap met 2 spannende verhalen",
-    "label": "Relaxing Dutch Story Practice |Sleep Learning",
-    "level": "B",
-    "group": "sleep"
   },
   {
     "id": "SnWMgRLsJ6c",
@@ -775,21 +642,6 @@
     "group": "story"
   },
   {
-    "id": "TDIYlyXrxsc",
-    "name": "Leer Nederlands in JE SLAAP",
-    "label": "(with relaxing ambient sounds)",
-    "label2": "3 spannende verhalen",
-    "level": "B",
-    "group": "sleep"
-  },
-  {
-    "id": "0M8QgabmOtQ",
-    "name": "Wat is er gebeurd met Peter R. de Vries?",
-    "label": "LEER NEDERLANDS met SPANNENDE VERHALEN",
-    "level": "B",
-    "group": "culture"
-  },
-  {
     "id": "1GWbxcrmRy8",
     "name": "LEER NEDERLANDS met SPANNENDE VERHALEN (ENGLISH SUBTITLES)",
     "label": "De volgende vergadering [ADVANCED]",
@@ -797,32 +649,11 @@
     "group": "story"
   },
   {
-    "id": "ksIVqy8EgaQ",
-    "name": "Hoe DATEN de Nederlanders?",
-    "label": "Leer Nederlands met SPANNENDE VERHALEN (A2-B1) [English Subtitles]",
-    "level": "B",
-    "group": "culture"
-  },
-  {
     "id": "3RcfWWfdhbk",
     "name": "LEER NEDERLANDS met SPANNENDE VERHALEN (ENGLISH SUBTITLES)",
     "label": "Ik hou van mijn baas...",
     "level": "B",
     "group": "story"
-  },
-  {
-    "id": "uq1pADokTVA",
-    "name": "LEER NEDERLANDS met SPANNENDE VERHALEN (ENGLISH SUBTITLES)",
-    "label": "Het leven van ALBERT EINSTEIN",
-    "level": "B",
-    "group": "culture"
-  },
-  {
-    "id": "NT_9hSTEULw",
-    "name": "3 Verhalen om bij in slaap te vallen",
-    "label": "Leer Nederlands in je slaap (relaxing ambient sounds)",
-    "level": "B",
-    "group": "sleep"
   },
   {
     "id": "tRpR346cYqw",
@@ -844,13 +675,6 @@
     "label": "Ik zal scheiden",
     "level": "B",
     "group": "story"
-  },
-  {
-    "id": "tQntTuUEVZk",
-    "name": "Learn DUTCH fast with simple story",
-    "level": "A",
-    "label": "Koningsdag in Nederlands",
-    "group": "culture"
   },
   {
     "id": "LStX7q1FID8",
@@ -904,20 +728,6 @@
     "group": "story"
   },
   {
-    "id": "zYfkIzh7Je8",
-    "name": "Woorden leren Nederlands",
-    "label": "100 handige woorden voor beginners",
-    "level": "B",
-    "group": "vocabulary"
-  },
-  {
-    "id": "H-ztZKxpCGE",
-    "name": "Leer Nederlands met films 🎬",
-    "label": "Harry Potter",
-    "level": "B",
-    "group": "culture"
-  },
-  {
     "id": "20aivhks8zg",
     "name": "Leer snel Nederlands met eenvoudige verhalen (A2–B1)",
     "level": "B",
@@ -949,13 +759,6 @@
     "label": "Mijn Eerste Liefde",
     "level": "B",
     "group": "story"
-  },
-  {
-    "id": "rUh7BjRJ03g",
-    "name": "Leer Nederlands met eenvoudige verhalen",
-    "level": "A",
-    "label": "Tulpen in Nederland",
-    "group": "culture"
   },
   {
     "id": "pivERubD4S8",
@@ -1058,19 +861,6 @@
     "name": "BEGIN LEARNING Dutch with a Short Story",
     "level": "B",
     "group": "story"
-  },
-  {
-    "id": "gc_XSw84EaQ",
-    "name": "Learn Dutch Fast: Easy Christmas Story for Beginners!",
-    "level": "A",
-    "group": "culture"
-  },
-  {
-    "id": "kqBp_1g5Ogk",
-    "name": "FLUENT in DUTCH until CHRISTMAS",
-    "label": "with easy christmas Story",
-    "level": "A",
-    "group": "culture"
   },
   {
     "id": "8MsEie6mR00",
