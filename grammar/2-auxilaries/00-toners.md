@@ -1,8 +1,17 @@
 # Toners
 
-These are the "small" Dutch words that translate badly in a dictionary but appear constantly in everyday speech. On their own they carry almost no weight — their job is to **set the tone**: soften, reassure, argue, hurry, or downplay. A Dutch speaker without them sounds robotic; with them, human.
+These are the "small" Dutch words that translate badly in a dictionary but appear constantly in everyday speech.
+
+On their own they carry almost no weight — their job is to **set the tone**: soften, reassure, argue, hurry, or downplay. A Dutch speaker without them sounds robotic; with them, human.
 
 > Learn these not from a dictionary but as ready-made stacked templates. Individually they're nearly weightless; together they carry the entire emotional register of spoken Dutch.
+
+## grag
+
+| Dutch | Function | Example |
+|-------|----------|---------|
+| Ik wil graag dit | I would like this ||
+| Ik doe graag … | I like doing … | Ik lees **graag** in de tuin. (I like reading in the garden.) |
 
 ## toch
 
@@ -209,19 +218,28 @@ The hallmark of fluent, natural speech is **stacking** these particles.
 
 | Word | Effect | Example |
 |------|--------|---------|
-| alstublieft / alsjeblieft | please | *Mag ik een glas water, alstublieft?* |
-| toevallig | by any chance | *Heb je toevallig een paraplu?* |
-| pardon | pardon | Pardon, waar is het station? (Pardon, where is the station?) |
+| alstublieft / alsjeblieft | please | Mag ik een glas water, *alstublieft?* |
+| Dank u wel! Bedankt! | Thank you! Thanks! ||
+| Goed, dank je | Good, thank you ||
+| Graag gedaan | You're welcome ||
 | excuseer | excuse me | Excuseer, kunt u dat herhalen? (Excuse me, can you repeat that?) |
+| pardon | pardon | Pardon, waar is het station? (Pardon, where is the station?) |
+| Sorry, wat jammer! | Sorry, what a pity ||
+| Dat maakt niet uit | It doesn't matter ||
+| toevallig | by any chance | Heb je *toevallig* een paraplu? |
+| Geen probleem! Geen zorgen! | No problem! Don't worry! ||
+| niet erg | don't mention it / it's nothing ||
+| Het is oké | It's okay ||
 
 The embedded clause goes verb-final.
 
 | Wrapper | Example |
 |---------|---------|
-| Mag ik vragen … | *Mag ik vragen waar je vandaan komt?* |
-| Zou je me kunnen vertellen … | *Zou je me kunnen vertellen hoeveel dat kost?* |
-| Weet je toevallig … | *Weet je toevallig hoe laat de bus komt?* |
-| Ik vroeg me af … | *Ik vroeg me af of er nog plekken zijn.* |
+| Mag ik vragen … | **Mag ik vragen** waar je vandaan komt? |
+| Zou je me kunnen vertellen … | **Zou je me kunnen vertellen** hoeveel dat kost? |
+| Weet je toevallig … | **Weet je toevallig** hoe laat de bus komt? |
+| Ik vroeg me af … | **Ik vroeg me af** of er nog plekken zijn.*|
+| Heb je zin in...? | **Heb je zin in** een kopje koffie? (Do you feel like a cup of coffee?) |
 
 Soften the force of a statement.
 
@@ -233,49 +251,3 @@ Soften the force of a statement.
 | tamelijk | fairly | *Dat is tamelijk interessant.* |
 | redelijk | reasonably | *Dat is redelijk duur.* |
 | vrij | fairly / rather | *Dat is vrij goed.* |
-
-## Affirmatives/Negations
-
-| Dutch | Function | Example |
-|-------|----------|---------|
-| **eigenlijk** | actually | *Dat is **eigenlijk** waar.* |
-| **zeker** | certainly / surely | *Hij komt **zeker**.* |
-| **misschien** (wel) | maybe | *Misschien kom ik later.* |
-| **waarschijnlijk** (wel) | probably | *Hij is **waarschijnlijk** thuis.* |
-| **denk ik** | I think (filler) | Ja, **denk ik**. (Yes, I think so.) |
-| **lijkt me** | seems to me | Dat **lijkt me** goed. (That seems good to me.) |
-| **grotendeels** | largely | Dat is **grotendeels** waar. (That's largely true.) |
-| dat klopt | that's correct | Ja, dat klopt helemaal. (Yes, that's exactly right.) |
-| zo is het | that's how it is | Tja, zo is het nu eenmaal. (Well, that's just how it is.) |
-| dat mag | that's allowed | Natuurlijk, dat mag. (Of course, that's allowed.) |
-| dat kan | that's possible | Ja hoor, dat kan. (Sure, that's possible.) |
-| dat spreekt | that goes without saying | Dat spreekt vanzelf. (That goes without saying.) |
-| inderdaad | indeed | Inderdaad, dat is waar. (Indeed, that's true.) |
-| natuurlijk | of course | Natuurlijk, ik help je. (Of course, I'll help you.) |
-| natuurlijk wel | of course yes | Natuurlijk wel! (Of course!) |
-| uiteraard | naturally/certainly | Uiteraard ga ik mee. (Naturally, I'm coming along.) |
-| ja hoor | yes indeed | Dat ja hoor. (Yes indeed.) |
-| mee eens | I agree | Daar ben ik het mee eens. (I agree with that.) |
-| precies | exactly | Precies! Zo bedoel ik. (Exactly! That's what I mean.) |
-| ik denk van wel | I think so | "Komt het goed?" "**Ik denk van wel**." ("Will it be okay?" "I think so.") |
-| ik hoop van wel | I hope so | "Lukt het je?" "**Ik hoop van wel**." ("Will you manage?" "I hope so.") |
-
-### Polite negation and Hedging Phrases
-
-| Dutch | English | Example |
-|-------|---------|---------|
-| niet echt | not really | Ik vind het **niet echt** lekker. (I don't really find it tasty.) |
-| niet echt | not really | Niet echt, nee. (Not really, no.) |
-| echt niet | really not | Echt niet, nooit. (Really not, never.) |
-| liever niet | rather not | Ik wil **liever niet** gaan. (I'd rather not go.) |
-| niet zo | not that… | Het is **niet zo** moeilijk. (It's not that difficult.) |
-| niet bepaald | not exactly | Hij is **niet bepaald** vriendelijk. (He is not exactly friendly.) |
-| nee hoor | no (polite) | Dat nee hoor. (No, not at all.) |
-| integendeel | on the contrary | Integendeel, het ging goed. (On the contrary, it went well.) |
-| eerder | rather | Dat is eerder een voordeel. (That's rather an advantage.) |
-| ik weet het niet zeker | I'm not sure | **Ik weet het niet zeker**, vraag het hem maar. (I'm not sure, just ask him.) |
-| het is mogelijk | it's possible | **Het is mogelijk** dat ik later kom. (It's possible that I'll come later.) |
-| dat zou kunnen | that could be | "Komt hij ook?" "**Dat zou kunnen**." ("Is he coming too?" "That could be.") |
-| wie weet | who knows | **Wie weet** zien we elkaar nog eens. (Who knows, maybe we'll meet again.) |
-| misschien wel | perhaps indeed | "Heb je honger?" "**Misschien wel**." ("Are you hungry?" "Perhaps indeed.") |
-| ik denk van niet | I don't think so | "Regent het morgen?" "**Ik denk van niet**." ("Will it rain tomorrow?" "I don't think so.") |

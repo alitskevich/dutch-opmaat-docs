@@ -52,5 +52,7 @@
 | **tot** | up to / until | Loop **tot** het einde. |
 | **vanaf** | starting from | **Vanaf** hier is het dichtbij. |
 | **richting** | toward(s) | We gaan **richting** centrum. |
+| Sla rechtsaf. | Turn right. ||
+| Ga rechtdoor. | Go straight on. ||
 
 > ***Uit* vs *van***: use **uit** for the place of origin (where you're *from*: *Ik kom **uit** België*) and **van** for "coming from somewhere right now" (*Ik kom net **van** kantoor*).

@@ -14,48 +14,37 @@
 | tot zo | see you soon | Ik ben zo klaar, **tot zo**! (I'm almost done, see you soon!) |
 | zie je | see you | **Zie je** morgen op school. (See you tomorrow at school.) |
 
+<Dialog id="02-hoe-gaat-het.json"/>
+
 ## Everyday Expressions
 
 | text | text_en |
 |------|---------|
-| Dank u wel! Bedankt! | Thank you! Thanks! |
-| Goed, dank je | Good, thank you |
-| Graag gedaan | You're welcome |
-| Greeting |  Welcome! |
-| Geen probleem! Geen zorgen! | No problem! Don't worry! |
-| Excuseer me | Excuse me |
-| Sorry, wat jammer! | Sorry, what a pity |
-| Dat maakt niet uit | It doesn't matter |
-| Het is oké | It's okay |
-| Dat klopt | That's right |
-| Heel goed gedaan | Very well done |
-| Ik wil graag dit | I would like this |
 | ik snap het | I understand |
 | dat weet ik niet | I don't know |
 | nee bedankt | no thank you |
-| ja graag | yes please |
 | doe maar | just do it / go ahead |
 | maakt niet uit | doesn't matter |
-| niet erg | don't mention it / it's nothing |
 | natuurlijk niet | of course not |
 | wat nu | what's next |
 | en wat dan | so what |
 | nou en | so what / big deal |
 | Eet smakelijk! | Enjoy your meal! |
 | Proost! | Cheers! |
-| Sla rechtsaf. | Turn right. |
-| Ga rechtdoor. | Go straight on. |
 | Voeg zout toe. | Add salt. |
 | Pas op! | Watch out! |
 | Probeer het maar. | Just give it a try. |
-| Spreek na de piep. | Speak after the beep. |
 | Mag ik een koffie, alstublieft? | Can I have a coffee, please? |
 | Wil je iets drinken? | Would you like a drink? |
 | Kun je me helpen? | Can you help me? |
 | Heb je een momentje? | Do you have a moment? |
 | Hoe laat is het? | What time is it? |
 | Waar is het toilet? | Where's the toilet? |
-| Hoeveel kost dat? | How much does that cost? |
+
+## Afsprak maken
+
+| text | text_en |
+|------|---------|
 | Heb je tijd op...? | Do you have time on...? |
 | Zullen we afspreken? | Shall we meet up? |
 | Hoe laat spreken we af? | What time shall we meet? |
