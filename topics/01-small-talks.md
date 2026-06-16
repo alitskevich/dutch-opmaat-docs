@@ -14,8 +14,6 @@
 | tot zo | see you soon | Ik ben zo klaar, **tot zo**! (I'm almost done, see you soon!) |
 | zie je | see you | **Zie je** morgen op school. (See you tomorrow at school.) |
 
-<Dialog id="02-hoe-gaat-het.json" />
-
 ## Everyday Expressions
 
 | text | text_en |
@@ -66,8 +64,6 @@
 | Werk je of studeer je? | Do you work or study? | Ik werk. / Ik studeer nog. |
 | Hoe lang woon je hier al? | How long have you been living here? | Ik woon hier al twee jaar. |
 | - |Aangenaam kennis te maken | Pleased to meet you |
-
-<Dialog id="03-meet-markus.json"/>
 
 ## Jouw huis
 

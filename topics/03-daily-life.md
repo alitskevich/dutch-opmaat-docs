@@ -2,10 +2,6 @@
 
 Language for everyday life in the Netherlands.
 
-## My day
-
-<Dialog id="06-mijn-dag.json"/>
-
 ## Groceries & Shopping
 
 ### 1. In de Supermarkt
@@ -31,11 +27,6 @@ Language for everyday life in the Netherlands.
 | De groenteboer | The greengrocer | **De groenteboer** heeft vandaag lekkere appels. (The greengrocer has tasty apples today.) |
 | De markt | The market | Op zaterdag gaan we naar **de markt**. (On Saturday we go to the market.) |
 | De drogist | The drugstore | Tandpasta koop ik bij **de drogist**. (I buy toothpaste at the drugstore.) |
-
-### 3. Vragen en Verzoeken — Asking and Requesting
-
-| Nederlands | English | Example |
-|------------|---------|---------|
 
 ## Woningen, Kamers, Meubels, Huren en De Buurt
 
@@ -136,8 +127,6 @@ Language for talking about how you spend your free time: hobbies, sport, going o
 | Mag ik een koffie, alstublieft? | Can I have a coffee, please? |
 | Wil je iets drinken? | Would you like a drink? |
 | Waar is het toilet? | Where's the toilet? |
-
-<Dialog id="08-in-restaurant.json"/>
 
 ### Uitgaan — Going Out
 
