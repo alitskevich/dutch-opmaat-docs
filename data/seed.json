@@ -11864,19 +11864,6 @@
       "stem": "meer"
     },
     {
-      "pos": "adj",
-      "domain": "language",
-      "topic": "compare",
-      "level": "u",
-      "name": "meer",
-      "name_en": "more",
-      "similarity": "native",
-      "normalized": 0.75,
-      "id": "p1571",
-      "stem": "meer",
-      "also": "meest"
-    },
-    {
       "name": "meevallen",
       "name_en": "be better than expected",
       "verb1": "viel mee",
@@ -24677,6 +24664,4370 @@
       "similarity": "native",
       "id": "p2940",
       "stem": "zwijg"
+    },
+    {
+      "name": "helpen",
+      "name_en": "to help",
+      "id": "p2941",
+      "also": "helpt, help, geholpen"
+    },
+    {
+      "name": "nodig",
+      "name_en": "needed",
+      "id": "p2942"
+    },
+    {
+      "name": "bedankt",
+      "name_en": "thanks",
+      "id": "p2943"
+    },
+    {
+      "name": "hoop",
+      "name_en": "hope",
+      "id": "p2944"
+    },
+    {
+      "name": "volgend",
+      "name_en": "next",
+      "id": "p2945",
+      "also": "volgende"
+    },
+    {
+      "name": "jij",
+      "name_en": "you (jij)",
+      "id": "p2946",
+      "also": "jou, jouw"
+    },
+    {
+      "name": "elk",
+      "name_en": "each/every (elk)",
+      "id": "p2947",
+      "also": "elke"
+    },
+    {
+      "name": "alsjeblieft",
+      "name_en": "please",
+      "id": "p2948"
+    },
+    {
+      "name": "hopelijk",
+      "name_en": "hopefully",
+      "id": "p2949"
+    },
+    {
+      "name": "iemand",
+      "name_en": "someone",
+      "id": "p2950"
+    },
+    {
+      "name": "meteen",
+      "name_en": "immediately",
+      "id": "p2951"
+    },
+    {
+      "name": "voorkeur",
+      "name_en": "preference",
+      "id": "p2952",
+      "also": "voorkeuren"
+    },
+    {
+      "name": "werken",
+      "name_en": "to work",
+      "id": "p2953",
+      "also": "werkt, gewerkt"
+    },
+    {
+      "name": "beginnen",
+      "name_en": "to begin",
+      "id": "p2954",
+      "also": "begon, begonnen, begint"
+    },
+    {
+      "name": "jongen",
+      "name_en": "boy",
+      "id": "p2955",
+      "also": "jongens"
+    },
+    {
+      "name": "wachten",
+      "name_en": "to wait",
+      "id": "p2956",
+      "also": "wachtte, gewacht"
+    },
+    {
+      "name": "welk",
+      "name_en": "which",
+      "id": "p2957",
+      "also": "welke"
+    },
+    {
+      "name": "al",
+      "name_en": "all",
+      "id": "p2958",
+      "also": "alle"
+    },
+    {
+      "name": "alles",
+      "name_en": "everything",
+      "id": "p2959"
+    },
+    {
+      "name": "druk",
+      "name_en": "busy",
+      "id": "p2960"
+    },
+    {
+      "name": "geheel",
+      "name_en": "whole",
+      "id": "p2961",
+      "also": "hele"
+    },
+    {
+      "name": "niemand",
+      "name_en": "nobody",
+      "id": "p2962"
+    },
+    {
+      "name": "ons",
+      "name_en": "our",
+      "id": "p2963",
+      "also": "onze"
+    },
+    {
+      "name": "plannen",
+      "name_en": "to plan",
+      "id": "p2964",
+      "also": "gepland"
+    },
+    {
+      "name": "vlucht",
+      "name_en": "flight",
+      "id": "p2965"
+    },
+    {
+      "name": "waard",
+      "name_en": "worth",
+      "id": "p2966"
+    },
+    {
+      "name": "behoorlijk",
+      "name_en": "quite",
+      "id": "p2967",
+      "also": "behoorlijke"
+    },
+    {
+      "name": "interessant",
+      "name_en": "interesting",
+      "id": "p2968",
+      "also": "interessants, interessanter"
+    },
+    {
+      "name": "jullie",
+      "name_en": "you",
+      "id": "p2969"
+    },
+    {
+      "name": "kant",
+      "name_en": "side",
+      "id": "p2970",
+      "also": "kanten"
+    },
+    {
+      "name": "lastig",
+      "name_en": "tricky",
+      "id": "p2971"
+    },
+    {
+      "name": "maaltijd",
+      "name_en": "meal",
+      "id": "p2972",
+      "also": "maaltijden"
+    },
+    {
+      "name": "plek",
+      "name_en": "place",
+      "id": "p2973",
+      "also": "plekken"
+    },
+    {
+      "name": "vaardigheid",
+      "name_en": "skill",
+      "id": "p2974",
+      "also": "vaardigheden"
+    },
+    {
+      "name": "vanavond",
+      "name_en": "tonight",
+      "id": "p2975"
+    },
+    {
+      "name": "veranderen",
+      "name_en": "to change",
+      "id": "p2976",
+      "also": "veranderd, veranderende, veranderingen, verandert"
+    },
+    {
+      "name": "waarderen",
+      "name_en": "to appreciate",
+      "id": "p2977",
+      "also": "waardeer, gewaardeerd"
+    },
+    {
+      "name": "anders",
+      "name_en": "different",
+      "id": "p2978"
+    },
+    {
+      "name": "controleren",
+      "name_en": "to check (controleren)",
+      "id": "p2979",
+      "also": "controleer"
+    },
+    {
+      "name": "cruciaal",
+      "name_en": "crucial",
+      "id": "p2980",
+      "also": "cruciale"
+    },
+    {
+      "name": "eerlijk",
+      "name_en": "honest (eerlijk)",
+      "id": "p2981",
+      "also": "eerlijke"
+    },
+    {
+      "name": "ergens",
+      "name_en": "somewhere",
+      "id": "p2982"
+    },
+    {
+      "name": "essentieel",
+      "name_en": "essential",
+      "id": "p2983"
+    },
+    {
+      "name": "foto",
+      "name_en": "photo",
+      "id": "p2984",
+      "also": "foto's"
+    },
+    {
+      "name": "gevoel",
+      "name_en": "feeling",
+      "id": "p2985",
+      "also": "gevoelens"
+    },
+    {
+      "name": "meestal",
+      "name_en": "usually",
+      "id": "p2986"
+    },
+    {
+      "name": "meisje",
+      "name_en": "girl",
+      "id": "p2987",
+      "also": "meisjes"
+    },
+    {
+      "name": "minuut",
+      "name_en": "minute",
+      "id": "p2988",
+      "also": "minuten, minuutje"
+    },
+    {
+      "name": "persoonlijk",
+      "name_en": "personal",
+      "id": "p2989",
+      "also": "persoonlijke"
+    },
+    {
+      "name": "vereisen",
+      "name_en": "required",
+      "id": "p2990",
+      "also": "vereist"
+    },
+    {
+      "name": "verschillend",
+      "name_en": "different (verschillend)",
+      "id": "p2991",
+      "also": "verschillende"
+    },
+    {
+      "name": "vertrouwen",
+      "name_en": "to trust",
+      "id": "p2992",
+      "also": "vertrouw"
+    },
+    {
+      "name": "voorbereiden",
+      "name_en": "to prepare",
+      "id": "p2993",
+      "also": "voorbereid"
+    },
+    {
+      "name": "zetten",
+      "name_en": "to set",
+      "id": "p2994",
+      "also": "zet, gezet"
+    },
+    {
+      "name": "avondeten",
+      "name_en": "dinner",
+      "id": "p2995"
+    },
+    {
+      "name": "binnenkort",
+      "name_en": "soon",
+      "id": "p2996"
+    },
+    {
+      "name": "conferentie",
+      "name_en": "conference",
+      "id": "p2997",
+      "also": "conferenties"
+    },
+    {
+      "name": "dankbaar",
+      "name_en": "grateful",
+      "id": "p2998"
+    },
+    {
+      "name": "familie",
+      "name_en": "family",
+      "id": "p2999"
+    },
+    {
+      "name": "fantastisch",
+      "name_en": "fantastic",
+      "id": "p3000"
+    },
+    {
+      "name": "frustrerend",
+      "name_en": "frustrating",
+      "id": "p3001"
+    },
+    {
+      "name": "gebouw",
+      "name_en": "building",
+      "id": "p3002"
+    },
+    {
+      "name": "gelukkig",
+      "name_en": "happy",
+      "id": "p3003"
+    },
+    {
+      "name": "gerust",
+      "name_en": "at ease",
+      "id": "p3004"
+    },
+    {
+      "name": "golf",
+      "name_en": "wave",
+      "id": "p3005",
+      "also": "golven"
+    },
+    {
+      "name": "handig",
+      "name_en": "handy",
+      "id": "p3006"
+    },
+    {
+      "name": "herstellen",
+      "name_en": "recover",
+      "id": "p3007"
+    },
+    {
+      "name": "indrukwekkend",
+      "name_en": "impressive",
+      "id": "p3008",
+      "also": "indrukwekkende"
+    },
+    {
+      "name": "klas",
+      "name_en": "class",
+      "id": "p3009"
+    },
+    {
+      "name": "knop",
+      "name_en": "button",
+      "id": "p3010",
+      "also": "knoppen"
+    },
+    {
+      "name": "kopje",
+      "name_en": "cup",
+      "id": "p3011"
+    },
+    {
+      "name": "leeftijd",
+      "name_en": "age",
+      "id": "p3012"
+    },
+    {
+      "name": "meest",
+      "name_en": "most",
+      "id": "p3013",
+      "also": "meeste"
+    },
+    {
+      "name": "nadenken",
+      "name_en": "to think about",
+      "id": "p3014",
+      "also": "nagedacht"
+    },
+    {
+      "name": "oefening",
+      "name_en": "exercise",
+      "id": "p3015"
+    },
+    {
+      "name": "potlood",
+      "name_en": "pencil",
+      "id": "p3016",
+      "also": "potloden"
+    },
+    {
+      "name": "rusten",
+      "name_en": "rest",
+      "id": "p3017"
+    },
+    {
+      "name": "ruzie",
+      "name_en": "quarrel",
+      "id": "p3018",
+      "also": "ruzies"
+    },
+    {
+      "name": "steeds",
+      "name_en": "constantly",
+      "id": "p3019"
+    },
+    {
+      "name": "telefoon",
+      "name_en": "phone",
+      "id": "p3020"
+    },
+    {
+      "name": "vanwege",
+      "name_en": "because of",
+      "id": "p3021"
+    },
+    {
+      "name": "veiligheid",
+      "name_en": "safety",
+      "id": "p3022"
+    },
+    {
+      "name": "woordenboek",
+      "name_en": "dictionary",
+      "id": "p3023"
+    },
+    {
+      "name": "zoveel",
+      "name_en": "so much",
+      "id": "p3024"
+    },
+    {
+      "name": "balpen",
+      "name_en": "ballpoint pen",
+      "id": "p3025"
+    },
+    {
+      "name": "beslissing",
+      "name_en": "decision",
+      "id": "p3026"
+    },
+    {
+      "name": "blad",
+      "name_en": "leaf",
+      "id": "p3027",
+      "also": "bladeren"
+    },
+    {
+      "name": "communicatie",
+      "name_en": "communication",
+      "id": "p3028"
+    },
+    {
+      "name": "enthousiast",
+      "name_en": "enthusiastic",
+      "id": "p3029"
+    },
+    {
+      "name": "eruit",
+      "name_en": "out",
+      "id": "p3030"
+    },
+    {
+      "name": "ervan",
+      "name_en": "of it",
+      "id": "p3031"
+    },
+    {
+      "name": "ervaring",
+      "name_en": "experience",
+      "id": "p3032"
+    },
+    {
+      "name": "fout",
+      "name_en": "mistake",
+      "id": "p3033",
+      "also": "fouten"
+    },
+    {
+      "name": "gefeliciteerd",
+      "name_en": "congratulations",
+      "id": "p3034"
+    },
+    {
+      "name": "gezond",
+      "name_en": "healthy",
+      "id": "p3035",
+      "also": "gezonde"
+    },
+    {
+      "name": "inlegzool",
+      "name_en": "insoles",
+      "id": "p3036",
+      "also": "inlegzolen"
+    },
+    {
+      "name": "interesse",
+      "name_en": "interest",
+      "id": "p3037",
+      "also": "interesses"
+    },
+    {
+      "name": "invloed",
+      "name_en": "influence",
+      "id": "p3038"
+    },
+    {
+      "name": "jezelf",
+      "name_en": "yourself",
+      "id": "p3039"
+    },
+    {
+      "name": "les",
+      "name_en": "lesson",
+      "id": "p3040"
+    },
+    {
+      "name": "liefdesbrief",
+      "name_en": "love letter",
+      "id": "p3041",
+      "also": "liefdesbrieven"
+    },
+    {
+      "name": "lossen",
+      "name_en": "solve",
+      "id": "p3042"
+    },
+    {
+      "name": "mogelijk",
+      "name_en": "possible",
+      "id": "p3043"
+    },
+    {
+      "name": "naartoe",
+      "name_en": "toward",
+      "id": "p3044"
+    },
+    {
+      "name": "nieuws",
+      "name_en": "news",
+      "id": "p3045"
+    },
+    {
+      "name": "nogal",
+      "name_en": "rather",
+      "id": "p3046"
+    },
+    {
+      "name": "onbeleefd",
+      "name_en": "rude",
+      "id": "p3047"
+    },
+    {
+      "name": "onderwijs",
+      "name_en": "education",
+      "id": "p3048"
+    },
+    {
+      "name": "ontroerend",
+      "name_en": "moving",
+      "id": "p3049"
+    },
+    {
+      "name": "oplossing",
+      "name_en": "solution",
+      "id": "p3050",
+      "also": "oplossingen"
+    },
+    {
+      "name": "optie",
+      "name_en": "option",
+      "id": "p3051",
+      "also": "opties"
+    },
+    {
+      "name": "optreden",
+      "name_en": "performance",
+      "id": "p3052"
+    },
+    {
+      "name": "overwegen",
+      "name_en": "to consider (overweeg)",
+      "id": "p3053",
+      "also": "overweeg"
+    },
+    {
+      "name": "overwinnen",
+      "name_en": "overcome",
+      "id": "p3054"
+    },
+    {
+      "name": "portemonnee",
+      "name_en": "wallet",
+      "id": "p3055"
+    },
+    {
+      "name": "rapport",
+      "name_en": "report",
+      "id": "p3056"
+    },
+    {
+      "name": "rustig",
+      "name_en": "calm",
+      "id": "p3057"
+    },
+    {
+      "name": "schattig",
+      "name_en": "cute",
+      "id": "p3058",
+      "also": "schattigste"
+    },
+    {
+      "name": "scheiding",
+      "name_en": "separation",
+      "id": "p3059"
+    },
+    {
+      "name": "slim",
+      "name_en": "smart (slim)",
+      "id": "p3060",
+      "also": "slimme"
+    },
+    {
+      "name": "sneeuwstorm",
+      "name_en": "snowstorm",
+      "id": "p3061"
+    },
+    {
+      "name": "staat",
+      "name_en": "state",
+      "id": "p3062",
+      "also": "staten"
+    },
+    {
+      "name": "succes",
+      "name_en": "success",
+      "id": "p3063"
+    },
+    {
+      "name": "teken",
+      "name_en": "sign",
+      "id": "p3064"
+    },
+    {
+      "name": "tijdje",
+      "name_en": "a while",
+      "id": "p3065"
+    },
+    {
+      "name": "vanochtend",
+      "name_en": "this morning",
+      "id": "p3066"
+    },
+    {
+      "name": "vast",
+      "name_en": "stuck",
+      "id": "p3067"
+    },
+    {
+      "name": "verbeteren",
+      "name_en": "improve",
+      "id": "p3068"
+    },
+    {
+      "name": "verder",
+      "name_en": "further",
+      "id": "p3069"
+    },
+    {
+      "name": "verenigd",
+      "name_en": "united",
+      "id": "p3070",
+      "also": "verenigde"
+    },
+    {
+      "name": "veroorzaken",
+      "name_en": "to cause",
+      "id": "p3071",
+      "also": "veroorzaakt"
+    },
+    {
+      "name": "vertalen",
+      "name_en": "translate",
+      "id": "p3072"
+    },
+    {
+      "name": "verwachten",
+      "name_en": "to expect",
+      "id": "p3073",
+      "also": "verwacht"
+    },
+    {
+      "name": "vooral",
+      "name_en": "especially",
+      "id": "p3074"
+    },
+    {
+      "name": "waardevol",
+      "name_en": "valuable",
+      "id": "p3075",
+      "also": "waardevolle"
+    },
+    {
+      "name": "waarschijnlijk",
+      "name_en": "probably",
+      "id": "p3076"
+    },
+    {
+      "name": "aangenaam",
+      "name_en": "pleasant",
+      "id": "p3077",
+      "also": "aangename, aangenamer"
+    },
+    {
+      "name": "aarzelen",
+      "name_en": "hesitated",
+      "id": "p3078",
+      "also": "aarzelde"
+    },
+    {
+      "name": "activiteit",
+      "name_en": "activity",
+      "id": "p3079",
+      "also": "activiteiten"
+    },
+    {
+      "name": "afspreken",
+      "name_en": "arrange",
+      "id": "p3080"
+    },
+    {
+      "name": "begrijpelijk",
+      "name_en": "understandable",
+      "id": "p3081"
+    },
+    {
+      "name": "bemachtigen",
+      "name_en": "obtain",
+      "id": "p3082"
+    },
+    {
+      "name": "besluiten",
+      "name_en": "decided",
+      "id": "p3083",
+      "also": "besloten"
+    },
+    {
+      "name": "besluiteloosheid",
+      "name_en": "indecisiveness",
+      "id": "p3084"
+    },
+    {
+      "name": "betekenen",
+      "name_en": "means",
+      "id": "p3085",
+      "also": "betekent"
+    },
+    {
+      "name": "beterschap",
+      "name_en": "get well",
+      "id": "p3086"
+    },
+    {
+      "name": "bevredigend",
+      "name_en": "satisfying",
+      "id": "p3087",
+      "also": "bevredigende"
+    },
+    {
+      "name": "bodyboarden",
+      "name_en": "bodyboarding",
+      "id": "p3088"
+    },
+    {
+      "name": "bruiloft",
+      "name_en": "wedding",
+      "id": "p3089"
+    },
+    {
+      "name": "burger",
+      "name_en": "burger",
+      "id": "p3090",
+      "also": "burgers"
+    },
+    {
+      "name": "checken",
+      "name_en": "check",
+      "id": "p3091"
+    },
+    {
+      "name": "chocolade",
+      "name_en": "chocolate",
+      "id": "p3092"
+    },
+    {
+      "name": "combinatie",
+      "name_en": "combination",
+      "id": "p3093"
+    },
+    {
+      "name": "concentreren",
+      "name_en": "concentrate",
+      "id": "p3094"
+    },
+    {
+      "name": "creditcard",
+      "name_en": "credit card",
+      "id": "p3095",
+      "also": "creditcards"
+    },
+    {
+      "name": "dagboek",
+      "name_en": "diary",
+      "id": "p3096"
+    },
+    {
+      "name": "dansles",
+      "name_en": "dance lesson",
+      "id": "p3097"
+    },
+    {
+      "name": "diner",
+      "name_en": "dinner",
+      "id": "p3098"
+    },
+    {
+      "name": "doorgang",
+      "name_en": "passage",
+      "id": "p3099"
+    },
+    {
+      "name": "dringend",
+      "name_en": "urgent",
+      "id": "p3100"
+    },
+    {
+      "name": "echt",
+      "name_en": "real",
+      "id": "p3101",
+      "also": "echte"
+    },
+    {
+      "name": "eerlijkheid",
+      "name_en": "honesty",
+      "id": "p3102"
+    },
+    {
+      "name": "enig",
+      "name_en": "only",
+      "id": "p3103",
+      "also": "enige"
+    },
+    {
+      "name": "ernaar",
+      "name_en": "to it",
+      "id": "p3104"
+    },
+    {
+      "name": "erop",
+      "name_en": "on it",
+      "id": "p3105"
+    },
+    {
+      "name": "erover",
+      "name_en": "about it",
+      "id": "p3106"
+    },
+    {
+      "name": "evenement",
+      "name_en": "event",
+      "id": "p3107",
+      "also": "evenementen"
+    },
+    {
+      "name": "fabriek",
+      "name_en": "factory",
+      "id": "p3108"
+    },
+    {
+      "name": "fotograferen",
+      "name_en": "to photograph",
+      "id": "p3109"
+    },
+    {
+      "name": "gebakken",
+      "name_en": "fried",
+      "id": "p3110"
+    },
+    {
+      "name": "gedicht",
+      "name_en": "poem",
+      "id": "p3111"
+    },
+    {
+      "name": "geleden",
+      "name_en": "ago",
+      "id": "p3112"
+    },
+    {
+      "name": "gelijk",
+      "name_en": "right",
+      "id": "p3113"
+    },
+    {
+      "name": "gemak",
+      "name_en": "ease",
+      "id": "p3114"
+    },
+    {
+      "name": "genre",
+      "name_en": "genre",
+      "id": "p3115",
+      "also": "genres"
+    },
+    {
+      "name": "georganiseerd",
+      "name_en": "organized",
+      "id": "p3116"
+    },
+    {
+      "name": "gerecht",
+      "name_en": "dish",
+      "id": "p3117",
+      "also": "gerechten"
+    },
+    {
+      "name": "geruststellend",
+      "name_en": "reassuring",
+      "id": "p3118"
+    },
+    {
+      "name": "skiën",
+      "name_en": "skied",
+      "id": "p3119",
+      "also": "geskied"
+    },
+    {
+      "name": "getalenteerd",
+      "name_en": "talented",
+      "id": "p3120"
+    },
+    {
+      "name": "gewend",
+      "name_en": "used to",
+      "id": "p3121"
+    },
+    {
+      "name": "geïnteresseerd",
+      "name_en": "interested",
+      "id": "p3122"
+    },
+    {
+      "name": "gids",
+      "name_en": "guide",
+      "id": "p3123",
+      "also": "gidsen"
+    },
+    {
+      "name": "gisteravond",
+      "name_en": "last night",
+      "id": "p3124"
+    },
+    {
+      "name": "griepprik",
+      "name_en": "flu shot",
+      "id": "p3125"
+    },
+    {
+      "name": "grootouder",
+      "name_en": "grandparent",
+      "id": "p3126",
+      "also": "grootouders"
+    },
+    {
+      "name": "haat",
+      "name_en": "hate",
+      "id": "p3127"
+    },
+    {
+      "name": "hereniging",
+      "name_en": "reunion",
+      "id": "p3128",
+      "also": "herenigingen"
+    },
+    {
+      "name": "hoogte",
+      "name_en": "height",
+      "id": "p3129"
+    },
+    {
+      "name": "huishoudelijk",
+      "name_en": "household",
+      "id": "p3130",
+      "also": "huishoudelijke"
+    },
+    {
+      "name": "huiswerk",
+      "name_en": "homework",
+      "id": "p3131"
+    },
+    {
+      "name": "importeren",
+      "name_en": "to import",
+      "id": "p3132"
+    },
+    {
+      "name": "inbreker",
+      "name_en": "burglar",
+      "id": "p3133"
+    },
+    {
+      "name": "ingang",
+      "name_en": "entrance",
+      "id": "p3134"
+    },
+    {
+      "name": "ingewikkeld",
+      "name_en": "complicated",
+      "id": "p3135"
+    },
+    {
+      "name": "inktcartridge",
+      "name_en": "ink cartridge",
+      "id": "p3136"
+    },
+    {
+      "name": "inzet",
+      "name_en": "effort",
+      "id": "p3137"
+    },
+    {
+      "name": "kaart",
+      "name_en": "map",
+      "id": "p3138"
+    },
+    {
+      "name": "keuze",
+      "name_en": "choice",
+      "id": "p3139"
+    },
+    {
+      "name": "king",
+      "name_en": "king",
+      "id": "p3140",
+      "also": "kings"
+    },
+    {
+      "name": "kramp",
+      "name_en": "cramp",
+      "id": "p3141"
+    },
+    {
+      "name": "laatst",
+      "name_en": "recently",
+      "id": "p3142"
+    },
+    {
+      "name": "letten",
+      "name_en": "mind",
+      "id": "p3143",
+      "also": "let"
+    },
+    {
+      "name": "liefde",
+      "name_en": "love",
+      "id": "p3144"
+    },
+    {
+      "name": "logisch",
+      "name_en": "logical",
+      "id": "p3145"
+    },
+    {
+      "name": "lonen",
+      "name_en": "pays off",
+      "id": "p3146",
+      "also": "loont"
+    },
+    {
+      "name": "medicijn",
+      "name_en": "medicine",
+      "id": "p3147"
+    },
+    {
+      "name": "meenemen",
+      "name_en": "brought along",
+      "id": "p3148",
+      "also": "meegenomen"
+    },
+    {
+      "name": "misdrijf",
+      "name_en": "crime",
+      "id": "p3149"
+    },
+    {
+      "name": "misleiden",
+      "name_en": "to mislead",
+      "id": "p3150"
+    },
+    {
+      "name": "misverstand",
+      "name_en": "misunderstanding",
+      "id": "p3151",
+      "also": "misverstanden"
+    },
+    {
+      "name": "neer",
+      "name_en": "down",
+      "id": "p3152"
+    },
+    {
+      "name": "onderwerp",
+      "name_en": "subject",
+      "id": "p3153"
+    },
+    {
+      "name": "ongelijk",
+      "name_en": "wrong",
+      "id": "p3154"
+    },
+    {
+      "name": "onmogelijk",
+      "name_en": "impossible",
+      "id": "p3155"
+    },
+    {
+      "name": "ontdooien",
+      "name_en": "to thaw",
+      "id": "p3156",
+      "also": "ontdooit"
+    },
+    {
+      "name": "ontspannend",
+      "name_en": "relaxing",
+      "id": "p3157"
+    },
+    {
+      "name": "ontspanning",
+      "name_en": "relaxation",
+      "id": "p3158"
+    },
+    {
+      "name": "onverwacht",
+      "name_en": "unexpected",
+      "id": "p3159"
+    },
+    {
+      "name": "opluchting",
+      "name_en": "relief",
+      "id": "p3160"
+    },
+    {
+      "name": "opvolgen",
+      "name_en": "to follow up",
+      "id": "p3161",
+      "also": "opgevolgd"
+    },
+    {
+      "name": "oudere",
+      "name_en": "older person",
+      "id": "p3162",
+      "also": "ouderen"
+    },
+    {
+      "name": "paspoort",
+      "name_en": "passport",
+      "id": "p3163"
+    },
+    {
+      "name": "perspectief",
+      "name_en": "perspective",
+      "id": "p3164",
+      "also": "perspectieven"
+    },
+    {
+      "name": "politie",
+      "name_en": "police",
+      "id": "p3165"
+    },
+    {
+      "name": "politiek",
+      "name_en": "political",
+      "id": "p3166",
+      "also": "politieke"
+    },
+    {
+      "name": "pop",
+      "name_en": "doll",
+      "id": "p3167"
+    },
+    {
+      "name": "regelen",
+      "name_en": "to arrange",
+      "id": "p3168"
+    },
+    {
+      "name": "regenen",
+      "name_en": "to rain",
+      "id": "p3169",
+      "also": "regent"
+    },
+    {
+      "name": "roepen",
+      "name_en": "called",
+      "id": "p3170",
+      "also": "riep"
+    },
+    {
+      "name": "schade",
+      "name_en": "damage",
+      "id": "p3171"
+    },
+    {
+      "name": "schuld",
+      "name_en": "guilt",
+      "id": "p3172"
+    },
+    {
+      "name": "sciencefiction",
+      "name_en": "science fiction",
+      "id": "p3173"
+    },
+    {
+      "name": "specifiek",
+      "name_en": "specific",
+      "id": "p3174",
+      "also": "specifieke"
+    },
+    {
+      "name": "spel",
+      "name_en": "game",
+      "id": "p3175"
+    },
+    {
+      "name": "sterk",
+      "name_en": "strong",
+      "id": "p3176",
+      "also": "sterke"
+    },
+    {
+      "name": "steun",
+      "name_en": "support",
+      "id": "p3177"
+    },
+    {
+      "name": "stil",
+      "name_en": "quiet",
+      "id": "p3178"
+    },
+    {
+      "name": "stukje",
+      "name_en": "piece",
+      "id": "p3179",
+      "also": "stukjes"
+    },
+    {
+      "name": "surfen",
+      "name_en": "to surf",
+      "id": "p3180"
+    },
+    {
+      "name": "technologie",
+      "name_en": "technology",
+      "id": "p3181"
+    },
+    {
+      "name": "tegenwoordig",
+      "name_en": "nowadays",
+      "id": "p3182"
+    },
+    {
+      "name": "tijdstip",
+      "name_en": "time",
+      "id": "p3183"
+    },
+    {
+      "name": "toegeven",
+      "name_en": "to admit",
+      "id": "p3184"
+    },
+    {
+      "name": "toets",
+      "name_en": "test",
+      "id": "p3185"
+    },
+    {
+      "name": "tonen",
+      "name_en": "to show",
+      "id": "p3186",
+      "also": "toonde"
+    },
+    {
+      "name": "trouwdag",
+      "name_en": "wedding day",
+      "id": "p3187"
+    },
+    {
+      "name": "tuurlijk",
+      "name_en": "of course",
+      "id": "p3188"
+    },
+    {
+      "name": "uitdagend",
+      "name_en": "challenging",
+      "id": "p3189",
+      "also": "uitdagende"
+    },
+    {
+      "name": "uitleggen",
+      "name_en": "to explain",
+      "id": "p3190"
+    },
+    {
+      "name": "uitzicht",
+      "name_en": "view",
+      "id": "p3191"
+    },
+    {
+      "name": "verbaasd",
+      "name_en": "surprised",
+      "id": "p3192"
+    },
+    {
+      "name": "verbazingwekkend",
+      "name_en": "amazing",
+      "id": "p3193"
+    },
+    {
+      "name": "verblijf",
+      "name_en": "stay",
+      "id": "p3194"
+    },
+    {
+      "name": "verbranden",
+      "name_en": "to burn",
+      "id": "p3195",
+      "also": "verbrand"
+    },
+    {
+      "name": "verdragen",
+      "name_en": "to endure",
+      "id": "p3196"
+    },
+    {
+      "name": "verfrissend",
+      "name_en": "refreshing",
+      "id": "p3197"
+    },
+    {
+      "name": "verlengen",
+      "name_en": "to extend",
+      "id": "p3198",
+      "also": "verlengde"
+    },
+    {
+      "name": "versperren",
+      "name_en": "to block",
+      "id": "p3199",
+      "also": "versper"
+    },
+    {
+      "name": "versturen",
+      "name_en": "to send",
+      "id": "p3200"
+    },
+    {
+      "name": "vertrouwelijk",
+      "name_en": "confidential",
+      "id": "p3201",
+      "also": "vertrouwelijke"
+    },
+    {
+      "name": "verzekering",
+      "name_en": "insurance",
+      "id": "p3202",
+      "also": "verzekeringen"
+    },
+    {
+      "name": "vloeiend",
+      "name_en": "fluent",
+      "id": "p3203"
+    },
+    {
+      "name": "volger",
+      "name_en": "follower",
+      "id": "p3204",
+      "also": "volgers"
+    },
+    {
+      "name": "voorop",
+      "name_en": "in front",
+      "id": "p3205"
+    },
+    {
+      "name": "vooruitgaan",
+      "name_en": "improved",
+      "id": "p3206",
+      "also": "vooruitgegaan"
+    },
+    {
+      "name": "vormen",
+      "name_en": "to form",
+      "id": "p3207"
+    },
+    {
+      "name": "vrede",
+      "name_en": "peace",
+      "id": "p3208"
+    },
+    {
+      "name": "vredesnaam",
+      "name_en": "heaven's sake",
+      "id": "p3209"
+    },
+    {
+      "name": "vriendelijk",
+      "name_en": "friendly",
+      "id": "p3210"
+    },
+    {
+      "name": "vriendin",
+      "name_en": "girlfriend",
+      "id": "p3211"
+    },
+    {
+      "name": "vroeg",
+      "name_en": "early",
+      "id": "p3212"
+    },
+    {
+      "name": "wandeling",
+      "name_en": "walk",
+      "id": "p3213"
+    },
+    {
+      "name": "wedstrijd",
+      "name_en": "match",
+      "id": "p3214"
+    },
+    {
+      "name": "welkom",
+      "name_en": "welcome",
+      "id": "p3215"
+    },
+    {
+      "name": "wereldwijd",
+      "name_en": "worldwide",
+      "id": "p3216",
+      "also": "wereldwijde"
+    },
+    {
+      "name": "zakkenroller",
+      "name_en": "pickpocket",
+      "id": "p3217"
+    },
+    {
+      "name": "zekerheid",
+      "name_en": "certainty",
+      "id": "p3218"
+    },
+    {
+      "name": "zelf",
+      "name_en": "self",
+      "id": "p3219"
+    },
+    {
+      "name": "zoiets",
+      "name_en": "something like that",
+      "id": "p3220"
+    },
+    {
+      "name": "zomer",
+      "name_en": "summer",
+      "id": "p3221"
+    },
+    {
+      "name": "zorgvuldig",
+      "name_en": "careful (zorgvuldig)",
+      "id": "p3222",
+      "also": "zorgvuldige"
+    },
+    {
+      "name": "zorgwekkend",
+      "name_en": "worrying",
+      "id": "p3223"
+    },
+    {
+      "name": "zouden",
+      "name_en": "would",
+      "id": "p3224"
+    },
+    {
+      "name": "aanbod",
+      "name_en": "offer",
+      "id": "p3225"
+    },
+    {
+      "name": "aandoen",
+      "name_en": "to put on",
+      "id": "p3226"
+    },
+    {
+      "name": "aankoop",
+      "name_en": "purchase",
+      "id": "p3227"
+    },
+    {
+      "name": "aanmoediging",
+      "name_en": "encouragement",
+      "id": "p3228"
+    },
+    {
+      "name": "aannemen",
+      "name_en": "assumes",
+      "id": "p3229",
+      "also": "aanneemt"
+    },
+    {
+      "name": "aanpak",
+      "name_en": "approach",
+      "id": "p3230"
+    },
+    {
+      "name": "aanpakken",
+      "name_en": "to tackle",
+      "id": "p3231"
+    },
+    {
+      "name": "aanrennen",
+      "name_en": "to run toward",
+      "id": "p3232"
+    },
+    {
+      "name": "aanvaller",
+      "name_en": "attacker",
+      "id": "p3233"
+    },
+    {
+      "name": "aanvulling",
+      "name_en": "addition",
+      "id": "p3234"
+    },
+    {
+      "name": "aanwijzing",
+      "name_en": "direction",
+      "id": "p3235",
+      "also": "aanwijzingen"
+    },
+    {
+      "name": "accepteren",
+      "name_en": "accepted",
+      "id": "p3236",
+      "also": "accepteerde, geaccepteerd"
+    },
+    {
+      "name": "achterlaten",
+      "name_en": "left behind",
+      "id": "p3237",
+      "also": "achtergelaten"
+    },
+    {
+      "name": "achterhalen",
+      "name_en": "to find out",
+      "id": "p3238"
+    },
+    {
+      "name": "actiefilm",
+      "name_en": "action film",
+      "id": "p3239"
+    },
+    {
+      "name": "adembenemend",
+      "name_en": "breathtaking",
+      "id": "p3240"
+    },
+    {
+      "name": "adresboekje",
+      "name_en": "address book",
+      "id": "p3241"
+    },
+    {
+      "name": "adviseur",
+      "name_en": "advisor",
+      "id": "p3242",
+      "also": "adviseurs"
+    },
+    {
+      "name": "afgelast",
+      "name_en": "cancelled",
+      "id": "p3243"
+    },
+    {
+      "name": "afronden",
+      "name_en": "completed",
+      "id": "p3244",
+      "also": "afgerond"
+    },
+    {
+      "name": "afwijzen",
+      "name_en": "rejected",
+      "id": "p3245",
+      "also": "afgewezen"
+    },
+    {
+      "name": "afhankelijk",
+      "name_en": "dependent",
+      "id": "p3246"
+    },
+    {
+      "name": "afkeer",
+      "name_en": "aversion",
+      "id": "p3247"
+    },
+    {
+      "name": "afkoelen",
+      "name_en": "cooled down",
+      "id": "p3248",
+      "also": "afkoelde"
+    },
+    {
+      "name": "alternatief",
+      "name_en": "alternative",
+      "id": "p3249"
+    },
+    {
+      "name": "applaudisseren",
+      "name_en": "applauded",
+      "id": "p3250",
+      "also": "applaudisseerde"
+    },
+    {
+      "name": "applaus",
+      "name_en": "applause",
+      "id": "p3251"
+    },
+    {
+      "name": "armoede",
+      "name_en": "poverty",
+      "id": "p3252"
+    },
+    {
+      "name": "arresteren",
+      "name_en": "arrested",
+      "id": "p3253",
+      "also": "arresteerde, gearresteerd"
+    },
+    {
+      "name": "artiest",
+      "name_en": "artist",
+      "id": "p3254",
+      "also": "artiesten"
+    },
+    {
+      "name": "artikel",
+      "name_en": "article",
+      "id": "p3255",
+      "also": "artikelen"
+    },
+    {
+      "name": "aspirine",
+      "name_en": "aspirin",
+      "id": "p3256"
+    },
+    {
+      "name": "astronomie",
+      "name_en": "astronomy",
+      "id": "p3257"
+    },
+    {
+      "name": "avondkrant",
+      "name_en": "evening paper",
+      "id": "p3258"
+    },
+    {
+      "name": "baanzekerheid",
+      "name_en": "job security",
+      "id": "p3259"
+    },
+    {
+      "name": "balans",
+      "name_en": "balance",
+      "id": "p3260"
+    },
+    {
+      "name": "bazig",
+      "name_en": "bossy",
+      "id": "p3261"
+    },
+    {
+      "name": "bedreiging",
+      "name_en": "threat",
+      "id": "p3262"
+    },
+    {
+      "name": "bedreven",
+      "name_en": "skilled",
+      "id": "p3263"
+    },
+    {
+      "name": "bedrijfsbeheer",
+      "name_en": "business management",
+      "id": "p3264"
+    },
+    {
+      "name": "begeleiding",
+      "name_en": "guidance",
+      "id": "p3265"
+    },
+    {
+      "name": "begrip",
+      "name_en": "understanding",
+      "id": "p3266"
+    },
+    {
+      "name": "behandelen",
+      "name_en": "treated",
+      "id": "p3267",
+      "also": "behandeld"
+    },
+    {
+      "name": "behoefte",
+      "name_en": "need (behoefte)",
+      "id": "p3268",
+      "also": "behoeften"
+    },
+    {
+      "name": "beide",
+      "name_en": "both",
+      "id": "p3269"
+    },
+    {
+      "name": "bekijken",
+      "name_en": "view",
+      "id": "p3270"
+    },
+    {
+      "name": "belasting",
+      "name_en": "tax",
+      "id": "p3271"
+    },
+    {
+      "name": "beleefd",
+      "name_en": "polite",
+      "id": "p3272"
+    },
+    {
+      "name": "beleefdheid",
+      "name_en": "politeness",
+      "id": "p3273"
+    },
+    {
+      "name": "belemmering",
+      "name_en": "obstacle",
+      "id": "p3274"
+    },
+    {
+      "name": "belofte",
+      "name_en": "promise",
+      "id": "p3275"
+    },
+    {
+      "name": "beluisteren",
+      "name_en": "listen to",
+      "id": "p3276"
+    },
+    {
+      "name": "bereiding",
+      "name_en": "leg",
+      "id": "p3277",
+      "also": "benen"
+    },
+    {
+      "name": "bereiden",
+      "name_en": "preparation",
+      "id": "p3278",
+      "also": "bereiding"
+    },
+    {
+      "name": "beschikbaar",
+      "name_en": "prepares",
+      "id": "p3279",
+      "also": "bereidt"
+    },
+    {
+      "name": "beslist",
+      "name_en": "realized",
+      "id": "p3280",
+      "also": "besefte"
+    },
+    {
+      "name": "besluitvaardig",
+      "name_en": "definitely",
+      "id": "p3281",
+      "also": "beslist"
+    },
+    {
+      "name": "besluitvorming",
+      "name_en": "decisive",
+      "id": "p3282",
+      "also": "besluitvaardig"
+    },
+    {
+      "name": "besparen",
+      "name_en": "decision-making",
+      "id": "p3283",
+      "also": "besluitvorming"
+    },
+    {
+      "name": "bespelen",
+      "name_en": "save",
+      "id": "p3284",
+      "also": "besparen"
+    },
+    {
+      "name": "betekenisvol",
+      "name_en": "paid",
+      "id": "p3285",
+      "also": "betaald"
+    },
+    {
+      "name": "betrokkenheid",
+      "name_en": "bit",
+      "id": "p3286",
+      "also": "beten"
+    },
+    {
+      "name": "beu",
+      "name_en": "reliable",
+      "id": "p3287",
+      "also": "betrouwbare"
+    },
+    {
+      "name": "beurs",
+      "name_en": "fed up",
+      "id": "p3288",
+      "also": "beu"
+    },
+    {
+      "name": "bevel",
+      "name_en": "fair",
+      "id": "p3289",
+      "also": "beurs"
+    },
+    {
+      "name": "bevestiging",
+      "name_en": "command",
+      "id": "p3290",
+      "also": "bevel"
+    },
+    {
+      "name": "bewust",
+      "name_en": "confirmation",
+      "id": "p3291",
+      "also": "bevestiging"
+    },
+    {
+      "name": "bezoeker",
+      "name_en": "aware",
+      "id": "p3292",
+      "also": "bewust"
+    },
+    {
+      "name": "bezorgd",
+      "name_en": "visitor",
+      "id": "p3293",
+      "also": "bezoekers"
+    },
+    {
+      "name": "bijdragen",
+      "name_en": "offers",
+      "id": "p3294",
+      "also": "biedt"
+    },
+    {
+      "name": "bijeen",
+      "name_en": "contribute",
+      "id": "p3295",
+      "also": "bijdragen"
+    },
+    {
+      "name": "bijeenkomst",
+      "name_en": "together",
+      "id": "p3296",
+      "also": "bijeen"
+    },
+    {
+      "name": "bijhouden",
+      "name_en": "meeting",
+      "id": "p3297",
+      "also": "bijeenkomst"
+    },
+    {
+      "name": "bijna",
+      "name_en": "keep track",
+      "id": "p3298",
+      "also": "bijhouden"
+    },
+    {
+      "name": "bizar",
+      "name_en": "almost",
+      "id": "p3299",
+      "also": "bijna"
+    },
+    {
+      "name": "bleek",
+      "name_en": "blue",
+      "id": "p3300",
+      "also": "blauwe"
+    },
+    {
+      "name": "bloemenmotief",
+      "name_en": "pale",
+      "id": "p3301",
+      "also": "bleek"
+    },
+    {
+      "name": "boekenkast",
+      "name_en": "floral patterns",
+      "id": "p3302",
+      "also": "bloemenmotieven"
+    },
+    {
+      "name": "boeket",
+      "name_en": "bookcase",
+      "id": "p3303",
+      "also": "boekenkast"
+    },
+    {
+      "name": "boer",
+      "name_en": "bouquet",
+      "id": "p3304",
+      "also": "boeket"
+    },
+    {
+      "name": "botsen",
+      "name_en": "groceries",
+      "id": "p3305",
+      "also": "boodschappen"
+    },
+    {
+      "name": "branche",
+      "name_en": "collided",
+      "id": "p3306",
+      "also": "botste"
+    },
+    {
+      "name": "briefje",
+      "name_en": "industry",
+      "id": "p3307",
+      "also": "branche"
+    },
+    {
+      "name": "bron",
+      "name_en": "letter (brief)",
+      "id": "p3308",
+      "also": "brieven"
+    },
+    {
+      "name": "buitenleven",
+      "name_en": "bridge",
+      "id": "p3309",
+      "also": "bruggen"
+    },
+    {
+      "name": "buur",
+      "name_en": "outdoor life",
+      "id": "p3310",
+      "also": "buitenleven"
+    },
+    {
+      "name": "buurland",
+      "name_en": "neighbor",
+      "id": "p3311",
+      "also": "buren"
+    },
+    {
+      "name": "buurman",
+      "name_en": "neighboring countries",
+      "id": "p3312",
+      "also": "buurlanden"
+    },
+    {
+      "name": "cafeïne",
+      "name_en": "gift",
+      "id": "p3313",
+      "also": "cadeaus"
+    },
+    {
+      "name": "capabel",
+      "name_en": "caffeine",
+      "id": "p3314",
+      "also": "cafeïne"
+    },
+    {
+      "name": "capaciteit",
+      "name_en": "capable",
+      "id": "p3315",
+      "also": "capabel"
+    },
+    {
+      "name": "carrièreadvies",
+      "name_en": "capacity",
+      "id": "p3316",
+      "also": "capaciteit"
+    },
+    {
+      "name": "carrièreambitie",
+      "name_en": "career advice",
+      "id": "p3317",
+      "also": "carrièreadvies"
+    },
+    {
+      "name": "carrièrekeuze",
+      "name_en": "career ambitions",
+      "id": "p3318",
+      "also": "carrièreambities"
+    },
+    {
+      "name": "charme",
+      "name_en": "career choice",
+      "id": "p3319",
+      "also": "carrièrekeuze"
+    },
+    {
+      "name": "concertkaartje",
+      "name_en": "communicated",
+      "id": "p3320",
+      "also": "communiceerden"
+    },
+    {
+      "name": "",
+      "name_en": "concert tickets",
+      "id": "p3321",
+      "also": "concertkaartjes"
+    },
+    {
+      "name": "conflict",
+      "name_en": "conflict",
+      "id": "p3322",
+      "also": "conflicten"
+    },
+    {
+      "name": "controversieel",
+      "name_en": "controversial",
+      "id": "p3323",
+      "also": "controversiële"
+    },
+    {
+      "name": "cultuur",
+      "name_en": "culture",
+      "id": "p3324"
+    },
+    {
+      "name": "curryrijst",
+      "name_en": "curry rice",
+      "id": "p3325"
+    },
+    {
+      "name": "dame",
+      "name_en": "lady",
+      "id": "p3326"
+    },
+    {
+      "name": "degene",
+      "name_en": "the one",
+      "id": "p3327"
+    },
+    {
+      "name": "denkwijze",
+      "name_en": "mindset",
+      "id": "p3328",
+      "also": "denkwijzen"
+    },
+    {
+      "name": "derde",
+      "name_en": "third",
+      "id": "p3329"
+    },
+    {
+      "name": "deskundige",
+      "name_en": "expert",
+      "id": "p3330"
+    },
+    {
+      "name": "detectiveverhaal",
+      "name_en": "detective story",
+      "id": "p3331",
+      "also": "detectiveverhalen"
+    },
+    {
+      "name": "dezelfde",
+      "name_en": "the same",
+      "id": "p3332"
+    },
+    {
+      "name": "dichterbij",
+      "name_en": "closer",
+      "id": "p3333"
+    },
+    {
+      "name": "dineren",
+      "name_en": "dine",
+      "id": "p3334"
+    },
+    {
+      "name": "documentaire",
+      "name_en": "documentary",
+      "id": "p3335"
+    },
+    {
+      "name": "document",
+      "name_en": "document",
+      "id": "p3336",
+      "also": "documenten"
+    },
+    {
+      "name": "donkergrijs",
+      "name_en": "dark gray",
+      "id": "p3337"
+    },
+    {
+      "name": "doorvoeren",
+      "name_en": "implemented",
+      "id": "p3338",
+      "also": "doorgevoerd"
+    },
+    {
+      "name": "doorlopen",
+      "name_en": "go through",
+      "id": "p3339"
+    },
+    {
+      "name": "drijven",
+      "name_en": "drives",
+      "id": "p3340",
+      "also": "drijft"
+    },
+    {
+      "name": "drugsgebruik",
+      "name_en": "drug use",
+      "id": "p3341"
+    },
+    {
+      "name": "duizelig",
+      "name_en": "dizzy",
+      "id": "p3342"
+    },
+    {
+      "name": "dumpen",
+      "name_en": "dumped",
+      "id": "p3343",
+      "also": "dumpte"
+    },
+    {
+      "name": "economisch",
+      "name_en": "economic",
+      "id": "p3344",
+      "also": "economische"
+    },
+    {
+      "name": "efficiëntie",
+      "name_en": "efficiency",
+      "id": "p3345"
+    },
+    {
+      "name": "egocentrisch",
+      "name_en": "self-centered",
+      "id": "p3346"
+    },
+    {
+      "name": "elektriciteit",
+      "name_en": "electricity",
+      "id": "p3347"
+    },
+    {
+      "name": "elektronisch",
+      "name_en": "electronic",
+      "id": "p3348",
+      "also": "elektronische"
+    },
+    {
+      "name": "emotioneel",
+      "name_en": "emotional",
+      "id": "p3349"
+    },
+    {
+      "name": "eng",
+      "name_en": "scary",
+      "id": "p3350"
+    },
+    {
+      "name": "envelop",
+      "name_en": "envelope",
+      "id": "p3351"
+    },
+    {
+      "name": "erachter",
+      "name_en": "behind it",
+      "id": "p3352"
+    },
+    {
+      "name": "ergst",
+      "name_en": "worst",
+      "id": "p3353",
+      "also": "ergste"
+    },
+    {
+      "name": "erkennen",
+      "name_en": "acknowledged",
+      "id": "p3354",
+      "also": "erkende"
+    },
+    {
+      "name": "ernstig",
+      "name_en": "serious",
+      "id": "p3355"
+    },
+    {
+      "name": "eroverheen",
+      "name_en": "over it",
+      "id": "p3356"
+    },
+    {
+      "name": "exemplaar",
+      "name_en": "copy",
+      "id": "p3357"
+    },
+    {
+      "name": "fantasierijk",
+      "name_en": "imaginative",
+      "id": "p3358"
+    },
+    {
+      "name": "fascinerend",
+      "name_en": "fascinating",
+      "id": "p3359"
+    },
+    {
+      "name": "feestdag",
+      "name_en": "holidays",
+      "id": "p3360",
+      "also": "feestdagen"
+    },
+    {
+      "name": "feestje",
+      "name_en": "party",
+      "id": "p3361"
+    },
+    {
+      "name": "financieel",
+      "name_en": "financial",
+      "id": "p3362",
+      "also": "financiële"
+    },
+    {
+      "name": "flatteus",
+      "name_en": "more flattering",
+      "id": "p3363",
+      "also": "flatteuzer"
+    },
+    {
+      "name": "fluisteren",
+      "name_en": "whispered",
+      "id": "p3364",
+      "also": "fluisterde"
+    },
+    {
+      "name": "foutopsporing",
+      "name_en": "debugging",
+      "id": "p3365"
+    },
+    {
+      "name": "fysiotherapeut",
+      "name_en": "physiotherapist",
+      "id": "p3366"
+    },
+    {
+      "name": "gangbaar",
+      "name_en": "common",
+      "id": "p3367"
+    },
+    {
+      "name": "gat",
+      "name_en": "hole",
+      "id": "p3368",
+      "also": "gaten"
+    },
+    {
+      "name": "achten",
+      "name_en": "esteemed",
+      "id": "p3369",
+      "also": "geacht"
+    },
+    {
+      "name": "geborgenheid",
+      "name_en": "security",
+      "id": "p3370"
+    },
+    {
+      "name": "gedetailleerd",
+      "name_en": "detailed",
+      "id": "p3371"
+    },
+    {
+      "name": "gedoe",
+      "name_en": "hassle",
+      "id": "p3372"
+    },
+    {
+      "name": "gedragen",
+      "name_en": "behaves",
+      "id": "p3373",
+      "also": "gedraagt"
+    },
+    {
+      "name": "gegrild",
+      "name_en": "grilled",
+      "id": "p3374",
+      "also": "gegrilde"
+    },
+    {
+      "name": "geldlimiet",
+      "name_en": "spending limit",
+      "id": "p3375"
+    },
+    {
+      "name": "gelegenheid",
+      "name_en": "opportunity",
+      "id": "p3376"
+    },
+    {
+      "name": "gelijkmatig",
+      "name_en": "even",
+      "id": "p3377"
+    },
+    {
+      "name": "gemeenschappelijk",
+      "name_en": "common",
+      "id": "p3378",
+      "also": "gemeenschappelijke"
+    },
+    {
+      "name": "geschiedenisboek",
+      "name_en": "history book",
+      "id": "p3379"
+    },
+    {
+      "name": "geslacht",
+      "name_en": "gender",
+      "id": "p3380"
+    },
+    {
+      "name": "geval",
+      "name_en": "case",
+      "id": "p3381"
+    },
+    {
+      "name": "geweld",
+      "name_en": "violence",
+      "id": "p3382"
+    },
+    {
+      "name": "geweldloos",
+      "name_en": "nonviolent",
+      "id": "p3383",
+      "also": "geweldloze"
+    },
+    {
+      "name": "gewond",
+      "name_en": "injured",
+      "id": "p3384"
+    },
+    {
+      "name": "gewoonte",
+      "name_en": "habit",
+      "id": "p3385"
+    },
+    {
+      "name": "gezamenlijk",
+      "name_en": "joint",
+      "id": "p3386",
+      "also": "gezamenlijke"
+    },
+    {
+      "name": "gezondheidsproblemen",
+      "name_en": "health problems",
+      "id": "p3387"
+    },
+    {
+      "name": "erven",
+      "name_en": "inherited",
+      "id": "p3388",
+      "also": "geërfd"
+    },
+    {
+      "name": "gitaar",
+      "name_en": "guitar",
+      "id": "p3389"
+    },
+    {
+      "name": "gitaarspelen",
+      "name_en": "guitar playing",
+      "id": "p3390"
+    },
+    {
+      "name": "goedaardig",
+      "name_en": "benign",
+      "id": "p3391"
+    },
+    {
+      "name": "goedmaken",
+      "name_en": "make up",
+      "id": "p3392"
+    },
+    {
+      "name": "greep",
+      "name_en": "grip",
+      "id": "p3393"
+    },
+    {
+      "name": "griezelig",
+      "name_en": "creepy",
+      "id": "p3394"
+    },
+    {
+      "name": "groeien",
+      "name_en": "grow",
+      "id": "p3395"
+    },
+    {
+      "name": "grootbrengen",
+      "name_en": "raised",
+      "id": "p3396",
+      "also": "grootgebracht"
+    },
+    {
+      "name": "grootmoeder",
+      "name_en": "grandmother",
+      "id": "p3397"
+    },
+    {
+      "name": "grootvader",
+      "name_en": "grandfather",
+      "id": "p3398"
+    },
+    {
+      "name": "haard",
+      "name_en": "fireplace",
+      "id": "p3399"
+    },
+    {
+      "name": "haasten",
+      "name_en": "hurry",
+      "id": "p3400"
+    },
+    {
+      "name": "halfrond",
+      "name_en": "hemisphere",
+      "id": "p3401"
+    },
+    {
+      "name": "handdruk",
+      "name_en": "handshake",
+      "id": "p3402"
+    },
+    {
+      "name": "hapje",
+      "name_en": "snack",
+      "id": "p3403"
+    },
+    {
+      "name": "helaas",
+      "name_en": "unfortunately",
+      "id": "p3404"
+    },
+    {
+      "name": "helft",
+      "name_en": "half",
+      "id": "p3405"
+    },
+    {
+      "name": "herfst",
+      "name_en": "autumn",
+      "id": "p3406"
+    },
+    {
+      "name": "herkenning",
+      "name_en": "recognition",
+      "id": "p3407"
+    },
+    {
+      "name": "heterdaad",
+      "name_en": "red-handed",
+      "id": "p3408"
+    },
+    {
+      "name": "hevig",
+      "name_en": "intense",
+      "id": "p3409"
+    },
+    {
+      "name": "hierheen",
+      "name_en": "here",
+      "id": "p3410"
+    },
+    {
+      "name": "hiernaast",
+      "name_en": "next door",
+      "id": "p3411"
+    },
+    {
+      "name": "hiervandaan",
+      "name_en": "from here",
+      "id": "p3412"
+    },
+    {
+      "name": "hongerig",
+      "name_en": "hungry",
+      "id": "p3413",
+      "also": "hongerige"
+    },
+    {
+      "name": "honing",
+      "name_en": "honey",
+      "id": "p3414"
+    },
+    {
+      "name": "hoofddoel",
+      "name_en": "main goal",
+      "id": "p3415"
+    },
+    {
+      "name": "hoofdstad",
+      "name_en": "capital",
+      "id": "p3416"
+    },
+    {
+      "name": "huisvrouw",
+      "name_en": "housewife",
+      "id": "p3417"
+    },
+    {
+      "name": "ieder",
+      "name_en": "each",
+      "id": "p3418"
+    },
+    {
+      "name": "iemands",
+      "name_en": "someone's",
+      "id": "p3419"
+    },
+    {
+      "name": "indruk",
+      "name_en": "impression",
+      "id": "p3420"
+    },
+    {
+      "name": "informeel",
+      "name_en": "informal",
+      "id": "p3421",
+      "also": "informele"
+    },
+    {
+      "name": "invullen",
+      "name_en": "filled in",
+      "id": "p3422",
+      "also": "ingevuld"
+    },
+    {
+      "name": "inkoop",
+      "name_en": "purchases",
+      "id": "p3423",
+      "also": "inkopen"
+    },
+    {
+      "name": "inpakken",
+      "name_en": "pack",
+      "id": "p3424"
+    },
+    {
+      "name": "inrichten",
+      "name_en": "furnish",
+      "id": "p3425"
+    },
+    {
+      "name": "inspannen",
+      "name_en": "exert",
+      "id": "p3426"
+    },
+    {
+      "name": "inspanning",
+      "name_en": "effort",
+      "id": "p3427"
+    },
+    {
+      "name": "integriteit",
+      "name_en": "integrity",
+      "id": "p3428"
+    },
+    {
+      "name": "inwoner",
+      "name_en": "inhabitant",
+      "id": "p3429",
+      "also": "inwoners"
+    },
+    {
+      "name": "inzicht",
+      "name_en": "insight",
+      "id": "p3430",
+      "also": "inzichten"
+    },
+    {
+      "name": "irritant",
+      "name_en": "annoying",
+      "id": "p3431"
+    },
+    {
+      "name": "italiaans",
+      "name_en": "italian",
+      "id": "p3432",
+      "also": "italiaanse"
+    },
+    {
+      "name": "jaloers",
+      "name_en": "jealous",
+      "id": "p3433"
+    },
+    {
+      "name": "jeugdherinnering",
+      "name_en": "childhood memories",
+      "id": "p3434",
+      "also": "jeugdherinneringen"
+    },
+    {
+      "name": "jl",
+      "name_en": "last",
+      "id": "p3435"
+    },
+    {
+      "name": "jongeman",
+      "name_en": "young man",
+      "id": "p3436"
+    },
+    {
+      "name": "kaartlimiet",
+      "name_en": "card limit",
+      "id": "p3437"
+    },
+    {
+      "name": "kandidaat",
+      "name_en": "candidate",
+      "id": "p3438"
+    },
+    {
+      "name": "kapot",
+      "name_en": "broken",
+      "id": "p3439"
+    },
+    {
+      "name": "kasteel",
+      "name_en": "castle",
+      "id": "p3440"
+    },
+    {
+      "name": "kernwapen",
+      "name_en": "nuclear weapons",
+      "id": "p3441",
+      "also": "kernwapens"
+    },
+    {
+      "name": "kerstvakantie",
+      "name_en": "christmas holiday",
+      "id": "p3442"
+    },
+    {
+      "name": "klassiek",
+      "name_en": "classic",
+      "id": "p3443",
+      "also": "klassieke"
+    },
+    {
+      "name": "klimaatverandering",
+      "name_en": "climate change",
+      "id": "p3444"
+    },
+    {
+      "name": "koesteren",
+      "name_en": "cherish",
+      "id": "p3445",
+      "also": "koester"
+    },
+    {
+      "name": "kok",
+      "name_en": "cook",
+      "id": "p3446"
+    },
+    {
+      "name": "krachttraining",
+      "name_en": "strength training",
+      "id": "p3447"
+    },
+    {
+      "name": "krap",
+      "name_en": "tight",
+      "id": "p3448"
+    },
+    {
+      "name": "kringloop",
+      "name_en": "thrift",
+      "id": "p3449"
+    },
+    {
+      "name": "krukje",
+      "name_en": "stool",
+      "id": "p3450"
+    },
+    {
+      "name": "kwalijk",
+      "name_en": "bad",
+      "id": "p3451"
+    },
+    {
+      "name": "lancering",
+      "name_en": "launch",
+      "id": "p3452",
+      "also": "lanceringen"
+    },
+    {
+      "name": "landschap",
+      "name_en": "landscape",
+      "id": "p3453"
+    },
+    {
+      "name": "langeafstandsrelatie",
+      "name_en": "long-distance relationship",
+      "id": "p3454"
+    },
+    {
+      "name": "leeftijdsgenoot",
+      "name_en": "peer",
+      "id": "p3455",
+      "also": "leeftijdsgenoten"
+    },
+    {
+      "name": "leerproces",
+      "name_en": "learning process",
+      "id": "p3456"
+    },
+    {
+      "name": "leesplezier",
+      "name_en": "reading pleasure",
+      "id": "p3457"
+    },
+    {
+      "name": "lesgeven",
+      "name_en": "teach",
+      "id": "p3458"
+    },
+    {
+      "name": "leugen",
+      "name_en": "lie",
+      "id": "p3459"
+    },
+    {
+      "name": "leunen",
+      "name_en": "leans",
+      "id": "p3460",
+      "also": "leunt"
+    },
+    {
+      "name": "lichaamsbeweging",
+      "name_en": "exercise",
+      "id": "p3461"
+    },
+    {
+      "name": "liedje",
+      "name_en": "song",
+      "id": "p3462",
+      "also": "liedjes"
+    },
+    {
+      "name": "liefdevol",
+      "name_en": "loving",
+      "id": "p3463"
+    },
+    {
+      "name": "lift",
+      "name_en": "elevator",
+      "id": "p3464"
+    },
+    {
+      "name": "literatuur",
+      "name_en": "literature",
+      "id": "p3465"
+    },
+    {
+      "name": "lonend",
+      "name_en": "rewarding",
+      "id": "p3466"
+    },
+    {
+      "name": "loslopen",
+      "name_en": "runs loose",
+      "id": "p3467",
+      "also": "losloopt"
+    },
+    {
+      "name": "lot",
+      "name_en": "fate",
+      "id": "p3468"
+    },
+    {
+      "name": "mate",
+      "name_en": "degree",
+      "id": "p3469"
+    },
+    {
+      "name": "meemaken",
+      "name_en": "experienced",
+      "id": "p3470",
+      "also": "meegemaakt"
+    },
+    {
+      "name": "menselijk",
+      "name_en": "human",
+      "id": "p3471"
+    },
+    {
+      "name": "mentor",
+      "name_en": "mentor",
+      "id": "p3472",
+      "also": "mentoren"
+    },
+    {
+      "name": "metgezel",
+      "name_en": "companion",
+      "id": "p3473",
+      "also": "metgezellen"
+    },
+    {
+      "name": "meubelfabriek",
+      "name_en": "furniture factory",
+      "id": "p3474"
+    },
+    {
+      "name": "middag",
+      "name_en": "afternoon",
+      "id": "p3475"
+    },
+    {
+      "name": "middagvlucht",
+      "name_en": "afternoon flight",
+      "id": "p3476"
+    },
+    {
+      "name": "middelbaar",
+      "name_en": "secondary",
+      "id": "p3477",
+      "also": "middelbare"
+    },
+    {
+      "name": "middernacht",
+      "name_en": "midnight",
+      "id": "p3478"
+    },
+    {
+      "name": "mijl",
+      "name_en": "mile",
+      "id": "p3479"
+    },
+    {
+      "name": "mijne",
+      "name_en": "mine",
+      "id": "p3480"
+    },
+    {
+      "name": "minst",
+      "name_en": "least",
+      "id": "p3481",
+      "also": "minste"
+    },
+    {
+      "name": "misdaad",
+      "name_en": "crime",
+      "id": "p3482"
+    },
+    {
+      "name": "mobiel",
+      "name_en": "mobile",
+      "id": "p3483"
+    },
+    {
+      "name": "moedertaal",
+      "name_en": "mother tongue",
+      "id": "p3484"
+    },
+    {
+      "name": "monumentaal",
+      "name_en": "monumental",
+      "id": "p3485"
+    },
+    {
+      "name": "muggenbeet",
+      "name_en": "mosquito bites",
+      "id": "p3486",
+      "also": "muggenbeten"
+    },
+    {
+      "name": "muggenspray",
+      "name_en": "mosquito spray",
+      "id": "p3487"
+    },
+    {
+      "name": "mysterieus",
+      "name_en": "mysterious",
+      "id": "p3488",
+      "also": "mysterieuze"
+    },
+    {
+      "name": "naderen",
+      "name_en": "approaches",
+      "id": "p3489",
+      "also": "nadert"
+    },
+    {
+      "name": "najagen",
+      "name_en": "pursue",
+      "id": "p3490"
+    },
+    {
+      "name": "nat",
+      "name_en": "wet",
+      "id": "p3491"
+    },
+    {
+      "name": "nationaal",
+      "name_en": "national",
+      "id": "p3492",
+      "also": "nationale"
+    },
+    {
+      "name": "nauwkeurig",
+      "name_en": "accurate",
+      "id": "p3493"
+    },
+    {
+      "name": "neergang",
+      "name_en": "declines",
+      "id": "p3494",
+      "also": "neergangen"
+    },
+    {
+      "name": "niks",
+      "name_en": "nothing",
+      "id": "p3495"
+    },
+    {
+      "name": "nood",
+      "name_en": "need",
+      "id": "p3496"
+    },
+    {
+      "name": "noodzakelijk",
+      "name_en": "necessary",
+      "id": "p3497"
+    },
+    {
+      "name": "ochtends",
+      "name_en": "mornings",
+      "id": "p3498"
+    },
+    {
+      "name": "olympisch",
+      "name_en": "olympic",
+      "id": "p3499",
+      "also": "olympische"
+    },
+    {
+      "name": "omcirkelen",
+      "name_en": "circled",
+      "id": "p3500",
+      "also": "omcirkeld"
+    },
+    {
+      "name": "omhoog",
+      "name_en": "up",
+      "id": "p3501"
+    },
+    {
+      "name": "omvang",
+      "name_en": "size",
+      "id": "p3502"
+    },
+    {
+      "name": "onaanvaardbaar",
+      "name_en": "unacceptable",
+      "id": "p3503"
+    },
+    {
+      "name": "onderneming",
+      "name_en": "enterprise",
+      "id": "p3504"
+    },
+    {
+      "name": "onderrug",
+      "name_en": "lower back",
+      "id": "p3505"
+    },
+    {
+      "name": "onderwijssysteem",
+      "name_en": "education system",
+      "id": "p3506"
+    },
+    {
+      "name": "onderzoeken",
+      "name_en": "investigate",
+      "id": "p3507"
+    },
+    {
+      "name": "ongekend",
+      "name_en": "unprecedented",
+      "id": "p3508"
+    },
+    {
+      "name": "ongelooflijk",
+      "name_en": "incredible",
+      "id": "p3509"
+    },
+    {
+      "name": "ongeluk",
+      "name_en": "accident",
+      "id": "p3510"
+    },
+    {
+      "name": "ongemakkelijk",
+      "name_en": "uncomfortable",
+      "id": "p3511"
+    },
+    {
+      "name": "ongewoon",
+      "name_en": "unusual",
+      "id": "p3512"
+    },
+    {
+      "name": "onlangs",
+      "name_en": "recently",
+      "id": "p3513"
+    },
+    {
+      "name": "onmiddellijk",
+      "name_en": "immediate",
+      "id": "p3514",
+      "also": "onmiddellijke"
+    },
+    {
+      "name": "onmisbaar",
+      "name_en": "indispensable",
+      "id": "p3515"
+    },
+    {
+      "name": "ontwapening",
+      "name_en": "disarmament",
+      "id": "p3516"
+    },
+    {
+      "name": "ontwikkeling",
+      "name_en": "development",
+      "id": "p3517"
+    },
+    {
+      "name": "onverschillig",
+      "name_en": "indifferent",
+      "id": "p3518"
+    },
+    {
+      "name": "onvoorspelbaar",
+      "name_en": "unpredictable",
+      "id": "p3519"
+    },
+    {
+      "name": "onzeker",
+      "name_en": "uncertain",
+      "id": "p3520",
+      "also": "onzekere"
+    },
+    {
+      "name": "oordeel",
+      "name_en": "judgment",
+      "id": "p3521"
+    },
+    {
+      "name": "opblijven",
+      "name_en": "stay up",
+      "id": "p3522"
+    },
+    {
+      "name": "opduiken",
+      "name_en": "pop up",
+      "id": "p3523"
+    },
+    {
+      "name": "openbaar",
+      "name_en": "public",
+      "id": "p3524"
+    },
+    {
+      "name": "openen",
+      "name_en": "open",
+      "id": "p3525"
+    },
+    {
+      "name": "opvoeden",
+      "name_en": "raised",
+      "id": "p3526",
+      "also": "opgevoed"
+    },
+    {
+      "name": "opgewonden",
+      "name_en": "excited",
+      "id": "p3527"
+    },
+    {
+      "name": "opkijken",
+      "name_en": "looks up",
+      "id": "p3528",
+      "also": "opkijkt"
+    },
+    {
+      "name": "opkomend",
+      "name_en": "emerging",
+      "id": "p3529",
+      "also": "opkomende"
+    },
+    {
+      "name": "oplader",
+      "name_en": "charger",
+      "id": "p3530"
+    },
+    {
+      "name": "opmerkelijk",
+      "name_en": "remarkable",
+      "id": "p3531"
+    },
+    {
+      "name": "oprit",
+      "name_en": "driveway",
+      "id": "p3532"
+    },
+    {
+      "name": "opwindend",
+      "name_en": "exciting",
+      "id": "p3533"
+    },
+    {
+      "name": "ouderenzorg",
+      "name_en": "elderly care",
+      "id": "p3534"
+    },
+    {
+      "name": "overal",
+      "name_en": "everywhere",
+      "id": "p3535"
+    },
+    {
+      "name": "overdrijven",
+      "name_en": "exaggerate",
+      "id": "p3536",
+      "also": "overdrijf"
+    },
+    {
+      "name": "overnemen",
+      "name_en": "take over",
+      "id": "p3537"
+    },
+    {
+      "name": "overtreffen",
+      "name_en": "surpassed",
+      "id": "p3538",
+      "also": "overtrof"
+    },
+    {
+      "name": "overtuigend",
+      "name_en": "convincing",
+      "id": "p3539"
+    },
+    {
+      "name": "overwinning",
+      "name_en": "victory",
+      "id": "p3540"
+    },
+    {
+      "name": "overzien",
+      "name_en": "oversee",
+      "id": "p3541"
+    },
+    {
+      "name": "pagina",
+      "name_en": "page",
+      "id": "p3542"
+    },
+    {
+      "name": "pak",
+      "name_en": "suit",
+      "id": "p3543"
+    },
+    {
+      "name": "paradijs",
+      "name_en": "paradise",
+      "id": "p3544"
+    },
+    {
+      "name": "pasje",
+      "name_en": "pass",
+      "id": "p3545"
+    },
+    {
+      "name": "pauzeren",
+      "name_en": "pause",
+      "id": "p3546",
+      "also": "pauzeer"
+    },
+    {
+      "name": "peinzend",
+      "name_en": "pensive",
+      "id": "p3547"
+    },
+    {
+      "name": "persoonlijkheid",
+      "name_en": "personality",
+      "id": "p3548"
+    },
+    {
+      "name": "pianoles",
+      "name_en": "piano lesson",
+      "id": "p3549"
+    },
+    {
+      "name": "picknick",
+      "name_en": "picnic",
+      "id": "p3550"
+    },
+    {
+      "name": "piepen",
+      "name_en": "beep",
+      "id": "p3551"
+    },
+    {
+      "name": "piloot",
+      "name_en": "pilot",
+      "id": "p3552"
+    },
+    {
+      "name": "plaatsvinden",
+      "name_en": "take place",
+      "id": "p3553"
+    },
+    {
+      "name": "plakken",
+      "name_en": "stick",
+      "id": "p3554"
+    },
+    {
+      "name": "plank",
+      "name_en": "shelf",
+      "id": "p3555"
+    },
+    {
+      "name": "platteland",
+      "name_en": "countryside",
+      "id": "p3556"
+    },
+    {
+      "name": "plattelandsleven",
+      "name_en": "country life",
+      "id": "p3557"
+    },
+    {
+      "name": "podium",
+      "name_en": "stage",
+      "id": "p3558"
+    },
+    {
+      "name": "positie",
+      "name_en": "position",
+      "id": "p3559"
+    },
+    {
+      "name": "posten",
+      "name_en": "post",
+      "id": "p3560"
+    },
+    {
+      "name": "postkantoor",
+      "name_en": "post office",
+      "id": "p3561"
+    },
+    {
+      "name": "prioriteit",
+      "name_en": "priority",
+      "id": "p3562"
+    },
+    {
+      "name": "proces",
+      "name_en": "process",
+      "id": "p3563"
+    },
+    {
+      "name": "productie",
+      "name_en": "production",
+      "id": "p3564"
+    },
+    {
+      "name": "productief",
+      "name_en": "productive",
+      "id": "p3565"
+    },
+    {
+      "name": "professioneel",
+      "name_en": "professional",
+      "id": "p3566"
+    },
+    {
+      "name": "profiel",
+      "name_en": "profile",
+      "id": "p3567"
+    },
+    {
+      "name": "profielfoto",
+      "name_en": "profile picture",
+      "id": "p3568"
+    },
+    {
+      "name": "publiek",
+      "name_en": "audience",
+      "id": "p3569"
+    },
+    {
+      "name": "punt",
+      "name_en": "point",
+      "id": "p3570"
+    },
+    {
+      "name": "puzzel",
+      "name_en": "puzzle",
+      "id": "p3571"
+    },
+    {
+      "name": "raap",
+      "name_en": "turnip",
+      "id": "p3572"
+    },
+    {
+      "name": "rammelen",
+      "name_en": "rattle",
+      "id": "p3573",
+      "also": "rammel"
+    },
+    {
+      "name": "ras",
+      "name_en": "breed",
+      "id": "p3574"
+    },
+    {
+      "name": "recht",
+      "name_en": "right",
+      "id": "p3575"
+    },
+    {
+      "name": "rechtstreeks",
+      "name_en": "direct",
+      "id": "p3576"
+    },
+    {
+      "name": "reiken",
+      "name_en": "reached",
+      "id": "p3577",
+      "also": "reikte"
+    },
+    {
+      "name": "reisplannen",
+      "name_en": "travel plans",
+      "id": "p3578"
+    },
+    {
+      "name": "rekken",
+      "name_en": "stretch",
+      "id": "p3579"
+    },
+    {
+      "name": "respecteren",
+      "name_en": "respect",
+      "id": "p3580"
+    },
+    {
+      "name": "richten",
+      "name_en": "aims",
+      "id": "p3581",
+      "also": "richt"
+    },
+    {
+      "name": "richtlijn",
+      "name_en": "guideline",
+      "id": "p3582",
+      "also": "richtlijnen"
+    },
+    {
+      "name": "roman",
+      "name_en": "novel",
+      "id": "p3583"
+    },
+    {
+      "name": "room",
+      "name_en": "cream",
+      "id": "p3584"
+    },
+    {
+      "name": "rustgevend",
+      "name_en": "soothing",
+      "id": "p3585"
+    },
+    {
+      "name": "schaduw",
+      "name_en": "shadow",
+      "id": "p3586"
+    },
+    {
+      "name": "schenken",
+      "name_en": "pour",
+      "id": "p3587",
+      "also": "schenk"
+    },
+    {
+      "name": "schilderachtig",
+      "name_en": "picturesque",
+      "id": "p3588"
+    },
+    {
+      "name": "scholier",
+      "name_en": "pupil",
+      "id": "p3589",
+      "also": "scholieren"
+    },
+    {
+      "name": "schoolevenementen",
+      "name_en": "school events",
+      "id": "p3590"
+    },
+    {
+      "name": "schoolreisje",
+      "name_en": "school trip",
+      "id": "p3591"
+    },
+    {
+      "name": "schoolvakantie",
+      "name_en": "school holiday",
+      "id": "p3592"
+    },
+    {
+      "name": "schoot",
+      "name_en": "lap",
+      "id": "p3593"
+    },
+    {
+      "name": "schrapen",
+      "name_en": "scrapes",
+      "id": "p3594",
+      "also": "schraapt"
+    },
+    {
+      "name": "sigaret",
+      "name_en": "cigarettes",
+      "id": "p3595",
+      "also": "sigaretten"
+    },
+    {
+      "name": "skiresort",
+      "name_en": "ski resorts",
+      "id": "p3596",
+      "also": "skiresorts"
+    },
+    {
+      "name": "slaperig",
+      "name_en": "sleepy",
+      "id": "p3597"
+    },
+    {
+      "name": "slokje",
+      "name_en": "sip",
+      "id": "p3598"
+    },
+    {
+      "name": "sneeuwen",
+      "name_en": "snows",
+      "id": "p3599",
+      "also": "sneeuwt"
+    },
+    {
+      "name": "solide",
+      "name_en": "solid",
+      "id": "p3600"
+    },
+    {
+      "name": "sommige",
+      "name_en": "some",
+      "id": "p3601"
+    },
+    {
+      "name": "spektakel",
+      "name_en": "spectacle",
+      "id": "p3602"
+    },
+    {
+      "name": "spoedig",
+      "name_en": "soon",
+      "id": "p3603"
+    },
+    {
+      "name": "sportdag",
+      "name_en": "sports day",
+      "id": "p3604"
+    },
+    {
+      "name": "spreekvaardigheid",
+      "name_en": "speaking skill",
+      "id": "p3605"
+    },
+    {
+      "name": "stabiliseren",
+      "name_en": "stabilizes",
+      "id": "p3606",
+      "also": "stabiliseert"
+    },
+    {
+      "name": "stadhuis",
+      "name_en": "town hall",
+      "id": "p3607"
+    },
+    {
+      "name": "stadsleven",
+      "name_en": "city life",
+      "id": "p3608"
+    },
+    {
+      "name": "stijlvol",
+      "name_en": "stylish",
+      "id": "p3609"
+    },
+    {
+      "name": "strategiespellen",
+      "name_en": "strategy games",
+      "id": "p3610"
+    },
+    {
+      "name": "strategie",
+      "name_en": "strategy",
+      "id": "p3611",
+      "also": "strategieën"
+    },
+    {
+      "name": "streven",
+      "name_en": "strive",
+      "id": "p3612",
+      "also": "streef"
+    },
+    {
+      "name": "streng",
+      "name_en": "strict",
+      "id": "p3613"
+    },
+    {
+      "name": "student",
+      "name_en": "student",
+      "id": "p3614",
+      "also": "studenten"
+    },
+    {
+      "name": "studentenpas",
+      "name_en": "student card",
+      "id": "p3615"
+    },
+    {
+      "name": "subtiel",
+      "name_en": "subtle",
+      "id": "p3616",
+      "also": "subtiele"
+    },
+    {
+      "name": "surfer",
+      "name_en": "surfer",
+      "id": "p3617",
+      "also": "surfers"
+    },
+    {
+      "name": "taak",
+      "name_en": "task",
+      "id": "p3618"
+    },
+    {
+      "name": "taxfreeshops",
+      "name_en": "tax-free shops",
+      "id": "p3619"
+    },
+    {
+      "name": "taxfreewinkelen",
+      "name_en": "tax-free shopping",
+      "id": "p3620"
+    },
+    {
+      "name": "telefoonnummer",
+      "name_en": "phone number",
+      "id": "p3621"
+    },
+    {
+      "name": "teleurstellend",
+      "name_en": "disappointing",
+      "id": "p3622"
+    },
+    {
+      "name": "televisie",
+      "name_en": "television",
+      "id": "p3623",
+      "also": "televisies"
+    },
+    {
+      "name": "tempo",
+      "name_en": "pace",
+      "id": "p3624"
+    },
+    {
+      "name": "tennisbaan",
+      "name_en": "tennis court",
+      "id": "p3625"
+    },
+    {
+      "name": "tennissen",
+      "name_en": "to play tennis",
+      "id": "p3626"
+    },
+    {
+      "name": "term",
+      "name_en": "term",
+      "id": "p3627",
+      "also": "termen"
+    },
+    {
+      "name": "terras",
+      "name_en": "terrace",
+      "id": "p3628"
+    },
+    {
+      "name": "teruggeven",
+      "name_en": "gives back",
+      "id": "p3629",
+      "also": "teruggeeft"
+    },
+    {
+      "name": "terugschroeven",
+      "name_en": "to scale back",
+      "id": "p3630"
+    },
+    {
+      "name": "tevredenheid",
+      "name_en": "satisfaction",
+      "id": "p3631"
+    },
+    {
+      "name": "thuisblijven",
+      "name_en": "to stay home",
+      "id": "p3632"
+    },
+    {
+      "name": "tien",
+      "name_en": "ten",
+      "id": "p3633"
+    },
+    {
+      "name": "tientje",
+      "name_en": "ten euros",
+      "id": "p3634"
+    },
+    {
+      "name": "tijdmanagement",
+      "name_en": "time management",
+      "id": "p3635"
+    },
+    {
+      "name": "tijdverdrijf",
+      "name_en": "pastime",
+      "id": "p3636"
+    },
+    {
+      "name": "timmerman",
+      "name_en": "carpenter",
+      "id": "p3637"
+    },
+    {
+      "name": "timmerwerk",
+      "name_en": "carpentry",
+      "id": "p3638"
+    },
+    {
+      "name": "toegankelijk",
+      "name_en": "accessible",
+      "id": "p3639"
+    },
+    {
+      "name": "toegepast",
+      "name_en": "applied",
+      "id": "p3640"
+    },
+    {
+      "name": "toekomstig",
+      "name_en": "future",
+      "id": "p3641"
+    },
+    {
+      "name": "toeslaan",
+      "name_en": "to strike",
+      "id": "p3642"
+    },
+    {
+      "name": "toevallig",
+      "name_en": "by chance",
+      "id": "p3643"
+    },
+    {
+      "name": "toewijding",
+      "name_en": "dedication",
+      "id": "p3644"
+    },
+    {
+      "name": "topseizoen",
+      "name_en": "peak season",
+      "id": "p3645"
+    },
+    {
+      "name": "totaal",
+      "name_en": "total",
+      "id": "p3646"
+    },
+    {
+      "name": "traankanaal",
+      "name_en": "tear duct",
+      "id": "p3647"
+    },
+    {
+      "name": "tragisch",
+      "name_en": "tragic",
+      "id": "p3648"
+    },
+    {
+      "name": "triest",
+      "name_en": "sad",
+      "id": "p3649"
+    },
+    {
+      "name": "turbulentie",
+      "name_en": "turbulence",
+      "id": "p3650"
+    },
+    {
+      "name": "tyfoon",
+      "name_en": "typhoon",
+      "id": "p3651"
+    },
+    {
+      "name": "uitdrukking",
+      "name_en": "expression",
+      "id": "p3652"
+    },
+    {
+      "name": "uiteen",
+      "name_en": "apart",
+      "id": "p3653"
+    },
+    {
+      "name": "uiten",
+      "name_en": "to express",
+      "id": "p3654"
+    },
+    {
+      "name": "uitpakken",
+      "name_en": "unpacked",
+      "id": "p3655",
+      "also": "uitgepakt"
+    },
+    {
+      "name": "uitrekken",
+      "name_en": "stretched",
+      "id": "p3656",
+      "also": "uitgerekt"
+    },
+    {
+      "name": "uitnodiging",
+      "name_en": "invitation",
+      "id": "p3657"
+    },
+    {
+      "name": "uitstellen",
+      "name_en": "to postpone",
+      "id": "p3658"
+    },
+    {
+      "name": "uitzoeken",
+      "name_en": "to find out",
+      "id": "p3659"
+    },
+    {
+      "name": "vakambacht",
+      "name_en": "craft",
+      "id": "p3660"
+    },
+    {
+      "name": "vakantie",
+      "name_en": "holiday",
+      "id": "p3661"
+    },
+    {
+      "name": "vanmiddag",
+      "name_en": "this afternoon",
+      "id": "p3662"
+    },
+    {
+      "name": "vastberadenheid",
+      "name_en": "determination",
+      "id": "p3663"
+    },
+    {
+      "name": "vastbesloten",
+      "name_en": "determined",
+      "id": "p3664"
+    },
+    {
+      "name": "vatten",
+      "name_en": "to grasp",
+      "id": "p3665"
+    },
+    {
+      "name": "veld",
+      "name_en": "field",
+      "id": "p3666"
+    },
+    {
+      "name": "ventilatie",
+      "name_en": "ventilation",
+      "id": "p3667"
+    },
+    {
+      "name": "verbetering",
+      "name_en": "improvement",
+      "id": "p3668",
+      "also": "verbeteringen"
+    },
+    {
+      "name": "verbindend",
+      "name_en": "connecting",
+      "id": "p3669",
+      "also": "verbindende"
+    },
+    {
+      "name": "verbinding",
+      "name_en": "connection",
+      "id": "p3670",
+      "also": "verbindingen"
+    },
+    {
+      "name": "vergelijkbaar",
+      "name_en": "comparable",
+      "id": "p3671",
+      "also": "vergelijkbare"
+    },
+    {
+      "name": "verheldering",
+      "name_en": "clarification",
+      "id": "p3672"
+    },
+    {
+      "name": "verhelderen",
+      "name_en": "clarifies",
+      "id": "p3673",
+      "also": "verheldert"
+    },
+    {
+      "name": "verhouden",
+      "name_en": "to relate",
+      "id": "p3674"
+    },
+    {
+      "name": "verhuur",
+      "name_en": "rental",
+      "id": "p3675"
+    },
+    {
+      "name": "verkoop",
+      "name_en": "sale",
+      "id": "p3676"
+    },
+    {
+      "name": "verkouden",
+      "name_en": "having a cold",
+      "id": "p3677"
+    },
+    {
+      "name": "verlaten",
+      "name_en": "to leave",
+      "id": "p3678"
+    },
+    {
+      "name": "verliefd",
+      "name_en": "in love",
+      "id": "p3679"
+    },
+    {
+      "name": "verlies",
+      "name_en": "loss",
+      "id": "p3680"
+    },
+    {
+      "name": "verloren",
+      "name_en": "lost",
+      "id": "p3681"
+    },
+    {
+      "name": "vermoeiend",
+      "name_en": "tiring",
+      "id": "p3682"
+    },
+    {
+      "name": "vernietigen",
+      "name_en": "destroyed",
+      "id": "p3683",
+      "also": "vernietigd"
+    },
+    {
+      "name": "verontrustend",
+      "name_en": "disturbing",
+      "id": "p3684"
+    },
+    {
+      "name": "verpleging",
+      "name_en": "nursing",
+      "id": "p3685"
+    },
+    {
+      "name": "verrassend",
+      "name_en": "surprising",
+      "id": "p3686"
+    },
+    {
+      "name": "verrassing",
+      "name_en": "surprise",
+      "id": "p3687",
+      "also": "verrassingen"
+    },
+    {
+      "name": "verrijken",
+      "name_en": "to enrich",
+      "id": "p3688"
+    },
+    {
+      "name": "verruimen",
+      "name_en": "broadens",
+      "id": "p3689",
+      "also": "verruimt"
+    },
+    {
+      "name": "verscheidenheid",
+      "name_en": "variety",
+      "id": "p3690"
+    },
+    {
+      "name": "verstandig",
+      "name_en": "sensible",
+      "id": "p3691"
+    },
+    {
+      "name": "verstopt",
+      "name_en": "hidden",
+      "id": "p3692"
+    },
+    {
+      "name": "vertaling",
+      "name_en": "translation",
+      "id": "p3693"
+    },
+    {
+      "name": "vervangend",
+      "name_en": "replacement",
+      "id": "p3694",
+      "also": "vervangende"
+    },
+    {
+      "name": "vervelend",
+      "name_en": "annoying",
+      "id": "p3695"
+    },
+    {
+      "name": "verwachting",
+      "name_en": "expectation",
+      "id": "p3696",
+      "also": "verwachtingen"
+    },
+    {
+      "name": "verwoestend",
+      "name_en": "devastating",
+      "id": "p3697"
+    },
+    {
+      "name": "verzekeren",
+      "name_en": "assure",
+      "id": "p3698",
+      "also": "verzeker"
+    },
+    {
+      "name": "verzekeringsmaatschappij",
+      "name_en": "insurance company",
+      "id": "p3699"
+    },
+    {
+      "name": "verzonken",
+      "name_en": "sunk",
+      "id": "p3700"
+    },
+    {
+      "name": "verzorger",
+      "name_en": "caregiver",
+      "id": "p3701",
+      "also": "verzorgers"
+    },
+    {
+      "name": "vier",
+      "name_en": "four",
+      "id": "p3702"
+    },
+    {
+      "name": "vieren",
+      "name_en": "to celebrate",
+      "id": "p3703"
+    },
+    {
+      "name": "vijver",
+      "name_en": "pond",
+      "id": "p3704"
+    },
+    {
+      "name": "vindingrijk",
+      "name_en": "resourceful",
+      "id": "p3705"
+    },
+    {
+      "name": "vioolspelen",
+      "name_en": "violin playing",
+      "id": "p3706"
+    },
+    {
+      "name": "visum",
+      "name_en": "visa",
+      "id": "p3707"
+    },
+    {
+      "name": "vliegreis",
+      "name_en": "flight",
+      "id": "p3708"
+    },
+    {
+      "name": "vliegveld",
+      "name_en": "airport",
+      "id": "p3709"
+    },
+    {
+      "name": "voedselveiligheid",
+      "name_en": "food safety",
+      "id": "p3710"
+    },
+    {
+      "name": "volgepropt",
+      "name_en": "crammed",
+      "id": "p3711"
+    },
+    {
+      "name": "volwassen",
+      "name_en": "adult",
+      "id": "p3712"
+    },
+    {
+      "name": "voorschrijven",
+      "name_en": "prescribed",
+      "id": "p3713",
+      "also": "voorgeschreven"
+    },
+    {
+      "name": "voorkant",
+      "name_en": "front",
+      "id": "p3714"
+    },
+    {
+      "name": "voorraadkast",
+      "name_en": "pantry",
+      "id": "p3715"
+    },
+    {
+      "name": "voorziening",
+      "name_en": "facility",
+      "id": "p3716",
+      "also": "voorzieningen"
+    },
+    {
+      "name": "vreedzaam",
+      "name_en": "peaceful",
+      "id": "p3717",
+      "also": "vreedzame"
+    },
+    {
+      "name": "vuurwerk",
+      "name_en": "fireworks",
+      "id": "p3718"
+    },
+    {
+      "name": "vuurwerkshows",
+      "name_en": "fireworks shows",
+      "id": "p3719"
+    },
+    {
+      "name": "waarin",
+      "name_en": "in which",
+      "id": "p3720"
+    },
+    {
+      "name": "waarmee",
+      "name_en": "with which",
+      "id": "p3721"
+    },
+    {
+      "name": "waarover",
+      "name_en": "about which",
+      "id": "p3722"
+    },
+    {
+      "name": "waarvan",
+      "name_en": "of which",
+      "id": "p3723"
+    },
+    {
+      "name": "wachttijd",
+      "name_en": "waiting time",
+      "id": "p3724"
+    },
+    {
+      "name": "war",
+      "name_en": "confused",
+      "id": "p3725"
+    },
+    {
+      "name": "warmen",
+      "name_en": "to warm",
+      "id": "p3726"
+    },
+    {
+      "name": "weerhouden",
+      "name_en": "restrained",
+      "id": "p3727",
+      "also": "weerhield"
+    },
+    {
+      "name": "weersvoorspelling",
+      "name_en": "weather forecast",
+      "id": "p3728"
+    },
+    {
+      "name": "wees",
+      "name_en": "orphan",
+      "id": "p3729"
+    },
+    {
+      "name": "weggelegd",
+      "name_en": "reserved",
+      "id": "p3730"
+    },
+    {
+      "name": "welvaart",
+      "name_en": "prosperity",
+      "id": "p3731"
+    },
+    {
+      "name": "welverdiend",
+      "name_en": "well-deserved",
+      "id": "p3732"
+    },
+    {
+      "name": "wens",
+      "name_en": "wish",
+      "id": "p3733"
+    },
+    {
+      "name": "werkdag",
+      "name_en": "workdays",
+      "id": "p3734",
+      "also": "werkdagen"
+    },
+    {
+      "name": "werkkansen",
+      "name_en": "job opportunities",
+      "id": "p3735"
+    },
+    {
+      "name": "werkperspectieven",
+      "name_en": "job prospects",
+      "id": "p3736"
+    },
+    {
+      "name": "werkverplichtingen",
+      "name_en": "work obligations",
+      "id": "p3737"
+    },
+    {
+      "name": "wij",
+      "name_en": "we",
+      "id": "p3738"
+    },
+    {
+      "name": "winkelen",
+      "name_en": "to shop",
+      "id": "p3739"
+    },
+    {
+      "name": "wintermaanden",
+      "name_en": "winter months",
+      "id": "p3740"
+    },
+    {
+      "name": "wiskunde",
+      "name_en": "mathematics",
+      "id": "p3741"
+    },
+    {
+      "name": "wreed",
+      "name_en": "cruel",
+      "id": "p3742"
+    },
+    {
+      "name": "zakenreis",
+      "name_en": "business trip",
+      "id": "p3743"
+    },
+    {
+      "name": "zalm",
+      "name_en": "salmon",
+      "id": "p3744"
+    },
+    {
+      "name": "zeer",
+      "name_en": "very",
+      "id": "p3745"
+    },
+    {
+      "name": "zeldzaam",
+      "name_en": "rare",
+      "id": "p3746"
+    },
+    {
+      "name": "zelfs",
+      "name_en": "even",
+      "id": "p3747"
+    },
+    {
+      "name": "zender",
+      "name_en": "channel",
+      "id": "p3748"
+    },
+    {
+      "name": "zes",
+      "name_en": "six",
+      "id": "p3749"
+    },
+    {
+      "name": "zestig",
+      "name_en": "sixty",
+      "id": "p3750"
+    },
+    {
+      "name": "zeven",
+      "name_en": "seven",
+      "id": "p3751"
+    },
+    {
+      "name": "zichtbaar",
+      "name_en": "visible",
+      "id": "p3752"
+    },
+    {
+      "name": "ziekenhuis",
+      "name_en": "hospital",
+      "id": "p3753",
+      "also": "ziekenhuizen"
+    },
+    {
+      "name": "zijkant",
+      "name_en": "side",
+      "id": "p3754"
+    },
+    {
+      "name": "zomaar",
+      "name_en": "just like that",
+      "id": "p3755"
+    },
+    {
+      "name": "zuidelijk",
+      "name_en": "southern",
+      "id": "p3756"
+    },
+    {
+      "name": "zulk",
+      "name_en": "such",
+      "id": "p3757",
+      "also": "zulke"
+    },
+    {
+      "name": "zusje",
+      "name_en": "little sister",
+      "id": "p3758"
+    },
+    {
+      "name": "zwak",
+      "name_en": "weak",
+      "id": "p3759",
+      "also": "zwakke"
+    },
+    {
+      "name": "zwemkunst",
+      "name_en": "swimming skill",
+      "id": "p3760"
     }
   ]
 }

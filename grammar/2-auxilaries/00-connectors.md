@@ -114,6 +114,9 @@ Affirmatives, Doubts, Negation and Hedging Phrases
 | ja hoor | yes indeed |  |
 | ja graag | yes please | |
 | dat klopt | that's correct | Ja, **dat klopt** helemaal. (Yes, that's exactly right.) |
+| Dat dacht ik al. | I thought so. ||
+| Dat geeft niet. | That's okay. ||
+| Dat hoop ik. | I hope so. ||
 | denk ik | I think (filler) | Ja, **denk ik**. (Yes, I think so.) |
 | zo is het | that's how it is | Tja, **zo is het** nu eenmaal. (Well, that's just how it is.) |
 | uiteraard | naturally/certainly | **Uiteraard** ga ik mee. (Naturally, I'm coming along.) |
