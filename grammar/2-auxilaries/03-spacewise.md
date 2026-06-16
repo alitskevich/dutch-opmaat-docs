@@ -12,11 +12,11 @@
 | **overal** | everywhere | Er ligt **overal** sneeuw. (There is snow everywhere.) |
 | **buiten** | outside | De kinderen spelen **buiten**. (The children play outside.) |
 | **binnen** | inside | Kom maar **binnen**, het regent. (Come inside, it's raining.) |
-| **in de buurt** | in the area | Is er een apotheek **in de buurt**? (Is there a pharmacy in the area?) |
 | **ver / ver weg** | far / far away | Mijn ouders wonen **ver weg**. (My parents live far away.) |
-| **thuis** | at home | Ik blijf vandaag **thuis**. (I'm staying at home today.) |
 | **weg** | away / gone | Hij is een week **weg**. (He's away for a week.) |
 | **terug** | back | Ik ben zo **terug**. (I'll be right back.) |
+| **thuis** | at home | Ik blijf vandaag **thuis**. (I'm staying at home today.) |
+| **in de buurt** | in the area | Is er een apotheek **in de buurt**? (Is there a pharmacy in the area?) |
 
 > ***In* vs *op***: things sit **in** something with walls (*in een doos*), and **op** flat surfaces (*op tafel*, *op straat*).
 >
@@ -52,7 +52,14 @@
 | **tot** | up to / until | Loop **tot** het einde. |
 | **vanaf** | starting from | **Vanaf** hier is het dichtbij. |
 | **richting** | toward(s) | We gaan **richting** centrum. |
-| Sla rechtsaf. | Turn right. ||
-| Ga rechtdoor. | Go straight on. ||
+| Linksaf / Rechtsaf | Turn left / Turn right | Ga bij de kerk **linksaf**. Sla rechtsaf.  (Turn left at the church. Turn right.) |
+| Ga rechtdoor. | Go straight on. | Loop **rechtdoor** tot de stoplichten. (Walk straight ahead to the traffic lights.) |
+| Hoe kom ik bij...? | How do I get to...? | **Hoe kom ik bij** het station? (How do I get to the station?) |
+
+Combining imperatives with prepositions and turning verbs:
+
+- ***Loop** rechtdoor en **neem** de tweede straat **rechts**.*
+- ***Ga** bij het stoplicht **linksaf** en **steek** de brug **over**.*
+- ***Volg** de borden naar het centrum.*
 
 > ***Uit* vs *van***: use **uit** for the place of origin (where you're *from*: *Ik kom **uit** België*) and **van** for "coming from somewhere right now" (*Ik kom net **van** kantoor*).

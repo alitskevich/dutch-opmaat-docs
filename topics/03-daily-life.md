@@ -4,13 +4,11 @@ Language for everyday life in the Netherlands.
 
 ## My day
 
-<Section>
 <Dialog id="06-mijn-dag.json"/>
-</Section>
 
 ## Groceries & Shopping
 
-### 1. In de Supermarkt — At the Supermarket
+### 1. In de Supermarkt
 
 | Nederlands | English | Example |
 |------------|---------|---------|
@@ -19,11 +17,15 @@ Language for everyday life in the Netherlands.
 | Een winkelwagen | A shopping cart | Ik heb een euro nodig voor de **winkelwagen**. (I need a euro for the shopping cart.) |
 | De kassa | The checkout | Er staat een lange rij bij de **kassa**. (There's a long queue at the checkout.) |
 | De aanbieding | The special offer | De koffie is deze week in de **aanbieding**. (The coffee is on special offer this week.) |
-
-### 2. Bij Speciaalzaken — At Specialty Shops
-
-| Nederlands | English | Example |
-|------------|---------|---------|
+| Heeft u...? | Do you have...? | **Heeft u** ook verse vis? (Do you also have fresh fish?) |
+| Wat kost...? | What does ... cost? | **Wat kost** deze kaas? (What does this cheese cost?) |
+| Mag ik een kilo...? | May I have a kilo of...? | **Mag ik een kilo** aardappelen? (May I have a kilo of potatoes?) |
+| Waar vind ik...? | Where can I find...? | **Waar vind ik** de melk? (Where can I find the milk?) |
+| Pinnen | To pay by card | Kan ik hier **pinnen**? (Can I pay by card here?) |
+| Contant | Cash | Ik betaal liever **contant**. (I prefer to pay cash.) |
+| De bon | The receipt | Wilt u **de bon** in de tas? (Do you want the receipt in the bag?) |
+| Korting | Discount | Op deze schoenen krijg je **korting**. (You get a discount on these shoes.) |
+| Te duur | Too expensive | Die jas vind ik **te duur**. (I find that coat too expensive.) |
 | De bakker | The bakery | Ik haal vers brood bij **de bakker**. (I get fresh bread at the bakery.) |
 | De slager | The butcher | Bij **de slager** koop ik een stukje vlees. (At the butcher I buy a bit of meat.) |
 | De groenteboer | The greengrocer | **De groenteboer** heeft vandaag lekkere appels. (The greengrocer has tasty apples today.) |
@@ -34,20 +36,6 @@ Language for everyday life in the Netherlands.
 
 | Nederlands | English | Example |
 |------------|---------|---------|
-| Heeft u...? | Do you have...? | **Heeft u** ook verse vis? (Do you also have fresh fish?) |
-| Wat kost...? | What does ... cost? | **Wat kost** deze kaas? (What does this cheese cost?) |
-| Mag ik een kilo...? | May I have a kilo of...? | **Mag ik een kilo** aardappelen? (May I have a kilo of potatoes?) |
-| Waar vind ik...? | Where can I find...? | **Waar vind ik** de melk? (Where can I find the milk?) |
-
-### 4. Betalen — Paying
-
-| Nederlands | English | Example |
-|------------|---------|---------|
-| Pinnen | To pay by card | Kan ik hier **pinnen**? (Can I pay by card here?) |
-| Contant | Cash | Ik betaal liever **contant**. (I prefer to pay cash.) |
-| De bon | The receipt | Wilt u **de bon** in de tas? (Do you want the receipt in the bag?) |
-| Korting | Discount | Op deze schoenen krijg je **korting**. (You get a discount on these shoes.) |
-| Te duur | Too expensive | Die jas vind ik **te duur**. (I find that coat too expensive.) |
 
 ## Woningen, Kamers, Meubels, Huren en De Buurt
 
@@ -111,32 +99,11 @@ Vocabulary and phrases for getting around the Netherlands: public transport, car
 | De file | The traffic jam | Ik stond een uur in **de file**. (I was stuck in a traffic jam for an hour.) |
 | Tanken | To refuel | Ik moet nog even **tanken** voor we vertrekken. (I still need to refuel before we leave.) |
 | Parkeren | To park | Waar kan ik hier **parkeren**? (Where can I park here?) |
-
-### Op de Fiets — By Bicycle
-
-| Nederlands | English | Example |
-|------------|---------|---------|
 | De fiets | The bicycle | Ik ga met **de fiets** naar school. (I go to school by bicycle.) |
 | Het fietspad | The bike lane | Fietsers moeten op **het fietspad** blijven. (Cyclists must stay on the bike lane.) |
 | De ketting | The chain | **De ketting** van mijn fiets is eraf gelopen. (The chain of my bike has come off.) |
 | Een lekke band | A flat tire | Ik heb **een lekke band** en kan niet fietsen. (I have a flat tire and can't cycle.) |
 | Op slot zetten | To lock up | Vergeet je fiets niet **op slot te zetten**. (Don't forget to lock up your bike.) |
-
-### De Weg Vragen — Asking Directions
-
-| Nederlands | English | Example |
-|------------|---------|---------|
-| Hoe kom ik bij...? | How do I get to...? | **Hoe kom ik bij** het station? (How do I get to the station?) |
-| Rechtdoor | Straight ahead | Loop **rechtdoor** tot de stoplichten. (Walk straight ahead to the traffic lights.) |
-| Linksaf / Rechtsaf | Turn left / Turn right | Ga bij de kerk **linksaf**. (Turn left at the church.) |
-| Tegenover | Opposite | De winkel is **tegenover** het park. (The shop is opposite the park.) |
-| Naast | Next to | De apotheek staat **naast** de bakker. (The pharmacy is next to the bakery.) |
-
-Combining imperatives with prepositions and turning verbs:
-
-- ***Loop** rechtdoor en **neem** de tweede straat **rechts**.*
-- ***Ga** bij het stoplicht **linksaf** en **steek** de brug **over**.*
-- ***Volg** de borden naar het centrum.*
 
 ## Free Time, Going Out & Hobbies
 
@@ -170,9 +137,7 @@ Language for talking about how you spend your free time: hobbies, sport, going o
 | Wil je iets drinken? | Would you like a drink? |
 | Waar is het toilet? | Where's the toilet? |
 
-<Section>
 <Dialog id="08-in-restaurant.json"/>
-</Section>
 
 ### Uitgaan — Going Out
 

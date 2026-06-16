@@ -14,9 +14,7 @@
 | tot zo | see you soon | Ik ben zo klaar, **tot zo**! (I'm almost done, see you soon!) |
 | zie je | see you | **Zie je** morgen op school. (See you tomorrow at school.) |
 
-<Section>
-<Dialog id="02-hoe-gaat-het.json"/>
-</Section>
+<Dialog id="02-hoe-gaat-het.json" />
 
 ## Everyday Expressions
 
@@ -69,9 +67,7 @@
 | Hoe lang woon je hier al? | How long have you been living here? | Ik woon hier al twee jaar. |
 | - |Aangenaam kennis te maken | Pleased to meet you |
 
-<Section>
 <Dialog id="03-meet-markus.json"/>
-</Section>
 
 ## Jouw huis
 
