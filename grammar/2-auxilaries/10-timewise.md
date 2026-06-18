@@ -17,7 +17,6 @@
 | **als** | when (conditional/future) | **Als** ik tijd heb, kom ik. (When I have time, I'll come.) |
 | **wanneer** | when (direct question) | **Wanneer** kom je? (When are you coming?) |
 | **terwijl** | while | Ik las **terwijl** hij sliep. (I read while he slept.) |
-| **toch** | still/yet | Het regent, maar ik ga **toch**. (It's raining, but I'm still going.) |
 | **totdat** | until | Wacht **totdat** ik kom. (Wait until I come.) |
 | **voordat** | before | **Voordat** ik vertrek, bel ik. (Before I leave, I'll call.) |
 | **nadat** | after | **Nadat** ik at, wandelde ik. (After I ate, I walked.) |
@@ -25,13 +24,12 @@
 | **nu** | now | Ik heb **nu** geen tijd. (I don't have time now.) |
 | **tegenwoordig** | nowadays, at present | **Tegenwoordig** werk ik thuis. (Nowadays I work from home.) |
 | **dadelijk / zo** | in a moment | Ik kom **dadelijk** bij je. (I'll come to you in a moment.) |
-| **binnenkort** | soon, in a moment | We zien elkaar **binnenkort**. (We'll see each other soon.) |
 | **nog** | still/yet | Ben je **nog** hier? (Are you still here?) |
 | **al** | already | Ik heb **al** gegeten. (I've already eaten.) |
 | **pas** | just/only | Ik **pas** aangekomen. (I just arrived.) |
+| **binnenkort** | soon, in a moment | We zien elkaar **binnenkort**. (We'll see each other soon.) |
 | **straks** | soon/later today | Ik kom **straks** langs. (I'll stop by soon.) |
-| **zo meteen** | shortly | Ik kom **zo meteen**. (I'm coming shortly.) |
-| **meteen** | right away | Ik kom **meteen**. (I'm coming right away.) |
+| **meteen** / **zo meteen** | shortly | Ik kom **zo meteen**. (I'm coming shortly.) |
 | **dan** | then | Eerst eten we, **dan** gaan we weg. (First we eat, then we leave.) |
 | **toen** | then (in the past) | **Toen** was ik nog jong. (Back then I was still young.) |
 | **alweer** | again | Ben je **alweer** te laat? (Are you late again?) |

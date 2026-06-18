@@ -11,6 +11,7 @@
 | `bovendien` | moreover | Het is duur, **bovendien** is het ver. (It's expensive, moreover it's far.) |
 | `niet alleen...maar ook` | not only...but also | **Niet alleen** ik, **maar ook** mijn broer. (Not only me, but also my brother.) |
 | `daarnaast` | besides | **Daarnaast** is er nog een probleem. (Besides, there's another problem.) |
+| `toch` | still anyway  | Het regent, maar ik ga **toch**. (It's raining, but I'm still going.) |
 | `echter` | however | Hij kwam, **echter** te laat. (He came, however too late.) |
 | `hoewel` | although | **Hoewel** ik moe was, ging ik. (Although I was tired, I went.) |
 | `bijvoorbeeld` | for example | Ik hou van fruit, **bijvoorbeeld** appels. (I like fruit, for example apples.) |
@@ -47,6 +48,7 @@
 | nog wat | also, another thing | En **nog wat**, bel me later. (Also, call me later.) |
 | `uiteindelijk` | finally | **Uiteindelijk** kwam de trein aan. (Finally the train arrived.) |
 | `eindelijk` | finally | **Eindelijk**! Ik ben klaar. (Finally! I'm done.) |
+| `wat nu` | what's next ||
 
 ### Attention focus
 

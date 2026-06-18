@@ -59,6 +59,14 @@ Core function: **affirmative counter to a negation**. No exact English word — 
 
 `wel` is essentially the "anti-*niet*" — it always pulls toward "yes" against an expected "no".
 
+## nou
+
+Word of the same class: **"well / come on / oh"**.
+
+- ***Nou**?* — Well? / So?
+- *Nou ja...* — Well, anyway...
+- *Schiet **nou** op!* — Come on, hurry up!
+
 ## maar
 
 **A.** Conjunction "but"
@@ -135,17 +143,7 @@ Particle softening a command, adding a **"-/once/sometime"** nuance.
 | Kom **eens**. | Come here (do). | emphasizes: softened request |
 | Kom **eens `even`**. | Come over for just a sec. | both at once |
 
-## nou
-
-Word of the same class: **"well / come on / oh"**.
-
-- ***Nou**?* — Well? / So?
-- *Nou ja...* — Well, anyway...
-- *Schiet **nou** op!* — Come on, hurry up!
-
 ## net
-
-A note first: `net` sits slightly **apart** from the previous nine. Those were mood particles (tone, softening). `net` carries **real meaning** — you don't "feel" it, you translate it.
 
 **A. `net` = "just / just now" (time)** — the recent past, seconds or minutes ago.
 
@@ -206,41 +204,3 @@ The hallmark of fluent, natural speech is **stacking** these particles.
 - *Kom maar eens `even` kijken, hoor.* — Do come take a look sometime, go on. (four particles!)
 - *Dat is dus `toch` wel zo.* — So it really is the case after all. (`dus` + `toch` + `wel`)
 - *Zeg het nou maar gewoon.* — Oh just say it already. (`nou` + `maar` + `gewoon`)
-
-## Softener and Polite words and phrases
-
-| Word | Effect | Example |
-|------|--------|---------|
-| alstublieft / alsjeblieft | please | Mag ik een glas water, *alstublieft?* |
-| Dank u wel! Bedankt! | Thank you! Thanks! ||
-| Goed, dank je | Good, thank you ||
-| Graag gedaan | You're welcome ||
-| excuseer | excuse me | Excuseer, kunt u dat herhalen? (Excuse me, can you repeat that?) |
-| pardon | pardon | Pardon, waar is het station? (Pardon, where is the station?) |
-| Sorry, wat jammer! | Sorry, what a pity ||
-| Dat maakt niet uit | It doesn't matter ||
-| toevallig | by any chance | Heb je *toevallig* een paraplu? |
-| Geen probleem! Geen zorgen! | No problem! Don't worry! ||
-| niet erg | don't mention it / it's nothing ||
-| Het is oké | It's okay ||
-
-The embedded clause goes verb-final.
-
-| Wrapper | Example |
-|---------|---------|
-| Mag ik vragen … | **Mag ik vragen** waar je vandaan komt? |
-| Zou je me kunnen vertellen … | **Zou je me kunnen vertellen** hoeveel dat kost? |
-| Weet je toevallig … | **Weet je toevallig** hoe laat de bus komt? |
-| Ik vroeg me af … | **Ik vroeg me af** of er nog plekken zijn.*|
-| Heb je zin in...? | **Heb je zin in** een kopje koffie? (Do you feel like a cup of coffee?) |
-
-Soften the force of a statement.
-
-| Dutch | English | Example |
-|-------|---------|---------|
-| een beetje | a little | *Het is een beetje moeilijk.* |
-| nogal | quite / rather | *Het is nogal duur.* |
-| best | quite / pretty | *Het is best goed.* |
-| tamelijk | fairly | *Dat is tamelijk interessant.* |
-| redelijk | reasonably | *Dat is redelijk duur.* |
-| vrij | fairly / rather | *Dat is vrij goed.* |

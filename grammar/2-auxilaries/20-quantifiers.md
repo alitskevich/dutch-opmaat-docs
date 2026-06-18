@@ -26,6 +26,8 @@
 | **redelijk** | fairly | Het was **redelijk** druk. (It was fairly busy.) |
 | **zo** | so | Deze tas is **zo** zwaar. (This bag is so heavy.) |
 
+> `een beetje`, `best`, `nogal` are often used as softeners.
+
 ## Approximation
 
 | Dutch | English | Example |
@@ -56,9 +58,9 @@
 | **elke** <"keer"\|"daag">| every <...> | Ik drink **elke dag** thee. (I drink tea every day.) |
 | **vaak / dikwijls** | often | We gaan **vaak** naar de markt. (We often go to the market.) |
 | **meestal** | usually | **Meestal** fiets ik naar het werk. (I usually cycle to work.) |
-| **nogmaals** | one more time | **Nogmaals** dank en groet, |
 | **soms** | sometimes | **Soms** ga ik met de trein. (Sometimes I take the train.) |
 | **af en toe** | now and then | **Af en toe** eet ik een ijsje. (Now and then I eat an ice cream.) |
+| **nogmaals** / **nog eens** | one more time | **Nogmaals** dank en groet, |
 | **zelden** | rarely | Ik ben **zelden** ziek. (I am rarely ill.) |
 | **bijna nooit** | almost never | Hij belt **bijna nooit** op. (He almost never calls.) |
 | **nooit** | never | Ik drink **nooit** alcohol. (I never drink alcohol.) |

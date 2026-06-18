@@ -14,6 +14,44 @@
 | tot zo | see you soon | Ik ben zo klaar, **tot zo**! (I'm almost done, see you soon!) |
 | zie je | see you | **Zie je** morgen op school. (See you tomorrow at school.) |
 
+## Softener and Polite words and phrases
+
+| Word | Effect | Example |
+|------|--------|---------|
+| alstublieft / alsjeblieft | please | Mag ik een glas water, *alstublieft?* |
+| Dank u wel! Bedankt! | Thank you! Thanks! ||
+| Goed, dank je | Good, thank you ||
+| Graag gedaan | You're welcome ||
+| excuseer | excuse me | Excuseer, kunt u dat herhalen? (Excuse me, can you repeat that?) |
+| pardon | pardon | Pardon, waar is het station? (Pardon, where is the station?) |
+| Sorry, wat jammer! | Sorry, what a pity ||
+| Dat maakt niet uit | It doesn't matter ||
+| toevallig | by any chance | Heb je *toevallig* een paraplu? |
+| Geen probleem! Geen zorgen! | No problem! Don't worry! ||
+| niet erg | don't mention it / it's nothing ||
+| Het is oké | It's okay ||
+
+The embedded clause goes verb-final.
+
+| Wrapper | Example |
+|---------|---------|
+| Mag ik vragen … | **Mag ik vragen** waar je vandaan komt? |
+| Zou je me kunnen vertellen … | **Zou je me kunnen vertellen** hoeveel dat kost? |
+| Weet je toevallig … | **Weet je toevallig** hoe laat de bus komt? |
+| Ik vroeg me af … | **Ik vroeg me af** of er nog plekken zijn.*|
+| Heb je zin in...? | **Heb je zin in** een kopje koffie? (Do you feel like a cup of coffee?) |
+
+Soften the force of a statement.
+
+| Dutch | English | Example |
+|-------|---------|---------|
+| een beetje | a little | *Het is een beetje moeilijk.* |
+| nogal | quite / rather | *Het is nogal duur.* |
+| best | quite / pretty | *Het is best goed.* |
+| tamelijk | fairly | *Dat is tamelijk interessant.* |
+| redelijk | reasonably | *Dat is redelijk duur.* |
+| vrij | fairly / rather | *Dat is vrij goed.* |
+
 ## Everyday Expressions
 
 | text | text_en |
@@ -23,8 +61,6 @@
 | nee bedankt | no thank you |
 | doe maar | just do it / go ahead |
 | maakt niet uit | doesn't matter |
-| natuurlijk niet | of course not |
-| wat nu | what's next |
 | en wat dan | so what |
 | nou en | so what / big deal |
 | Kun je me helpen? | Can you help me? |
