@@ -6,19 +6,22 @@ A prepositional phrase (PP) is *preposition + noun phrase*: *in het huis*, *op t
 2. **Attributive** — modify a noun: *de man **met de hoed***.
 3. **Argument of a verb** — fixed verb + preposition pairs: *denken **aan***, *wachten **op***.
 
-This page maps the common prepositions and how PPs sit in the sentence. For spatial/temporal meaning specifically, see also [spacewise](/#/grammar?doc=1-auxiliaries/03-spacewise.md) and [timewise](/#/grammar?doc=1-auxiliaries/02-timewise.md).
+## Common Prepositions
 
-## Spatial map of the core prepositions
-
-Five prepositions cover most everyday Dutch.
-
-| Preposition | Core meaning | Example |
-|-------------|--------------|---------|
-| **in** | inside a bounded space | *in het huis, in Amsterdam, in de tas* |
+| Dutch | English | Example |
+|-------|---------|---------|
+| `in` | inside a bounded space | in het huis, in Amsterdam, in de tas |
 | **op** | on a flat surface, or "at" certain places | *op tafel, op het werk, op straat, op school* |
 | **aan** | attached to / hanging from / next to a linear edge | *aan de muur, aan de telefoon, aan zee* |
 | **bij** | near / at someone's place | *bij het station, bij oma, bij de bakker* |
 | **uit** | out of (origin or motion) | *uit de tas, uit Amsterdam, uit het raam* |
+| `met` | with | Ik schrijf **met** een pen. |
+| `als` | as | Hij werkt **als** docent. |
+| `voor` | for | Dit is **voor** jou. |
+| `zonder` | without | Koffie **zonder** suiker. |
+| `per` | by (means) | Ik kom **per** trein. |
+| `over` | about / over | Een boek **over** geschiedenis. |
+| `tegen` | against / to (someone) | Hij praat **tegen** zijn baas. |
 
 > *In* vs. *op* is one of the trickiest pairs: cities and countries take *in* (*in Nederland*), but workplaces, schools, and streets take *op* (*op school, op het werk, op de Dam*). Memorize the fixed cases.
 
@@ -73,31 +76,6 @@ Many Dutch verbs require a specific preposition that English doesn't share. Thes
 | **klaar zijn met** | to be done with |
 
 > Full list with examples and word-order details in [verbs](/#/grammar?doc=2-parts-of-speech/03-verbs.md).
-
-## PPs in the middle field
-
-A PP sits in slot 4 of the main clause (the middle field) under the **Time → Manner → Place** order:
-
-- *Ik ga **morgen** **met de trein** **naar Amsterdam**.*
-
-Promote a PP to slot 1 to emphasise it (V2 inversion follows):
-
-- ***Met de trein** ga ik morgen naar Amsterdam.*
-
-See [word order](/#/grammar?doc=4-modes/00-indicative.md) for the full slot model.
-
-## Replacing PPs with er-words
-
-When a PP refers to a **thing** (not a person), Dutch replaces it with an er-word:
-
-- *Ik denk aan **het plan**.* → *Ik denk **eraan**.* — I'm thinking about it.
-- *Hij wacht op **de bus**.* → *Hij wacht **erop**.* — He's waiting for it.
-
-For people, keep the preposition + pronoun:
-
-- *Ik denk aan **hem**.* — I'm thinking about him. (NOT ~~eraan~~ for a person.)
-
-Full coverage including splitting in [er-words](/#/grammar?doc=1-auxiliaries/05-er-word.md).
 
 ## Common mistakes
 

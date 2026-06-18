@@ -6,13 +6,6 @@ On their own they carry almost no weight — their job is to **set the tone**: s
 
 > Learn these not from a dictionary but as ready-made stacked templates. Individually they're nearly weightless; together they carry the entire emotional register of spoken Dutch.
 
-## grag
-
-| Dutch | Function | Example |
-|-------|----------|---------|
-| Ik wil graag dit | I would like this ||
-| Ik doe graag … | I like doing … | Ik lees **graag** in de tuin. (I like reading in the garden.) |
-
 ## toch
 
 Modal particle. Core meaning: **"still / anyway / after all"** — contrast or gentle insistence.

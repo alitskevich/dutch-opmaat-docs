@@ -1,6 +1,8 @@
 # Passive Voice  *(B2)*
 
-The passive voice (*lijdende vorm*) shifts the focus from **who does** the action to **what undergoes** it. Dutch builds the passive with two different auxiliaries depending on whether you mean the **action itself** or its **finished result**:
+The passive voice (*lijdende vorm*) shifts the focus from **who does** the action to **what undergoes** it.
+
+Dutch builds the passive with two different auxiliaries depending on whether you mean the **action itself** or its **finished result**:
 
 - **worden** — the action is happening / happened (process focus)
 - **zijn** — the action is already completed (state focus)
@@ -14,7 +16,7 @@ This split is the single most important thing to internalise. English collapses 
 
 > **Rule of thumb:** if you can replace the English verb with "is being / was being," use **worden**. If you can replace it with "has been / had been," use **zijn**.
 
-## 3. Present passive — *worden* + past participle
+## Present passive — *worden* + past participle
 
 Structure: **subject** + *worden* (V2) + … + **past participle** (end of clause).
 
@@ -26,7 +28,7 @@ Structure: **subject** + *worden* (V2) + … + **past participle** (end of claus
 
 The agent — the original subject of the active sentence — is introduced with **door** ("by") and is optional. Drop it whenever the doer is unimportant or unknown.
 
-## 4. Past passive — *werd / werden* and *is/zijn … (geworden)*
+## Past passive — *werd / werden* and *is/zijn … (geworden)*
 
 ### Imperfectum passive — ongoing past action
 
@@ -47,7 +49,7 @@ The agent — the original subject of the active sentence — is introduced with
 > - *werd gebouwd* — talks about the **building process** (e.g. *in 1920*).
 > - *is gebouwd* — talks about the **current finished state** (it stands built today).
 
-## 5. Future passive — *zullen* + *worden*
+## Future passive — *zullen* + *worden*
 
 Structure: **zullen** (V2) + … + past participle + **worden** (end).
 
@@ -56,7 +58,7 @@ Structure: **zullen** (V2) + … + past participle + **worden** (end).
 
 The infinitive *worden* always sits at the very end of the clause, after the participle.
 
-## 6. Modal verbs in the passive
+## Modal verbs in the passive
 
 Same end-of-clause pattern: **modal** (V2) + … + **past participle** + **worden**.
 
@@ -66,7 +68,7 @@ Same end-of-clause pattern: **modal** (V2) + … + **past participle** + **worde
 | *Je **kunt** dit boek **lezen**.* | *Dit boek **kan gelezen worden**.* |
 | *Je **mag** hier **roken**.* | *Hier **mag gerookt worden**.* |
 
-## 7. The "*er*"-passive — no real subject
+## The "*er*"-passive — no real subject
 
 When the active sentence has no clear object (intransitive verbs, generic actions), Dutch fills the subject slot with **er**. The verb stays singular.
 

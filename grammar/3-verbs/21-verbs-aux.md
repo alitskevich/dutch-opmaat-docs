@@ -2,7 +2,7 @@
 
 Auxiliary verbs work with main verbs to form tenses, moods, and voices.
 
-### Zijn (To Be)
+## Zijn (To Be)
 
 **Conjugation:**
 
@@ -24,7 +24,7 @@ Past Pl:  wij/jullie/zij **waren** ...
 - Waar **ben** je? (Where are you?)
 - Het **is** koud. (It is cold.)
 
-### Hebben (To Have)
+## Hebben (To Have)
 
 **Conjugation:**
 
@@ -47,7 +47,7 @@ Past Pl:  wij/jullie/zij **waren** ...
 - Ik **heb** honger. (I am hungry.)
 - We **hebben** gelijk. (We are right.)
 
-### Worden (To Become/To Be)
+## Worden (To Become/To Be)
 
 *Worden* is irregular and you'll need it in every tense.
 
@@ -59,7 +59,7 @@ Past Pl:  wij/jullie/zij **waren** ...
 | **Imperfectum** | werd | werd | werden |
 | **Perfectum** | ben geworden | is geworden | zijn geworden |
 
-Note: in the **passive perfectum**, the participle *geworden* is almost always dropped (see §4).
+Note: in the **passive perfectum**, the participle *geworden* is almost always dropped.
 
 **Uses:**
 
@@ -73,7 +73,7 @@ Note: in the **passive perfectum**, the participle *geworden* is almost always d
 - Dat **wordt** duur. (That will become expensive.)
 - Zij **werd** gearresteerd. (She was arrested.)
 
-### Modal verbs
+## Modal verbs
 
 Modal verbs (modale werkwoorden) are essential building blocks in Dutch grammar.
 Dutch has six primary modal verbs, each with unique conjugation patterns and usage nuances.
@@ -98,4 +98,6 @@ Dutch has six primary modal verbs, each with unique conjugation patterns and usa
 | **willen** | wil | wilt | wil | willen | wilde / wou | wilden | gewild |
 | **hoeven** | hoef | hoeft | hoeft | hoeven | hoefde | hoefden | gehoefd |
 
-*Zullen* has no past participle in modern use — perfect-tense modality is expressed with *zou hebben* + infinitive instead. For *willen*, the past *wou/wouden* is colloquial; *wilde/wilden* is standard.
+*Zullen* has no past participle in modern use — perfect-tense modality is expressed with *zou hebben* + infinitive instead.
+
+For *willen*, the past *wou/wouden* is colloquial; *wilde/wilden* is standard.

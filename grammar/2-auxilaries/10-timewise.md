@@ -1,5 +1,15 @@
 # Timewise  *(A1)*
 
+## Prepositions of Time
+
+| Dutch | English | Example |
+|-------|---------|---------|
+| **om** | at (clock time) | De film begint **om** acht uur. |
+| **op** | on (day/date) | **Op** maandag werk ik thuis. |
+| **in** | in (months, years, seasons) | **In** januari sneeuwt het. |
+| **voor** | before | **Voor** het eten was ik moe. |
+| **na** | after | **Na** het werk ga ik sporten. |
+
 ## Time Markers
 
 | Dutch | English | Example |
@@ -35,16 +45,6 @@
 | **soms** | sometimes | **Soms** regent het. (Sometimes it rains.) |
 | **zelden** | rarely | Hij komt **zelden** op tijd. (He's rarely on time.) |
 | **nooit** | never | Ik ben **nooit** in Parijs geweest. (I've never been to Paris.) |
-
-## Prepositions of Time
-
-| Dutch | English | Example |
-|-------|---------|---------|
-| **om** | at (clock time) | De film begint **om** acht uur. |
-| **op** | on (day/date) | **Op** maandag werk ik thuis. |
-| **in** | in (months, years, seasons) | **In** januari sneeuwt het. |
-| **voor** | before | **Voor** het eten was ik moe. |
-| **na** | after | **Na** het werk ga ik sporten. |
 
 ## Duration
 
