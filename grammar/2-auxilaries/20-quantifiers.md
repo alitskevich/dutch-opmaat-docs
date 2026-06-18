@@ -19,6 +19,7 @@
 | **bijna** | almost | Ik ben **bijna** klaar. (I'm almost done.) |
 | **zeer** | very (formal) | Wij zijn **zeer** tevreden. (We are very satisfied.) |
 | **genoeg** | enough | We hebben **genoeg** brood voor iedereen. (We have enough bread for everyone.) |
+| **enige** | only | Hij is de **enige** die het weet. (He is the only one who knows.) |
 | **best** | quite / pretty | De film was **best** goed. (The film was quite good.) |
 | **nogal** | rather | Het is **nogal** druk in de stad. (It's rather busy in town.) |
 | **een beetje** | a little | Ik ben **een beetje** moe. (I'm a little tired.) |

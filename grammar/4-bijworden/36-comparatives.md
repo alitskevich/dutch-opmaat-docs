@@ -2,6 +2,8 @@
 
 Add `-er` for Comparatives, `het + -st` - for Superlatives.
 
+> Adjectives ending in `-r` add `-d-` before -er: *duur → duurder*, *zwaar → zwaarder*.
+
 ## Comparative adjectives
 
 | Positive | Comparative | Superlative | Example |
@@ -26,6 +28,8 @@ Add `-er` for Comparatives, `het + -st` - for Superlatives.
 | zwaar | zwaarder | zwaarst | *Deze tas is `zwaarder`, maar die koffer is het `zwaarst`.* |
 | leuk | leuker | leukst | *Dit feest is `leuker`, maar dat was het `leukst`.* |
 | lekker | lekkerder | lekkerst | *Deze soep is `lekkerder`, maar de taart is het `lekkerst`.* |
+
+> Use `dan` (not *als*!) for "than": *Hij is `groter dan` ik.*
 
 ## Comparison of adverbs
 
@@ -52,10 +56,23 @@ Add `-er` for Comparatives, `het + -st` - for Superlatives.
 | beleefd | beleefder | het beleefdst | *Hij antwoordt `beleefder`, maar zij antwoordt het `beleefdst`.* |
 | slecht | slechter | het slechtst | *Vandaag speelt hij `slechter`, maar gisteren speelde hij het `slechtst`.* |
 
-## Notes
+## Express equality/sameness
 
-- Irregular: **goed → beter → best**, **veel → meer → meest**, **weinig → minder → minst**, **graag → liever → liefst** (these don't follow the `-er`/`-st` rule).
+> Use `als` (not `dan`!) to say two things are equal.
 
-- Use `dan` (not *als*!) for "than": *Hij is `groter dan` ik.*
+| Pattern | Meaning | Example |
+|---------|---------|---------|
+| `even … als` | as … as | *Hij is `even` groot `als` ik.* |
+| `net zo … als` | just as … as | *Zij loopt `net zo` snel `als` hij.* |
+| `hetzelfde/dezelfde als` | the same as | *Dit boek is `hetzelfde als` dat.* |
+| `zoals`  | like / just as | *Doe het `zoals` ik.* |
+| `zomaar` | evenly |  |
 
-- Adjectives ending in `-r` add `-d-` before -er: *duur → duurder*, *zwaar → zwaarder*.
+## Irregular
+
+These don't follow the `-er`/`-st` rule:
+
+- **goed → beter → best**
+- **veel → meer → meest**
+- **weinig → minder → minst**
+- **graag → liever → liefst**

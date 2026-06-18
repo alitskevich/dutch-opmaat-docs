@@ -42,7 +42,7 @@ Compare:
 
 > **Mnemonic:** *een + het-word + singular* → bare adjective. Everything else → **-e**.
 
-## 3. Spelling Adjustments When Adding -e
+## Spelling Adjustments When Adding -e
 
 Dutch spelling rules apply when you add a vowel:
 
@@ -55,7 +55,7 @@ Dutch spelling rules apply when you add a vowel:
 | **vrij** | **vrije** | regular |
 | **blauw** | **blauwe** | -w stays |
 
-## 4. Indefinite-Pronoun Edge Cases
+## Indefinite-Pronoun Edge Cases
 
 Some words don't take **-e** even before de-words:
 
@@ -72,7 +72,7 @@ Use *de/het* + adjective + **-ste** in attributive position:
 - *de **kleinste** kamer* — the smallest room
 - *het **grootste** huis* — the biggest house
 
-## 6. Adjectives Used as Nouns
+## Adjectives as Nouns
 
 Adding **-e** turns an adjective into a noun referring to a person:
 
