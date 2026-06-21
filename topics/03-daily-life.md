@@ -98,6 +98,32 @@ Language for everyday life in the Netherlands.
 | Rustig | Quiet | Het is hier 's avonds heel **rustig**. (It's very quiet here in the evening.) |
 | Gezellig | Cozy / sociable | Wat een **gezellig** café! (What a cozy café!) |
 
+### Koop woning ads
+
+Words and phrases you meet when reading a **koopwoning-advertentie** (home-for-sale ad) on a site like Funda or Buurtje.
+
+| Nederlands | English | Example |
+|------------|---------|---------|
+| Te koop | For sale | Dit appartement staat **te koop**. (This apartment is for sale.) |
+| De vraagprijs | The asking price | De **vraagprijs** is € 450.000 k.k. (The asking price is €450,000.) |
+| k.k. (kosten koper) | costs for the buyer | De prijs is € 450.000 **k.k.** (The price is €450,000, buyer pays the costs.) |
+| De woonoppervlakte | The living area | De **woonoppervlakte** is 56 m². (The living area is 56 m².) |
+| Het bouwjaar | The build year | Het **bouwjaar** van het pand is 1906. (The building dates from 1906.) |
+| Het energielabel | The energy label | Deze woning heeft **energielabel** E. (This home has energy label E.) |
+| De WOZ-waarde | The assessed value | De **WOZ-waarde** bepaalt je gemeentebelasting. (The assessed value sets your municipal tax.) |
+| Het balkon | The balcony | Het appartement heeft een zonnig **balkon**. (The apartment has a sunny balcony.) |
+| De bezichtiging | The viewing | Wil je een **bezichtiging** inplannen? (Do you want to schedule a viewing?) |
+| Een bod uitbrengen | To make an offer | We willen een **bod uitbrengen** op het huis. (We want to make an offer on the house.) |
+| Onder bod | Under offer | De woning staat **onder bod**. (The property is under offer.) |
+| Verkocht | Sold | Helaas, dit huis is al **verkocht**. (Unfortunately, this house is already sold.) |
+
+#### Voorbeeldadvertentie — Sample ad
+
+> **Karakteristiek appartement te koop — Vuurbaakstraat 8, Den Haag**
+> In het gezellige Oud Scheveningen bieden wij dit charmante **appartement** aan met veel **karakter**.
+> **Vraagprijs:** € 450.000 k.k. · **Woonoppervlakte:** 56 m² · **Bouwjaar:** 1906 · **Energielabel:** E
+> Gelegen in een rustige **volksbuurt** op loopafstand van het strand. Interesse? Neem contact op met de **makelaar** voor een **bezichtiging**.
+
 ## Transport & Travel
 
 | Nederlands | English | Example |

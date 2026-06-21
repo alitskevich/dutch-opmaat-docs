@@ -6,7 +6,7 @@ On their own they carry almost no weight — their job is to **set the tone**: s
 
 > Learn these not from a dictionary but as ready-made stacked templates. Individually they're nearly weightless; together they carry the entire emotional register of spoken Dutch.
 
-## toch
+## toch = `vse gh taki`
 
 Modal particle. Core meaning: **"still / anyway / after all"** — contrast or gentle insistence.
 
@@ -18,7 +18,7 @@ Modal particle. Core meaning: **"still / anyway / after all"** — contrast or g
 
 Roughly: *still / after all / right / anyway*, depending on context.
 
-## even
+## even = `navprost`
 
 Two distinct senses — don't mix them up.
 
@@ -35,7 +35,7 @@ Two distinct senses — don't mix them up.
 
 > `effe` is just a casual spoken form of `even`.
 
-## nog
+## nog = `esqe`
 
 Adverb: **"still / yet / more"**.
 
@@ -46,7 +46,7 @@ Adverb: **"still / yet / more"**.
 | `nog niet` | Ik ben nog niet klaar. | I'm not ready yet. |
 | `nog steeds` (emphatic) | Hij slaapt nog steeds. | He's still sleeping. |
 
-## wel
+## wel = 'ryxtyk`
 
 Core function: **affirmative counter to a negation**. No exact English word — closest is stressed "do/does" or "actually".
 
@@ -59,7 +59,7 @@ Core function: **affirmative counter to a negation**. No exact English word — 
 
 `wel` is essentially the "anti-*niet*" — it always pulls toward "yes" against an expected "no".
 
-## nou
+## nou = `nu`
 
 Word of the same class: **"well / come on / oh"**.
 
@@ -67,7 +67,7 @@ Word of the same class: **"well / come on / oh"**.
 - *Nou ja...* — Well, anyway...
 - *Schiet **nou** op!* — Come on, hurry up!
 
-## maar
+## maar = `dyk`
 
 **A.** Conjunction "but"
 
@@ -82,7 +82,7 @@ Word of the same class: **"well / come on / oh"**.
 
 Flavor: "don't worry about it, just do it".
 
-## hoor
+## hoor = `aga`
 
 Purely colloquial particle at the **end** of a sentence. Untranslatable as a single word — it's warmth packed into a syllable.
 
@@ -95,7 +95,7 @@ Carries no meaning but sets the **tone**: friendliness, reassurance, warmth. Rem
 | | Ja, **hoor**. | Yeah, sure. |
 | Encourage | Je doet het goed, **hoor**. | You're doing well, you really are. |
 
-## dus
+## dus = `tady`
 
 The most "logical" of the set — adverb/conjunction **"so / therefore / then"**. Expresses conclusion or consequence.
 
@@ -104,7 +104,7 @@ The most "logical" of the set — adverb/conjunction **"so / therefore / then"**
 - ***Dus** je komt niet?* — So you're not coming?
 - Sentence-final filler (mild irritation): *Ik heb geen tijd, **dus**.* — I've got no time, so there.
 
-## gewoon
+## gewoon = `prosto`
 
 **A.** Adjective "ordinary / plain"
 
@@ -120,7 +120,7 @@ The most "logical" of the set — adverb/conjunction **"so / therefore / then"**
 
 Flavor: "don't overcomplicate, it's just like this".
 
-## eens
+## eens = `troxi`
 
 Particle softening a command, adding a **"-/once/sometime"** nuance.
 

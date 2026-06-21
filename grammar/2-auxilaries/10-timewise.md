@@ -14,6 +14,7 @@
 
 | Dutch | English | Example |
 |-------|---------|---------|
+| **nu** (now)|||
 | **als** | when (conditional/future) | **Als** ik tijd heb, kom ik. (When I have time, I'll come.) |
 | **wanneer** | when (direct question) | **Wanneer** kom je? (When are you coming?) |
 | **terwijl** | while | Ik las **terwijl** hij sliep. (I read while he slept.) |
@@ -70,10 +71,15 @@ How to talk about *when* things happen — clock time, days, parts of the day, w
 
 ### The Three Anchor Words
 
-| Past | Present | Future |
-|------|---------|--------|
-| **gisteren** (yesterday) | **vandaag** (today) | **morgen** (tomorrow) |
-| **eergisteren** (day before yesterday) | **nu** (now) | **overmorgen** (day after tomorrow) |
+| Dutch | English |
+|------|---------|
+| **drie dagen geleden**| (3 days before)|
+| **eergisteren** |(day before yesterday)|
+| **gisteren**|(yesterday)|
+| **vandaag** |(today)|
+| **morgen** |(tomorrow) |
+| **overmorgen**| (day after tomorrow) |
+| **over drie dagen** |( 3 days after) |
 
 > **morgen** has two meanings: as a standalone word it usually means **tomorrow**; combined into **vanmorgen** / **morgenochtend** it refers to morning. Context decides.
 
