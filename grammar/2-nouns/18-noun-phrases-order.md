@@ -101,6 +101,21 @@ The phrase doesn't change shape between subject and object position — Dutch no
 
 - *De **grote hond** bijt de **kleine hond**.* — The big dog bites the little dog. (Both NPs identical in form.)
 
+## Postpositions and circumpositions
+
+Some Dutch prepositions can sit **after** the noun, especially with motion:
+
+- *de berg **op*** — up the mountain
+- *de trap **af*** — down the stairs
+- *het bos **in*** — into the woods
+
+A few words form **circumpositions** — one before, one after:
+
+- *de hele dag **door*** — all day long
+- *de stad **uit*** — out of the city
+
+> These postposition uses are emphatic and concrete. The plain prepositional form (*op de berg*) describes location; the postposition form (*de berg op*) describes motion toward a goal.
+
 ## Common mistakes
 
 - ❌ *een **rode** auto* + ❌ *een **rood** auto* mixed up → ✅ check de/het: *de* + adj-e (*de rode auto*); *een* + de-noun + adj-e (*een rode auto*); *een* + het-noun + bare adj (*een rood huis*).

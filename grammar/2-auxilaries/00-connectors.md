@@ -11,11 +11,8 @@
 | `bovendien` | moreover | Het is duur, **bovendien** is het ver. (It's expensive, moreover it's far.) |
 | `niet alleen...maar ook` | not only...but also | **Niet alleen** ik, **maar ook** mijn broer. (Not only me, but also my brother.) |
 | `daarnaast` | besides | **Daarnaast** is er nog een probleem. (Besides, there's another problem.) |
-| `toch` | still anyway  | Het regent, maar ik ga **toch**. (It's raining, but I'm still going.) |
 | `echter` | however | Hij kwam, **echter** te laat. (He came, however too late.) |
 | `hoewel` | although | **Hoewel** ik moe was, ging ik. (Although I was tired, I went.) |
-| `bijvoorbeeld` | for example | Ik hou van fruit, **bijvoorbeeld** appels. (I like fruit, for example apples.) |
-| `zoals` | such as / like | Talen **zoals** Nederlands en Duits. (Languages such as Dutch and German.) |
 
 ## Causual conjunctions
 
@@ -43,12 +40,18 @@
 | `dan / daarna` | then / afterwards | We eten, **daarna** kijken we een film. (We eat, then we watch a film.) |
 | `toen` | then (past tense) | **Toen** was ik nog jong. (Then I was still young.) |
 | `later` | later | Ik bel je **later** terug. (I'll call you back later.) |
+| `wat nu` | what's next ||
 | `ondertussen` | meanwhile | Hij kookte; **ondertussen** dekte ik de tafel. (He cooked; meanwhile I set the table.) |
 | `trouwens` | by the way | **Trouwens**, hoe gaat het met je? (By the way, how are you?) |
 | nog wat | also, another thing | En **nog wat**, bel me later. (Also, call me later.) |
 | `uiteindelijk` | finally | **Uiteindelijk** kwam de trein aan. (Finally the train arrived.) |
 | `eindelijk` | finally | **Eindelijk**! Ik ben klaar. (Finally! I'm done.) |
-| `wat nu` | what's next ||
+| `kortom` | in short | **Kortom**, het was een disaster. (In short, it was a disaster.) |
+| `al met al` | all in all | **Al met al** was het goed. (All in all, it was good.) |
+| `bijvoorbeeld` | for example | Ik hou van fruit, **bijvoorbeeld** appels. (I like fruit, for example apples.) |
+| `zoals` | such as / like | Talen **zoals** Nederlands en Duits. (Languages such as Dutch and German.) |
+
+> *toen* vs *dan*: both mean "then," but `toen` is only used with past-tense events; `dan` with present/future or sequencing.
 
 ### Attention focus
 
@@ -56,11 +59,7 @@
 |-------|---------|-------|
 | `kijk` | look/see | **Kijk**, zo werkt het. (Look, this is how it works.) |
 | `luister` | listen | **Luister**, ik moet je wat vertellen. (Listen, I need to tell you something.) |
-| `kortom` | in short | **Kortom**, het was een disaster. (In short, it was a disaster.) |
-| `al met al` | all in all | **Al met al** was het goed. (All in all, it was good.) |
 | `wacht even` | wait a moment | **Wacht even**, dat klopt niet. (Wait a moment, that's not right.) |
-
-> *toen* vs *dan*: both mean "then," but `toen` is only used with past-tense events; `dan` with present/future or sequencing.
 
 ### Fillers
 

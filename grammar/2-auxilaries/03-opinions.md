@@ -16,7 +16,7 @@
 |-------|----------|---------|
 | Ik vind … leuk / niet leuk(saai) | I (don't) like … | Ik vind voetbal **leuk**. (I like football.) |
 | ik vind dat | I think that | **Ik vind dat** we moeten gaan. (I think we should go.) |
-| Ik hou van … | I love / I'm fond of … | **Ik hou van** koffie. (I love coffee.) |
+| Ik hou(geniet) van … | I love / I'm fond of … | **Ik hou van** koffie. (I love coffee.) |
 | Ik denk dat … | I think that … | **Ik denk dat** het morgen regent. (I think that it will rain tomorrow.) |
 | ik denk van wel | I think so | "Komt het goed?" "**Ik denk van wel**." ("Will it be okay?" "I think so.") |
 | ik denk van niet | I don't think so | "Regent het morgen?" "**Ik denk van niet**." ("Will it rain tomorrow?" "I don't think so.") |

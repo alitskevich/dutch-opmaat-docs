@@ -3,7 +3,7 @@
     "id": "w01",
     "title": "Your Favorite Party",
     "description": "Write about your favorite celebration",
-    "difficulty": 1,
+    "difficulty": 2,
     "status": "completed",
     "modelAnswer": "Mijn favoriete feest is Koningsdag. Het is op 27 april. Ik vier het altijd met mijn familie in Amsterdam. We dragen oranje kleren en gaan naar de stad. We eten oranje tompoezen en luisteren naar muziek. In het Vondelpark is een groot feest. Het is heel gezellig en leuk.",
     "modelAnswerEn": "My favorite celebration is King's Day. It is on 27 April. I always celebrate it with my family in Amsterdam. We wear orange clothes and go into the city. We eat orange tompoezen (pastries) and listen to music. In the Vondelpark there is a big party. It is very cozy and fun."
@@ -12,7 +12,7 @@
     "id": "w02",
     "title": "Message to a Friend",
     "description": "Thank a friend for helping you",
-    "difficulty": 1,
+    "difficulty": 2,
     "status": "completed",
     "modelAnswer": "Hoi Mark, heel erg bedankt voor je hulp met verhuizen vorige week! Ik ben erg blij met mijn nieuwe huis in Utrecht. Zonder jou was het niet gelukt. Alle dozen staan nu op de juiste plek. Volgende week wil ik je graag uitnodigen voor het eten. Kun je zaterdagavond om 19:00 uur? Groetjes, Sara",
     "modelAnswerEn": "Hi Mark, thank you so much for your help with moving last week! I am very happy with my new house in Utrecht. Without you it would not have worked out. All the boxes are now in the right place. Next week I would like to invite you for dinner. Can you make it Saturday evening at 19:00? Regards, Sara"
@@ -21,7 +21,7 @@
     "id": "w03",
     "title": "About Your Weekend",
     "description": "Tell someone what you do on the weekend",
-    "difficulty": 1,
+    "difficulty": 2,
     "modelAnswer": "In het weekend ga ik graag wandelen in het park. Soms kook ik ook met mijn vrienden bij mij thuis. Op zaterdag doe ik boodschappen op de markt. 's Middags drink ik koffie met mijn buurvrouw. Op zondag slaap ik lang uit. Daarna lees ik de krant en kijk ik een film. Het weekend is mijn favoriete tijd.",
     "modelAnswerEn": "On the weekend I like to walk in the park. Sometimes I also cook with my friends at my place. On Saturday I do the groceries at the market. In the afternoon I drink coffee with my neighbor. On Sunday I sleep in late. Afterwards I read the newspaper and watch a film. The weekend is my favorite time.",
     "isVocabChallenge": true

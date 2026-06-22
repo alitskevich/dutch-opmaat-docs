@@ -4,87 +4,24 @@ The same modal verb often covers several modalities, and each modality can usual
 be expressed by more than one verb or by a non-modal phrase. The table below maps
 *meanings* to *forms*; the sections after it give examples for each.
 
-| # | Modality | Primary Verb(s) | Alternative Phrasings |
-|---|----------|-----------------|------------------------|
-| 1 | Ability | **kunnen** | in staat zijn om te, weten te, lukken (het lukt … te) |
-| 2 | Possibility | **kunnen** | misschien, wellicht, mogelijk, eventueel, het kan (zijn) dat |
-| 3 | Permission | **mogen** | toestaan, het is toegestaan om te, toestemming hebben om te, vrij zijn om te |
-| 4 | Prohibition | **mogen** + niet | verboden zijn, niet toegestaan, verbieden |
-| 5 | Obligation / Necessity | **moeten** | dienen te, horen te, behoren te, verplicht zijn om te, het is nodig |
-| 6 | Absence of necessity | **hoeven** + niet/geen | niet nodig zijn, het hoeft niet |
-| 7 | Advice / Recommendation | **moeten**, **zouden** + moeten | horen te, het beste, je kunt beter, aanraden, er goed aan doen om te |
-| 8 | Desire / Wish | **willen** | graag (willen), zin hebben in, trek hebben in, verlangen naar, wensen |
-| 9 | Intention / Plan | **gaan**, **zullen** | van plan zijn, voornemens zijn, de bedoeling hebben om te, denken te |
-| 10 | Future / Prediction | **zullen**, **gaan**, present + tijdsbepaling | morgen, straks, volgende week, op het punt staan om te |
-| 11 | Offer / Proposal | **zullen** | wil je…, laten we…, zal ik…, zullen we… |
-| 12 | Probability / Deduction | **moeten**, **zullen** + wel | vast (wel), waarschijnlijk, ongetwijfeld, wel |
-| 13 | Politeness / Conditional | **zou(den)**, **willen** | graag, alstublieft, zou je kunnen… |
-| 14 | Hearsay / Report | **zou(den)**, **moeten**, **schijnen** | naar verluidt, het schijnt dat |
+| Modality | Primary Verb(s) | Alternative Phrasings |
+|----------|-----------------|------------------------|
+| Desire / Wish | **willen** | graag (willen), zin hebben in, trek hebben in, verlangen naar, wensen |
+| Intention / Plan | **gaan**, **zullen** | van plan zijn, voornemens zijn, de bedoeling hebben om te, denken te |
+| Ability | **kunnen** | in staat zijn om te, weten te, lukken (het lukt … te) |
+| Possibility | **kunnen** | misschien, wellicht, mogelijk, eventueel, het kan (zijn) dat |
+| Probability / Deduction | **moeten**, **zullen** + wel | vast (wel), waarschijnlijk, ongetwijfeld, wel |
+| Prediction | **zullen**, **gaan**, present + tijdsbepaling | morgen, straks, volgende week, op het punt staan om te |
+| Permission | **mogen** | toestaan, het is toegestaan om te, toestemming hebben om te, vrij zijn om te |
+| Prohibition | **mogen** + niet | verboden zijn, niet toegestaan, verbieden |
+| Obligation / Necessity | **moeten** | dienen te, horen te, behoren te, verplicht zijn om te, het is nodig |
+| Absence of necessity | **hoeven** + niet/geen | niet nodig zijn, het hoeft niet |
+| Advice / Recommendation | **moeten**, **zouden** + moeten | horen te, het beste, je kunt beter, aanraden, er goed aan doen om te |
+| Offer | **zullen** | wil je…, laten we…, zal ik…, zullen we… |
+| Politeness / Conditional | **zou(den)**, **willen** | graag, alstublieft, zou je kunnen… |
+| Hearsay / Report | **zou(den)**, **moeten**, **schijnen** | naar verluidt, het schijnt dat |
 
-## 1. Ability — *kunnen*
-
-- Ik **kan** zwemmen. (I can swim.)
-- Zij **weet** hem **te** overtuigen. (She manages to convince him. — acquired skill)
-- Hij **is in staat om** dit **te** repareren. (He is capable of repairing this.)
-- Het **lukt** me niet om dit **te** openen. (I can't manage to open this. — outcome-focused)
-
-## 2. Possibility — *kunnen*
-
-- Het **kan** regenen. (It might rain.)
-- **Misschien** komt hij later. (Maybe he'll come later.)
-- Het is **mogelijk dat** ze het vergeten is. (It's possible that she forgot.)
-- **Eventueel** kom ik later. (I might come later, if need be.)
-- Het **kan zijn dat** ze het vergeten is. (It may be that she forgot.)
-
-Distinguish from ability: `Ik **kan** zwemmen` = I have the skill, but in
-`De rivier **kan** bevriezen` it means *it is possible*.
-
-## 3. Permission — *mogen*
-
-- Je **mag** gaan. (You may go.)
-- U **mag** hier parkeren. (You may park here.)
-- Het **is toegestaan om** foto's **te** maken. (Photos are permitted.)
-- Ik **heb toestemming om** hier **te** werken. (I have permission to work here.)
-
-## 4. Prohibition — *mogen* + niet
-
-- Je **mag** hier **niet** roken. (You may not smoke here.)
-- Het **is verboden** te zwemmen. (Swimming is forbidden.)
-- Roken **is niet toegestaan**. (Smoking is not permitted.)
-- De wet **verbiedt** dit. (The law forbids this. — active verb)
-
-## 5. Obligation / necessity — *moeten*
-
-- Ik **moet** werken. (I must work.)
-- We **moeten** op tijd zijn. (We have to be on time.)
-- U **dient** zich **te** legitimeren. (You are required to show ID. — formal)
-- Je **hoort** dat niet **te** doen. (You're not supposed to do that. — propriety / moral norm)
-- Men **behoort** stil **te** zijn. (One ought to be quiet. — formal, written)
-- Het **is nodig** dat je belt. (It's necessary that you call.)
-
-## 6. Absence of necessity — *hoeven* + niet/geen
-
-`Hoeven` is the negative counterpart of `moeten`. It almost always appears with
-`niet`, `geen`, or `nauwelijks`, and uses `te + infinitive`.
-
-- Je **hoeft niet te** komen. (You don't need to come.)
-- Dat **hoefde niet**. (That wasn't necessary.)
-- Je **hoeft** geen excuus **te** maken. (You needn't apologise.)
-
-Watch out: *`Ik moet niet komen`* is uncommon; the natural negative of `moeten` is `hoeven niet`.
-
-## 7. Advice / recommendation — *moeten*, *zouden moeten*
-
-`Moeten` softens to advice in the right context; `zou(den) moeten` is gentler still.
-
-- Je **moet** even rusten. (You should rest a bit.)
-- Je **zou** dat **moeten** lezen. (You should read that.)
-- Je **kunt beter** met de trein gaan. (You'd better take the train.)
-- **Het beste** ga je nu. (Best go now.)
-- Ik **raad** je **aan** te wachten. (I advise you to wait.)
-- Je **doet er goed aan** te reserveren. (You'd do well to book.)
-
-## 8. Desire / wish — *willen*
+## Desire / wish — *willen*
 
 - Ik **wil** koffie. (I want coffee.)
 - Ik **wil graag** komen. (I'd like to come. — softer)
@@ -93,7 +30,7 @@ Watch out: *`Ik moet niet komen`* is uncommon; the natural negative of `moeten` 
 - Zij **verlangt naar** rust. (She longs for rest. — strong, literary)
 - **Wilt** u suiker? (Would you like sugar?)
 
-## 9. Intention / plan — *gaan*, *zullen*
+## Intention / plan — *gaan*, *zullen*
 
 - Ik **ga** morgen **studeren**. (I'm going to study tomorrow.)
 - We **gaan** in juni **trouwen**. (We're going to marry in June.)
@@ -104,22 +41,25 @@ Watch out: *`Ik moet niet komen`* is uncommon; the natural negative of `moeten` 
 
 For when to choose `gaan` vs. `zullen` vs. plain present, see **Talking About the Future** below.
 
-## 10. Future / prediction — *zullen*, *gaan*, present + tijdsbepaling
+## Ability — *kunnen*
 
-- Het **zal** regenen. (It will rain. — prediction)
-- Hij **gaat** winnen. (He's going to win.)
-- Morgen **vertrek** ik. (I leave tomorrow. — present + time adverb)
-- De trein **staat op het punt** te vertrekken. (The train is about to leave. — imminent)
-- Ik **zal** het niet **vergeten**. (I won't forget it. — promise)
+- Ik **kan** zwemmen. (I can swim.)
+- Zij **weet** hem **te** overtuigen. (She manages to convince him. — acquired skill)
+- Hij **is in staat om** dit **te** repareren. (He is capable of repairing this.)
+- Het **lukt** me niet om dit **te** openen. (I can't manage to open this. — outcome-focused)
 
-## 11. Offer / proposal — *zullen*, *laten we*
+## Possibility — *kunnen*
 
-- **Zal** ik je helpen? (Shall I help you?)
-- **Zullen** we beginnen? (Shall we start?)
-- **Laten we** beginnen. (Let's begin.)
-- **Wil** je een kopje thee? (Would you like a cup of tea?)
+- Het **kan** regenen. (It might rain.)
+- **Misschien** komt hij later. (Maybe he'll come later.)
+- Het is **mogelijk dat** ze het vergeten is. (It's possible that she forgot.)
+- **Eventueel** kom ik later. (I might come later, if need be.)
+- Het **kan zijn dat** ze het vergeten is. (It may be that she forgot.)
 
-## 12. Probability / deduction — *moeten*, *zullen wel*
+Distinguish from ability: `Ik **kan** zwemmen` = I have the skill, but in
+`De rivier **kan** bevriezen` it means *it is possible*.
+
+## Probability / deduction — *moeten*, *zullen wel*
 
 `Moeten` for confident deduction; `zullen wel` for plausible guessing; `vast (wel)` is colloquial.
 
@@ -128,7 +68,67 @@ For when to choose `gaan` vs. `zullen` vs. plain present, see **Talking About th
 - Ze is **vast** thuis. (She's surely at home.)
 - Het regent **waarschijnlijk** morgen. (It will probably rain tomorrow.)
 
-## 13. Politeness / conditional — *zou(den)*, *willen*
+## Prediction — *zullen*, *gaan*, present + tijdsbepaling
+
+- Het **zal** regenen. (It will rain. — prediction)
+- Hij **gaat** winnen. (He's going to win.)
+- Morgen **vertrek** ik. (I leave tomorrow. — present + time adverb)
+- De trein **staat op het punt** te vertrekken. (The train is about to leave. — imminent)
+- Ik **zal** het niet **vergeten**. (I won't forget it. — promise)
+
+## Permission — *mogen*
+
+- Je **mag** gaan. (You may go.)
+- U **mag** hier parkeren. (You may park here.)
+- Het **is toegestaan om** foto's **te** maken. (Photos are permitted.)
+- Ik **heb toestemming om** hier **te** werken. (I have permission to work here.)
+
+## Prohibition — *mogen* + niet
+
+- Je **mag** hier **niet** roken. (You may not smoke here.)
+- Het **is verboden** te zwemmen. (Swimming is forbidden.)
+- Roken **is niet toegestaan**. (Smoking is not permitted.)
+- De wet **verbiedt** dit. (The law forbids this. — active verb)
+
+## Obligation / necessity — *moeten*
+
+- Ik **moet** werken. (I must work.)
+- We **moeten** op tijd zijn. (We have to be on time.)
+- U **dient** zich **te** legitimeren. (You are required to show ID. — formal)
+- Je **hoort** dat niet **te** doen. (You're not supposed to do that. — propriety / moral norm)
+- Men **behoort** stil **te** zijn. (One ought to be quiet. — formal, written)
+- Het **is nodig** dat je belt. (It's necessary that you call.)
+
+## Absence of necessity — *hoeven* + niet/geen
+
+`Hoeven` is the negative counterpart of `moeten`. It almost always appears with
+`niet`, `geen`, or `nauwelijks`, and uses `te + infinitive`.
+
+- Je **hoeft niet te** komen. (You don't need to come.)
+- Dat **hoefde niet**. (That wasn't necessary.)
+- Je **hoeft** geen excuus **te** maken. (You needn't apologise.)
+
+Watch out: *`Ik moet niet komen`* is uncommon; the natural negative of `moeten` is `hoeven niet`.
+
+## Advice / recommendation — *moeten*, *zouden moeten*
+
+`Moeten` softens to advice in the right context; `zou(den) moeten` is gentler still.
+
+- Je **moet** even rusten. (You should rest a bit.)
+- Je **zou** dat **moeten** lezen. (You should read that.)
+- Je **kunt beter** met de trein gaan. (You'd better take the train.)
+- **Het beste** ga je nu. (Best go now.)
+- Ik **raad** je **aan** te wachten. (I advise you to wait.)
+- Je **doet er goed aan** te reserveren. (You'd do well to book.)
+
+## Offer / proposal — *zullen*, *laten we*
+
+- **Zal** ik je helpen? (Shall I help you?)
+- **Zullen** we beginnen? (Shall we start?)
+- **Laten we** beginnen. (Let's begin.)
+- **Wil** je een kopje thee? (Would you like a cup of tea?)
+
+## Politeness / conditional — *zou(den)*, *willen*
 
 The past-subjunctive forms of `zullen` and `kunnen` make requests polite.
 
@@ -137,7 +137,7 @@ The past-subjunctive forms of `zullen` and `kunnen` make requests polite.
 - **Mag** ik even? (May I have a moment?)
 - **Kunt** u dat herhalen, alstublieft? (Could you repeat that, please?)
 
-## 14. Hearsay / report — *zou(den)*, *moeten*, *schijnen*
+## Hearsay / report — *zou(den)*, *moeten*, *schijnen*
 
 Dutch uses modal verbs to mark information taken from someone else (evidentiality),
 not from the speaker's own reasoning. This differs from probability (§12): here the

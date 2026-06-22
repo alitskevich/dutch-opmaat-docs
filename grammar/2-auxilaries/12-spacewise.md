@@ -40,6 +40,19 @@
 | **tegenover** | opposite | De bakker is **tegenover** de school. |
 | **rond / om** | around | Mensen zaten **rond** het vuur. |
 
+## Motion vs. location
+
+The same preposition usually serves both, with the verb signalling motion:
+
+- *Ik ben **in het huis**.* — I am in the house. (location)
+- *Ik ga **in het huis**.* — I go into the house. (motion — less common; *naar* preferred)
+
+For direction "to", Dutch prefers **naar** with most goals:
+
+- *Ik ga **naar Amsterdam** / **naar school** / **naar huis**.*
+
+> *Naar huis* (going home) is a fixed phrase without an article. Same for *naar bed*, *naar school*, *naar werk*.
+
 ## Prepositions of direction
 
 | Dutch | English | Example |
