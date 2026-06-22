@@ -252,22 +252,6 @@
     "isVocabChallenge": true
   },
   {
-    "id": "w31",
-    "title": "Library Registration",
-    "description": "fill in a library membership form",
-    "difficulty": 3,
-    "modelAnswer": "Voor- en achternaam: Maria de Jong. Adres: Hoofdstraat 25. Postcode: 3456 AB. Woonplaats: Utrecht. Telefoonnummer: 06-12345678. E-mail: maria@mail.nl. Geboortedatum: 10-08-1985. Ik lees graag kookboeken, kinderboeken en romans. Ik wil ongeveer 1x per week komen om boeken te lenen voor mijzelf en mijn kinderen. Ik wil lid worden omdat ik graag lees en nieuwe boeken wil ontdekken. Ook wil ik gebruikmaken van de leeszaal om rustig te studeren.",
-    "modelAnswerEn": "First and last name: Maria de Jong. Address: Hoofdstraat 25. Postal code: 3456 AB. City: Utrecht. Phone number: 06-12345678. Email: maria@mail.nl. Date of birth: 10-08-1985. I like to read cookbooks, children's books and novels. I want to come about once a week to borrow books for myself and my children. I want to become a member because I enjoy reading and want to discover new books. I also want to make use of the reading room to study quietly."
-  },
-  {
-    "id": "w32",
-    "title": "Help Moving",
-    "description": "ask a friend to help you move to a new house",
-    "difficulty": 4,
-    "modelAnswer": "Hoi Karim, ik ga volgende maand verhuizen naar een nieuw huis in Den Haag. De verhuizing is op zaterdag 15 maart vanaf 9:00 uur. Wil je mij helpen? Ik heb hulp nodig met het dragen van dozen en meubels naar de verhuiswagen. Ook moet er een grote kast uit elkaar gehaald worden. We zijn rond 17:00 uur klaar en daarna trakteer ik op pizza en bier. Groetjes, Sara!",
-    "modelAnswerEn": "Hi Karim, I am moving to a new house in The Hague next month. The move is on Saturday 15 March from 9:00. Would you help me? I need help carrying boxes and furniture to the moving van. A large cupboard also needs to be taken apart. We will be done around 17:00 and afterwards I will treat you to pizza and beer. Regards, Sara!"
-  },
-  {
     "id": "w33",
     "title": "Calling in Sick",
     "description": "email your boss that you are sick and cannot work",
@@ -283,23 +267,6 @@
     "difficulty": 2,
     "modelAnswer": "Ik woon sinds vorig jaar in het centrum van Amsterdam. Ik vind mijn buurt heel leuk omdat er veel winkels, cafés en restaurants zijn. Er is ook een mooi park om de hoek waar ik graag wandel met mijn hond. Mijn buren zijn vriendelijk en behulpzaam. Op zaterdag is er altijd een markt op het plein. Ik zou willen dat er minder lawaai is van het verkeer in de avond. Verder ben ik heel tevreden.",
     "modelAnswerEn": "I have been living in the center of Amsterdam since last year. I really like my neighborhood because there are many shops, cafés and restaurants. There is also a nice park around the corner where I like to walk with my dog. My neighbors are friendly and helpful. On Saturday there is always a market on the square. I wish there were less noise from the traffic in the evening. Otherwise I am very satisfied."
-  },
-  {
-    "id": "w35",
-    "title": "Course Registration",
-    "description": "fill in a registration form for a Dutch language course",
-    "difficulty": 3,
-    "modelAnswer": "Voor- en achternaam: Ahmed Hassan. Adres: Tulpstraat 8. Postcode: 2345 CD. Woonplaats: Den Haag. Telefoonnummer: 06-98765432. E-mail: ahmed.hassan@mail.nl. Geboortedatum: 12-05-1990. Niveau: A2. Ik kan op dinsdag en donderdag komen, het liefst in de avond. Ik wil Nederlands leren omdat ik in Nederland woon en werk. Ik wil graag met mijn buren en collega's kunnen praten en straks misschien naar een opleiding gaan.",
-    "modelAnswerEn": "First and last name: Ahmed Hassan. Address: Tulpstraat 8. Postal code: 2345 CD. City: The Hague. Phone number: 06-98765432. Email: ahmed.hassan@mail.nl. Date of birth: 12-05-1990. Level: A2. I can come on Tuesday and Thursday, preferably in the evening. I want to learn Dutch because I live and work in the Netherlands. I would like to be able to talk with my neighbors and colleagues and perhaps later go on to a study program."
-  },
-  {
-    "id": "w36",
-    "title": "Note for Housemate",
-    "description": "leave a note for your housemate about household tasks",
-    "difficulty": 4,
-    "modelAnswer": "Hallo Sanne, ik ben dit weekend bij mijn ouders en kom pas zondagavond terug. Hier zijn een paar dingen waarmee je me kunt helpen. Wil je alsjeblieft de keuken schoonmaken, vooral het aanrecht en de afzuigkap? De was zit al in de wasmachine. Hang de was buiten op als hij klaar is. Er is ook een pakje bij de buren — haal het op voor maandag. Alvast bedankt! Groetjes, Karim.",
-    "modelAnswerEn": "Hello Sanne, I am at my parents' this weekend and won't be back until Sunday evening. Here are a few things you can help me with. Could you please clean the kitchen, especially the counter and the extractor hood? The laundry is already in the washing machine. Hang the laundry outside when it is done. There is also a parcel at the neighbors' — pick it up before Monday. Thanks in advance! Regards, Karim.",
-    "isVocabChallenge": true
   },
   {
     "id": "w37",
