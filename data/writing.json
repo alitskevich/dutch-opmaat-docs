@@ -3,349 +3,183 @@
     "id": "w01",
     "title": "Your Favorite Party",
     "description": "Write about your favorite celebration",
-    "difficulty": 2,
     "status": "completed",
     "modelAnswer": "Mijn favoriete feest is Koningsdag. Het is op 27 april. Ik vier het altijd met mijn familie in Amsterdam. We dragen oranje kleren en gaan naar de stad. We eten oranje tompoezen en luisteren naar muziek. In het Vondelpark is een groot feest. Het is heel gezellig en leuk.",
     "modelAnswerEn": "My favorite celebration is King's Day. It is on 27 April. I always celebrate it with my family in Amsterdam. We wear orange clothes and go into the city. We eat orange tompoezen (pastries) and listen to music. In the Vondelpark there is a big party. It is very cozy and fun."
   },
   {
-    "id": "w02",
-    "title": "Message to a Friend",
-    "description": "Thank a friend for helping you",
-    "difficulty": 2,
-    "status": "completed",
-    "modelAnswer": "Hoi Mark, heel erg bedankt voor je hulp met verhuizen vorige week! Ik ben erg blij met mijn nieuwe huis in Utrecht. Zonder jou was het niet gelukt. Alle dozen staan nu op de juiste plek. Volgende week wil ik je graag uitnodigen voor het eten. Kun je zaterdagavond om 19:00 uur? Groetjes, Sara",
-    "modelAnswerEn": "Hi Mark, thank you so much for your help with moving last week! I am very happy with my new house in Utrecht. Without you it would not have worked out. All the boxes are now in the right place. Next week I would like to invite you for dinner. Can you make it Saturday evening at 19:00? Regards, Sara"
-  },
-  {
-    "id": "w03",
-    "title": "About Your Weekend",
-    "description": "Tell someone what you do on the weekend",
-    "difficulty": 2,
-    "modelAnswer": "In het weekend ga ik graag wandelen in het park. Soms kook ik ook met mijn vrienden bij mij thuis. Op zaterdag doe ik boodschappen op de markt. 's Middags drink ik koffie met mijn buurvrouw. Op zondag slaap ik lang uit. Daarna lees ik de krant en kijk ik een film. Het weekend is mijn favoriete tijd.",
-    "modelAnswerEn": "On the weekend I like to walk in the park. Sometimes I also cook with my friends at my place. On Saturday I do the groceries at the market. In the afternoon I drink coffee with my neighbor. On Sunday I sleep in late. Afterwards I read the newspaper and watch a film. The weekend is my favorite time.",
-    "isVocabChallenge": true
+    "id": "w30",
+    "title": "Favorite Food",
+    "description": "Write about your favorite food for the neighborhood paper",
+    "modelAnswer": "Mijn lievelingseten is nasi goreng. Het is een gerecht uit Indonesië, waar mijn moeder vandaan komt. Mijn moeder maakt het altijd klaar met veel groente, ei en kip. We eten het elke zondag met de hele familie aan een grote tafel. Het is lekker en het ruikt heel goed in huis. Ook mijn kinderen vinden het heerlijk. Eten brengt onze familie samen.",
+    "modelAnswerEn": "My favorite food is nasi goreng. It is a dish from Indonesia, where my mother comes from. My mother always prepares it with lots of vegetables, egg and chicken. We eat it every Sunday with the whole family at a big table. It is delicious and it smells really good in the house. My children love it too. Food brings our family together."
   },
   {
     "id": "w04",
     "title": "Your Neighborhood",
-    "description": "Describe where you live",
-    "difficulty": 2,
-    "modelAnswer": "Ik woon in een rustige buurt in Amsterdam. Er zijn veel winkels en een park in de buurt. Het park heet het Oosterpark. Ik wandel daar elke ochtend met mijn hond. Mijn buren zijn aardig en behulpzaam. In de straat is ook een bakker, een supermarkt en een café. Ik vind het hier heel fijn wonen.",
-    "modelAnswerEn": "I live in a quiet neighborhood in Amsterdam. There are many shops and a park nearby. The park is called the Oosterpark. I walk there every morning with my dog. My neighbors are nice and helpful. On the street there is also a bakery, a supermarket and a café. I really enjoy living here."
+    "description": "Describe where you live for the neighborhood paper",
+    "modelAnswer": "Ik woon sinds vorig jaar in het centrum van Amsterdam. Ik vind mijn buurt heel leuk omdat er veel winkels, cafés en restaurants zijn. Er is ook een mooi park om de hoek waar ik graag wandel met mijn hond. Mijn buren zijn vriendelijk en behulpzaam. Op zaterdag is er altijd een markt op het plein. Ik zou willen dat er minder lawaai is van het verkeer in de avond. Verder ben ik heel tevreden.",
+    "modelAnswerEn": "I have been living in the center of Amsterdam since last year. I really like my neighborhood because there are many shops, cafés and restaurants. There is also a nice park around the corner where I like to walk with my dog. My neighbors are friendly and helpful. On Saturday there is always a market on the square. I wish there were less noise from the traffic in the evening. Otherwise I am very satisfied."
+  },
+  {
+    "id": "w11",
+    "title": "Your Daily Routine",
+    "description": "Write about your daily routine and weekend for the neighborhood paper",
+    "modelAnswer": "Mijn dag begint vroeg. Ik sta elke dag om 7 uur op en ik maak ontbijt voor de hele familie. Daarna breng ik mijn kinderen naar school en dan ga ik naar mijn cursus Nederlands. 's Middags doe ik boodschappen of ga ik wandelen. Om 15:00 uur haal ik de kinderen weer op. 's Avonds kook ik en kijk ik televisie met mijn man. In het weekend slaap ik lang uit en drink ik koffie met mijn buurvrouw.",
+    "modelAnswerEn": "My day starts early. I get up at 7 o'clock every day and I make breakfast for the whole family. Then I take my children to school and then I go to my Dutch course. In the afternoon I do the groceries or go for a walk. At 15:00 I pick up the children again. In the evening I cook and watch television with my husband. On the weekend I sleep in late and have coffee with my neighbor."
   },
   {
     "id": "w05",
     "title": "Inviting a Friend",
-    "description": "Invite a friend, accept or decline invitations",
-    "difficulty": 2,
+    "description": "Invite a friend to a party",
     "modelAnswer": "Hoi Sophie, ik geef een verjaardagsfeest op zaterdag 18 mei om 19:00 uur. Het feest is bij mij thuis op de Kerkstraat 12. Er komen ongeveer tien mensen. We gaan eten, drinken en muziek luisteren. Kun je iets te drinken meenemen? Een dieet of allergie hoor ik graag van tevoren. Ik hoop dat je komt! Groetjes, Maria",
     "modelAnswerEn": "Hi Sophie, I am having a birthday party on Saturday 18 May at 19:00. The party is at my house at Kerkstraat 12. About ten people are coming. We are going to eat, drink and listen to music. Can you bring something to drink? Please let me know in advance about any diet or allergy. I hope you come! Regards, Maria"
   },
   {
-    "id": "w06",
-    "title": "Changing Plans",
-    "description": "Cancel plans or ask to swap shifts",
-    "difficulty": 2,
-    "modelAnswer": "Hoi Lisa, heel erg bedankt voor de uitnodiging voor je verjaardag! Helaas kan ik zaterdag niet komen, want ik moet onverwacht werken. Mijn collega is ziek geworden en ik val voor haar in. Ik vind het echt jammer, want ik had me erop verheugd. Kunnen we volgende week een keer afspreken voor een kop koffie? Groetjes!",
-    "modelAnswerEn": "Hi Lisa, thank you so much for the invitation to your birthday! Unfortunately I cannot come on Saturday, because I unexpectedly have to work. My colleague has fallen ill and I am filling in for her. I am really sorry, because I had been looking forward to it. Can we meet up next week for a cup of coffee? Regards!",
-    "isVocabChallenge": true
+    "id": "w10",
+    "title": "Borrowing Something",
+    "description": "Ask a friend if you can borrow something or for help",
+    "modelAnswer": "Beste Wilma, ik volg sinds januari een cursus Nederlands en ik heb het boek 'Nederlands in Actie' nodig. In de bibliotheek is het niet beschikbaar en in de boekwinkel is het te duur. Ik weet dat jij het boek hebt. Mag ik het van jou lenen voor een maand? Ik beloof dat ik er voorzichtig mee ben. Ik geef het volgende maand terug. Groetjes, Ahmed",
+    "modelAnswerEn": "Dear Wilma, I have been taking a Dutch course since January and I need the book 'Nederlands in Actie'. It is not available at the library and it is too expensive at the bookshop. I know that you have the book. May I borrow it from you for a month? I promise I will be careful with it. I will return it next month. Regards, Ahmed"
   },
   {
-    "id": "w07",
-    "title": "Asking for Help",
-    "description": "Ask a neighbor to help you move furniture",
-    "difficulty": 2,
-    "modelAnswer": "Hoi Jan, ik heb nieuwe meubels gekocht en ik heb hulp nodig met het sjouwen. Het gaat om een bank en een grote kast. Kun je zaterdag om 10:00 uur komen helpen? Het duurt ongeveer twee uur. Daarna trakteer ik op pizza en bier. Dat is heel lief van je! Tot zaterdag! Groetjes, Karim",
-    "modelAnswerEn": "Hi Jan, I have bought new furniture and I need help with carrying it. It is about a sofa and a large cupboard. Can you come help on Saturday at 10:00? It takes about two hours. Afterwards I will treat you to pizza and beer. That is very kind of you! See you Saturday! Regards, Karim"
-  },
-  {
-    "id": "w08",
-    "title": "Library Registration",
-    "description": "Fill in a form to register at the library",
-    "difficulty": 2,
-    "modelAnswer": "Naam: Fatima El Amrani\nAdres: Tulpstraat 8, 1234 AB Amsterdam\nGeboortedatum: 15 maart 1990\nTelefoonnummer: 06-12345678\nE-mailadres: fatima@email.nl\n\nIk lees graag boeken over koken, gezondheid en romans. Ik wil de bibliotheek twee keer per week bezoeken. Ook wil ik graag lezingen bijwonen en mijn kinderen meenemen naar de kinderafdeling. Ik werk als verpleegkundige en heb 's avonds vaak tijd om te lezen.",
-    "modelAnswerEn": "Name: Fatima El Amrani\nAddress: Tulpstraat 8, 1234 AB Amsterdam\nDate of birth: 15 March 1990\nPhone number: 06-12345678\nEmail address: fatima@email.nl\n\nI like to read books about cooking, health and novels. I want to visit the library twice a week. I would also like to attend lectures and take my children to the children's section. I work as a nurse and often have time to read in the evenings."
+    "id": "w02",
+    "title": "Thanking Someone",
+    "description": "Thank a friend for helping you or doing you a favour",
+    "modelAnswer": "Hoi Mark, heel erg bedankt voor je hulp met verhuizen vorige week! Ik ben erg blij met mijn nieuwe huis in Utrecht. Zonder jou was het niet gelukt. Alle dozen staan nu op de juiste plek. Volgende week wil ik je graag uitnodigen voor het eten. Kun je zaterdagavond om 19:00 uur? Groetjes, Sara",
+    "modelAnswerEn": "Hi Mark, thank you so much for your help with moving last week! I am very happy with my new house in Utrecht. Without you it would not have worked out. All the boxes are now in the right place. Next week I would like to invite you for dinner. Can you make it Saturday evening at 19:00? Regards, Sara"
   },
   {
     "id": "w09",
     "title": "Note for a Housemate",
     "description": "Write a note with house rules for your housemate",
-    "difficulty": 2,
     "modelAnswer": "Hallo Tim, hier zijn een paar afspraken voor de komende week. Doe alsjeblieft de afwas direct na het eten. Maak elke zaterdag de badkamer schoon. Vergeet niet de prullenbak buiten te zetten op dinsdagavond. Maak geen lawaai na 22:00 uur, want ik moet vroeg op. Bedankt en fijne week! Groetjes, Sara",
-    "modelAnswerEn": "Hello Tim, here are a few agreements for the coming week. Please do the dishes right after dinner. Clean the bathroom every Saturday. Don't forget to put out the trash bin on Tuesday evening. Don't make noise after 22:00, because I have to get up early. Thanks and have a nice week! Regards, Sara",
-    "isVocabChallenge": true
+    "modelAnswerEn": "Hello Tim, here are a few agreements for the coming week. Please do the dishes right after dinner. Clean the bathroom every Saturday. Don't forget to put out the trash bin on Tuesday evening. Don't make noise after 22:00, because I have to get up early. Thanks and have a nice week! Regards, Sara"
   },
   {
-    "id": "w10",
-    "title": "Borrowing Something",
-    "description": "Ask a friend if you can borrow something",
-    "difficulty": 2,
-    "modelAnswer": "Beste Wilma, ik volg sinds januari een cursus Nederlands en ik heb het boek 'Nederlands in Actie' nodig. In de bibliotheek is het niet beschikbaar en in de boekwinkel is het te duur. Ik weet dat jij het boek hebt. Mag ik het van jou lenen voor een maand? Ik beloof dat ik er voorzichtig mee ben. Ik geef het volgende maand terug. Groetjes, Ahmed",
-    "modelAnswerEn": "Dear Wilma, I have been taking a Dutch course since January and I need the book 'Nederlands in Actie'. It is not available at the library and it is too expensive at the bookshop. I know that you have the book. May I borrow it from you for a month? I promise I will be careful with it. I will return it next month. Regards, Ahmed"
-  },
-  {
-    "id": "w11",
-    "title": "My Daily Routine (Wijkkrant)",
-    "description": "Write about your daily routine for the neighborhood newspaper",
-    "difficulty": 2,
-    "modelAnswer": "Mijn dag begint vroeg. Ik sta elke dag om 7 uur op en ik maak ontbijt voor de hele familie. Daarna breng ik mijn kinderen naar school en dan ga ik naar mijn cursus Nederlands. 's Middags doe ik boodschappen of ga ik wandelen. Om 15:00 uur haal ik de kinderen weer op. 's Avonds kook ik en kijk ik televisie met mijn man.",
-    "modelAnswerEn": "My day starts early. I get up at 7 o'clock every day and I make breakfast for the whole family. Then I take my children to school and then I go to my Dutch course. In the afternoon I do the groceries or go for a walk. At 15:00 I pick up the children again. In the evening I cook and watch television with my husband."
-  },
-  {
-    "id": "w12",
-    "title": "Doctor Appointment",
-    "description": "Make, change, or cancel a doctor appointment",
-    "difficulty": 3,
-    "modelAnswer": "Beste meneer/mevrouw, ik wil graag een afspraak maken bij de huisarts. Ik heb al een week last van hoofdpijn en ik ben erg moe. Ook slaap ik slecht en heb ik geen energie meer. Wanneer kan ik komen? Het liefst deze week nog, het mag ook 's middags. Mijn telefoonnummer is 06-12345678. Met vriendelijke groet, Maria de Vries.",
-    "modelAnswerEn": "Dear sir/madam, I would like to make an appointment with the general practitioner. I have had a headache for a week now and I am very tired. I also sleep badly and have no energy left. When can I come? Preferably this week still, the afternoon is also fine. My phone number is 06-12345678. Kind regards, Maria de Vries.",
-    "isVocabChallenge": true
-  },
-  {
-    "id": "w13",
-    "title": "School Enrollment",
-    "description": "Email a language school about a Dutch course",
-    "difficulty": 3,
-    "modelAnswer": "Beste meneer/mevrouw, ik wil graag een cursus Nederlands volgen bij uw school. Ik woon sinds vorig jaar in Nederland en ik wil mijn Nederlands verbeteren. Kunt u mij vertellen wanneer de volgende cursus begint en hoeveel het kost? Ook wil ik graag weten op welke dagen en tijden de lessen zijn. Hoe kan ik mij inschrijven? Met vriendelijke groet, Ahmed Hassan.",
-    "modelAnswerEn": "Dear sir/madam, I would like to take a Dutch course at your school. I have been living in the Netherlands since last year and I want to improve my Dutch. Can you tell me when the next course starts and how much it costs? I would also like to know on which days and times the lessons are. How can I register? Kind regards, Ahmed Hassan."
-  },
-  {
-    "id": "w14",
-    "title": "Broken Heating",
-    "description": "Email your landlord about a broken heater",
-    "difficulty": 3,
-    "modelAnswer": "Beste meneer/mevrouw, ik schrijf u omdat de verwarming in mijn huis al drie dagen niet werkt. Het is op dit moment erg koud, ook overdag binnen niet meer dan 14 graden. Mijn kinderen zijn al verkouden geworden. Ik heb het zelf geprobeerd te repareren, maar het lukt niet. Kunt u zo snel mogelijk iemand sturen? Met vriendelijke groet, Sara El Idrissi.",
-    "modelAnswerEn": "Dear sir/madam, I am writing to you because the heating in my house has not been working for three days. It is very cold at the moment, even during the day no more than 14 degrees inside. My children have already caught a cold. I have tried to repair it myself, but it does not work. Can you send someone as soon as possible? Kind regards, Sara El Idrissi."
-  },
-  {
-    "id": "w15",
-    "title": "Returning a Product",
-    "description": "Email a webshop to return a broken item",
-    "difficulty": 3,
-    "modelAnswer": "Beste meneer/mevrouw, ik heb vorige week een lamp besteld bij uw webshop. Mijn ordernummer is 4521. Vandaag is het pakket aangekomen, maar de lamp is helaas kapot. Het glas is gebroken en het snoer ziet er beschadigd uit. Op de foto's op uw website zag het er heel anders uit. Kan ik een nieuw product of mijn geld terug krijgen? Met vriendelijke groet, Lisa de Wit.",
-    "modelAnswerEn": "Dear sir/madam, last week I ordered a lamp from your web shop. My order number is 4521. Today the package arrived, but unfortunately the lamp is broken. The glass is broken and the cord looks damaged. In the photos on your website it looked very different. Can I get a new product or my money back? Kind regards, Lisa de Wit.",
-    "isVocabChallenge": true
-  },
-  {
-    "id": "w16",
-    "title": "Day Off Request",
-    "description": "Email your manager to ask for a day off",
-    "difficulty": 3,
-    "modelAnswer": "Beste mevrouw De Vries, ik wil u graag vragen of ik vrijdag 15 maart een dag vrij mag nemen. Mijn zus trouwt die dag in Rotterdam en ik wil daar natuurlijk graag bij zijn. Het is een belangrijke familiedag voor ons. Mijn collega Jan heeft al gezegd dat hij mijn werk die dag kan overnemen. Ik hoor graag of dat akkoord is. Met vriendelijke groet, Maria Santos.",
-    "modelAnswerEn": "Dear Mrs De Vries, I would like to ask you whether I may take a day off on Friday 15 March. My sister is getting married that day in Rotterdam and of course I would like to be there. It is an important family day for us. My colleague Jan has already said that he can take over my work that day. I would like to hear whether that is okay. Kind regards, Maria Santos."
-  },
-  {
-    "id": "w17",
-    "title": "Reporting Being Late",
-    "description": "Email to say you'll be late for an appointment",
-    "difficulty": 3,
-    "modelAnswer": "Beste meneer/mevrouw, ik heb vandaag om 9:00 uur een afspraak bij u op kantoor. Helaas sta ik op dit moment in een lange file op de A4. Er is een ongeluk gebeurd en het verkeer staat al een half uur stil. Ik denk dat ik rond 9:30 uur aankom, maar misschien wordt het later. Is het mogelijk om de afspraak alsnog door te laten gaan? Met vriendelijke groet, Pieter Jansen.",
-    "modelAnswerEn": "Dear sir/madam, I have an appointment at your office today at 9:00. Unfortunately I am currently stuck in a long traffic jam on the A4. There has been an accident and the traffic has been at a standstill for half an hour. I think I will arrive around 9:30, but it might be later. Is it possible to still let the appointment go ahead? Kind regards, Pieter Jansen."
+    "id": "w08",
+    "title": "Library Registration",
+    "description": "Fill in a form to register at the library",
+    "modelAnswer": "Naam: Fatima El Amrani\nAdres: Tulpstraat 8, 1234 AB Amsterdam\nGeboortedatum: 15 maart 1990\nTelefoonnummer: 06-12345678\nE-mailadres: fatima@email.nl\n\nIk lees graag boeken over koken, gezondheid en romans. Ik wil de bibliotheek twee keer per week bezoeken. Ook wil ik graag lezingen bijwonen en mijn kinderen meenemen naar de kinderafdeling. Ik werk als verpleegkundige en heb 's avonds vaak tijd om te lezen.",
+    "modelAnswerEn": "Name: Fatima El Amrani\nAddress: Tulpstraat 8, 1234 AB Amsterdam\nDate of birth: 15 March 1990\nPhone number: 06-12345678\nEmail address: fatima@email.nl\n\nI like to read books about cooking, health and novels. I want to visit the library twice a week. I would also like to attend lectures and take my children to the children's section. I work as a nurse and often have time to read in the evenings."
   },
   {
     "id": "w18",
-    "title": "My Hobby (Wijkkrant)",
-    "description": "Write a short story for the neighborhood newspaper about your hobby",
-    "difficulty": 3,
+    "title": "My Hobby",
+    "description": "Write a short story for the neighborhood paper about your hobby",
     "modelAnswer": "Mijn hobby is voetbal en ik doe dit al sinds mijn jeugd. Ik voetbal twee keer per week met mijn vrienden in het park om de hoek. Op zaterdag spelen we wedstrijden tegen andere teams. Ik vind het leuk omdat het gezond is en ik lekker buiten ben. Ook leer ik op die manier veel nieuwe mensen kennen. Daarna gaan we vaak samen iets drinken. Voetbal maakt me blij.",
-    "modelAnswerEn": "My hobby is football and I have been doing it since my childhood. I play football twice a week with my friends in the park around the corner. On Saturdays we play matches against other teams. I like it because it is healthy and I am nicely outdoors. I also get to meet a lot of new people that way. Afterwards we often go for a drink together. Football makes me happy.",
-    "isVocabChallenge": true
-  },
-  {
-    "id": "w19",
-    "title": "Reporting a Street Problem",
-    "description": "Fill in a form to report a problem in your street",
-    "difficulty": 3,
-    "modelAnswer": "Naam: Jan de Vries\nAdres: Kerkstraat 12, 1234 AB Amsterdam\nTelefoonnummer: 06-12345678\nE-mail: jan.devries@mail.nl\n\nDe straatlamp op de hoek van de Kerkstraat en de Marktlaan is kapot. Het probleem is al twee weken aan de gang. Het is daardoor 's avonds heel donker bij mijn huis. Ouderen vinden dat eng en gevaarlijk. Kunt u zo snel mogelijk iemand sturen om de lamp te repareren? Alvast bedankt voor uw aandacht.",
-    "modelAnswerEn": "Name: Jan de Vries\nAddress: Kerkstraat 12, 1234 AB Amsterdam\nPhone number: 06-12345678\nEmail: jan.devries@mail.nl\n\nThe street lamp on the corner of Kerkstraat and Marktlaan is broken. The problem has been going on for two weeks. As a result it is very dark near my house in the evening. Elderly people find that scary and dangerous. Can you send someone as soon as possible to repair the lamp? Thank you in advance for your attention."
-  },
-  {
-    "id": "w20",
-    "title": "Instructions for a Colleague",
-    "description": "Write a note with instructions for a colleague",
-    "difficulty": 3,
-    "modelAnswer": "Hallo Ahmed, hieronder een paar taken voor vandaag. Maak alle tafels en stoelen schoon voor de openingstijd. Bel de klant op nummer 06-12345678 terug over de reservering van vrijdag. Vul de voorraad aan in de keuken en check de koelkast. Zet de verwarming uit en sluit de ramen voordat je weggaat. Vergeet niet om het alarm aan te zetten. Bedankt voor je hulp! Groetjes, Sara.",
-    "modelAnswerEn": "Hello Ahmed, below are a few tasks for today. Clean all tables and chairs before opening time. Call the customer back on number 06-12345678 about Friday's reservation. Restock the supplies in the kitchen and check the fridge. Turn off the heating and close the windows before you leave. Don't forget to switch on the alarm. Thanks for your help! Regards, Sara."
-  },
-  {
-    "id": "w21",
-    "title": "Reporting a Stolen Bike",
-    "description": "Fill in a police report form for a stolen bicycle",
-    "difficulty": 3,
-    "modelAnswer": "Naam: Ahmed Hassan\nAdres: Parkweg 15, 2345 CD Utrecht\nTelefoonnummer: 06-98765432\nE-mail: ahmed.hassan@mail.nl\n\nHet is een zwarte fiets van het merk Gazelle, model Esprit. De fiets stond met twee sloten voor het station Utrecht Centraal. De fiets is gisteren tussen 8:00 en 17:00 uur gestolen. Er zijn helaas geen getuigen die ik ken. Ik heb wel een foto en het framenummer. Graag hoor ik wat de volgende stap is.",
-    "modelAnswerEn": "Name: Ahmed Hassan\nAddress: Parkweg 15, 2345 CD Utrecht\nPhone number: 06-98765432\nEmail: ahmed.hassan@mail.nl\n\nIt is a black bicycle of the brand Gazelle, model Esprit. The bike was parked with two locks in front of Utrecht Centraal station. The bike was stolen yesterday between 8:00 and 17:00. Unfortunately there are no witnesses that I know of. I do have a photo and the frame number. I would like to hear what the next step is.",
-    "isVocabChallenge": true
+    "modelAnswerEn": "My hobby is football and I have been doing it since my childhood. I play football twice a week with my friends in the park around the corner. On Saturdays we play matches against other teams. I like it because it is healthy and I am nicely outdoors. I also get to meet a lot of new people that way. Afterwards we often go for a drink together. Football makes me happy."
   },
   {
     "id": "w22",
     "title": "Note for the Babysitter",
     "description": "Write a note with instructions for the babysitter",
-    "difficulty": 3,
     "modelAnswer": "Hallo Lisa, bedankt dat je vanavond op de kinderen wilt passen. Hier zijn een paar afspraken. Geef de kinderen om 18:30 uur eten. Het eten staat klaar in de koelkast en kan in de magnetron. Laat ze daarna 30 minuten televisie kijken. Breng ze om 20:00 uur naar bed en lees een verhaaltje voor. Bel mij als er iets is: 06-12345678. Groetjes, Marie.",
     "modelAnswerEn": "Hello Lisa, thank you for babysitting the children tonight. Here are a few agreements. Give the children dinner at 18:30. The food is ready in the fridge and can go in the microwave. Then let them watch television for 30 minutes. Put them to bed at 20:00 and read a story. Call me if anything comes up: 06-12345678. Regards, Marie."
+  },
+  {
+    "id": "w24",
+    "title": "Instructions for a Neighbor",
+    "description": "Write instructions for someone caring for your home, plants or pets",
+    "modelAnswer": "Hallo Marieke, bedankt dat je deze week op de kat en de planten wilt letten. Geef de kat elke dag eten en vers water. Het kattenvoer staat in de kast in de keuken, op de onderste plank. Geef twee keer per dag een halve portie. Geef de planten twee keer per week water, op maandag en donderdag. Als er post is, leg het op de tafel. Tot volgende week!",
+    "modelAnswerEn": "Hello Marieke, thank you for looking after the cat and the plants this week. Feed the cat every day and give it fresh water. The cat food is in the cupboard in the kitchen, on the bottom shelf. Give half a portion twice a day. Water the plants twice a week, on Monday and Thursday. If there is mail, put it on the table. See you next week!"
+  },
+  {
+    "id": "w19",
+    "title": "Reporting a Problem",
+    "description": "Fill in a form to report a problem or theft in your street",
+    "modelAnswer": "Naam: Jan de Vries\nAdres: Kerkstraat 12, 1234 AB Amsterdam\nTelefoonnummer: 06-12345678\nE-mail: jan.devries@mail.nl\n\nDe straatlamp op de hoek van de Kerkstraat en de Marktlaan is kapot. Het probleem is al twee weken aan de gang. Het is daardoor 's avonds heel donker bij mijn huis. Ouderen vinden dat eng en gevaarlijk. Kunt u zo snel mogelijk iemand sturen om de lamp te repareren? Alvast bedankt voor uw aandacht.",
+    "modelAnswerEn": "Name: Jan de Vries\nAddress: Kerkstraat 12, 1234 AB Amsterdam\nPhone number: 06-12345678\nEmail: jan.devries@mail.nl\n\nThe street lamp on the corner of Kerkstraat and Marktlaan is broken. The problem has been going on for two weeks. As a result it is very dark near my house in the evening. Elderly people find that scary and dangerous. Can you send someone as soon as possible to repair the lamp? Thank you in advance for your attention."
   },
   {
     "id": "w23",
     "title": "Doctor's Visit Form",
     "description": "Fill in a patient intake form at the doctor's office",
-    "difficulty": 3,
     "modelAnswer": "Naam: Maria Santos\nGeboortedatum: 22 juni 1985\nAdres: Bloemstraat 3, 3456 EF Rotterdam\nTelefoonnummer: 06-11223344\nE-mail: maria.santos@mail.nl\n\nIk heb de afgelopen weken vaak hoofdpijn en ik ben snel moe. Ook slaap ik slecht en heb ik soms last van mijn maag. Ik gebruik paracetamol als ik hoofdpijn heb. Ik ben allergisch voor penicilline en pinda's. Ik rook niet en drink af en toe alcohol.",
     "modelAnswerEn": "Name: Maria Santos\nDate of birth: 22 June 1985\nAddress: Bloemstraat 3, 3456 EF Rotterdam\nPhone number: 06-11223344\nEmail: maria.santos@mail.nl\n\nIn recent weeks I have often had headaches and I get tired quickly. I also sleep badly and sometimes have stomach trouble. I take paracetamol when I have a headache. I am allergic to penicillin and peanuts. I do not smoke and drink alcohol occasionally."
   },
   {
-    "id": "w24",
-    "title": "Instructions for a Neighbor",
-    "description": "Write instructions for a neighbor caring for your plants and cat",
-    "difficulty": 3,
-    "modelAnswer": "Hallo Marieke, bedankt dat je deze week op de kat en de planten wilt letten. Geef de kat elke dag eten en vers water. Het kattenvoer staat in de kast in de keuken, op de onderste plank. Geef twee keer per dag een halve portie. Geef de planten twee keer per week water, op maandag en donderdag. Als er post is, leg het op de tafel. Tot volgende week!",
-    "modelAnswerEn": "Hello Marieke, thank you for looking after the cat and the plants this week. Feed the cat every day and give it fresh water. The cat food is in the cupboard in the kitchen, on the bottom shelf. Give half a portion twice a day. Water the plants twice a week, on Monday and Thursday. If there is mail, put it on the table. See you next week!",
-    "isVocabChallenge": true
+    "id": "w12",
+    "title": "Doctor Appointment",
+    "description": "Make, change, or cancel a doctor appointment",
+    "modelAnswer": "Beste meneer/mevrouw, ik wil graag een afspraak maken bij de huisarts. Ik heb al een week last van hoofdpijn en ik ben erg moe. Ook slaap ik slecht en heb ik geen energie meer. Wanneer kan ik komen? Het liefst deze week nog, het mag ook 's middags. Mijn telefoonnummer is 06-12345678. Met vriendelijke groet, Maria de Vries.",
+    "modelAnswerEn": "Dear sir/madam, I would like to make an appointment with the general practitioner. I have had a headache for a week now and I am very tired. I also sleep badly and have no energy left. When can I come? Preferably this week still, the afternoon is also fine. My phone number is 06-12345678. Kind regards, Maria de Vries."
+  },
+  {
+    "id": "w29",
+    "title": "Reschedule an Appointment",
+    "description": "Reschedule or cancel a planned appointment",
+    "modelAnswer": "Beste meneer/mevrouw, ik heb volgende week dinsdag om 14:00 uur een afspraak bij de tandarts. Helaas kan ik op deze tijd niet komen, omdat ik die dag onverwacht moet werken. Mijn collega is ziek geworden en ik val voor haar in. Kan ik een nieuwe afspraak maken op donderdag of vrijdag? Het liefst in de ochtend. Mijn telefoonnummer is 06-12345678. Met vriendelijke groet, Pieter de Wit.",
+    "modelAnswerEn": "Dear sir/madam, I have an appointment at the dentist next week Tuesday at 14:00. Unfortunately I cannot come at this time, because I unexpectedly have to work that day. My colleague has fallen ill and I am filling in for her. Can I make a new appointment on Thursday or Friday? Preferably in the morning. My phone number is 06-12345678. Kind regards, Pieter de Wit."
+  },
+  {
+    "id": "w17",
+    "title": "Reporting Being Late",
+    "description": "Email to say you'll be late for an appointment",
+    "modelAnswer": "Beste meneer/mevrouw, ik heb vandaag om 9:00 uur een afspraak bij u op kantoor. Helaas sta ik op dit moment in een lange file op de A4. Er is een ongeluk gebeurd en het verkeer staat al een half uur stil. Ik denk dat ik rond 9:30 uur aankom, maar misschien wordt het later. Is het mogelijk om de afspraak alsnog door te laten gaan? Met vriendelijke groet, Pieter Jansen.",
+    "modelAnswerEn": "Dear sir/madam, I have an appointment at your office today at 9:00. Unfortunately I am currently stuck in a long traffic jam on the A4. There has been an accident and the traffic has been at a standstill for half an hour. I think I will arrive around 9:30, but it might be later. Is it possible to still let the appointment go ahead? Kind regards, Pieter Jansen."
+  },
+  {
+    "id": "w13",
+    "title": "Email About a Course",
+    "description": "Email a language school for course information or to enrol",
+    "modelAnswer": "Beste meneer/mevrouw, ik wil graag een cursus Nederlands volgen bij uw school. Ik woon sinds vorig jaar in Nederland en ik wil mijn Nederlands verbeteren. Kunt u mij vertellen wanneer de volgende cursus begint en hoeveel het kost? Ook wil ik graag weten op welke dagen en tijden de lessen zijn en of er een instaptoets nodig is. Hoe kan ik mij inschrijven? Met vriendelijke groet, Ahmed Hassan.",
+    "modelAnswerEn": "Dear sir/madam, I would like to take a Dutch course at your school. I have been living in the Netherlands since last year and I want to improve my Dutch. Can you tell me when the next course starts and how much it costs? I would also like to know on which days and times the lessons are and whether an entry test is required. How can I register? Kind regards, Ahmed Hassan."
+  },
+  {
+    "id": "w33",
+    "title": "Calling in Sick",
+    "description": "Email your boss that you are sick and cannot work",
+    "modelAnswer": "Beste mevrouw De Boer, ik schrijf u omdat ik vandaag helaas niet naar mijn werk kan komen. Ik ben sinds gisteravond ziek. Ik heb koorts, hoofdpijn en pijnlijke spieren. Vannacht heb ik bijna niet geslapen. Het spijt mij dat ik op zo'n korte termijn afzeg. Ik denk dat ik woensdag weer kan werken, als de koorts dan over is. Met vriendelijke groet, Ahmed.",
+    "modelAnswerEn": "Dear Mrs De Boer, I am writing to you because unfortunately I cannot come to work today. I have been ill since last night. I have a fever, headache and sore muscles. Last night I barely slept. I am sorry to cancel at such short notice. I think I can work again on Wednesday, if the fever is gone by then. Kind regards, Ahmed."
+  },
+  {
+    "id": "w16",
+    "title": "Day Off Request",
+    "description": "Email your manager to ask for a day off",
+    "modelAnswer": "Beste mevrouw De Vries, ik wil u graag vragen of ik vrijdag 15 maart een dag vrij mag nemen. Mijn zus trouwt die dag in Rotterdam en ik wil daar natuurlijk graag bij zijn. Het is een belangrijke familiedag voor ons. Mijn collega Jan heeft al gezegd dat hij mijn werk die dag kan overnemen. Ik hoor graag of dat akkoord is. Met vriendelijke groet, Maria Santos.",
+    "modelAnswerEn": "Dear Mrs De Vries, I would like to ask you whether I may take a day off on Friday 15 March. My sister is getting married that day in Rotterdam and of course I would like to be there. It is an important family day for us. My colleague Jan has already said that he can take over my work that day. I would like to hear whether that is okay. Kind regards, Maria Santos."
+  },
+  {
+    "id": "w14",
+    "title": "Broken Heating",
+    "description": "Email your landlord about a broken heater",
+    "modelAnswer": "Beste meneer/mevrouw, ik schrijf u omdat de verwarming in mijn huis al drie dagen niet werkt. Het is op dit moment erg koud, ook overdag binnen niet meer dan 14 graden. Mijn kinderen zijn al verkouden geworden. Ik heb het zelf geprobeerd te repareren, maar het lukt niet. Kunt u zo snel mogelijk iemand sturen? Met vriendelijke groet, Sara El Idrissi.",
+    "modelAnswerEn": "Dear sir/madam, I am writing to you because the heating in my house has not been working for three days. It is very cold at the moment, even during the day no more than 14 degrees inside. My children have already caught a cold. I have tried to repair it myself, but it does not work. Can you send someone as soon as possible? Kind regards, Sara El Idrissi."
+  },
+  {
+    "id": "w40",
+    "title": "File a Complaint",
+    "description": "Email a webshop to return or complain about a damaged product",
+    "modelAnswer": "Geachte heer/mevrouw,\n\nOp 12 mei heb ik bestelling #88421 ontvangen, een wasmachine van het merk AEG (model L7FB94GS). Helaas constateer ik bij uitpakken een aantal problemen:\n\n- De zijkant van het apparaat vertoont een duidelijke deuk.\n- Het bedieningspaneel reageert niet op aanraking.\n- Bij de eerste testwas lekt er water uit de onderkant.\n\nIk heb foto's gemaakt en voeg deze als bijlage toe. Aangezien het apparaat in deze staat onbruikbaar is, verzoek ik u om binnen 48 uur contact op te nemen voor vervanging of volledige terugbetaling, conform mijn rechten als consument.\n\nIk zie uw reactie graag tegemoet.\n\nMet vriendelijke groet,\nAlex Petrov\nKlantnummer: 7748392",
+    "modelAnswerEn": "Dear sir/madam,\n\nOn 12 May I received order #88421, a washing machine of the brand AEG (model L7FB94GS). Unfortunately, upon unpacking I notice a number of problems:\n\n- The side of the appliance shows a clear dent.\n- The control panel does not respond to touch.\n- During the first test wash, water leaks from the bottom.\n\nI have taken photos and attach them as an appendix. Since the appliance is unusable in this condition, I request that you contact me within 48 hours for a replacement or full refund, in accordance with my rights as a consumer.\n\nI look forward to your response.\n\nKind regards,\nAlex Petrov\nCustomer number: 7748392"
   },
   {
     "id": "w25",
     "title": "Noise Complaint",
     "description": "Write a formal complaint to the gemeente about noisy neighbors",
-    "difficulty": 4,
     "modelAnswer": "Beste meneer/mevrouw, ik woon op de Kerkstraat 12 in Amsterdam. Mijn buren maken elk weekend veel lawaai met harde muziek tot laat in de avond. Ik heb al met hen gesproken, maar het is niet beter geworden. Kunt u mij helpen? Ik wil graag dat de gemeente met mijn buren praat. Met vriendelijke groet.",
     "modelAnswerEn": "Dear sir/madam, I live at Kerkstraat 12 in Amsterdam. My neighbors make a lot of noise every weekend with loud music until late in the evening. I have already spoken with them, but it has not gotten any better. Can you help me? I would like the municipality to talk to my neighbors. Kind regards."
-  },
-  {
-    "id": "w26",
-    "title": "Job Application",
-    "description": "Write a short motivation letter for a job",
-    "difficulty": 4,
-    "modelAnswer": "Beste meneer/mevrouw, ik schrijf u omdat ik graag wil solliciteren voor de baan als winkelhulp bij Albert Heijn in het centrum. Ik heb uw advertentie op de website gezien. Ik heb twee jaar ervaring in een winkel in mijn land van herkomst. Ik ben vriendelijk, klantgericht en kan goed in een team werken. Ik spreek Nederlands op niveau A2 en leer snel. Ik ben beschikbaar op maandag, woensdag en vrijdag. Met vriendelijke groet, Fatima El Amrani.",
-    "modelAnswerEn": "Dear sir/madam, I am writing to you because I would like to apply for the job as shop assistant at Albert Heijn in the center. I saw your advertisement on the website. I have two years of experience in a shop in my country of origin. I am friendly, customer-oriented and can work well in a team. I speak Dutch at A2 level and learn quickly. I am available on Monday, Wednesday and Friday. Kind regards, Fatima El Amrani."
   },
   {
     "id": "w27",
     "title": "Insurance Claim",
     "description": "Email your insurance company about a stolen bicycle",
-    "difficulty": 4,
     "modelAnswer": "Beste meneer/mevrouw, mijn fiets is gisteren rond 17:00 uur gestolen bij Utrecht Centraal. De fiets stond met twee sloten op het station. Ik heb direct aangifte gedaan bij de politie. Het nummer van de aangifte is PL-2024-12345. Het gaat om een zwarte Gazelle uit 2022. Kunt u mij vertellen wat ik moet doen om de schade {{vergoed}} te krijgen? Welke documenten heeft u van mij nodig? Met vriendelijke groet, Karim Bouali.",
-    "modelAnswerEn": "Dear sir/madam, my bike was stolen yesterday around 17:00 at Utrecht Centraal. The bike was parked with two locks at the station. I immediately filed a report with the police. The report number is PL-2024-12345. It is a black Gazelle from 2022. Can you tell me what I need to do to get the damage {{vergoed}} (reimbursed)? Which documents do you need from me? Kind regards, Karim Bouali.",
-    "isVocabChallenge": true
+    "modelAnswerEn": "Dear sir/madam, my bike was stolen yesterday around 17:00 at Utrecht Centraal. The bike was parked with two locks at the station. I immediately filed a report with the police. The report number is PL-2024-12345. It is a black Gazelle from 2022. Can you tell me what I need to do to get the damage {{vergoed}} (reimbursed)? Which documents do you need from me? Kind regards, Karim Bouali."
   },
   {
-    "id": "w28",
-    "title": "Moving Notification",
-    "description": "Notify the gemeente about your address change",
-    "difficulty": 4,
-    "modelAnswer": "Beste meneer/mevrouw, ik ga verhuizen op 1 april. Mijn oude adres is Dorpsstraat 8, 1234 AB Leiden. Mijn nieuwe adres is Singel 45, 5678 CD Den Haag. Ik woon samen met mijn partner. Hoe kunnen wij ons inschrijven op het nieuwe adres? Met vriendelijke groet.",
-    "modelAnswerEn": "Dear sir/madam, I am going to move on 1 April. My old address is Dorpsstraat 8, 1234 AB Leiden. My new address is Singel 45, 5678 CD The Hague. I live together with my partner. How can we register at the new address? Kind regards."
+    "id": "w26",
+    "title": "Job Application",
+    "description": "Write a short motivation letter for a job",
+    "modelAnswer": "Beste meneer/mevrouw, ik schrijf u omdat ik graag wil solliciteren voor de baan als winkelhulp bij Albert Heijn in het centrum. Ik heb uw advertentie op de website gezien. Ik heb twee jaar ervaring in een winkel in mijn land van herkomst. Ik ben vriendelijk, klantgericht en kan goed in een team werken. Ik spreek Nederlands op niveau A2 en leer snel. Ik ben beschikbaar op maandag, woensdag en vrijdag. Met vriendelijke groet, Fatima El Amrani.",
+    "modelAnswerEn": "Dear sir/madam, I am writing to you because I would like to apply for the job as shop assistant at Albert Heijn in the center. I saw your advertisement on the website. I have two years of experience in a shop in my country of origin. I am friendly, customer-oriented and can work well in a team. I speak Dutch at A2 level and learn quickly. I am available on Monday, Wednesday and Friday. Kind regards, Fatima El Amrani."
   },
   {
-    "id": "w29",
-    "title": "Appointment Change",
-    "description": "reschedule an appointment at the dentist",
-    "difficulty": 3,
-    "modelAnswer": "Beste meneer/mevrouw, ik heb volgende week dinsdag om 14:00 uur een afspraak bij de tandarts. Helaas kan ik op deze tijd niet komen, omdat ik die dag onverwacht moet werken. Mijn collega is ziek geworden en ik val voor haar in. Kan ik een nieuwe afspraak maken op donderdag of vrijdag? Het liefst in de ochtend. Mijn telefoonnummer is 06-12345678. Met vriendelijke groet, Pieter de Wit.",
-    "modelAnswerEn": "Dear sir/madam, I have an appointment at the dentist next week Tuesday at 14:00. Unfortunately I cannot come at this time, because I unexpectedly have to work that day. My colleague has fallen ill and I am filling in for her. Can I make a new appointment on Thursday or Friday? Preferably in the morning. My phone number is 06-12345678. Kind regards, Pieter de Wit."
-  },
-  {
-    "id": "w30",
-    "title": "Favorite Food",
-    "description": "write about your favorite food for the neighborhood paper",
-    "difficulty": 2,
-    "modelAnswer": "Mijn lievelingseten is nasi goreng. Het is een gerecht uit Indonesië, waar mijn moeder vandaan komt. Mijn moeder maakt het altijd klaar met veel groente, ei en kip. We eten het elke zondag met de hele familie aan een grote tafel. Het is lekker en het ruikt heel goed in huis. Ook mijn kinderen vinden het heerlijk. Eten brengt onze familie samen.",
-    "modelAnswerEn": "My favorite food is nasi goreng. It is a dish from Indonesia, where my mother comes from. My mother always prepares it with lots of vegetables, egg and chicken. We eat it every Sunday with the whole family at a big table. It is delicious and it smells really good in the house. My children love it too. Food brings our family together.",
-    "isVocabChallenge": true
-  },
-  {
-    "id": "w33",
-    "title": "Calling in Sick",
-    "description": "email your boss that you are sick and cannot work",
-    "difficulty": 3,
-    "modelAnswer": "Beste mevrouw De Boer, ik schrijf u omdat ik vandaag helaas niet naar mijn werk kan komen. Ik ben sinds gisteravond ziek. Ik heb koorts, hoofdpijn en pijnlijke spieren. Vannacht heb ik bijna niet geslapen. Het spijt mij dat ik op zo'n korte termijn afzeg. Ik denk dat ik woensdag weer kan werken, als de koorts dan over is. Met vriendelijke groet, Ahmed.",
-    "modelAnswerEn": "Dear Mrs De Boer, I am writing to you because unfortunately I cannot come to work today. I have been ill since last night. I have a fever, headache and sore muscles. Last night I barely slept. I am sorry to cancel at such short notice. I think I can work again on Wednesday, if the fever is gone by then. Kind regards, Ahmed.",
-    "isVocabChallenge": true
-  },
-  {
-    "id": "w34",
-    "title": "My Neighborhood",
-    "description": "write about your neighborhood for the local paper",
-    "difficulty": 2,
-    "modelAnswer": "Ik woon sinds vorig jaar in het centrum van Amsterdam. Ik vind mijn buurt heel leuk omdat er veel winkels, cafés en restaurants zijn. Er is ook een mooi park om de hoek waar ik graag wandel met mijn hond. Mijn buren zijn vriendelijk en behulpzaam. Op zaterdag is er altijd een markt op het plein. Ik zou willen dat er minder lawaai is van het verkeer in de avond. Verder ben ik heel tevreden.",
-    "modelAnswerEn": "I have been living in the center of Amsterdam since last year. I really like my neighborhood because there are many shops, cafés and restaurants. There is also a nice park around the corner where I like to walk with my dog. My neighbors are friendly and helpful. On Saturday there is always a market on the square. I wish there were less noise from the traffic in the evening. Otherwise I am very satisfied."
-  },
-  {
-    "id": "w37",
-    "title": "Confirm an Appointment",
-    "description": "Confirm an appointment by email",
-    "difficulty": 3,
-    "modelAnswer": "Geachte mevrouw De Vries,\n\nHartelijk dank voor de bevestiging van onze afspraak. Ik kan bevestigen dat ik op donderdag 23 mei om 14:00 uur aanwezig zal zijn op uw kantoor aan de Herengracht 42 in Amsterdam. Ik neem mijn identiteitsbewijs en de gevraagde documenten mee. Mocht er nog iets veranderen aan de planning, dan hoor ik dat graag. Anders zie ik u op donderdag.\n\nMet vriendelijke groet,\nPieter Jansen",
-    "modelAnswerEn": "Dear Mrs De Vries,\n\nThank you very much for the confirmation of our appointment. I can confirm that I will be present on Thursday 23 May at 14:00 at your office at Herengracht 42 in Amsterdam. I will bring my ID and the requested documents. Should anything change in the schedule, I would be glad to hear it. Otherwise I will see you on Thursday.\n\nKind regards,\nPieter Jansen"
-  },
-  {
-    "id": "w38",
-    "title": "Reschedule an Appointment",
-    "description": "Reschedule a planned appointment",
-    "difficulty": 3,
-    "modelAnswer": "Beste Lisa,\n\nHet spijt me, maar ik moet onze afspraak van vrijdag helaas verzetten. Er is een dringende kwestie tussengekomen die mijn aanwezigheid vereist.\n\nZou maandag 27 mei om 10:00 of dinsdag 28 mei om 14:00 schikken? Mocht beide niet uitkomen, geef gerust een andere optie door.\n\nExcuses voor het ongemak. Ik stuur de stukken sowieso vandaag nog door zodat je alvast kunt voorbereiden.\n\nHartelijke groet,\nKarim",
-    "modelAnswerEn": "Dear Lisa,\n\nI'm sorry, but unfortunately I have to reschedule our Friday appointment. An urgent matter has come up that requires my presence.\n\nWould Monday 27 May at 10:00 or Tuesday 28 May at 14:00 suit you? If neither works, feel free to suggest another option.\n\nApologies for the inconvenience. I will forward the documents today anyway so that you can prepare in advance.\n\nKind regards,\nKarim"
-  },
-  {
-    "id": "w39",
-    "title": "Reply to Interview Invitation",
-    "description": "Reply to a job interview invitation",
-    "difficulty": 4,
-    "modelAnswer": "Geachte mevrouw Bakker,\n\nHartelijk dank voor de uitnodiging. Het voorgestelde moment, dinsdag 4 juni om 10:00 uur op uw kantoor aan het Stationsplein 7 te Utrecht, schikt mij uitstekend.\n\nIk kijk ernaar uit kennis te maken met u en de heer Van Dijk en meer te horen over de functie en TechNova.\n\nMocht ik nog iets moeten meebrengen of voorbereiden, dan verneem ik dat graag.\n\nMet vriendelijke groet,\nAlex Petrov",
-    "modelAnswerEn": "Dear Mrs Bakker,\n\nThank you very much for the invitation. The proposed time, Tuesday 4 June at 10:00 at your office at Stationsplein 7 in Utrecht, suits me excellently.\n\nI look forward to meeting you and Mr Van Dijk and to hearing more about the position and TechNova.\n\nShould I need to bring or prepare anything, I would be glad to hear it.\n\nKind regards,\nAlex Petrov"
-  },
-  {
-    "id": "w40",
-    "title": "File a Complaint",
-    "description": "File a complaint about a damaged product",
-    "difficulty": 4,
-    "modelAnswer": "Geachte heer/mevrouw,\n\nOp 12 mei heb ik bestelling #88421 ontvangen, een wasmachine van het merk AEG (model L7FB94GS). Helaas constateer ik bij uitpakken een aantal problemen:\n\n- De zijkant van het apparaat vertoont een duidelijke deuk.\n- Het bedieningspaneel reageert niet op aanraking.\n- Bij de eerste testwas lekt er water uit de onderkant.\n\nIk heb foto's gemaakt en voeg deze als bijlage toe. Aangezien het apparaat in deze staat onbruikbaar is, verzoek ik u om binnen 48 uur contact op te nemen voor vervanging of volledige terugbetaling, conform mijn rechten als consument.\n\nIk zie uw reactie graag tegemoet.\n\nMet vriendelijke groet,\nAlex Petrov\nKlantnummer: 7748392",
-    "modelAnswerEn": "Dear sir/madam,\n\nOn 12 May I received order #88421, a washing machine of the brand AEG (model L7FB94GS). Unfortunately, upon unpacking I notice a number of problems:\n\n- The side of the appliance shows a clear dent.\n- The control panel does not respond to touch.\n- During the first test wash, water leaks from the bottom.\n\nI have taken photos and attach them as an appendix. Since the appliance is unusable in this condition, I request that you contact me within 48 hours for a replacement or full refund, in accordance with my rights as a consumer.\n\nI look forward to your response.\n\nKind regards,\nAlex Petrov\nCustomer number: 7748392"
-  },
-  {
-    "id": "w41",
-    "title": "Request Course Information",
-    "description": "Request information about a language course",
-    "difficulty": 3,
-    "modelAnswer": "Geachte heer/mevrouw,\n\nNaar aanleiding van uw nieuwsbrief over de cursussen najaar 2026 zou ik graag meer informatie ontvangen over de cursus Nederlands op niveau B1.\n\nConcreet ben ik benieuwd naar:\n\n- De startdatum en duur van de cursus\n- Het aantal lessen per week en de tijdstippen\n- De totale kosten en eventuele betalingsregelingen\n- Of er een instaptoets nodig is\n- De maximale groepsgrootte\n\nVerder ben ik woonachtig in Den Haag — heeft u ook locaties buiten Amsterdam?\n\nAlvast bedankt voor uw reactie.\n\nMet vriendelijke groet,\nAlex Petrov",
-    "modelAnswerEn": "Dear sir/madam,\n\nFollowing your newsletter about the autumn 2026 courses, I would like to receive more information about the Dutch course at B1 level.\n\nSpecifically, I am curious about:\n\n- The start date and duration of the course\n- The number of lessons per week and the times\n- The total cost and any payment arrangements\n- Whether an entry test is required\n- The maximum group size\n\nFurthermore, I am a resident of The Hague — do you also have locations outside Amsterdam?\n\nThank you in advance for your reply.\n\nKind regards,\nAlex Petrov"
-  },
-  {
-    "id": "w42",
-    "title": "Thank Someone for a Favour",
-    "description": "Thank someone for writing a reference letter",
-    "difficulty": 3,
-    "modelAnswer": "Beste Marieke,\n\nHeel erg bedankt voor de brief — ik heb hem net gelezen en ben er echt blij mee. De voorbeelden die je noemt geven precies de samenwerking weer zoals ik die ook heb ervaren.\n\nHet is fijn dat ik op je kon rekenen, zeker met deze deadline. Ik laat je natuurlijk weten hoe het loopt met de sollicitatie.\n\nNogmaals dank en groet,\nAlex",
-    "modelAnswerEn": "Dear Marieke,\n\nThank you so much for the letter — I have just read it and am really happy with it. The examples you mention reflect exactly the collaboration as I experienced it too.\n\nIt is good that I could count on you, especially with this deadline. Of course I will let you know how things go with the application.\n\nThanks again and regards,\nAlex"
-  },
-  {
-    "id": "w43",
-    "title": "Cancel a Reservation",
-    "description": "Cancel a hotel reservation",
-    "difficulty": 3,
-    "modelAnswer": "Geachte heer/mevrouw,\n\nHelaas moet ik mijn reservering bij Hotel De Zeester van 14 t/m 17 juni annuleren wegens onverwachte familieomstandigheden.\n\nIk ga ervan uit dat de annulering kosteloos is, aangezien deze ruim binnen de gestelde termijn van 7 dagen valt. Wilt u mij een bevestiging van de annulering toesturen?\n\nMijn reserveringsnummer is RZ-2026-08812.\n\nBij voorbaat dank.\n\nMet vriendelijke groet,\nAlex Petrov",
-    "modelAnswerEn": "Dear sir/madam,\n\nUnfortunately I have to cancel my reservation at Hotel De Zeester from 14 to 17 June due to unexpected family circumstances.\n\nI assume that the cancellation is free of charge, as it falls well within the stated period of 7 days. Could you send me a confirmation of the cancellation?\n\nMy reservation number is RZ-2026-08812.\n\nThank you in advance.\n\nKind regards,\nAlex Petrov"
-  },
-  {
-    "id": "w44",
-    "title": "Accept a Personal Invitation",
-    "description": "Accept a friend's invitation to a birthday party",
-    "difficulty": 3,
-    "modelAnswer": "Hoi Sophie,\n\nWat leuk — natuurlijk kom ik! Veertig is een mooi rond getal, dat moet gevierd worden. Reken op mij op 15 juni vanaf 19:00.\n\nIk neem toch iets mee, gewoon omdat dat hoort. Heb je een voorkeur — wijn, bubbels, of liever iets eetbaars?\n\nTot de 15e!\n\nGroetjes,\nAlex",
-    "modelAnswerEn": "Hi Sophie,\n\nHow nice — of course I'm coming! Forty is a nice round number, that has to be celebrated. Count on me on 15 June from 19:00.\n\nI'll bring something anyway, just because that's the proper thing to do. Do you have a preference — wine, bubbly, or rather something edible?\n\nSee you on the 15th!\n\nRegards,\nAlex"
-  },
-  {
-    "id": "w45",
-    "title": "Apologise for a Late Reply",
-    "description": "Apologise for a late reply and respond to a request",
-    "difficulty": 3,
-    "modelAnswer": "Beste Erik,\n\nExcuses voor mijn late reactie — je mail was in mijn inbox ondergesneeuwd. Bedankt voor je vriendelijke woorden over het artikel; leuk om te horen dat het aansluit bij waar jij mee bezig bent.\n\nIk vind het hartstikke leuk om eens samen te zitten. Komende week zit vol, maar de week erna heb ik op woensdag of donderdag wel ruimte. Werkt een van die middagen voor jou? Online of in Amsterdam — wat jou het beste uitkomt.\n\nHartelijke groet,\nAlex",
-    "modelAnswerEn": "Dear Erik,\n\nApologies for my late reply — your email got buried in my inbox. Thank you for your kind words about the article; nice to hear that it ties in with what you are working on.\n\nI would really love to sit down together sometime. Next week is full, but the week after I have room on Wednesday or Thursday. Does one of those afternoons work for you? Online or in Amsterdam — whatever suits you best.\n\nKind regards,\nAlex"
-  },
-  {
-    "id": "w46",
-    "title": "Request a Quote",
-    "description": "Request a quote for a home painting job",
-    "difficulty": 4,
-    "modelAnswer": "Geachte heer/mevrouw,\n\nVia uw website kwam ik bij Schildersbedrijf Van Velzen terecht. Ik ben op zoek naar een schilder voor het binnenwerk van mijn woning in Den Haag en zou graag een vrijblijvende offerte ontvangen.\n\nHet gaat om de volgende werkzaamheden:\n\n- Schilderen plafond en wanden van de woonkamer (ca. 35 m²)\n- Schilderen plafond, wanden en deuren van de hal (ca. 12 m²)\n- Inclusief voorbereiding (afplakken, klein plamuurwerk)\n- Kleur in overleg, matte muurverf\n\nIk zou de werkzaamheden graag in juni laten uitvoeren. Kunt u langskomen voor een opname, of een offerte op basis van bovenstaande gegevens uitbrengen?\n\nMijn adres: Laan van Meerdervoort 123, 2517 BB Den Haag. Telefonisch ben ik bereikbaar op 06-12345678.\n\nIk zie uw reactie graag tegemoet.\n\nMet vriendelijke groet,\nAlex Petrov",
-    "modelAnswerEn": "Dear sir/madam,\n\nThrough your website I came across Schildersbedrijf Van Velzen. I am looking for a painter for the interior work of my home in The Hague and would like to receive a no-obligation quote.\n\nIt concerns the following work:\n\n- Painting the ceiling and walls of the living room (approx. 35 m²)\n- Painting the ceiling, walls and doors of the hallway (approx. 12 m²)\n- Including preparation (taping off, minor filling work)\n- Color to be discussed, matte wall paint\n\nI would like to have the work carried out in June. Could you come by for an assessment, or issue a quote based on the above details?\n\nMy address: Laan van Meerdervoort 123, 2517 BB The Hague. I can be reached by phone at 06-12345678.\n\nI look forward to your response.\n\nKind regards,\nAlex Petrov"
+    "id": "w47",
+    "title": "Volunteer Work Registration",
+    "description": "Fill in a form to register as a volunteer at a neighborhood centre",
+    "modelAnswer": "Aanmeldingsformulier Vrijwilligerswerk Buurtcentrum De Ontmoeting\n\nVoor- en achternaam: Maria van der Berg\nAdres: Dorpsstraat 15\nPostcode en woonplaats: 1234 AB Amsterdam\nTelefoonnummer: 06-12345678\nE-mailadres: maria.vandenberg@email.nl\nGeboortedatum: 15 maart 1975\n\nWelk soort vrijwilligerswerk wilt u doen?\n☑ Hulp bij activiteiten voor ouderen\n☑ Begeleiding van kinderen\n\nWanneer bent u beschikbaar?\n☑ Doordeweeks overdag\n☑ Flexibel\n\nWaarom wilt u vrijwilligerswerk doen?\nIk wil vrijwilligerswerk doen omdat ik graag iets terug wil geven aan de samenleving. Na mijn pensionering heb ik meer tijd en wil ik die zinvol besteden. Bovendien vind ik het belangrijk om contact te hebben met mensen uit mijn buurt.\n\nWelke ervaring heeft u met het werken met mensen?\nIk heb veel ervaring met het werken met mensen omdat ik dertig jaar als verpleegkundige heb gewerkt in een ziekenhuis. Daarnaast heb ik vijf jaar geleden een cursus gevolgd over omgaan met dementie.",
+    "modelAnswerEn": "Registration Form Volunteer Work Community Centre De Ontmoeting\n\nFirst and last name: Maria van der Berg\nAddress: Dorpsstraat 15\nPostcode and town: 1234 AB Amsterdam\nPhone number: 06-12345678\nEmail address: maria.vandenberg@email.nl\nDate of birth: 15 March 1975\n\nWhat kind of volunteer work would you like to do?\n☑ Help with activities for the elderly\n☑ Supervising children\n\nWhen are you available?\n☑ Weekdays during the day\n☑ Flexible\n\nWhy do you want to do volunteer work?\nI want to do volunteer work because I would like to give something back to society. After my retirement I have more time and I want to spend it meaningfully. Moreover, I find it important to have contact with people from my neighborhood.\n\nWhat experience do you have working with people?\nI have a lot of experience working with people because I worked as a nurse in a hospital for thirty years. In addition, five years ago I took a course on dealing with dementia."
   }
 ]
