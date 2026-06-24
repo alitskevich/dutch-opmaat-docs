@@ -1,17 +1,5 @@
 [
   {
-    "id": "p00001",
-    "nl": "2.000 maaltijden is best indrukwekkend.",
-    "en": "2,000 meals is quite impressive.",
-    "level": "b"
-  },
-  {
-    "id": "p00002",
-    "nl": "20 oktober, 14:30 past me prima.",
-    "en": "October 20th, 2:30 works for me.",
-    "level": "b"
-  },
-  {
     "id": "p00003",
     "nl": "Aangename verrassingen zijn altijd welkom.",
     "en": "Pleasant surprises are always welcome.",
@@ -28,12 +16,6 @@
     "nl": "Ah, dat verheldert de verwarring.",
     "en": "Ah, that clears up the confusion.",
     "level": "b"
-  },
-  {
-    "id": "p00006",
-    "nl": "Alle beetjes helpen.",
-    "en": "Every bit helps.",
-    "level": "a"
   },
   {
     "id": "p00007",
@@ -84,12 +66,6 @@
     "level": "c"
   },
   {
-    "id": "p00015",
-    "nl": "Astronomie is best interessant.",
-    "en": "Astronomy is quite interesting.",
-    "level": "a"
-  },
-  {
     "id": "p00016",
     "nl": "Australië heeft geweldige werkperspectieven.",
     "en": "Australia has great job prospects.",
@@ -121,32 +97,8 @@
   },
   {
     "id": "p00021",
-    "nl": "Bedankt voor de aanmoediging.",
-    "en": "Thanks for the encouragement.",
-    "level": "a"
-  },
-  {
-    "id": "p00022",
-    "nl": "Bedankt voor de bevestiging.",
-    "en": "Thanks for confirming.",
-    "level": "a"
-  },
-  {
-    "id": "p00023",
-    "nl": "Bedankt voor de moeite.",
-    "en": "Thanks for trying.",
-    "level": "a"
-  },
-  {
-    "id": "p00024",
-    "nl": "Bedankt voor het advies.",
-    "en": "Thanks for the advice.",
-    "level": "a"
-  },
-  {
-    "id": "p00025",
-    "nl": "Bedankt voor het lesgeven.",
-    "en": "Thanks for teaching us.",
+    "nl": "Bedankt voor ( de aanmoediging | de bevestiging | de moeite | het advies | het lesgeven ).",
+    "en": "Thanks for ( the encouragement | confirming | trying | the advice | teaching us ).",
     "level": "a"
   },
   {
@@ -157,14 +109,8 @@
   },
   {
     "id": "p00027",
-    "nl": "Bedankt voor je begrip.",
-    "en": "Thanks for understanding.",
-    "level": "a"
-  },
-  {
-    "id": "p00028",
-    "nl": "Bedankt voor je geduld.",
-    "en": "Thanks for your patience.",
+    "nl": "Bedankt voor je ( begrip | geduld ).",
+    "en": "Thanks for ( understanding | your patience ).",
     "level": "a"
   },
   {
@@ -414,6 +360,24 @@
     "level": "b"
   },
   {
+    "id": "p00088",
+    "nl": "Dat is ( fascinerend | fijn ).",
+    "en": "That's ( fascinating | nice ).",
+    "level": "a"
+  },
+  {
+    "id": "p00099",
+    "nl": "Dat is ( indrukwekkend | interessant ).",
+    "en": "That's ( impressive | interesting ).",
+    "level": "a"
+  },
+  {
+    "id": "p00107",
+    "nl": "Dat is ( onaanvaardbaar | slim | tragisch | waar ).",
+    "en": "That's ( unacceptable | smart | tragic | true ).",
+    "level": "a"
+  },
+  {
     "id": "p00070",
     "nl": "Dat is begrijpelijk.",
     "en": "That's understandable.",
@@ -427,14 +391,8 @@
   },
   {
     "id": "p00072",
-    "nl": "Dat is de beste aanpak.",
-    "en": "That's the best approach.",
-    "level": "b"
-  },
-  {
-    "id": "p00073",
-    "nl": "Dat is de beste manier.",
-    "en": "That's the best way.",
+    "nl": "Dat is de beste ( aanpak | manier ).",
+    "en": "That's the best ( approach | way ).",
     "level": "b"
   },
   {
@@ -522,18 +480,6 @@
     "level": "b"
   },
   {
-    "id": "p00088",
-    "nl": "Dat is fascinerend.",
-    "en": "That's fascinating.",
-    "level": "a"
-  },
-  {
-    "id": "p00089",
-    "nl": "Dat is fijn.",
-    "en": "That's nice.",
-    "level": "a"
-  },
-  {
     "id": "p00090",
     "nl": "Dat is genoeg voor het ontbijt.",
     "en": "That's enough for breakfast.",
@@ -547,14 +493,8 @@
   },
   {
     "id": "p00092",
-    "nl": "Dat is geweldig advies.",
-    "en": "That's great advice.",
-    "level": "a"
-  },
-  {
-    "id": "p00093",
-    "nl": "Dat is geweldig nieuws.",
-    "en": "That's great news.",
+    "nl": "Dat is geweldig ( advies | nieuws ).",
+    "en": "That's great ( advice | news ).",
     "level": "a"
   },
   {
@@ -586,18 +526,6 @@
     "nl": "Dat is het, maar ook een beetje uitdagend.",
     "en": "It is, but also a bit challenging.",
     "level": "c"
-  },
-  {
-    "id": "p00099",
-    "nl": "Dat is indrukwekkend.",
-    "en": "That's impressive.",
-    "level": "a"
-  },
-  {
-    "id": "p00100",
-    "nl": "Dat is interessant.",
-    "en": "That's interesting.",
-    "level": "a"
   },
   {
     "id": "p00101",
@@ -636,30 +564,6 @@
     "level": "c"
   },
   {
-    "id": "p00107",
-    "nl": "Dat is onaanvaardbaar.",
-    "en": "That's unacceptable.",
-    "level": "a"
-  },
-  {
-    "id": "p00108",
-    "nl": "Dat is slim.",
-    "en": "That's smart.",
-    "level": "a"
-  },
-  {
-    "id": "p00109",
-    "nl": "Dat is tragisch.",
-    "en": "That's tragic.",
-    "level": "a"
-  },
-  {
-    "id": "p00110",
-    "nl": "Dat is waar.",
-    "en": "That's true.",
-    "level": "a"
-  },
-  {
     "id": "p00111",
     "nl": "Dat is zo, maar ze werken eraan.",
     "en": "It is, but they're working on it.",
@@ -681,6 +585,12 @@
     "id": "p00114",
     "nl": "Dat klinken leuke activiteiten.",
     "en": "Those sound like fun activities.",
+    "level": "a"
+  },
+  {
+    "id": "p00120",
+    "nl": "Dat klinkt ( heerlijk | leuk | logisch | perfect ).",
+    "en": "That ( sounds delicious | sounds fun | makes sense | sounds perfect ).",
     "level": "a"
   },
   {
@@ -712,30 +622,6 @@
     "nl": "Dat klinkt gezellig en ontspannend.",
     "en": "That sounds cozy and relaxing.",
     "level": "b"
-  },
-  {
-    "id": "p00120",
-    "nl": "Dat klinkt heerlijk.",
-    "en": "That sounds delicious.",
-    "level": "a"
-  },
-  {
-    "id": "p00121",
-    "nl": "Dat klinkt leuk.",
-    "en": "That sounds fun.",
-    "level": "a"
-  },
-  {
-    "id": "p00122",
-    "nl": "Dat klinkt logisch.",
-    "en": "That makes sense.",
-    "level": "a"
-  },
-  {
-    "id": "p00123",
-    "nl": "Dat klinkt perfect.",
-    "en": "That sounds perfect.",
-    "level": "a"
   },
   {
     "id": "p00124",
@@ -823,14 +709,8 @@
   },
   {
     "id": "p00138",
-    "nl": "Dat zal ik doen.",
-    "en": "I will.",
-    "level": "a"
-  },
-  {
-    "id": "p00139",
-    "nl": "Dat zal ik onthouden.",
-    "en": "I'll remember that.",
+    "nl": "Dat zal ik ( doen | onthouden ).",
+    "en": "( I will | I'll remember that ).",
     "level": "a"
   },
   {
@@ -1596,21 +1476,15 @@
     "level": "b"
   },
   {
+    "id": "p00268",
+    "nl": "Fijn dat je ( oké | veilig ) bent.",
+    "en": "Glad you're ( okay | safe ).",
+    "level": "b"
+  },
+  {
     "id": "p00267",
     "nl": "Fijn dat je ervan genoten hebt.",
     "en": "Glad you enjoyed it.",
-    "level": "b"
-  },
-  {
-    "id": "p00268",
-    "nl": "Fijn dat je oké bent.",
-    "en": "Glad you're okay.",
-    "level": "b"
-  },
-  {
-    "id": "p00269",
-    "nl": "Fijn dat je veilig bent.",
-    "en": "Glad you're safe.",
     "level": "b"
   },
   {
@@ -1795,14 +1669,8 @@
   },
   {
     "id": "p00300",
-    "nl": "Geniet van het uitzicht.",
-    "en": "Enjoy the view.",
-    "level": "a"
-  },
-  {
-    "id": "p00301",
-    "nl": "Geniet van het weer.",
-    "en": "Enjoy the weather.",
+    "nl": "Geniet van het ( uitzicht | weer ).",
+    "en": "Enjoy the ( view | weather ).",
     "level": "a"
   },
   {
@@ -1954,6 +1822,18 @@
     "nl": "Handen in de zakken.",
     "en": "Hands in pockets.",
     "level": "a"
+  },
+  {
+    "id": "p00636",
+    "nl": "Hé zus, kun je het licht aandoen?",
+    "en": "Hey sis, can you turn on the light?",
+    "level": "b"
+  },
+  {
+    "id": "p00637",
+    "nl": "Hé, wat doe je daar, de doorgang versperren?",
+    "en": "Hey, what are you doing blocking the way?",
+    "level": "c"
   },
   {
     "id": "p00327",
@@ -2209,14 +2089,8 @@
   },
   {
     "id": "p00369",
-    "nl": "Het draait allemaal om leren.",
-    "en": "It's all about learning.",
-    "level": "b"
-  },
-  {
-    "id": "p00370",
-    "nl": "Het draait allemaal om oefening.",
-    "en": "It's all about practice.",
+    "nl": "Het draait allemaal om ( leren | oefening ).",
+    "en": "It's all about ( learning | practice ).",
     "level": "b"
   },
   {
@@ -2326,6 +2200,12 @@
     "nl": "Het hotel is hier helaas niet meer.",
     "en": "The hotel is no longer here, unfortunately.",
     "level": "b"
+  },
+  {
+    "id": "p00435",
+    "nl": "Het is ( handig | heerlijk ).",
+    "en": "It's ( convenient | delicious ).",
+    "level": "a"
   },
   {
     "id": "p00389",
@@ -2521,14 +2401,8 @@
   },
   {
     "id": "p00421",
-    "nl": "Het is erg frustrerend.",
-    "en": "It's very frustrating.",
-    "level": "a"
-  },
-  {
-    "id": "p00422",
-    "nl": "Het is erg ontroerend.",
-    "en": "It's very moving.",
+    "nl": "Het is erg ( frustrerend | ontroerend ).",
+    "en": "It's very ( frustrating | moving ).",
     "level": "a"
   },
   {
@@ -2602,18 +2476,6 @@
     "nl": "Het is goed om zulke vaardigheden te hebben.",
     "en": "It's good to have such skills.",
     "level": "c"
-  },
-  {
-    "id": "p00435",
-    "nl": "Het is handig.",
-    "en": "It's convenient.",
-    "level": "a"
-  },
-  {
-    "id": "p00436",
-    "nl": "Het is heerlijk.",
-    "en": "It's delicious.",
-    "level": "a"
   },
   {
     "id": "p00437",
@@ -2803,14 +2665,8 @@
   },
   {
     "id": "p00468",
-    "nl": "Het is zo duidelijker.",
-    "en": "It's clearer that way.",
-    "level": "a"
-  },
-  {
-    "id": "p00469",
-    "nl": "Het is zo schilderachtig.",
-    "en": "It's so picturesque.",
+    "nl": "Het is zo ( duidelijker | schilderachtig ).",
+    "en": "It's ( clearer that way | so picturesque ).",
     "level": "a"
   },
   {
@@ -3000,6 +2856,12 @@
     "level": "b"
   },
   {
+    "id": "p00508",
+    "nl": "Het was ( geweldig | handig ).",
+    "en": "It was ( great | convenient ).",
+    "level": "a"
+  },
+  {
     "id": "p00501",
     "nl": "Het was aardig van hem om zich te verontschuldigen.",
     "en": "It was nice of him to apologize.",
@@ -3040,18 +2902,6 @@
     "nl": "Het was een slimme zet.",
     "en": "It was a smart move.",
     "level": "b"
-  },
-  {
-    "id": "p00508",
-    "nl": "Het was geweldig.",
-    "en": "It was great.",
-    "level": "a"
-  },
-  {
-    "id": "p00509",
-    "nl": "Het was handig.",
-    "en": "It was convenient.",
-    "level": "a"
   },
   {
     "id": "p00510",
@@ -3511,14 +3361,8 @@
   },
   {
     "id": "p00586",
-    "nl": "Hoe laat sta je op werkdagen op?",
-    "en": "What time do you get up on work days?",
-    "level": "b"
-  },
-  {
-    "id": "p00587",
-    "nl": "Hoe laat sta je voor de school?",
-    "en": "What time will you be in front of the school?",
+    "nl": "Hoe laat sta je ( op werkdagen op | voor de school )?",
+    "en": "What time ( do you get up on work days | will you be in front of the school )?",
     "level": "b"
   },
   {
@@ -3673,14 +3517,8 @@
   },
   {
     "id": "p00613",
-    "nl": "Hoeveel jongens zitten er in deze klas?",
-    "en": "How many boys are there in this class?",
-    "level": "b"
-  },
-  {
-    "id": "p00614",
-    "nl": "Hoeveel jongens zitten er in jouw klas?",
-    "en": "How many boys are there in your class?",
+    "nl": "Hoeveel jongens zitten er in ( deze | jouw ) klas?",
+    "en": "How many boys are there in ( this | your ) class?",
     "level": "b"
   },
   {
@@ -3810,18 +3648,6 @@
     "level": "a"
   },
   {
-    "id": "p00636",
-    "nl": "Hé zus, kun je het licht aandoen?",
-    "en": "Hey sis, can you turn on the light?",
-    "level": "b"
-  },
-  {
-    "id": "p00637",
-    "nl": "Hé, wat doe je daar, de doorgang versperren?",
-    "en": "Hey, what are you doing blocking the way?",
-    "level": "c"
-  },
-  {
     "id": "p00638",
     "nl": "Ieder zijn ding.",
     "en": "Different strokes for different folks.",
@@ -3840,28 +3666,16 @@
     "level": "b"
   },
   {
-    "id": "p00641",
-    "nl": "Iedereen heeft zijn eigen interesses.",
-    "en": "Everyone has their own interests.",
-    "level": "b"
-  },
-  {
-    "id": "p00642",
-    "nl": "Iedereen heeft zijn eigen persoonlijkheid.",
-    "en": "Everyone has their own personality.",
-    "level": "b"
-  },
-  {
     "id": "p00643",
-    "nl": "Iedereen heeft zijn voorkeur.",
-    "en": "Everyone has their preference.",
+    "nl": "Iedereen heeft zijn ( voorkeur | voorkeuren ).",
+    "en": "Everyone has their ( preference | preferences ).",
     "level": "a"
   },
   {
-    "id": "p00644",
-    "nl": "Iedereen heeft zijn voorkeuren.",
-    "en": "Everyone has their preferences.",
-    "level": "a"
+    "id": "p00641",
+    "nl": "Iedereen heeft zijn eigen ( interesses | persoonlijkheid ).",
+    "en": "Everyone has their own ( interests | personality ).",
+    "level": "b"
   },
   {
     "id": "p00645",
@@ -4225,14 +4039,8 @@
   },
   {
     "id": "p00705",
-    "nl": "Ik ben zo blij.",
-    "en": "I'm so happy.",
-    "level": "a"
-  },
-  {
-    "id": "p00706",
-    "nl": "Ik ben zo moe.",
-    "en": "I'm so tired.",
+    "nl": "Ik ben zo ( blij | moe ).",
+    "en": "I'm so ( happy | tired ).",
     "level": "a"
   },
   {
@@ -4374,22 +4182,16 @@
     "level": "a"
   },
   {
+    "id": "p00731",
+    "nl": "Ik doe het ( later | voor je aan ).",
+    "en": "( I'll do it later | Let me turn it on for you ).",
+    "level": "a"
+  },
+  {
     "id": "p00730",
     "nl": "Ik doe het gordijn voor je open zodat je naar buiten kunt kijken.",
     "en": "I'll open the curtain for you to look out.",
     "level": "c"
-  },
-  {
-    "id": "p00731",
-    "nl": "Ik doe het later.",
-    "en": "I'll do it later.",
-    "level": "a"
-  },
-  {
-    "id": "p00732",
-    "nl": "Ik doe het voor je aan.",
-    "en": "Let me turn it on for you.",
-    "level": "b"
   },
   {
     "id": "p00733",
@@ -4788,16 +4590,16 @@
     "level": "a"
   },
   {
-    "id": "p00799",
-    "nl": "Ik help je graag.",
-    "en": "I'd be happy to help.",
-    "level": "a"
-  },
-  {
     "id": "p00800",
     "nl": "Ik help je ernaar zoeken.",
     "en": "I'll help you search for them.",
     "level": "b"
+  },
+  {
+    "id": "p00799",
+    "nl": "Ik help je graag.",
+    "en": "I'd be happy to help.",
+    "level": "a"
   },
   {
     "id": "p00801",
@@ -4879,13 +4681,7 @@
   },
   {
     "id": "p00814",
-    "nl": "Ik hoop dat je het lekker vindt.",
-    "en": "I hope you like it.",
-    "level": "b"
-  },
-  {
-    "id": "p00815",
-    "nl": "Ik hoop dat je het mooi vindt.",
+    "nl": "Ik hoop dat je het ( lekker | mooi ) vindt.",
     "en": "I hope you like it.",
     "level": "b"
   },
@@ -5497,14 +5293,8 @@
   },
   {
     "id": "p00917",
-    "nl": "Ik waardeer je eerlijkheid.",
-    "en": "I appreciate your honesty.",
-    "level": "a"
-  },
-  {
-    "id": "p00918",
-    "nl": "Ik waardeer je inzet.",
-    "en": "I appreciate your effort.",
+    "nl": "Ik waardeer je ( eerlijkheid | inzet ).",
+    "en": "I appreciate your ( honesty | effort ).",
     "level": "a"
   },
   {
@@ -5742,6 +5532,12 @@
     "level": "a"
   },
   {
+    "id": "p00960",
+    "nl": "Ik zal het ( proberen | uitzoeken ).",
+    "en": "I'll ( give it a try | look into it ).",
+    "level": "a"
+  },
+  {
     "id": "p00958",
     "nl": "Ik zal het met hem goedmaken.",
     "en": "I'll make up with him.",
@@ -5752,18 +5548,6 @@
     "nl": "Ik zal het nauwkeurig opvolgen.",
     "en": "I'll make sure to follow it precisely.",
     "level": "b"
-  },
-  {
-    "id": "p00960",
-    "nl": "Ik zal het proberen.",
-    "en": "I'll give it a try.",
-    "level": "a"
-  },
-  {
-    "id": "p00961",
-    "nl": "Ik zal het uitzoeken.",
-    "en": "I'll look into it.",
-    "level": "a"
   },
   {
     "id": "p00962",
@@ -6564,6 +6348,12 @@
     "level": "b"
   },
   {
+    "id": "p01098",
+    "nl": "Ja, het was ( geweldig | leuk ).",
+    "en": "Yes, it was ( great | fun ).",
+    "level": "a"
+  },
+  {
     "id": "p01095",
     "nl": "Ja, het was een fijne plek.",
     "en": "Yes, it was a nice place.",
@@ -6580,18 +6370,6 @@
     "nl": "Ja, het was erg onbeleefd van ze.",
     "en": "Yes, it was very rude of them.",
     "level": "b"
-  },
-  {
-    "id": "p01098",
-    "nl": "Ja, het was geweldig.",
-    "en": "Yes, it was great.",
-    "level": "a"
-  },
-  {
-    "id": "p01099",
-    "nl": "Ja, het was leuk.",
-    "en": "Yes, it was fun.",
-    "level": "a"
   },
   {
     "id": "p01100",
@@ -6655,26 +6433,14 @@
   },
   {
     "id": "p01110",
-    "nl": "Ja, hij is erg aardig.",
-    "en": "Yes, he's very nice.",
-    "level": "b"
-  },
-  {
-    "id": "p01111",
-    "nl": "Ja, hij is erg overtuigend.",
-    "en": "Yes, he's very persuasive.",
+    "nl": "Ja, hij is erg ( aardig | overtuigend ).",
+    "en": "Yes, he's very ( nice | persuasive ).",
     "level": "b"
   },
   {
     "id": "p01112",
-    "nl": "Ja, hij is heel aardig.",
-    "en": "Yes, he's very nice.",
-    "level": "b"
-  },
-  {
-    "id": "p01113",
-    "nl": "Ja, hij is heel capabel.",
-    "en": "Yes, he's very capable.",
+    "nl": "Ja, hij is heel ( aardig | capabel ).",
+    "en": "Yes, he's very ( nice | capable ).",
     "level": "b"
   },
   {
@@ -6733,14 +6499,8 @@
   },
   {
     "id": "p01123",
-    "nl": "Ja, ik ben er heel blij mee.",
-    "en": "Yes, I'm very happy about it.",
-    "level": "b"
-  },
-  {
-    "id": "p01124",
-    "nl": "Ja, ik ben er heel tevreden mee.",
-    "en": "Yes, I'm quite happy with it.",
+    "nl": "Ja, ik ben er heel ( blij | tevreden ) mee.",
+    "en": "Yes, I'm ( very happy about | quite happy with ) it.",
     "level": "b"
   },
   {
@@ -7278,6 +7038,12 @@
     "level": "b"
   },
   {
+    "id": "p01217",
+    "nl": "Je hebt ( gelijk | het verdiend ).",
+    "en": "( You're right | You deserve it ).",
+    "level": "a"
+  },
+  {
     "id": "p01214",
     "nl": "Je hebt een leuk feest gemist.",
     "en": "You missed out on a fun party.",
@@ -7294,18 +7060,6 @@
     "nl": "Je hebt er hard voor gewerkt.",
     "en": "You worked hard for it.",
     "level": "b"
-  },
-  {
-    "id": "p01217",
-    "nl": "Je hebt gelijk.",
-    "en": "You're right.",
-    "level": "a"
-  },
-  {
-    "id": "p01218",
-    "nl": "Je hebt het verdiend.",
-    "en": "You deserve it.",
-    "level": "a"
   },
   {
     "id": "p01219",
@@ -7842,6 +7596,12 @@
     "level": "c"
   },
   {
+    "id": "p01314",
+    "nl": "Laten we het ( plannen | uitvoeren ).",
+    "en": "Let's ( plan | implement ) it.",
+    "level": "a"
+  },
+  {
     "id": "p01308",
     "nl": "Laten we het adres controleren om zeker te zijn.",
     "en": "Let's check the address to be sure.",
@@ -7878,18 +7638,6 @@
     "level": "b"
   },
   {
-    "id": "p01314",
-    "nl": "Laten we het plannen.",
-    "en": "Let's plan it.",
-    "level": "a"
-  },
-  {
-    "id": "p01315",
-    "nl": "Laten we het uitvoeren.",
-    "en": "Let's implement it.",
-    "level": "a"
-  },
-  {
     "id": "p01316",
     "nl": "Laten we het voor volgende week plannen.",
     "en": "Let's schedule for next week.",
@@ -7903,14 +7651,8 @@
   },
   {
     "id": "p01318",
-    "nl": "Laten we iets te eten halen.",
-    "en": "Let's grab something to eat.",
-    "level": "b"
-  },
-  {
-    "id": "p01319",
-    "nl": "Laten we iets te eten zoeken.",
-    "en": "Let's find something to eat.",
+    "nl": "Laten we iets te eten ( halen | zoeken ).",
+    "en": "Let's ( grab | find ) something to eat.",
     "level": "b"
   },
   {
@@ -7939,14 +7681,8 @@
   },
   {
     "id": "p01324",
-    "nl": "Laten we naar buiten gaan.",
-    "en": "Let's go outside.",
-    "level": "b"
-  },
-  {
-    "id": "p01325",
-    "nl": "Laten we naar de bar gaan.",
-    "en": "Let's head to the bar.",
+    "nl": "Laten we naar ( buiten | de bar ) gaan.",
+    "en": "Let's ( go outside | head to the bar ).",
     "level": "b"
   },
   {
@@ -8046,15 +7782,15 @@
     "level": "b"
   },
   {
-    "id": "p01342",
-    "nl": "Liefde op het eerste gezicht.",
-    "en": "Love at first sight.",
-    "level": "b"
-  },
-  {
     "id": "p01343",
     "nl": "Liefde op het eerste gezicht?",
     "en": "Love at first sight?",
+    "level": "b"
+  },
+  {
+    "id": "p01342",
+    "nl": "Liefde op het eerste gezicht.",
+    "en": "Love at first sight.",
     "level": "b"
   },
   {
@@ -8437,14 +8173,8 @@
   },
   {
     "id": "p01407",
-    "nl": "Nee, het was een goed tijdstip.",
-    "en": "No, it was a good time.",
-    "level": "b"
-  },
-  {
-    "id": "p01408",
-    "nl": "Nee, het was een redelijk tijdstip.",
-    "en": "No, it was a reasonable hour.",
+    "nl": "Nee, het was een ( goed | redelijk ) tijdstip.",
+    "en": "No, it was a ( good time | reasonable hour ).",
     "level": "b"
   },
   {
@@ -8677,14 +8407,8 @@
   },
   {
     "id": "p01447",
-    "nl": "Perfect voor een picknick.",
-    "en": "Perfect for a picnic.",
-    "level": "a"
-  },
-  {
-    "id": "p01448",
-    "nl": "Perfect voor maaltijden buiten.",
-    "en": "Perfect for outdoor meals.",
+    "nl": "Perfect voor ( een picknick | maaltijden buiten ).",
+    "en": "Perfect for ( a picnic | outdoor meals ).",
     "level": "a"
   },
   {
@@ -9061,15 +8785,9 @@
   },
   {
     "id": "p01511",
-    "nl": "Veel plezier bij het evenement.",
-    "en": "Enjoy the event.",
+    "nl": "Veel plezier ( bij het evenement | buiten ).",
+    "en": "( Enjoy the event | Have a good time out ).",
     "level": "b"
-  },
-  {
-    "id": "p01512",
-    "nl": "Veel plezier buiten.",
-    "en": "Have a good time out.",
-    "level": "a"
   },
   {
     "id": "p01513",
@@ -9583,14 +9301,8 @@
   },
   {
     "id": "p01598",
-    "nl": "Wat een geluk.",
-    "en": "Lucky you.",
-    "level": "a"
-  },
-  {
-    "id": "p01599",
-    "nl": "Wat een opluchting.",
-    "en": "That's a relief.",
+    "nl": "Wat een ( geluk | opluchting ).",
+    "en": "( Lucky you | That's a relief ).",
     "level": "a"
   },
   {
@@ -10117,14 +9829,8 @@
   },
   {
     "id": "p01687",
-    "nl": "Wil je me helpen mijn portemonnee te zoeken?",
-    "en": "Will you help me look for my purse?",
-    "level": "c"
-  },
-  {
-    "id": "p01688",
-    "nl": "Wil je me helpen mijn sleutels te zoeken?",
-    "en": "Would you help me look for my keys?",
+    "nl": "Wil je me helpen mijn ( portemonnee | sleutels ) te zoeken?",
+    "en": "( Will you help me look for my purse | Would you help me look for my keys )?",
     "level": "c"
   },
   {
@@ -10266,6 +9972,12 @@
     "level": "b"
   },
   {
+    "id": "p01714",
+    "nl": "Ze is ( een vreugde | geweldig ).",
+    "en": "She's ( a joy | amazing ).",
+    "level": "a"
+  },
+  {
     "id": "p01712",
     "nl": "Ze is 7 jaar oud.",
     "en": "She's 7 years old.",
@@ -10276,18 +9988,6 @@
     "nl": "Ze is echt schattig, toch?",
     "en": "She's absolutely adorable, right?",
     "level": "b"
-  },
-  {
-    "id": "p01714",
-    "nl": "Ze is een vreugde.",
-    "en": "She's a joy.",
-    "level": "a"
-  },
-  {
-    "id": "p01715",
-    "nl": "Ze is geweldig.",
-    "en": "She's amazing.",
-    "level": "a"
   },
   {
     "id": "p01716",

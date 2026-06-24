@@ -6,17 +6,20 @@ On their own they carry almost no weight — their job is to **set the tone**: s
 
 > Learn these not from a dictionary but as ready-made stacked templates. Individually they're nearly weightless; together they carry the entire emotional register of spoken Dutch.
 
-- toch => `vse gh taki`
-- even => `navprost`
-- nog => `esqe`
-- nou => `nu`
-- maar => `dyk`
-- wel => `ryxtyk`
-- hoor => `aga`
-- dus => `na tym`
-- gewoon => `prosto`
-- eens => `troxi`
-- net => `amalj`
+| Toner | Hint | Core meaning |
+|-------|------|--------------|
+| toch | `vse gh taki` | still / anyway / after all |
+| even | `navprost` | briefly / just / quickly |
+| nog | `esqe` | still / yet / more |
+| nou | `nu` | well / come on |
+| maar | `dyk` | but / just (go ahead) |
+| wel | `ryxtyk` | actually (anti-*niet*) |
+| hoor | `aga` | reassurance |
+| dus | `na tym` |  therefore |
+| gewoon | `zvyqajno` | simply |
+| eens | `razok` | once |
+| wat | `troxa` | a bit / somewhat |
+| net | `amalj` | just now / almost exactly |
 
 ## toch
 
@@ -187,6 +190,19 @@ Fixed constructions:
 - *een **nette** jongen* — a well-behaved boy
 - ***nette** kleren* — decent clothes
 - *Doe **netjes**!* — Behave yourself! (`netjes` = adverb form)
+
+## wat
+
+Besides the question word "what", `wat` works as a particle **"a bit / somewhat"** — softens an adjective, downplays a quantity.
+
+| Use | Example | English |
+|-----|---------|---------|
+| Soften an adjective | Het is `wat` koud. | It's a bit cold. |
+| Downplay a quantity | Ik heb `wat` geld. | I've got some money. |
+| Exclamation "how / what a" | `Wat` een mooie dag! | What a lovely day! |
+| Question word | `Wat` zeg je? | What did you say? |
+
+Flavor (as particle): "a touch, not too much" — milder than *een beetje*.
 
 ## The "just" trap
 

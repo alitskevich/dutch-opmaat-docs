@@ -29,9 +29,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de bakker bakte vroeg brood.",
-      "pastPlural": "de bakkers bakten samen koeken.",
-      "perfectum": "hij heeft gebakken en ingepakt."
+      "pastSingular": "zij bakte een verse plakte.",
+      "pastPlural": "de koks bakten en lakten.",
+      "perfectum": "hij heeft brood gebakken en gehakken."
     }
   },
   {
@@ -64,9 +64,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij bedroog ons met grote schroom.",
-      "pastPlural": "ze bedrogen de boeren met logen.",
-      "perfectum": "hij heeft ons bedrogen en misleid."
+      "pastSingular": "de dief bedroog en vloog weg.",
+      "pastPlural": "zij bedrogen en logen erbij.",
+      "perfectum": "hij heeft mij bedrogen, gelogen."
     }
   },
   {
@@ -99,9 +99,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "het concert begon zonder toon.",
-      "pastPlural": "de lessen begonnen met zingen.",
-      "perfectum": "hij heeft begonnen met gepraat."
+      "pastSingular": "de boer begon naast een ton.",
+      "pastPlural": "de boeren begonnen met tonnen.",
+      "perfectum": "wij zijn begonnen met tonnen."
     }
   },
   {
@@ -134,9 +134,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "zij beschreef elke streep nauwkeurig.",
-      "pastPlural": "de leerlingen beschreven het meer gedetailleerd.",
-      "perfectum": "hij heeft de reis beschreven in gedreven woorden."
+      "pastSingular": "hij beschreef de reis en bleef.",
+      "pastPlural": "zij beschreven hun leven.",
+      "perfectum": "hij heeft zijn leven beschreven."
     }
   },
   {
@@ -169,9 +169,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij besloot met groot geduld.",
-      "pastPlural": "ze besloten in de vroege nood.",
-      "perfectum": "ze hebben het besloten en goedgekeurd."
+      "pastSingular": "de baas besloot en goot thee.",
+      "pastPlural": "zij besloten en goten.",
+      "perfectum": "wij hebben besloten te stoten."
     }
   },
   {
@@ -204,9 +204,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "het oude verbond bestond nog.",
-      "pastPlural": "zulke gewoonten bestaan al eeuwen.",
-      "perfectum": "die tradities hebben altijd bestaan."
+      "pastSingular": "het dorp bestond en vond rust.",
+      "pastPlural": "die regels bestaan, ze slaan aan.",
+      "perfectum": "die wet heeft altijd bestaan, gegaan."
     }
   },
   {
@@ -239,9 +239,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de generaal beval met stalen stem.",
-      "pastPlural": "de leiders bevelen werden snel opgevolgd.",
-      "perfectum": "hij heeft bevolen zonder genade."
+      "pastSingular": "de kapitein beval het bevel.",
+      "pastPlural": "de officieren bevelen en spelen.",
+      "perfectum": "hij heeft het bevolen en gestolen."
     }
   },
   {
@@ -274,9 +274,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij bewoog zijn schouder zonder schroom.",
-      "pastPlural": "de golven bewogen in een gestage stroom.",
-      "perfectum": "ze heeft haar arm zacht bewogen."
+      "pastSingular": "de tak bewoog en vloog.",
+      "pastPlural": "de bladeren bewogen en logen.",
+      "perfectum": "de wind heeft alles bewogen en gewogen."
     }
   },
   {
@@ -309,9 +309,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij bezocht het zochte museum alleen.",
-      "pastPlural": "zij bezochten het zochte monument samen.",
-      "perfectum": "ze hebben het monument bezocht en gefotografeerd."
+      "pastSingular": "zij bezocht en zocht hulp.",
+      "pastPlural": "wij bezocht en gezocht het museum.",
+      "perfectum": "ik heb de stad bezocht en gezocht."
     }
   },
   {
@@ -344,9 +344,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij bad stil voor zijn maaltijd.",
-      "pastPlural": "de monniken baden samen in de abdij.",
-      "perfectum": "ze hebben innig gebeden, gezegend door hoop."
+      "pastSingular": "de monnik bad en zat stil.",
+      "pastPlural": "de mensen baden en raden.",
+      "perfectum": "wij hebben samen gebeden en geleden."
     }
   },
   {
@@ -379,9 +379,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij bood een goede prijs.",
-      "pastPlural": "ze boden gouden kansen aan.",
-      "perfectum": "hebben geboden, gezwegen over kosten."
+      "pastSingular": "hij bood en stootte aan.",
+      "pastPlural": "de kopers boden en stookten.",
+      "perfectum": "ik heb een prijs geboden en geleden."
     }
   },
   {
@@ -414,9 +414,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de hond beet zijn tanden stuk.",
-      "pastPlural": "de beten brandden als vuur.",
-      "perfectum": "hij heeft zich gisteren gebeten, gelukkig licht."
+      "pastSingular": "de hond beet en heette Rex.",
+      "pastPlural": "de muggen beten en eten.",
+      "perfectum": "de kat heeft mij gebeten en geweten."
     }
   },
   {
@@ -449,9 +449,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij bond de knoop stevig vast.",
-      "pastPlural": "ze bonden de bundels samen.",
-      "perfectum": "ze hebben de gevangene gebonden."
+      "pastSingular": "hij bond het touw en vond rust.",
+      "pastPlural": "zij bonden en vonden knopen.",
+      "perfectum": "ik heb de bundel gebonden en gevonden."
     }
   },
   {
@@ -484,9 +484,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de fluit blies zacht door de zaal.",
-      "pastPlural": "de muzikanten blazen speelden luid samen.",
-      "perfectum": "hij heeft geblazen op zijn geliefde trompet."
+      "pastSingular": "de wind blies en hield niet.",
+      "pastPlural": "de kinderen blazen en razen.",
+      "perfectum": "hij heeft de fluit geblazen en geraasd."
     }
   },
   {
@@ -519,9 +519,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de streek bleek gevaarlijk.",
-      "pastPlural": "de feiten bleken heel duidelijk.",
-      "perfectum": "het heeft gebleken, gelukkig."
+      "pastSingular": "het bleek waar en leek zo.",
+      "pastPlural": "de feiten bleken en leken.",
+      "perfectum": "het is later gebleken en geweken."
     }
   },
   {
@@ -555,9 +555,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij bleef stief alleen thuis.",
-      "pastPlural": "ze bleven steeds bij elkaar.",
-      "perfectum": "ze zijn gebleven, geborgen samen."
+      "pastSingular": "hij bleef thuis en schreef.",
+      "pastPlural": "wij bleven en schreven brieven.",
+      "perfectum": "ik ben thuis gebleven en gebleven kalm."
     }
   },
   {
@@ -590,9 +590,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de zon blonk op het brons.",
-      "pastPlural": "de sterren blonken door de wolken.",
-      "perfectum": "het metaal heeft geblonken als gepolijst goud."
+      "pastSingular": "het goud blonk en zonk niet.",
+      "pastPlural": "de sterren blonken en zonken.",
+      "perfectum": "het zilver heeft geblonken en geschonken licht."
     }
   },
   {
@@ -625,9 +625,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij brak zijn rake arm.",
-      "pastPlural": "ze braken alle laken door.",
-      "perfectum": "de vaas heeft gebroken, geknakt."
+      "pastSingular": "het glas brak en zak viel.",
+      "pastPlural": "de takken braken en kraken.",
+      "perfectum": "hij heeft zijn been gebroken en geroken."
     }
   },
   {
@@ -660,9 +660,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij bracht de vracht naar huis.",
-      "pastPlural": "zij brachten de wracht snel weg.",
-      "perfectum": "ze hebben de post gebracht, geleverd."
+      "pastSingular": "hij bracht het en lachte.",
+      "pastPlural": "zij brachten en lachten samen.",
+      "perfectum": "ik heb cadeaus gebracht en gedacht."
     }
   },
   {
@@ -695,9 +695,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij boog het zware staal moeiteloos.",
-      "pastPlural": "de werkers bogen de pijpen naar links.",
-      "perfectum": "ze heeft het roer gebogen en gebroken."
+      "pastSingular": "de tak boog en vloog terug.",
+      "pastPlural": "de bomen bogen en logen niet.",
+      "perfectum": "de man heeft gebogen en gevlogen."
     }
   },
   {
@@ -730,9 +730,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij dacht diep na over zijn tacht.",
-      "pastPlural": "ze dachten samen aan de vracht.",
-      "perfectum": "zij heeft er lang over gedacht, geacht."
+      "pastSingular": "hij dacht en lachte zacht.",
+      "pastPlural": "wij dachten en wachtten lang.",
+      "perfectum": "ik heb veel gedacht en gelachen."
     }
   },
   {
@@ -765,9 +765,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij deed een edele daad.",
-      "pastPlural": "ze deden goede dingen samen.",
-      "perfectum": "hij heeft het gedaan, gezegd."
+      "pastSingular": "hij deed het en kleedde zich.",
+      "pastPlural": "zij deden en kleedden zich.",
+      "perfectum": "ik heb het werk gedaan en begaan."
     }
   },
   {
@@ -800,9 +800,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij droeg de zware koffer alleen.",
-      "pastPlural": "zij droegen rozen naar het graf.",
-      "perfectum": "ze heeft haar jurk gedragen, gekregen van oma."
+      "pastSingular": "hij droeg de last en vroeg hulp.",
+      "pastPlural": "zij droegen en vroegen om hulp.",
+      "perfectum": "ik heb een pak gedragen en gevraagd."
     }
   },
   {
@@ -835,9 +835,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "het wrak dreef rustig op zee.",
-      "pastPlural": "de boten dreven door de brede sloot.",
-      "perfectum": "de bladeren hebben gedreven, gevlogen en gedaald."
+      "pastSingular": "de boot dreef en bleef boven.",
+      "pastPlural": "de bladeren dreven en bleven.",
+      "perfectum": "het hout heeft gedreven en geschreven."
     }
   },
   {
@@ -870,9 +870,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij dronk zijn koude koffie op.",
-      "pastPlural": "de monniken dronken bronwater.",
-      "perfectum": "ze heeft gedronken en gegeten."
+      "pastSingular": "hij dronk en zonk in slaap.",
+      "pastPlural": "wij dronken en zonken weg.",
+      "perfectum": "ik heb water gedronken en geschonken."
     }
   },
   {
@@ -906,9 +906,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij dook diep in het koude water.",
-      "pastPlural": "de jongens doken vrolijk in de sloot.",
-      "perfectum": "ze is gedoken, gezonken bijna."
+      "pastSingular": "de vogel dook en rook vis.",
+      "pastPlural": "de jongens doken en roken.",
+      "perfectum": "hij is diep gedoken en geroken."
     }
   },
   {
@@ -941,9 +941,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de rechter dwong hem tot boete.",
-      "pastPlural": "ze dwongen de bonden tot loonverlaging.",
-      "perfectum": "hij heeft hen gedwongen, gekneld door druk."
+      "pastSingular": "de baas dwong en zong streng.",
+      "pastPlural": "zij dwongen en zongen luid.",
+      "perfectum": "men heeft mij gedwongen en gezongen."
     }
   },
   {
@@ -976,9 +976,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij at snel zijn bord leeg.",
-      "pastPlural": "ze aten taart na de wedstrijd.",
-      "perfectum": "de kinderen hebben gegeten en gespeeld."
+      "pastSingular": "hij at en zat aan tafel.",
+      "pastPlural": "wij aten en praatten samen.",
+      "perfectum": "ik heb soep gegeten en geweten."
     }
   },
   {
@@ -1011,9 +1011,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de jongen floot een mooie melodie.",
-      "pastPlural": "de vogels floten vrolijk in het bos.",
-      "perfectum": "hij heeft gefloten bij het geroep."
+      "pastSingular": "de man floot en schoot raak.",
+      "pastPlural": "de jongens floten naast de sloten.",
+      "perfectum": "hij heeft mooi gefloten en geboten."
     }
   },
   {
@@ -1047,9 +1047,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij ging snel naar huis.",
-      "pastPlural": "ze gingen giechelend de gang in.",
-      "perfectum": "ze is gisteren gegaan naar genève."
+      "pastSingular": "hij ging mee als jonge koning.",
+      "pastPlural": "zij gingen samen en zongen.",
+      "perfectum": "ik ben naar huis gegaan en gegaan."
     }
   },
   {
@@ -1082,9 +1082,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "die oude wet gold nog steeds.",
-      "pastPlural": "zulke regels golden voor iedereen.",
-      "perfectum": "die afspraak heeft lang gegolden."
+      "pastSingular": "die regel gold als oud gold.",
+      "pastPlural": "de wetten golden voor de bolden.",
+      "perfectum": "dat heeft altijd gegolden en gescholden."
     }
   },
   {
@@ -1117,9 +1117,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de arts genas haar wond snel.",
-      "pastPlural": "de magen genazen na de behandeling.",
-      "perfectum": "hij heeft haar gebroken been genezen."
+      "pastSingular": "de zieke genas en las weer.",
+      "pastPlural": "de gewonden genazen en bliezen.",
+      "perfectum": "hij is volledig genezen en belezen."
     }
   },
   {
@@ -1152,9 +1152,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij genoot van het mooie uitzicht.",
-      "pastPlural": "ze genoten van de koele noten.",
-      "perfectum": "ze hebben volop genoten, gevierd en gelachen."
+      "pastSingular": "hij genoot van het rode brood.",
+      "pastPlural": "de gasten genoten en boten elkaar.",
+      "perfectum": "wij hebben genoten en geboten thee."
     }
   },
   {
@@ -1187,9 +1187,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij gaf haar een gave ring.",
-      "pastPlural": "ze gaven de gasten bloemen.",
-      "perfectum": "ze heeft hem een geschenk gegeven."
+      "pastSingular": "hij gaf een gift en blafte niet.",
+      "pastPlural": "zij gaven en graven samen door.",
+      "perfectum": "ik heb haar bloemen gegeven en geschreven."
     }
   },
   {
@@ -1222,9 +1222,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij goot de hete soep voorzichtig.",
-      "pastPlural": "ze goten de rode wijn in bokalen.",
-      "perfectum": "ze hebben de beton gegoten en gedroogd."
+      "pastSingular": "zij goot het water in de boot.",
+      "pastPlural": "de buien goten in de sloten.",
+      "perfectum": "hij heeft beton gegoten en geboten."
     }
   },
   {
@@ -1258,9 +1258,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij gleed over het natte ijs.",
-      "pastPlural": "de kinderen gleden langs de sneeuw.",
-      "perfectum": "ze is op het ijs gegleden, gestruikeld."
+      "pastSingular": "het kind gleed en leed geen pijn.",
+      "pastPlural": "de schaatsers gleden en leden kou.",
+      "perfectum": "zij is uitgegleden en geleden."
     }
   },
   {
@@ -1293,9 +1293,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de gouden ring glom prachtig.",
-      "pastPlural": "alle ogen glommen van trots.",
-      "perfectum": "haar geglommen gezicht heeft iedereen geraakt."
+      "pastSingular": "het goud glom als een dikke dom.",
+      "pastPlural": "de schoenen glommen en brommen niet.",
+      "perfectum": "het heeft mooi geglommen en gezwommen."
     }
   },
   {
@@ -1328,9 +1328,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij groef een diepe groeve.",
-      "pastPlural": "ze groeven door de groeve heen.",
-      "perfectum": "ze hebben diep gegraven, geploegd."
+      "pastSingular": "de hond groef en stoof rond.",
+      "pastPlural": "de mannen groeven diepe groeven.",
+      "perfectum": "wij hebben een kuil gegraven en geschaven."
     }
   },
   {
@@ -1363,9 +1363,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij greep de vrije stoel.",
-      "pastPlural": "zij grepen drie riemen vast.",
-      "perfectum": "ze heeft de kans gegrepen, geprezen."
+      "pastSingular": "hij greep de zweep stevig vast.",
+      "pastPlural": "zij grepen en riepen luid.",
+      "perfectum": "ik heb de kans gegrepen en geslepen."
     }
   },
   {
@@ -1398,9 +1398,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "het schilderij hing hoog aan de muur.",
-      "pastPlural": "de slingers hingen langs de wanden.",
-      "perfectum": "hij heeft het doek gehangen, netjes gevouwen."
+      "pastSingular": "de jas hing als een lange slang.",
+      "pastPlural": "de doeken hingen en zongen niet.",
+      "perfectum": "het schilderij heeft gehangen en gevangen."
     }
   },
   {
@@ -1433,9 +1433,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "zij had altijd haar droom.",
-      "pastPlural": "wij hadden allebei dezelfde dag.",
-      "perfectum": "hij heeft veel geluk gehad."
+      "pastSingular": "ik had een blad in de hand.",
+      "pastPlural": "wij hadden en raadden samen.",
+      "perfectum": "hij heeft het druk gehad en gespat."
     }
   },
   {
@@ -1468,9 +1468,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de rechter hief zijn hand omhoog.",
-      "pastPlural": "de soldaten hieven hun schilden hoog.",
-      "perfectum": "hij heeft de brug geheven, gelukkig."
+      "pastSingular": "hij hief het glas, hij liep niet mis.",
+      "pastPlural": "zij hieven en bedrieven niemand.",
+      "perfectum": "wij hebben het glas geheven en geschreven."
     }
   },
   {
@@ -1503,9 +1503,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij hielp zijn vriend hiermee.",
-      "pastPlural": "zij hielpen de hielende verplegers.",
-      "perfectum": "ze heeft hem geholpen, gelukkig."
+      "pastSingular": "hij hielp en hield zijn woord.",
+      "pastPlural": "zij hielpen en hielden vol.",
+      "perfectum": "ik heb je graag geholpen en bedolven."
     }
   },
   {
@@ -1538,9 +1538,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij heette de nieuwe heer welkom.",
-      "pastPlural": "zij hetten elkaar met eerbied.",
-      "perfectum": "de held heeft geheten als geëerde gast."
+      "pastSingular": "het dorp heette naar de hete zon.",
+      "pastPlural": "de honden hetten en pretten niet.",
+      "perfectum": "hij heeft Jan geheten en gegeten."
     }
   },
   {
@@ -1573,9 +1573,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij hield zijn hiel stil.",
-      "pastPlural": "ze hielden de dieven tegen.",
-      "perfectum": "ze hebben het geheim gehouden."
+      "pastSingular": "hij hield het touw in koude wind.",
+      "pastPlural": "zij hielden en bouwden samen.",
+      "perfectum": "ik heb van jou gehouden en gevouwen."
     }
   },
   {
@@ -1608,9 +1608,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de jager joeg het hert weg.",
-      "pastPlural": "twee jagers joegen de vossen voort.",
-      "perfectum": "hij heeft lang gejaagd, geoefend jager."
+      "pastSingular": "de boer joeg en ploegde door.",
+      "pastPlural": "de honden joegen en zwoegden.",
+      "perfectum": "hij heeft het wild gejaagd en geknaagd."
     }
   },
   {
@@ -1643,9 +1643,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij koos de mooiste roos.",
-      "pastPlural": "ze kozen voor de groene dozen.",
-      "perfectum": "ze hebben gekozen voor het gekookte gerecht."
+      "pastSingular": "zij koos en verloos niets.",
+      "pastPlural": "wij kozen en bliezen kaarsen uit.",
+      "perfectum": "ik heb een kleur gekozen en gevrozen."
     }
   },
   {
@@ -1678,9 +1678,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij keek met grote ogen naar het plein.",
-      "pastPlural": "ze keken telkens naar de klok.",
-      "perfectum": "ze hebben geboeid gekeken naar het gevecht."
+      "pastSingular": "hij keek en leek heel rustig.",
+      "pastPlural": "zij keken en bleken verbaasd.",
+      "perfectum": "ik heb tv gekeken en geleken."
     }
   },
   {
@@ -1714,9 +1714,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij klom over de kromme muur.",
-      "pastPlural": "ze klommen langs de stomme rotswand.",
-      "perfectum": "de kat is geklommen en gevallen."
+      "pastSingular": "de kat klom op een hoge stam.",
+      "pastPlural": "de jongens klommen en zwommen.",
+      "perfectum": "hij is hoog geklommen en gezwommen."
     }
   },
   {
@@ -1749,9 +1749,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de bron klonk helder en diep.",
-      "pastPlural": "de klokken klonken door de straat.",
-      "perfectum": "het lied heeft geklonken, geprezen door allen."
+      "pastSingular": "de bel klonk en blonk in zon.",
+      "pastPlural": "de glazen klonken en blonken.",
+      "perfectum": "het heeft mooi geklonken en gedronken."
     }
   },
   {
@@ -1785,9 +1785,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij kwam laat in de kwaadste nacht.",
-      "pastPlural": "ze kwamen samen in de kwade storm.",
-      "perfectum": "zij is gekomen met een gekoesterd plan."
+      "pastSingular": "hij kwam en nam de trein.",
+      "pastPlural": "zij kwamen en namen plaats.",
+      "perfectum": "ik ben te laat gekomen en gestroomen."
     }
   },
   {
@@ -1820,9 +1820,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij kocht och zo veel bloemen.",
-      "pastPlural": "ze kochten ochtendbloemen op de markt.",
-      "perfectum": "ze heeft gekocht en gekregen."
+      "pastSingular": "zij kocht en zocht een jas.",
+      "pastPlural": "wij kochten en zochten brood.",
+      "perfectum": "hij heeft een huis gekocht en gezocht."
     }
   },
   {
@@ -1855,9 +1855,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij kreeg een brief vol vreemde tekens.",
-      "pastPlural": "ze kregen er geen reden voor.",
-      "perfectum": "ze hebben gekregen wat ze gehoopt hadden."
+      "pastSingular": "hij kreeg en zweeg toch stil.",
+      "pastPlural": "zij kregen en zwegen blij.",
+      "perfectum": "ik heb een brief gekregen en gezwegen."
     }
   },
   {
@@ -1890,9 +1890,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de trui kromp door de koude was.",
-      "pastPlural": "de wollen sokken krompen in de trommel.",
-      "perfectum": "de stof is gekrompen en gekreukt."
+      "pastSingular": "de trui kromp en stompte af.",
+      "pastPlural": "de stoffen krompen en stompten.",
+      "perfectum": "het is sterk gekrompen en geklompen."
     }
   },
   {
@@ -1926,9 +1926,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "het kind kroop door de smalle pijp.",
-      "pastPlural": "de soldaten kropen over het open veld.",
-      "perfectum": "de baby is gekropen over het koude zeil."
+      "pastSingular": "de baby kroop en doop niet onder.",
+      "pastPlural": "de kinderen kropen en slopen weg.",
+      "perfectum": "hij is weggekropen en geslopen."
     }
   },
   {
@@ -1961,9 +1961,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij kon de toon niet houden.",
-      "pastPlural": "ze konden de bonden niet helpen.",
-      "perfectum": "ze hebben het nooit gekund, gemerkt."
+      "pastSingular": "hij kon niet, hij zon op iets.",
+      "pastPlural": "zij konden en zonden bericht.",
+      "perfectum": "ik heb het altijd gekund en gegund."
     }
   },
   {
@@ -1996,9 +1996,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de lachende clown lachte zachtjes.",
-      "pastPlural": "alle lachende vrienden lachten samen.",
-      "perfectum": "zij heeft lang gelachen, geamuseerd."
+      "pastSingular": "hij lachte zacht en wachtte.",
+      "pastPlural": "de kinderen lachten en klapten zachtjes.",
+      "perfectum": "wij hebben hard gelachen en gesproken."
     }
   },
   {
@@ -2031,9 +2031,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij laadde de zware lading op.",
-      "pastPlural": "ze laadden de ladder vol spullen.",
-      "perfectum": "ze hebben de vrachtwagen geladen en geplaatst."
+      "pastSingular": "de man laadde de wagen en baadde.",
+      "pastPlural": "zij laadden de boten met manden.",
+      "perfectum": "hij heeft het schip geladen en gevaren."
     }
   },
   {
@@ -2066,9 +2066,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij liet zijn hond vrij.",
-      "pastPlural": "ze lieten de dief glippen.",
-      "perfectum": "ze hebben hem gelaten, vergeten."
+      "pastSingular": "hij liet de hond los en hield.",
+      "pastPlural": "zij lieten de deuren open en stootten.",
+      "perfectum": "ik heb hem gaan gelaten, zoals gepraten."
     }
   },
   {
@@ -2101,9 +2101,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij las een blaz in stilte.",
-      "pastPlural": "ze lazen samen de gazette.",
-      "perfectum": "ze heeft het boek gelezen, genoteerd."
+      "pastSingular": "zij las een brief en was blij.",
+      "pastPlural": "de leerlingen lazen en blazen niet.",
+      "perfectum": "ik heb het boek gelezen en geprezen."
     }
   },
   {
@@ -2136,9 +2136,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij loog met droge ogen.",
-      "pastPlural": "ze logen over de gesloten doos.",
-      "perfectum": "hij heeft gelogen en gezwegen."
+      "pastSingular": "de jongen loog en boog het hoofd.",
+      "pastPlural": "zij logen vaak en zwogen zwaar.",
+      "perfectum": "hij heeft altijd gelogen en bedrogen."
     }
   },
   {
@@ -2171,9 +2171,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij lag stil op de vlag.",
-      "pastPlural": "de vlagen lagen over het veld.",
-      "perfectum": "de kat heeft daar lang gelegen, gelukkig."
+      "pastSingular": "de kat lag stil in de hoek en zag.",
+      "pastPlural": "de boeken lagen op de planken en zagen oud.",
+      "perfectum": "hij heeft lang ziek gelegen en gezwegen."
     }
   },
   {
@@ -2206,9 +2206,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij leed groot verdriet alleen.",
-      "pastPlural": "de zieke mensen leden zwaar.",
-      "perfectum": "ze heeft veel geleden, gepijnigd en moe."
+      "pastSingular": "de patiënt leed pijn en gleed weg.",
+      "pastPlural": "de mensen leden honger en sneden brood.",
+      "perfectum": "zij heeft veel geleden en gestreden."
     }
   },
   {
@@ -2241,9 +2241,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij leek een echte beer.",
-      "pastPlural": "ze leken twee draken op elkaar.",
-      "perfectum": "het heeft nooit op goud geleken, gebleken."
+      "pastSingular": "het leek mooi maar week af.",
+      "pastPlural": "de tweelingen leken op elkaar en keken.",
+      "perfectum": "het heeft echt geleken en geweken."
     }
   },
   {
@@ -2276,9 +2276,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij liep langs de diepe sloot.",
-      "pastPlural": "de kinderen liepen over het natte trottoir.",
-      "perfectum": "ze heeft de gehele dag gelopen."
+      "pastSingular": "hij liep snel en riep luid.",
+      "pastPlural": "de honden liepen weg en riepen niet.",
+      "perfectum": "ik heb ver gelopen en geroepen."
     }
   },
   {
@@ -2311,9 +2311,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij mat de kamer nauwkeurig.",
-      "pastPlural": "ze maten de laten zorgvuldig.",
-      "perfectum": "ze hebben de ruimte gemeten en genoteerd."
+      "pastSingular": "de timmerman mat de plank en zat.",
+      "pastPlural": "zij maten de kamers en praten zacht.",
+      "perfectum": "hij heeft de afstand gemeten en geweten."
     }
   },
   {
@@ -2346,9 +2346,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij moest vroeg naar huis.",
-      "pastPlural": "ze moesten samen wachten op nieuws.",
-      "perfectum": "hij heeft het gemoeten, helaas."
+      "pastSingular": "ik moest werken en roestte niet.",
+      "pastPlural": "zij moesten gaan en proestten van het lachen.",
+      "perfectum": "ik heb echt gemoeten, niet geboet."
     }
   },
   {
@@ -2381,9 +2381,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij mocht gelukkig toch komen.",
-      "pastPlural": "ze mochten samen genoeg eten.",
-      "perfectum": "ze heeft hem nooit gemogen."
+      "pastSingular": "hij mocht komen en kocht brood.",
+      "pastPlural": "de kinderen mochten spelen en pochten erover.",
+      "perfectum": "ik heb hem altijd gemogen en gewogen."
     }
   },
   {
@@ -2416,9 +2416,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij nam de gave kans.",
-      "pastPlural": "ze namen samen de tramen.",
-      "perfectum": "ze hebben de stad genomen, geheel verrast."
+      "pastSingular": "zij nam de tas en kwam terug.",
+      "pastPlural": "wij namen de trein en kwamen laat.",
+      "perfectum": "hij heeft de bus genomen, zonder schromen."
     }
   },
   {
@@ -2451,9 +2451,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij ontbeet rustig bij zijn beet.",
-      "pastPlural": "zij ontbeten samen met beten brood.",
-      "perfectum": "ze hebben ontbeten en gegeten."
+      "pastSingular": "hij ontbeet vroeg en weet veel.",
+      "pastPlural": "zij ontbeten samen en eten brood.",
+      "perfectum": "ik heb stevig ontbeten en geweten."
     }
   },
   {
@@ -2486,9 +2486,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "ze ontmoette haar oude vriendin.",
-      "pastPlural": "de toeristen ontmoetten elkaar op straat.",
-      "perfectum": "hij heeft haar nooit ontmoet gehad."
+      "pastSingular": "ik ontmoette haar en zette koffie.",
+      "pastPlural": "zij ontmoetten elkaar en zetten thee.",
+      "perfectum": "wij hebben hem ontmoet bij de boot."
     }
   },
   {
@@ -2521,9 +2521,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij ontving dringend een brief.",
-      "pastPlural": "zij ontvingen vreemde ringtonen thuis.",
-      "perfectum": "hebben het pakket ontvangen, geregistreerd."
+      "pastSingular": "hij ontving een brief en ging weg.",
+      "pastPlural": "zij ontvingen gasten en gingen koken.",
+      "perfectum": "ik heb het pakket ontvangen en gevangen."
     }
   },
   {
@@ -2556,9 +2556,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij prees de vrijgevige leraar.",
-      "pastPlural": "ze prezen de freze vakmannen.",
-      "perfectum": "de jury heeft hem geprezen, getroffen door zijn inzet."
+      "pastSingular": "de leraar prees het werk en wees erop.",
+      "pastPlural": "de critici prezen het boek en lezen verder.",
+      "perfectum": "men heeft haar geprezen en bewezen."
     }
   },
   {
@@ -2591,9 +2591,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij raadde het raadsel op.",
-      "pastPlural": "zij raadden het raadsel samen.",
-      "perfectum": "ze hebben het goed geraden, gelukkig."
+      "pastSingular": "hij raadde het goed en baadde in geluk.",
+      "pastPlural": "de kinderen raadden het en baadden in zon.",
+      "perfectum": "ik heb het juiste geraden en beladen."
     }
   },
   {
@@ -2627,9 +2627,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij reed over de brede weg.",
-      "pastPlural": "ze reden door het regen natte land.",
-      "perfectum": "ze zijn samen gereden, gezwind aangekomen."
+      "pastSingular": "zij reed de auto en gleed bijna.",
+      "pastPlural": "de mannen reden snel en sneden bochten.",
+      "perfectum": "hij heeft ver gereden en gestreden."
     }
   },
   {
@@ -2662,9 +2662,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij riep luid door de regen.",
-      "pastPlural": "zij riepen diep in het riet.",
-      "perfectum": "ze heeft geroepen, gehoord door iedereen."
+      "pastSingular": "de man riep hard en liep weg.",
+      "pastPlural": "de boeren riepen luid en liepen door.",
+      "perfectum": "ik heb je geroepen, maar je liep door."
     }
   },
   {
@@ -2697,9 +2697,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de roos rook zacht en zoet.",
-      "pastPlural": "de bloemen roken naar verse grond.",
-      "perfectum": "hij heeft de geur geroken en geproefd."
+      "pastSingular": "de hond rook het vlees en kook erop.",
+      "pastPlural": "zij roken de bloemen en koken soep.",
+      "perfectum": "het heeft naar rook geroken en gebroken."
     }
   },
   {
@@ -2732,9 +2732,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij scheidde na langdurig scheidingsoverleg.",
-      "pastPlural": "zij scheidden na jaren van scheiding.",
-      "perfectum": "ze hebben zich uiteindelijk gescheiden geleefd."
+      "pastSingular": "het paar scheidde en bereidde alles.",
+      "pastPlural": "de wegen scheidden en bereidden ons voor.",
+      "perfectum": "zij zijn gescheiden en bevrijd."
     }
   },
   {
@@ -2767,9 +2767,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij schold zijn broer vol schroom.",
-      "pastPlural": "de scholden klonken door de school.",
-      "perfectum": "ze heeft hem flink gescholden, gevloekt."
+      "pastSingular": "hij schold luid en hield vol.",
+      "pastPlural": "de mannen scholden en hielden ruzie.",
+      "perfectum": "hij heeft hard gescholden en gemolden."
     }
   },
   {
@@ -2802,9 +2802,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij schonk ons mooie rode wijn.",
-      "pastPlural": "ze schonken elke gast een volle beker.",
-      "perfectum": "de weldoener heeft veel geld geschonken, gewaardeerd."
+      "pastSingular": "zij schonk koffie en dronk thee.",
+      "pastPlural": "de gastvrouwen schonken wijn en dronken mee.",
+      "perfectum": "hij heeft veel geld geschonken en gedronken."
     }
   },
   {
@@ -2837,9 +2837,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de kunstenaar schiep iets nieuws hier.",
-      "pastPlural": "zij schiepen prachtige nieuwe werelden.",
-      "perfectum": "hij heeft een meesterwerk geschapen, geprezen door velen."
+      "pastSingular": "de kunstenaar schiep een beeld en riep trots.",
+      "pastPlural": "de goden schiepen de wereld en riepen.",
+      "perfectum": "God heeft de aarde geschapen en gevaren."
     }
   },
   {
@@ -2872,9 +2872,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij schoor zijn baard met zorg.",
-      "pastPlural": "de soldaten schoren zich voor hetoor.",
-      "perfectum": "hij heeft zich netjes geschoren, gekamd."
+      "pastSingular": "hij schoor zijn baard en gloor in de spiegel.",
+      "pastPlural": "de mannen schoren wol en gloren bij dageraad.",
+      "perfectum": "ik heb mij geschoren en gezworen."
     }
   },
   {
@@ -2907,9 +2907,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij schoot de bal door de hoek.",
-      "pastPlural": "ze schoten van dichtbij op doel.",
-      "perfectum": "hij heeft goed geschoten, gegooid ook."
+      "pastSingular": "de jager schoot raak en stoot voort.",
+      "pastPlural": "de soldaten schoten en stoten op de vijand.",
+      "perfectum": "hij heeft de bal geschoten en gestoten."
     }
   },
   {
@@ -2942,9 +2942,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de zon scheen fel op het meer.",
-      "pastPlural": "de sterren schenen helder in de nacht.",
-      "perfectum": "de maan heeft lang geschenen, gelukkig."
+      "pastSingular": "de zon scheen fel en verscheen.",
+      "pastPlural": "de sterren schenen en verschenen aan de hemel.",
+      "perfectum": "de maan heeft helder geschenen en verschenen."
     }
   },
   {
@@ -2977,9 +2977,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij schreef een helder refrein.",
-      "pastPlural": "ze schreven brieven vol gestreden woorden.",
-      "perfectum": "hij heeft zijn naam geschreven, getekend."
+      "pastSingular": "hij schreef en bleef heel rustig.",
+      "pastPlural": "de zeven kinderen schreven samen.",
+      "perfectum": "ik heb mijn naam geschreven."
     }
   },
   {
@@ -3013,9 +3013,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "zij schrok van het donkere spook.",
-      "pastPlural": "de schrokken kinderen renden snel weg.",
-      "perfectum": "hij is geschrokken van het gedruis."
+      "pastSingular": "de hond schrok bij het slot.",
+      "pastPlural": "wij schrokken en stokken bleven.",
+      "perfectum": "zij is van de knal geschrokken."
     }
   },
   {
@@ -3048,9 +3048,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij schoof de zware doos opzij.",
-      "pastPlural": "ze schoven de stoelen voor het raam.",
-      "perfectum": "ze hebben de kast geschoven, gelukkig."
+      "pastSingular": "hij schoof de stoel en sloof.",
+      "pastPlural": "wij schoven de zware oven.",
+      "perfectum": "ik heb de la dichtgeschoven."
     }
   },
   {
@@ -3083,9 +3083,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij sloeg de bal met volle kracht.",
-      "pastPlural": "ze sloegen op de grote trom.",
-      "perfectum": "hij heeft hem hard geslagen, gekneusd."
+      "pastSingular": "hij sloeg en zwoeg de hele dag.",
+      "pastPlural": "de mannen sloegen en zwoegen samen.",
+      "perfectum": "de klok heeft twaalf geslagen."
     }
   },
   {
@@ -3118,9 +3118,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "het kind sliep diep in de nacht.",
-      "pastPlural": "de reizigers sliepen dicht opeengepakt.",
-      "perfectum": "hij heeft lang geslapen, uitgerust."
+      "pastSingular": "het kind sliep en piepte zacht.",
+      "pastPlural": "de baby's sliepen en piepten.",
+      "perfectum": "ik heb diep geslapen."
     }
   },
   {
@@ -3153,9 +3153,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de straat sleet zijn zolen door.",
-      "pastPlural": "de stenen sleten snel weg.",
-      "perfectum": "de hakken zijn geheel gesleten."
+      "pastSingular": "de schoen sleet als een leet.",
+      "pastPlural": "de banden sleten en eten op.",
+      "perfectum": "de jas is helemaal gesleten."
     }
   },
   {
@@ -3188,9 +3188,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij sloot de grote poort zorgvuldig.",
-      "pastPlural": "de sloten klikten toen ze sloten.",
-      "perfectum": "ze heeft de deur gesloten en vergrendeld."
+      "pastSingular": "hij sloot de poort en de sloot.",
+      "pastPlural": "wij sloten de grote sloten.",
+      "perfectum": "de winkel is al gesloten."
     }
   },
   {
@@ -3223,9 +3223,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de sneeuw smolt in de zon.",
-      "pastPlural": "de ijskappen smolten snel weg.",
-      "perfectum": "de boter heeft gesmolten in de pan."
+      "pastSingular": "het ijs smolt en stolt nooit.",
+      "pastPlural": "de blokken smolten en stolten.",
+      "perfectum": "de sneeuw is gesmolten."
     }
   },
   {
@@ -3258,9 +3258,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij smeet de steen ver weg.",
-      "pastPlural": "ze smeten sneeuwballen naar elkaar.",
-      "perfectum": "hij heeft de deur gesmeten, geërgerd."
+      "pastSingular": "hij smeet de bal en kreet luid.",
+      "pastPlural": "de jongens smeten en eten samen.",
+      "perfectum": "ik heb de deur dichtgesmeten."
     }
   },
   {
@@ -3293,9 +3293,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de kok sneed breed brood.",
-      "pastPlural": "ze sneden de draden snel door.",
-      "perfectum": "hij heeft het vlees gesneden, gewogen."
+      "pastSingular": "hij sneed het brood en kneedde deeg.",
+      "pastPlural": "wij sneden en kneden samen.",
+      "perfectum": "ik heb mijn vinger gesneden."
     }
   },
   {
@@ -3328,9 +3328,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij snoof de koele nachtlucht diep op.",
-      "pastPlural": "ze snoven luid door hun neus.",
-      "perfectum": "de paarden hebben gesnoven en getrappeld."
+      "pastSingular": "het paard snoof en stoof weg.",
+      "pastPlural": "de paarden snoven en stoven.",
+      "perfectum": "hij heeft de geur opgesnoven."
     }
   },
   {
@@ -3363,9 +3363,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "het touw spande strak over de spant.",
-      "pastPlural": "de spanden spanden zich rond het wiel.",
-      "perfectum": "hij heeft de draad gespannen en geknoopt."
+      "pastSingular": "hij spande het touw en wandelde.",
+      "pastPlural": "wij spanden en wandden de boog.",
+      "perfectum": "het paard is voor de kar gespannen."
     }
   },
   {
@@ -3398,9 +3398,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "het speet hem diep in zijn ziel.",
-      "pastPlural": "die fouten speten hem nog jaren.",
-      "perfectum": "het heeft hem echt gespeten, gelukkig."
+      "pastSingular": "het speet hem dat hij ze beet.",
+      "pastPlural": "die fouten speten en eten aan hem.",
+      "perfectum": "het heeft mij zeer gespeten."
     }
   },
   {
@@ -3433,9 +3433,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "het droge hout spleet langs de neet.",
-      "pastPlural": "de stenen spliten door het ijs.",
-      "perfectum": "de balk heeft gespleten, gebarsten en gebroken."
+      "pastSingular": "de bliksem spleet en kleet de boom.",
+      "pastPlural": "de planken spliten en gliten weg.",
+      "perfectum": "de rots is in twee gespleten."
     }
   },
   {
@@ -3468,9 +3468,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij sprak zacht met rake woorden.",
-      "pastPlural": "ze spraken draken taal door elkaar.",
-      "perfectum": "ze hebben gesproken en gekozen."
+      "pastSingular": "hij sprak en brak de stilte.",
+      "pastPlural": "wij spraken en braken het brood.",
+      "perfectum": "ik heb hem net gesproken."
     }
   },
   {
@@ -3504,9 +3504,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij sprong over de brede sloot.",
-      "pastPlural": "de jongens sprongen door de ronde poort.",
-      "perfectum": "ze is gesprongen over het gevaarlijke water."
+      "pastSingular": "de kat sprong en zong vrolijk.",
+      "pastPlural": "de kinderen sprongen en zongen.",
+      "perfectum": "hij is over de sloot gesprongen."
     }
   },
   {
@@ -3539,9 +3539,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij spoot rood lood op de muur.",
-      "pastPlural": "ze spoten water door de sloot.",
-      "perfectum": "de verf heeft gespoten, gesmoten kleur gegeven."
+      "pastSingular": "de slang spoot en stoot water.",
+      "pastPlural": "de fonteinen spoten en stoten.",
+      "perfectum": "ik heb de tuin natgespoten."
     }
   },
   {
@@ -3574,9 +3574,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij stond roerloos op de stenen grond.",
-      "pastPlural": "de soldaten stonden in strakke ronden.",
-      "perfectum": "ze heeft daar lang gestaan, geheel geduldig."
+      "pastSingular": "hij stond en vond zijn plek.",
+      "pastPlural": "wij stonden en vonden de weg.",
+      "perfectum": "ik heb lang in de rij gestaan."
     }
   },
   {
@@ -3609,9 +3609,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de bij stak haar arm.",
-      "pastPlural": "de bijen staken zijn handen.",
-      "perfectum": "de wesp heeft hem gestoken, gelukkig niet erg."
+      "pastSingular": "de bij stak en brak haar angel.",
+      "pastPlural": "de wespen staken en braken.",
+      "perfectum": "ik heb mij aan de doorn gestoken."
     }
   },
   {
@@ -3644,9 +3644,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de dief stal een zilveren schaal.",
-      "pastPlural": "twee dieven stalen gouden ringen.",
-      "perfectum": "hij heeft gesloten dozen gestolen."
+      "pastSingular": "de dief stal en viel in slaap.",
+      "pastPlural": "de dieven stalen en vielen.",
+      "perfectum": "hij heeft mijn fiets gestolen."
     }
   },
   {
@@ -3680,9 +3680,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de ridder stierf in diepe stilte.",
-      "pastPlural": "velen stierven in die strenge winter.",
-      "perfectum": "hij is gestorven, geleden aan koorts."
+      "pastSingular": "de koning stierf en hierf niemand.",
+      "pastPlural": "velen stierven en zwierven rond.",
+      "perfectum": "de oude man is gestorven."
     }
   },
   {
@@ -3716,16 +3716,16 @@
       ]
     },
     "samples": {
-      "pastSingular": "de prijs steeg steil omhoog.",
-      "pastPlural": "de lonen stegen met spoed.",
-      "perfectum": "de temperatuur is flink gestegen."
+      "pastSingular": "de prijs steeg en veegde omhoog.",
+      "pastPlural": "de prijzen stegen en vegen omhoog.",
+      "perfectum": "de temperatuur is gestegen."
     }
   },
   {
     "id": "strijden",
     "infinitive": "strijden",
     "pastSingular": "streed",
-    "pastPlural": "strijden",
+    "pastPlural": "streden",
     "translation": "compete, fight",
     "level": "c",
     "auxiliary": "hebben",
@@ -3751,9 +3751,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de ridder streed voor zijn vrijheid.",
-      "pastPlural": "zij strijden om de prijs in die tijd.",
-      "perfectum": "de helden hebben gestreden, geen genade gevraagd."
+      "pastSingular": "hij streed en reed naar voren.",
+      "pastPlural": "de helden streden en reden.",
+      "perfectum": "wij hebben hard gestreden."
     }
   },
   {
@@ -3786,9 +3786,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "zij streek de kreukelige doek glad.",
-      "pastPlural": "de vrouwen streken alle lakens netjes.",
-      "perfectum": "hij heeft het overhemd gestreken en gevouwen."
+      "pastSingular": "zij streek en keek tevreden.",
+      "pastPlural": "de vrouwen streken en keken.",
+      "perfectum": "ik heb het overhemd gestreken."
     }
   },
   {
@@ -3821,9 +3821,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij trad zachtjes op straat.",
-      "pastPlural": "zij traden samen naar voren.",
-      "perfectum": "hebben getreden op gevaarlijk terrein."
+      "pastSingular": "hij trad en bad bij de poort.",
+      "pastPlural": "de gasten traden en baden.",
+      "perfectum": "zij is naar voren getreden."
     }
   },
   {
@@ -3856,9 +3856,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij trof een vertrouwd gezicht.",
-      "pastPlural": "ze troffen elkaar bij het volle plein.",
-      "perfectum": "heeft hem onverwacht getroffen, geheel verrast."
+      "pastSingular": "hij trof en stof de bal raak.",
+      "pastPlural": "wij troffen en stoffen elkaar.",
+      "perfectum": "ik heb hem thuis getroffen."
     }
   },
   {
@@ -3891,9 +3891,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij trok de rok omhoog.",
-      "pastPlural": "ze trokken door de brokken heen.",
-      "perfectum": "ze heeft de knoop getrokken, gelost."
+      "pastSingular": "hij trok en blok aan het touw.",
+      "pastPlural": "wij trokken en blokken samen.",
+      "perfectum": "de tandarts heeft de kies getrokken."
     }
   },
   {
@@ -3927,9 +3927,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "het kind viel op het koude ijs.",
-      "pastPlural": "drie wielrijders vielen op de weg.",
-      "perfectum": "hij is gevallen en gekneusd geraakt."
+      "pastSingular": "het kind viel en gilde luid.",
+      "pastPlural": "de blaadjes vielen en gilden niet.",
+      "perfectum": "hij is van de trap gevallen."
     }
   },
   {
@@ -3962,9 +3962,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de visser ving een grote vis.",
-      "pastPlural": "de jagers vingen wild in de velden.",
-      "perfectum": "hij heeft de dief gevangen genomen."
+      "pastSingular": "de kat ving een grote slang.",
+      "pastPlural": "de honden vingen lange slangen.",
+      "perfectum": "hij heeft de bal gevangen en gehangen."
     }
   },
   {
@@ -3998,9 +3998,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij voer door roerig tij.",
-      "pastPlural": "de roeiers voeren langs de oever.",
-      "perfectum": "zij is gevaren, gedreven door wind."
+      "pastSingular": "de schipper voer langs de toer.",
+      "pastPlural": "de mannen voeren samen en zwoeren trouw.",
+      "perfectum": "wij zijn naar het eiland gevaren en ervaren."
     }
   },
   {
@@ -4033,9 +4033,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de soldaat vocht voorocht en dageraad.",
-      "pastPlural": "zij vochten als spoken in de nocht.",
-      "perfectum": "hij heeft gevochten en geleden."
+      "pastSingular": "de ridder vocht met volle kracht en pocht.",
+      "pastPlural": "de soldaten vochten en zochten eer.",
+      "perfectum": "hij heeft dapper gevochten en gezocht."
     }
   },
   {
@@ -4068,9 +4068,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij verborg zijn zorgen diep.",
-      "pastPlural": "ze verborgen de gestolen borden.",
-      "perfectum": "ze hebben de sleutel verborgen gevonden."
+      "pastSingular": "de dief verborg de buit in bergen.",
+      "pastPlural": "de kinderen verborgen zich in de bergen.",
+      "perfectum": "zij heeft de brief verborgen tussen de bergen."
     }
   },
   {
@@ -4103,9 +4103,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de rechter verbood elke leugenachtige reclame.",
-      "pastPlural": "zij verboden alle verboden zones streng.",
-      "perfectum": "de gemeente heeft het feest verboden en gesanctioneerd."
+      "pastSingular": "de wet verbood de handel in lieden.",
+      "pastPlural": "de regels verboden vele lieden de toegang.",
+      "perfectum": "men heeft het roken verboden voor lieden."
     }
   },
   {
@@ -4138,9 +4138,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de bond verbond twee landen.",
-      "pastPlural": "ze verbonden de draden met spoed.",
-      "perfectum": "hij heeft de kabels verbonden, goed gedaan."
+      "pastSingular": "de zuster verbond de wond met linnen.",
+      "pastPlural": "de kabels verbonden de winden van noord en zuid.",
+      "perfectum": "hij heeft de draden verbonden vol vertrouwen binnen."
     }
   },
   {
@@ -4174,9 +4174,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij verbleef lang in een leeg hotel.",
-      "pastPlural": "zij verbleven weken in vreemde streken.",
-      "perfectum": "ze zijn verbleven in een verlaten dorp."
+      "pastSingular": "de gast verbleef en bleef tot laat.",
+      "pastPlural": "de toeristen verbleven en bleven een week.",
+      "perfectum": "wij zijn lang gebleven en verbleven daar."
     }
   },
   {
@@ -4210,9 +4210,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de sneeuw verdween in de diepe zee.",
-      "pastPlural": "de spoken verdwenen in het duistere woud.",
-      "perfectum": "de zon is verdwenen achter gebroken wolken."
+      "pastSingular": "de zon verdween achter een gordijn.",
+      "pastPlural": "de wolken verdwenen als zeven sterren.",
+      "perfectum": "de sleutel is verdwenen, ook na zeven dagen."
     }
   },
   {
@@ -4245,9 +4245,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij vergeleek beide leek-achtige planten.",
-      "pastPlural": "ze vergeleken de gelegen prijzen zorgvuldig.",
-      "perfectum": "ze hebben de teksten vergeleken en gecontroleerd."
+      "pastSingular": "de leraar vergeleek de teksten met een blik.",
+      "pastPlural": "de juryleden vergeleken en bekeken alles.",
+      "perfectum": "ik heb de prijzen vergeleken en bekeken."
     }
   },
   {
@@ -4280,9 +4280,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij vergat de gemaakte afspraak.",
-      "pastPlural": "ze vergaten namen en gezichten.",
-      "perfectum": "hij heeft het nooit vergeten, betreurend."
+      "pastSingular": "hij vergat te eten en bleef zitten.",
+      "pastPlural": "wij vergaten te praten en zaten stil.",
+      "perfectum": "zij is haar tas vergeten en versleten."
     }
   },
   {
@@ -4315,9 +4315,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij verkocht zijn koopwaar snel.",
-      "pastPlural": "ze verkochten koopjes op de markt.",
-      "perfectum": "ze hebben alles verkocht en ingepakt."
+      "pastSingular": "de boer verkocht zijn vee en kocht graan.",
+      "pastPlural": "de kooplui verkochten en kochten van alles.",
+      "perfectum": "hij heeft het huis verkocht en gekocht elders."
     }
   },
   {
@@ -4350,9 +4350,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij verliet zijn triest verlaten huis.",
-      "pastPlural": "ze verlieten de lieten stromen tranen.",
-      "perfectum": "ze hebben het huis verlaten, vergeten."
+      "pastSingular": "de gast verliet en liet de deur open.",
+      "pastPlural": "zij verlieten en lieten het dorp achter.",
+      "perfectum": "wij hebben de stad verlaten en gelaten."
     }
   },
   {
@@ -4385,9 +4385,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij verloor zijn horloge in het water.",
-      "pastPlural": "ze verloren alles door de storm.",
-      "perfectum": "ze hebben alles verloren, vergeten en verdwenen."
+      "pastSingular": "de speler verloor en zwoer wraak.",
+      "pastPlural": "de teams verloren en zwoeren revanche.",
+      "perfectum": "ik heb mijn sleutels verloren en bezworen."
     }
   },
   {
@@ -4421,9 +4421,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de maan verscheen tussen scheen wolken.",
-      "pastPlural": "de sterren verschenen in het ijle scheen.",
-      "perfectum": "de geest is verschenen in het gebergte."
+      "pastSingular": "de maan verscheen met fijne schijn.",
+      "pastPlural": "de sterren verschenen als zeven punten.",
+      "perfectum": "het boek is verschenen na zeven jaren."
     }
   },
   {
@@ -4456,9 +4456,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "zijn schoen versleet op de steen.",
-      "pastPlural": "de zolen versleten snel op straat.",
-      "perfectum": "hij heeft zijn laarzen versleten gelopen."
+      "pastSingular": "de schoen versleet door het krijten op straat.",
+      "pastPlural": "de banden versleten en gleden van de weg.",
+      "perfectum": "de jas is versleten en gesleten."
     }
   },
   {
@@ -4491,9 +4491,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de wolf verslond zijn prooi zonder genade.",
-      "pastPlural": "de leeuwen verslonden de bonden gazellen.",
-      "perfectum": "hij heeft de prooi verslonden en verorberd."
+      "pastSingular": "de wolf verslond een hond in de winden.",
+      "pastPlural": "de leeuwen verslonden hun prooi in de winden.",
+      "perfectum": "hij heeft het boek verslonden zonder te vinden rust."
     }
   },
   {
@@ -4526,9 +4526,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij verstond het vreemde accent meteen.",
-      "pastPlural": "de studenten verstonden de vreemde woorden slecht.",
-      "perfectum": "ze heeft het verhaal nooit verstaan, helaas."
+      "pastSingular": "ik verstond de man die naast me stond.",
+      "pastPlural": "wij verstonden hen die voor ons stonden.",
+      "perfectum": "zij heeft de boodschap verstaan en gegaan."
     }
   },
   {
@@ -4562,9 +4562,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de trein vertrok om tien uur.",
-      "pastPlural": "alle reizigers vertrokken zonder oponthoud.",
-      "perfectum": "de bus is al vertrokken zonder getoeter."
+      "pastSingular": "de trein vertrok en trok westwaarts.",
+      "pastPlural": "de gasten vertrokken en trokken naar huis.",
+      "perfectum": "het schip is vertrokken en getrokken zee in."
     }
   },
   {
@@ -4597,9 +4597,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij verzond een zorgvuldig pakket.",
-      "pastPlural": "ze verzonden dozen vol spullen.",
-      "perfectum": "ze hebben verzonden wat gevraagd werd."
+      "pastSingular": "de klerk verzond de brief naar de winden.",
+      "pastPlural": "zij verzonden de pakketten in de winden.",
+      "perfectum": "ik heb de mail verzonden en gevonden goed."
     }
   },
   {
@@ -4632,9 +4632,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij verzon een onzinnig verhaal.",
-      "pastPlural": "ze verzonnen zonneklare leugens samen.",
-      "perfectum": "ze hebben verzonnen verhalen geloofd."
+      "pastSingular": "de jongen verzon een leugen om te winnen.",
+      "pastPlural": "de kinderen verzonnen verhalen om te winnen.",
+      "perfectum": "hij heeft een list verzonnen en gewonnen."
     }
   },
   {
@@ -4667,9 +4667,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij vond een mooie ronde steen.",
-      "pastPlural": "zij vonden oude wonden in het bos.",
-      "perfectum": "ze heeft gevonden wat ze gezocht had."
+      "pastSingular": "de hond vond een bot bij de blinden.",
+      "pastPlural": "de kinderen vonden schatten en bonden ze samen.",
+      "perfectum": "ik heb de ring gevonden en gebonden."
     }
   },
   {
@@ -4703,9 +4703,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "het vloog hoog boven de wolken.",
-      "pastPlural": "de vogels vlogen door de koude lucht.",
-      "perfectum": "hij is gevlogen met een gestroomlijnde raket."
+      "pastSingular": "de vogel vloog hoog en boog naar links.",
+      "pastPlural": "de ganzen vlogen en bogen zuidwaarts.",
+      "perfectum": "het vliegtuig is gevlogen en bewogen."
     }
   },
   {
@@ -4738,9 +4738,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij voorzag de dreigende ramp.",
-      "pastPlural": "zij voorzagen samen de nodige gevaren.",
-      "perfectum": "we hebben alles voorzien en geregeld."
+      "pastSingular": "de wijze voorzag het gevaar en zag meer.",
+      "pastPlural": "de leiders voorzagen de crisis en zagen alles.",
+      "perfectum": "men heeft de stad voorzien van water bovendien."
     }
   },
   {
@@ -4773,9 +4773,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "zij vroeg om vrolijke hulp.",
-      "pastPlural": "de vroegen vroegen om meer tijd.",
-      "perfectum": "hij heeft gevraagd, geheel verward."
+      "pastSingular": "het kind vroeg en droeg de tas.",
+      "pastPlural": "de gasten vroegen en droegen hun jas.",
+      "perfectum": "ik heb het netjes gevraagd en behaagd."
     }
   },
   {
@@ -4809,9 +4809,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "het water vroor tot rood ijs.",
-      "pastPlural": "de meren vroren in de vroege kou.",
-      "perfectum": "de vijver is gevroren en gebarsten."
+      "pastSingular": "het vroor en het spoor lag glad.",
+      "pastPlural": "de meren vroren en de sporen bevroren.",
+      "perfectum": "het water is gevroren en verloren onder ijs."
     }
   },
   {
@@ -4844,9 +4844,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "zij waste haar natte handen zorgvuldig.",
-      "pastPlural": "de watten wasten de vloer schoon.",
-      "perfectum": "hij heeft zijn gewassen goed gedroogd."
+      "pastSingular": "moeder waste de jas in vlassen water.",
+      "pastPlural": "zij wasten en pasten de schone kleren.",
+      "perfectum": "hij heeft de auto gewassen en gepast."
     }
   },
   {
@@ -4879,9 +4879,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij woog het goud nauwkeurig.",
-      "pastPlural": "ze wogen de loden blokken.",
-      "perfectum": "ze hebben het goud gewogen en genoteerd."
+      "pastSingular": "de boer woog de zak op de wegen.",
+      "pastPlural": "de appels wogen zwaar langs de wegen.",
+      "perfectum": "ik heb het pakket gewogen en bewogen."
     }
   },
   {
@@ -4914,9 +4914,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij wierp de steen in het diepe.",
-      "pastPlural": "de spelers wierpen ballen in het veld.",
-      "perfectum": "ze heeft de bal geworpen, goed gedaan."
+      "pastSingular": "de jongen wierp een steen met scherpe blik.",
+      "pastPlural": "de spelers wierpen en scherpten hun mik.",
+      "perfectum": "hij heeft de bal geworpen en gescherpt."
     }
   },
   {
@@ -4949,9 +4949,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij wist het juiste antwoord.",
-      "pastPlural": "zij wisten de viste route.",
-      "perfectum": "ze heeft het nooit geweten, geheel onwetend."
+      "pastSingular": "hij wist het en at een mist.",
+      "pastPlural": "zij wisten het van de kisten.",
+      "perfectum": "ik heb het altijd geweten."
     }
   },
   {
@@ -4984,9 +4984,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij weet zijn fout aan pech.",
-      "pastPlural": "ze weten het aan slechte omstandigheden.",
-      "perfectum": "hij heeft het altijd geweten aan zijn gebrek."
+      "pastSingular": "hij weet de schuld aan een leet.",
+      "pastPlural": "wij weten de fout aan de eten.",
+      "perfectum": "hij heeft het aan mij geweten."
     }
   },
   {
@@ -5019,9 +5019,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij wees de ijzeren weg.",
-      "pastPlural": "zij wezen de nieuwe ijzeren route.",
-      "perfectum": "heeft gewezen op het gevaar, gebleken."
+      "pastSingular": "hij wees naar de lees op tafel.",
+      "pastPlural": "zij wezen naar de wezen daar.",
+      "perfectum": "hij heeft de weg gewezen."
     }
   },
   {
@@ -5054,9 +5054,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij wou die wondere reis maken.",
-      "pastPlural": "ze wilden meer wondere dingen zien.",
-      "perfectum": "hij heeft nooit gewild wat gegeven werd."
+      "pastSingular": "het kind wilde rusten en bouwen aan een gilde.",
+      "pastPlural": "zij wilden veel en bouwden gilden.",
+      "perfectum": "ik heb het nooit gewild en heb gespild."
     }
   },
   {
@@ -5089,9 +5089,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij won de gouden trofee.",
-      "pastPlural": "ze wonnen door slimme zetten.",
-      "perfectum": "het team heeft gewonnen en gejuicht."
+      "pastSingular": "hij won de prijs en kwam erbinnen.",
+      "pastPlural": "zij wonnen samen, vrouwen en mannen, in tonnen.",
+      "perfectum": "ons team heeft de wedstrijd gewonnen, en is bezonnen."
     }
   },
   {
@@ -5125,9 +5125,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij werd vreemd en verloren.",
-      "pastPlural": "ze werden eerder vereerd.",
-      "perfectum": "zij is gelukkig geworden, gezegend."
+      "pastSingular": "hij werd ziek en gaf een gil als een werd.",
+      "pastPlural": "zij werden rijk en sloten de orden.",
+      "perfectum": "hij is dokter geworden."
     }
   },
   {
@@ -5160,9 +5160,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij wreekte zijn broer met wreed geweld.",
-      "pastPlural": "ze wreken hun verlies op de vijand.",
-      "perfectum": "heeft zijn vijand gewroken, gebroken door spijt."
+      "pastSingular": "hij wreekte de moord en bleef preken.",
+      "pastPlural": "zij wreken het kwaad en gaan spreken.",
+      "perfectum": "hij heeft zijn broer gewroken."
     }
   },
   {
@@ -5195,9 +5195,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij wreef zijn knie met zeep.",
-      "pastPlural": "ze wreven de vloer met een doek.",
-      "perfectum": "ze hebben de wond gewreven met verband."
+      "pastSingular": "hij wreef de vlek en moest blijven.",
+      "pastPlural": "zij wreven hard met zeven doeken te beleven.",
+      "perfectum": "ik heb mijn ogen gewreven en ben gebleven."
     }
   },
   {
@@ -5230,9 +5230,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "ze wrong de natte doek grondig uit.",
-      "pastPlural": "de wrongen kleren dropen van het water.",
-      "perfectum": "hij heeft de handdoek gewrongen en gedroogd."
+      "pastSingular": "hij wrong de doek en hoorde een song.",
+      "pastPlural": "zij wrongen de was met sterke tongen.",
+      "perfectum": "hij heeft de doek gewrongen en gezongen."
     }
   },
   {
@@ -5265,9 +5265,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "zij zei geen woord.",
-      "pastPlural": "beide zijden zeiden niets.",
-      "perfectum": "hij heeft gezegd wat geleden pijn deed."
+      "pastSingular": "hij zei het en wou een ei.",
+      "pastPlural": "zij zeiden niets en sneden brood te snijden.",
+      "perfectum": "ik heb het al gezegd, netjes gelegd."
     }
   },
   {
@@ -5300,9 +5300,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij zond een bond naar voren.",
-      "pastPlural": "ze zonden de zonden weg.",
-      "perfectum": "ze hebben het pakket gezonden, goed gemerkt."
+      "pastSingular": "hij zond de brief naar het zuiden, vol wonden.",
+      "pastPlural": "zij zonden pakketten vol zonden.",
+      "perfectum": "ik heb het bericht gezonden en verbonden."
     }
   },
   {
@@ -5335,9 +5335,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij zag een vaag silhouet.",
-      "pastPlural": "ze zagen de slagen aankomen.",
-      "perfectum": "ik heb het gezien, gelukkig."
+      "pastSingular": "ik zag een vlieg en at een vijg na.",
+      "pastPlural": "wij zagen de wagen op de wegen.",
+      "perfectum": "ik heb de film gezien, misschien."
     }
   },
   {
@@ -5370,9 +5370,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij was waakzaam en stil.",
-      "pastPlural": "zij waren wanhopig en verloren.",
-      "perfectum": "ze heeft geweest waar gevaar dreigde."
+      "pastSingular": "het was klein als een das.",
+      "pastPlural": "zij waren blij in de jaren.",
+      "perfectum": "ik ben er al geweest, als gast op het feest."
     }
   },
   {
@@ -5405,16 +5405,16 @@
       ]
     },
     "samples": {
-      "pastSingular": "ze zong een lied vol tong.",
-      "pastPlural": "de jongens zongen een oud lied.",
-      "perfectum": "hij heeft gezongen, geheel ontroerd."
+      "pastSingular": "hij zong een lied vol jong verdriet.",
+      "pastPlural": "zij zongen luid met sterke longen.",
+      "perfectum": "wij hebben samen gezongen en gesprongen."
     }
   },
   {
     "id": "zinken",
     "infinitive": "zinken",
     "pastSingular": "zonk",
-    "pastPlural": "zonkken",
+    "pastPlural": "zonken",
     "translation": "sink",
     "level": "b",
     "usesZijn": true,
@@ -5428,10 +5428,10 @@
         "zienk"
       ],
       "pastPlural": [
-        "zankken",
-        "zeenkken",
-        "zoonkken",
-        "zienkken"
+        "zanken",
+        "zeenken",
+        "zoonken",
+        "zienken"
       ],
       "perfectum": [
         "gezanken",
@@ -5441,9 +5441,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "het zware schip zonk in de golven.",
-      "pastPlural": "beide boten zonkken snel naar de bodem.",
-      "perfectum": "de gezonken boot is gevonden."
+      "pastSingular": "de boot zonk diep, ik dronk en pronk.",
+      "pastPlural": "de schepen zonken bij flinke wonkken.",
+      "perfectum": "het schip is gezonken en verdronken."
     }
   },
   {
@@ -5476,9 +5476,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij zat stil op zate grond.",
-      "pastPlural": "ze zaten dicht bij het raam.",
-      "perfectum": "hij heeft lang gezeten, gekalmeerd."
+      "pastSingular": "hij zat op een mat heel plat.",
+      "pastPlural": "zij zaten en praatten en aten.",
+      "perfectum": "ik heb lang gezeten en veel vergeten."
     }
   },
   {
@@ -5511,9 +5511,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij zocht troost in nochte rust.",
-      "pastPlural": "ze zochten koorts en dochten na.",
-      "perfectum": "ze hebben gezocht en gevonden."
+      "pastSingular": "hij zocht en vond een doek vol vocht.",
+      "pastPlural": "zij zochten lang en lieten verzuchten.",
+      "perfectum": "ik heb overal gezocht, maar niets gekocht."
     }
   },
   {
@@ -5546,9 +5546,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "de zuigeling zoog zachtjes aan de fles.",
-      "pastPlural": "de slangen zogen bloed uit de wond.",
-      "perfectum": "de baby heeft stevig gezogen, geweldig."
+      "pastSingular": "het kind zoog melk en hoorde geploeg.",
+      "pastPlural": "de kalfjes zogen rustig en logen niet.",
+      "perfectum": "de baby heeft melk gezogen en gevlogen in droom."
     }
   },
   {
@@ -5581,9 +5581,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij zou graag zout kopen.",
-      "pastPlural": "ze zouden zonder twijfel komen.",
-      "perfectum": "het heeft nooit gezuld, gelukkig."
+      "pastSingular": "hij zou komen om vaten te vullen.",
+      "pastPlural": "zij zouden gaan en hun zakken vouden.",
+      "perfectum": "het is netjes gezuld en gehuld."
     }
   },
   {
@@ -5617,9 +5617,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "zijn voet zwol van kou.",
-      "pastPlural": "de wonden zwollen door vocht.",
-      "perfectum": "zijn knie is gezwollen gebleven."
+      "pastSingular": "de wond zwol op als een dol.",
+      "pastPlural": "de rivieren zwollen en gingen rollen.",
+      "perfectum": "mijn voet is gezwollen en gezwollen als knollen."
     }
   },
   {
@@ -5653,9 +5653,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij zwom door het koude meer.",
-      "pastPlural": "ze zwommen snel door de golven.",
-      "perfectum": "ze zijn gezwommen, gegroeid en gehard."
+      "pastSingular": "hij zwom snel en moest remmen.",
+      "pastPlural": "zij zwommen ver met krachtige stemmen.",
+      "perfectum": "ik heb een uur gezwommen en geklommen."
     }
   },
   {
@@ -5688,9 +5688,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij zwoer trouw voor de troon.",
-      "pastPlural": "zij zwoeren voor de grote troon.",
-      "perfectum": "ze hebben gezworen en gehoorzaamd."
+      "pastSingular": "hij zwoer trouw als een boer.",
+      "pastPlural": "zij zwoeren samen, als ware loeren.",
+      "perfectum": "ik heb het plechtig gezworen en geboren."
     }
   },
   {
@@ -5724,9 +5724,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij zwierf door diepe wieden.",
-      "pastPlural": "ze zwierven langs rivier en wier.",
-      "perfectum": "de zwerver is gezworven door geuren."
+      "pastSingular": "hij zwierf rond en kreeg een schierf gevoel.",
+      "pastPlural": "zij zwierven ver en gingen verwerven.",
+      "perfectum": "hij heeft jaren gezworven en verworven."
     }
   },
   {
@@ -5759,9 +5759,9 @@
       ]
     },
     "samples": {
-      "pastSingular": "hij zweeg als een geheim.",
-      "pastPlural": "ze zwegen diep in de neegte.",
-      "perfectum": "zij heeft lang gezwegen, geleden."
+      "pastSingular": "hij zweeg stil en bleef leeg en veeg.",
+      "pastPlural": "zij zwegen samen en bleven vegen.",
+      "perfectum": "ik heb lang gezwegen en gekregen rust."
     }
   }
 ]
