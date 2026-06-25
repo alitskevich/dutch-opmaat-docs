@@ -1,5 +1,24 @@
 # Small talks
 
+## Attention focus
+
+| Dutch | English | Usage |
+|-------|---------|-------|
+| `kijk` | look/see | **Kijk**, zo werkt het. (Look, this is how it works.) |
+| `luister` | listen | **Luister**, ik moet je wat vertellen. (Listen, I need to tell you something.) |
+| `wacht even` | wait a moment | **Wacht even**, dat klopt niet. (Wait a moment, that's not right.) |
+
+## Fillers
+
+| Dutch | English | Usage |
+|-------|---------|-------|
+| `zeg maar` | so to speak | Het is, **zeg maar**, een mix. (It's, so to speak, a mix.) |
+| `zeg` | hey (calling) | **Zeg**, kun je me helpen? (Hey, can you help me?) |
+| `hoe zal ik het zeggen` | how shall I put it | **Hoe zal ik het zeggen**... (How shall I put it...) |
+| `wat ik zeggen wil` | what I want to say | **Wat ik zeggen wil**... (What I want to say...) |
+| `weet je` | you know | **Weet je**, dat is interessant. (You know, that's interesting.) |
+| `hé` | hey | **Hé**, wat leuk! (Hey, how nice!) |
+
 ## Begroetingen en Basisuitdrukkingen
 
 | Nederlands | English | Example |

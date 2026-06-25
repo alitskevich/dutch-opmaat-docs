@@ -29,6 +29,7 @@
 | Ik vind … leuk / niet leuk(saai) | I (don't) like … | Ik vind voetbal **leuk**. (I like football.) |
 | Ik hou(geniet) van … | I love / I'm fond of … | **Ik hou van** koffie. (I love coffee.) |
 | Ik ben dol op … | I'm crazy about … | **Ik ben dol op** chocolade. (I'm crazy about chocolate.) |
+| Het belangrijkste voor mij is dat ...  |||
 | Ik heb een hekel aan … | I hate / can't stand … | **Ik heb een hekel aan** wachten. (I hate waiting.) |
 | Ik kan … niet uitstaan | I can't stand … | **Ik kan** dat geluid **niet uitstaan**. (I can't stand that sound.) |
 | Ik geef de voorkeur aan … | I prefer … | **Ik geef de voorkeur aan** thee. (I prefer tea.) |
