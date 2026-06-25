@@ -1201,5 +1201,75 @@
     "label": "10 echte dialogen",
     "level": "A",
     "group": "conversation"
+  },
+  {
+    "id": "No2zONSDSk4",
+    "name": "Dutch Listening & Conversation Practice A2/B1",
+    "label": "5 Real-Life Dutch Dialogues",
+    "level": "B",
+    "group": "conversation"
+  },
+  {
+    "id": "ma1yoyXfKyc",
+    "name": "Dutch Listening & Conversation Practice A2/B1",
+    "label": "10 Real-Life Dutch Dialogues",
+    "level": "B",
+    "group": "conversation"
+  },
+  {
+    "id": "ekDX_6Loowk",
+    "name": "Dutch Shadowing & Listening Practice A2/B1",
+    "label": "Plan a Meeting in Dutch",
+    "level": "B",
+    "group": "conversation"
+  },
+  {
+    "id": "hs4XonmcxGs",
+    "name": "Dutch Shadowing & Listening Practice",
+    "label": "Make Clear Agreements in Dutch A2/B1",
+    "level": "B",
+    "group": "conversation"
+  },
+  {
+    "id": "Z_VpLfDLeOQ",
+    "name": "Dutch Listening & Conversation Practice A2/B1",
+    "label": "Talk to the Doctor in Dutch",
+    "level": "B",
+    "group": "conversation"
+  },
+  {
+    "id": "cDNeJEgMUZg",
+    "name": "Dutch Shadowing & Listening Practice A2/B1",
+    "label": "Respond to Feedback in Dutch",
+    "level": "B",
+    "group": "conversation"
+  },
+  {
+    "id": "rzzfSho1qlU",
+    "name": "How to Use Zouden in Dutch",
+    "label": "Sound More Natural and Polite",
+    "level": "B",
+    "group": "method"
+  },
+  {
+    "id": "WY5ieiyLpqg",
+    "name": "Learn “Zou” in Dutch",
+    "label": "Would, Should & Polite Requests",
+    "level": "B",
+    "group": "method"
+  },
+  {
+    "id": "NIH9l529DP0",
+    "name": "Stop Saying “Ik Schoonmaak”",
+    "label": "Dutch Separable Verbs Listening Practice",
+    "level": "B",
+    "group": "method"
+  },
+  {
+    "id": "PA7JbrMFuaQ",
+    "name": "Why Do Dutch People Split Every Bill?",
+    "label": "Tikkie Culture in the Netherlands",
+    "level": "B",
+    "group": "story"
   }
 ]
