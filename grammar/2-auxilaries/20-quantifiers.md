@@ -35,33 +35,3 @@
 |-------|---------|---------|
 | **precies** | exactly | Dat is **precies** wat ik bedoel. (That's exactly what I mean.) |
 | **ongeveer** | approximately | Het duurt **ongeveer** een uur. (It takes approximately an hour.) |
-
-## Selectors
-
-| Dutch | English | Example |
-|-------|---------|---------|
-| **elk / elke** | each, every | **Elke** dag lees ik de krant. (Every day I read the newspaper.) |
-| **ieder / iedere** | each, every | **Iedere** ochtend drink ik koffie. (Each morning I drink coffee.) |
-| **alle** | all | **Alle** kinderen spelen buiten. (All the children play outside.) |
-| **sommige** | some | **Sommige** mensen houden niet van kaas. (Some people don't like cheese.) |
-| **niemand** | nobody | **Niemand** van hen wist het antwoord. (Nobody of them knew the answer.) |
-| **beide** | both | **Beide** kinderen zijn ziek. (Both children are ill.) |
-
-> *elk / ieder* take **-e** before de-words: *elke dag* (every day), *elk kind*
-> (every child — het-word, no -e in older style, though *elk(e)* is now often used for both).
-
-## Frequency
-
-| Dutch | English | Example |
-|-------|---------|---------|
-| **altijd** | always | Ik drink **altijd** koffie 's ochtends. (I always drink coffee in the morning.) |
-| **telkens** | everytime | Hij komt **telkens** te laat. (He is late every time.) |
-| **elke** <"keer"\|"daag">| every <...> | Ik drink **elke dag** thee. (I drink tea every day.) |
-| **vaak / dikwijls** | often | We gaan **vaak** naar de markt. (We often go to the market.) |
-| **meestal** | usually | **Meestal** fiets ik naar het werk. (I usually cycle to work.) |
-| **soms** | sometimes | **Soms** ga ik met de trein. (Sometimes I take the train.) |
-| **af en toe** | now and then | **Af en toe** eet ik een ijsje. (Now and then I eat an ice cream.) |
-| **nogmaals** / **nog eens** | one more time | **Nogmaals** dank en groet, |
-| **zelden** | rarely | Ik ben **zelden** ziek. (I am rarely ill.) |
-| **bijna nooit** | almost never | Hij belt **bijna nooit** op. (He almost never calls.) |
-| **nooit** | never | Ik drink **nooit** alcohol. (I never drink alcohol.) |
