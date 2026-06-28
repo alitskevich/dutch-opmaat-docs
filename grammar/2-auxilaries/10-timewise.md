@@ -44,12 +44,15 @@
 | `(al) … lang` | for X | Ik werk hier **al drie jaar**. |
 | `binnen` | within | Ik kom **binnen** een uur. |
 | `over` | in (X time from now) | Ik bel je **over** vijf minuten. |
+| `geleden` | ago (X time before now) | Ik ben hier drie jaar **geleden** begonnen. |
 | `gedurende` | during (formal) | `Gedurende** de zomer reist hij. |
 | `van … tot …` | from … to … | `Van** maandag **tot** vrijdag werk ik. |
 | `vlug` | quickly | Moet **vlug** gaan. (Have to go quickly.) |
 | `alledaags` | everyday | Dat is een **alledaags** probleem. (That's an everyday problem.) |
 
 > *Over een uur* = "in an hour from now". *Binnen een uur* = "within the next hour" (any time before that limit).
+>
+> *Geleden* mirrors *over* but **follows** the time phrase: *over een uur* (in an hour) ↔ *een uur geleden* (an hour ago).
 >
 
 ## Calendar

@@ -16,6 +16,7 @@
 | **weg** | away / gone | Hij is een week **weg**. (He's away for a week.) |
 | **terug** | back | Ik ben zo **terug**. (I'll be right back.) |
 | **thuis** | at home | Ik blijf vandaag **thuis**. (I'm staying at home today.) |
+| **onderweg** | on the way / en route | Ik ben al **onderweg**. (I'm already on my way.) |
 | **in de buurt** | in the area | Is er een apotheek **in de buurt**? (Is there a pharmacy in the area?) |
 
 > ***In* vs *op***: things sit **in** something with walls (*in een doos*), and **op** flat surfaces (*op tafel*, *op straat*).
