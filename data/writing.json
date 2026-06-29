@@ -81,18 +81,11 @@
   },
 
   {
-    "id": "w23",
-    "title": "Doctor's Visit Form",
-    "description": "Fill in a patient intake form at the doctor's office",
-    "modelAnswer": "Naam: Maria Santos\nGeboortedatum: 22 juni 1985\nAdres: Bloemstraat 3, 3456 EF Rotterdam\nTelefoonnummer: 06-11223344\nE-mail: maria.santos@mail.nl\n\nIk heb de afgelopen weken vaak hoofdpijn en ik ben snel moe. Ook slaap ik slecht en heb ik soms last van mijn maag. Ik gebruik paracetamol als ik hoofdpijn heb. Ik ben allergisch voor penicilline en pinda's. Ik rook niet en drink af en toe alcohol.",
-    "modelAnswerEn": "Name: Maria Santos\nDate of birth: 22 June 1985\nAddress: Bloemstraat 3, 3456 EF Rotterdam\nPhone number: 06-11223344\nEmail: maria.santos@mail.nl\n\nIn recent weeks I have often had headaches and I get tired quickly. I also sleep badly and sometimes have stomach trouble. I take paracetamol when I have a headache. I am allergic to penicillin and peanuts. I do not smoke and drink alcohol occasionally."
-  },
-  {
     "id": "w12",
-    "title": "Doctor Appointment",
-    "description": "Make, change, or cancel a doctor appointment",
-    "modelAnswer": "Beste meneer/mevrouw, ik wil graag een afspraak maken bij de huisarts. Ik heb al een week last van hoofdpijn en ik ben erg moe. Ook slaap ik slecht en heb ik geen energie meer. Wanneer kan ik komen? Het liefst deze week nog, het mag ook 's middags. Mijn telefoonnummer is 06-12345678. Met vriendelijke groet, Maria de Vries.",
-    "modelAnswerEn": "Dear sir/madam, I would like to make an appointment with the general practitioner. I have had a headache for a week now and I am very tired. I also sleep badly and have no energy left. When can I come? Preferably this week still, the afternoon is also fine. My phone number is 06-12345678. Kind regards, Maria de Vries."
+    "title": "Doctor's Visit",
+    "description": "Make an appointment with the doctor and fill in a patient intake form",
+    "modelAnswer": "Beste meneer/mevrouw, ik wil graag een afspraak maken bij de huisarts. Ik heb al een week last van hoofdpijn en ik ben erg moe. Ook slaap ik slecht en heb ik geen energie meer. Wanneer kan ik komen? Het liefst deze week nog, het mag ook 's middags. Mijn telefoonnummer is 06-12345678. Met vriendelijke groet, Maria de Vries.\n\nIntakeformulier:\nNaam: Maria de Vries\nGeboortedatum: 22 juni 1985\nAdres: Bloemstraat 3, 3456 EF Rotterdam\nTelefoonnummer: 06-12345678\nE-mail: maria.devries@mail.nl\n\nIk heb de afgelopen weken vaak hoofdpijn en ik ben snel moe. Ook slaap ik slecht en heb ik soms last van mijn maag. Ik gebruik paracetamol als ik hoofdpijn heb. Ik ben allergisch voor penicilline en pinda's. Ik rook niet en drink af en toe alcohol.",
+    "modelAnswerEn": "Dear sir/madam, I would like to make an appointment with the general practitioner. I have had a headache for a week now and I am very tired. I also sleep badly and have no energy left. When can I come? Preferably this week still, the afternoon is also fine. My phone number is 06-12345678. Kind regards, Maria de Vries.\n\nIntake form:\nName: Maria de Vries\nDate of birth: 22 June 1985\nAddress: Bloemstraat 3, 3456 EF Rotterdam\nPhone number: 06-12345678\nEmail: maria.devries@mail.nl\n\nIn recent weeks I have often had headaches and I get tired quickly. I also sleep badly and sometimes have stomach trouble. I take paracetamol when I have a headache. I am allergic to penicillin and peanuts. I do not smoke and drink alcohol occasionally."
   },
   {
     "id": "w29",
