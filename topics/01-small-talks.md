@@ -120,19 +120,45 @@ Soften the force of a statement.
 | Hoe lang woon je hier al? | How long have you been living here? | Ik woon hier al twee jaar. |
 | - |Aangenaam kennis te maken | Pleased to meet you |
 
-## Jouw huis
+## Maak kennis met Markus
 
-| Nederlands | English | Reply |
+*Markus ontmoet iemand voor het eerst en beantwoordt typische kennismakingsvragen over zijn naam, herkomst, beroep en interesses.*
+
+| Speaker | Nederlands | English |
 |---|---|---|
-| Woon je in een prettige buurt? | Do you live in a nice neighbourhood? | Ja, het is een rustige en groene buurt. |
-| Hoe groot is je woning? | How big is your home? | Mijn woning is ongeveer 70 vierkante meter. |
-| Woon je in een huis of een appartement? | Do you live in a house or an apartment? | Ik woon in een appartement. |
-| Hoeveel kamers heeft je woning? | How many rooms does your home have? | Mijn woning heeft drie kamers. |
-| Welke meubels staan in je woning? | What furniture is in your home? | Een bank, een tafel, een bed en een kast. |
-| Ben je tevreden (satisfied) met je woning? | Are you satisfied with your home? | Ja, ik ben er heel tevreden mee. |
-| Wil je ooit verhuizen? | Do you ever want to move? | Misschien later naar een groter huis. |
-| Heb je een tuin of een balkon? | Do you have a garden or a balcony? | Ik heb een klein balkon. |
-| Wat wil je veranderen aan je woning? | What would you like to change about your home? | Ik wil graag een nieuwe keuken. |
-| Waar wil je het liefst wonen? | Where would you most like to live? | Het liefst woon ik dicht bij het centrum. |
-| Hoe groot is je ideale woning? | How big is your ideal home? | Mijn ideale woning is ongeveer 100 vierkante meter. |
-| Hoe ziet je ideale woning eruit? | What does your ideal home look like? | Een licht huis met een grote tuin. |
+| A | Hoe heet jij? | What's your name? |
+| B | Ik ben Markus. | I'm Markus. |
+| A | Waar kom jij vandaan? | Where are you from? |
+| B | Ik kom uit Ukraine en | I'm from the Netherlands and |
+| A | Waar woon jij? | Where do you live? |
+| B | Ik woon in Amsterdam. | I live in Amsterdam. |
+| A | Wat doe jij voor werk? | What do you do for work? |
+| B | Ik ben docent | I'm a teacher |
+| A | Welke talen spreek jij? | What languages do you speak? |
+| B | Ik spreek Nederlands en een beetje Engels | I speak Dutch and a little English |
+| A | Hoe oud ben jij? | How old are you? |
+| B | Ik ben vijfendertig jaar oud | I'm thirty-five years old |
+| A | Houd jij van muziek? | Do you like music? |
+| B | Ik houd van muziek en talen | I like music and languages |
+| A | Wat doe jij graag in je vrije tijd? | What do you like to do in your free time? |
+| B | In mijn vrije tijd lees ik graag boeken | In my free time I like to read books |
+| B | Ik leer graag nieuwe dingen | I like to learn new things |
+| B | Ik reis graag en ontdek nieuwe plekken | I like to travel and discover new places |
+| A | Heb jij broers of zussen? | Do you have any brothers or sisters? |
+| A | Heb jij een huisdier? | Do you have a pet? |
+| B | Ik ben blij je te ontmoeten | I'm glad to meet you |
+
+## Begrijp je dat?
+
+*Een leerling vraagt om verduidelijking, herhaling of uitleg tijdens een conversatie in het Nederlands.*
+
+| Speaker | Nederlands | English |
+|---|---|---|
+| A | Ik weet het niet | I don't know |
+| A | Begrijp je dat? -- Ik begrijp je niet. | Do you understand that? -- I don't understand you. |
+| A | Schrijf dat in het schrift, Jij pakt je pen en schrijft | Write that in the notebook, You take your pen and write |
+| A | Kunt u dat alstublieft herhalen? of | Could you please repeat that? or |
+| A | Kun je langzamer praten? | Can you talk slower? |
+| A | Wat betekent dit woord? | What does this word mean? |
+| A | Hoe spreek je dat uit? Hoe schrijf je dat? | How do you pronounce that? How do you write that? |
+| A | Hoe heet dat in het Nederlands? | What is that called in Dutch? |

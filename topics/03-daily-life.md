@@ -2,30 +2,6 @@
 
 Language for everyday life in the Netherlands.
 
-## Shopping
-
-| Nederlands | English | Example |
-|------------|---------|---------|
-| Heeft u...? | Do you have...? | **Heeft u** ook verse vis? (Do you also have fresh fish?) |
-| Wat kost...? | What does ... cost? | **Wat kost** deze kaas? (What does this cheese cost?) |
-| Te duur | Too expensive | Die jas vind ik **te duur**. (I find that coat too expensive.) |
-| Waar vind ik...? | Where can I find...? | **Waar vind ik** de melk? (Where can I find the milk?) |
-| Mag ik een kilo...? | May I have a kilo of...? | **Mag ik een kilo** aardappelen? (May I have a kilo of potatoes?) |
-| Pinnen | To pay by card | Kan ik hier **pinnen**? (Can I pay by card here?) |
-| Het boodschappenlijstje | The shopping list | Ik schrijf een **boodschappenlijstje** voor ik ga winkelen. (I write a shopping list before I go shopping.) |
-| Een winkelmandje | A basket | Voor een paar dingen pak ik een **winkelmandje**. (For a few things I grab a basket.) |
-| Een winkelwagen | A shopping cart | Ik heb een euro nodig voor de **winkelwagen**. (I need a euro for the shopping cart.) |
-| De kassa | The checkout | Er staat een lange rij bij de **kassa**. (There's a long queue at the checkout.) |
-| Contant | Cash | Ik betaal liever **contant**. (I prefer to pay cash.) |
-| De bon | The receipt | Wilt u **de bon** in de tas? (Do you want the receipt in the bag?) |
-| Korting | Discount | Op deze schoenen krijg je **korting**. (You get a discount on these shoes.) |
-| De aanbieding | The special offer | De koffie is deze week in de **aanbieding**. (The coffee is on special offer this week.) |
-| De bakker | The bakery | Ik haal vers brood bij **de bakker**. (I get fresh bread at the bakery.) |
-| De slager | The butcher | Bij **de slager** koop ik een stukje vlees. (At the butcher I buy a bit of meat.) |
-| De groenteboer | The greengrocer | **De groenteboer** heeft vandaag lekkere appels. (The greengrocer has tasty apples today.) |
-| De markt | The market | Op zaterdag gaan we naar **de markt**. (On Saturday we go to the market.) |
-| De drogist | The drugstore | Tandpasta koop ik bij **de drogist**. (I buy toothpaste at the drugstore.) |
-
 ## Foods and meals
 
 | Nederlands | English | Example |
@@ -63,66 +39,6 @@ Language for everyday life in the Netherlands.
 | Mag ik een koffie, alstublieft? | Can I have a coffee, please? |
 | Wil je iets drinken? | Would you like a drink? |
 | Waar is het toilet? | Where's the toilet? |
-
-## Woningen, Kamers, Meubels, Huren en De Buurt
-
-| Nederlands | English | Example |
-|------------|---------|---------|
-| *Het* huis | The house | We hebben een nieuw **huis** gekocht. (We bought a new house.) |
-| De flat / het appartement | The apartment | Zij woont in een klein **appartement** in de stad. (She lives in a small apartment in the city.) |
-| De studio | The studio | Als student huurde ik een **studio**. (As a student I rented a studio.) |
-| De kamer | The room | Mijn **kamer** kijkt uit op de tuin. (My room looks out on the garden.) |
-| De woning | The dwelling | Deze **woning** heeft drie slaapkamers. (This dwelling has three bedrooms.) |
-| samenwonen         | to live together          | Wij gaan volgende maand **samenwonen**. (We are going to live together next month.) |
-| De woonkamer | The living room | 's Avonds zitten we samen in **de woonkamer**. (In the evening we sit together in the living room.) |
-| De slaapkamer | The bedroom | De kinderen slapen in **de slaapkamer** boven. (The children sleep in the bedroom upstairs.) |
-| De keuken | The kitchen | Ik kook elke dag in **de keuken**. (I cook in the kitchen every day.) |
-| De badkamer | The bathroom | **De badkamer** heeft een groot bad. (The bathroom has a big bath.) |
-| De tuin | The garden | In de zomer eten we in **de tuin**. (In summer we eat in the garden.) |
-| De zolder | The attic | De oude dozen staan op **de zolder**. (The old boxes are in the attic.) |
-| De bank | The sofa | Hij ligt op **de bank** televisie te kijken. (He's lying on the sofa watching television.) |
-| De tafel | The table | We dekken **de tafel** voor het eten. (We set the table for dinner.) |
-| De stoel | The chair | Ga zitten op deze **stoel**. (Have a seat on this chair.) |
-| *Het* bed | The bed | Ik ga vroeg naar **bed**. (I'm going to bed early.) |
-| De kast | The cupboard / wardrobe | Mijn kleren liggen in **de kast**. (My clothes are in the wardrobe.) |
-| De huur | The rent | **De huur** gaat elk jaar omhoog. (The rent goes up every year.) |
-| De huurder | The tenant | **De huurder** betaalt op tijd. (The tenant pays on time.) |
-| De huisbaas | The landlord | **De huisbaas** komt de verwarming maken. (The landlord is coming to fix the heating.) |
-| Een hypotheek | A mortgage | Voor dit huis hebben we **een hypotheek** nodig. (For this house we need a mortgage.) |
-| Een woning kopen | To buy a home | We willen volgend jaar **een woning kopen**. (We want to buy a home next year.) |
-| makelaar           | real estate agent         | De **makelaar** laat ons het huis zien. (The real estate agent shows us the house.) |
-| verhuizen          | to move (house)           | We gaan in juni **verhuizen** naar Utrecht. (We're going to move to Utrecht in June.) |
-| De buren | The neighbors | **De buren** zijn erg aardig. (The neighbors are very nice.) |
-| De wijk | The district | Ik woon in een rustige **wijk**. (I live in a quiet district.) |
-| Het centrum | The city center | We fietsen naar **het centrum** om te winkelen. (We cycle to the city center to shop.) |
-| Rustig | Quiet | Het is hier 's avonds heel **rustig**. (It's very quiet here in the evening.) |
-| Gezellig | Cozy / sociable | Wat een **gezellig** café! (What a cozy café!) |
-
-### Koop woning ads
-
-Words and phrases you meet when reading a **koopwoning-advertentie** (home-for-sale ad) on a site like Funda or Buurtje.
-
-| Nederlands | English | Example |
-|------------|---------|---------|
-| Te koop | For sale | Dit appartement staat **te koop**. (This apartment is for sale.) |
-| De vraagprijs | The asking price | De **vraagprijs** is € 450.000 k.k. (The asking price is €450,000.) |
-| k.k. (kosten koper) | costs for the buyer | De prijs is € 450.000 **k.k.** (The price is €450,000, buyer pays the costs.) |
-| De woonoppervlakte | The living area | De **woonoppervlakte** is 56 m². (The living area is 56 m².) |
-| Het bouwjaar | The build year | Het **bouwjaar** van het pand is 1906. (The building dates from 1906.) |
-| Het energielabel | The energy label | Deze woning heeft **energielabel** E. (This home has energy label E.) |
-| De WOZ-waarde | The assessed value | De **WOZ-waarde** bepaalt je gemeentebelasting. (The assessed value sets your municipal tax.) |
-| Het balkon | The balcony | Het appartement heeft een zonnig **balkon**. (The apartment has a sunny balcony.) |
-| De bezichtiging | The viewing | Wil je een **bezichtiging** inplannen? (Do you want to schedule a viewing?) |
-| Een bod uitbrengen | To make an offer | We willen een **bod uitbrengen** op het huis. (We want to make an offer on the house.) |
-| Onder bod | Under offer | De woning staat **onder bod**. (The property is under offer.) |
-| Verkocht | Sold | Helaas, dit huis is al **verkocht**. (Unfortunately, this house is already sold.) |
-
-#### Voorbeeldadvertentie — Sample ad
-
-> **Karakteristiek appartement te koop — Vuurbaakstraat 8, Den Haag**
-> In het gezellige Oud Scheveningen bieden wij dit charmante **appartement** aan met veel **karakter**.
-> **Vraagprijs:** € 450.000 k.k. · **Woonoppervlakte:** 56 m² · **Bouwjaar:** 1906 · **Energielabel:** E
-> Gelegen in een rustige **volksbuurt** op loopafstand van het strand. Interesse? Neem contact op met de **makelaar** voor een **bezichtiging**.
 
 ## Transport & Travel
 
@@ -228,3 +144,96 @@ Inviting
 | Een kaartje sturen | To send a card | Ik ga haar **een kaartje sturen** voor haar verjaardag. (I'm going to send her a card for her birthday.) |
 | Inpakken | To wrap (a gift) | Kun je dit cadeau voor me **inpakken**? (Can you wrap this gift for me?) |
 | Bloemen meenemen | To bring flowers | Zullen we **bloemen meenemen** voor de gastvrouw? (Shall we bring flowers for the hostess?) |
+
+## Mijn dag
+
+*Iemand vertelt stap voor stap over zijn dagelijkse activiteiten, van ochtend tot avond.*
+
+| Speaker | Nederlands | English |
+|---|---|---|
+| A | Ik sta op. | I stand up. |
+| A | Ik ga naar de badkamer. Ik was mijn gezicht. Ik poets mijn tanden | I'm going to the bathroom. I'm washing my face. I'm brushing my teeth. |
+| A | Ik ontbijt. Ik drink koffie | I have breakfast. I drink coffee. |
+| A | Ik ga naar mijn werk. Ik neem een pauze. Ik lunch. | I'm going to work. I'm taking a break. I'm having lunch. |
+| A | Ik ga naar huis | I'm going home |
+| A | Ik rust uit. Ik kijk televisie. Ik lees een boek. | I'm resting. I'm watching TV. I'm reading a book. |
+| A | Ik bel met vrienden | I call friends |
+| A | Ik eet avondeten | I am eating dinner |
+| A | Ik ga naar de badkamer, Ik douche, Ik was mijn handen | I go to the bathroom, I take a shower, I wash my hands |
+| A | Ik ga slapen | I'm going to sleep |
+
+## In het Restaurant
+
+*Thomas en Emma hebben een tafel gereserveerd in restaurant "De Molen" voor hun trouwdag.*
+
+| Speaker | Nederlands | English |
+|---|---|---|
+| Ober | Goedenavond en welkom bij De Molen. Hebt u een reservering? |  |
+| Thomas | Ja, voor twee personen onder de naam Thomas. Om zeven uur. |  |
+| Ober | Ja, ik zie het. Loopt u maar mee, ik heb een mooie tafel voor u bij het raam. |  |
+| Thomas | Dank u. Wat fijn dat we uitzicht hebben op de molen. |  |
+| Ober | Ja, het is prachtig bij zonsondergang. Hier is uw menukaart. Mogen wij beginnen met een aperitief? |  |
+| Emma | Een glas prosecco alstublieft. |  |
+| Thomas | En voor mij een glas witte wijn, droog. |  |
+| Ober | Uitstekend. Zijn jullie al bekend met ons menu, of kan ik iets aanraden? |  |
+| Emma | Wat raadt u aan? We houden van vis. |  |
+| Ober | Dan adviseer ik onze zalm met asperges. Die is seizoensgebonden en komt vers van de markt. Als voorgerecht hebben we heerlijke mosselen. |  |
+| Thomas | Dat klinkt perfect. We nemen de mosselen als voorgerecht en de zalm als hoofdgerecht. |  |
+| Emma | Hebben jullie ook vegetarische opties? Mijn zus is vegetariër. |  |
+| Ober | Ja, we hebben een pasta met truffel en seizoensgroenten. Die is erg populair. |  |
+| Emma | Goed om te weten. Dank u voor de informatie. |  |
+| Ober | Mag ik nu de bestelling opnemen? Twee aperitieven, mosselen als voorgerecht, zalm voor hem en zullen we de pasta voor straks bewaren als bijgerecht? |  |
+| Thomas | Ja, dat is perfect. |  |
+| Ober | Uitstekend. Ik ga de bestelling doorgeven. Eet smakelijk straks! |  |
+
+## Koken met Vrienden
+
+*Lisa, Jan en Bram staan in Lisa's keuken om samen te koken voor Lisa's verjaardag.*
+
+| Speaker | Nederlands | English |
+|---|---|---|
+| Lisa | Jongens, wat fijn dat jullie komen helpen! Ik heb het recept voor jullie uitgeprint. |  |
+| Jan | Waar moeten we beginnen? Ik kan de ui snijden als je wilt. |  |
+| Lisa | Ja, graag! De uien moeten in kleine stukjes. En Bram, kun jij de aardappelen schillen? |  |
+| Bram | Tuurlijk! Hoeveel aardappelen hebben we nodig? |  |
+| Lisa | Een kilo denk ik. We maken stamppot met boerenkool. |  |
+| Jan | Heerlijk! Dat is typisch Hollands. Ik ben benieuwd hoeveel aardappelen ik moet koken. |  |
+| Lisa | Je kookt ze net zo lang tot ze zacht zijn. Ongeveer twintig minuten. |  |
+| Bram | En de boerenkool? Moet die ook gekookt? |  |
+| Lisa | Ja, maar niet te lang. Anders wordt het papperig. Ongeveer tien minuten in kokend water. |  |
+| Jan | Ik heb de uien al gesneden. Wat nu? |  |
+| Lisa | Bak ze even in de pan met wat boter. Ze moeten glazig worden. |  |
+| Bram | Ik ben klaar met de aardappelen! Wacht, ik had hulp nodig. Lisa, hoeveel water moet erin de pan? |  |
+| Lisa | Vul de pan tot net onder de aardappelen. En zet het vuur hoog. |  |
+| Jan | Ik ben klaar met bakken. Moet ik nu de kaas raspen? |  |
+| Lisa | Ja! De goudse kaas. We hebben ongeveer honderd gram nodik. |  |
+| Bram | Die ruikt lekker! Hoe weet je wanneer de aardappelen klaar zijn? |  |
+| Lisa | Prik erin met een vork. Als de vork er gemakkelijk in gaat, zijn ze gaar. |  |
+| Jan | Perfect! De aardappelen zijn gaar. Nu de stamppot? |  |
+| Lisa | Ja! Giet de aardappelen af en prak ze met een aardappelstamper. Voeg dan de boerenkool toe en de gebakken ui. |  |
+| Bram | En de rookworst? Die moet erdoor? |  |
+| Lisa | Ja, snijd de rookworst in plakjes en leg ze bovenop. |  |
+| Jan | Het ruikt hier heerlijk! Ik kan niet wachten om te proeven. |  |
+| Lisa | Laat me even proeven of het op smaak is. Mmm, heerlijk! We moeten alleen nog wat peper toevoegen. |  |
+| Bram | Kan ik even proeven? Dit smaakt fantastisch! |  |
+| Lisa | Dank jullie wel voor de hulp! Zonder jullie was dit niet gelukt. |  |
+
+## Elke dag oefenen
+
+*Een leraar moedigt een leerling aan om elke dag een paar minuten Nederlands te oefenen en hardop zinnen te herhalen.*
+
+| Speaker | Nederlands | English |
+|---|---|---|
+| A | Dat is geweldig! Je maakt grote vooruitgang | That's great! You're making great progress. |
+| B | Spreek elke dag een paar minuten Nederlands | Speak Dutch for a few minutes every day |
+| B | Herhaal de zinnen hardop | Repeat the sentences out loud |
+| B | Je hersenen onthouden de woorden | Your brain remembers the words |
+| B | Je mond leert ze goed uit te spreken. | Your mouth learns to pronounce them properly. |
+| A | Elke dag word je beter | Every day you get better |
+| B | Als je fouten maakt, is dat goed. Zo leer je. | Making mistakes is okay. That's how you learn. |
+| B | Je Nederlands wordt duidelijker, zekerder en natuurlijker | Your Dutch will become clearer, more confident and more natural |
+| A | Wees trots op jezelf | Be proud of yourself |
+| A | Je hebt veel bereikt | You have achieved a lot |
+| B | Ik ben blij dat je met mij hebt geleerd. | I'm glad you learned with me. |
+| B | Zeg nu alles nog een keer samen met mij | Now say it all again with me |
+| A | Dit is het begin, Ga door, Jij kunt het! | This is the beginning, Go ahead, You can do it! |

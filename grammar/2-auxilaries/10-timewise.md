@@ -13,6 +13,10 @@
 | `binnenkort` | soon, in a moment | We zien elkaar **binnenkort**. (We'll see each other soon.) |
 | `straks` | soon/later today | Ik kom **straks** langs. (I'll stop by soon.) |
 | `meteen** / **zo meteen` | shortly | Ik kom **zo meteen**. (I'm coming shortly.) |
+| `na` / `nadat` | after | `Nadat* ik at, wandelde ik.  |
+| `totdat` | until | Wacht *totdat* ik kom. (Wait until I come.) |
+| `terwijl` | while | Ik las *terwijl* hij sliep. (I read while he slept.) |
+| `zodra` | as soon as | Bel me *zodra* je aankomt. (Call me as soon as you arrive.) |
 
 ## Frequency
 
@@ -39,7 +43,6 @@
 | `tijdens` | during | `Tijdens** de vergadering. |
 | `vanaf` | starting from | `Vanaf** maandag ben ik vrij. |
 | `tot` | until | We blijven **tot** zeven uur. |
-| `sinds` | since | Hij woont hier **sinds** 2010. |
 | `(al) sinds` | since | Ik woon hier **sinds** 2018. |
 | `(al) … lang` | for X | Ik werk hier **al drie jaar**. |
 | `binnen` | within | Ik kom **binnen** een uur. |

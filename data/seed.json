@@ -5,6 +5,7 @@
       "name_en": "offer",
       "id": "p3225",
       "domain": "resource",
+      "topic": "trade",
       "stem": "bied",
       "parent": "p264"
     },
@@ -25,6 +26,7 @@
       "name_en": "to put on",
       "id": "p3226",
       "domain": "agentic",
+      "topic": "operation",
       "stem": "do"
     },
     {
@@ -33,6 +35,7 @@
       "id": "p3077",
       "also": "aangename, aangenamer",
       "domain": "experience",
+      "topic": "feelings",
       "stem": "genaam"
     },
     {
@@ -90,6 +93,7 @@
       "name_en": "purchase",
       "id": "p3227",
       "domain": "resource",
+      "topic": "trade",
       "stem": "koop"
     },
     {
@@ -164,6 +168,7 @@
       "name_en": "to tackle",
       "id": "p3230",
       "domain": "agentic",
+      "topic": "operation",
       "pos": "verb",
       "name_nl2": "aanpak",
       "stem": "pak",
@@ -205,6 +210,7 @@
       "name_en": "to run toward",
       "id": "p3232",
       "domain": "spatial",
+      "topic": "move",
       "stem": "ren",
       "parent": "p2054"
     },
@@ -288,6 +294,7 @@
       "name_en": "addition",
       "id": "p3234",
       "domain": "core",
+      "topic": "content",
       "stem": "vul"
     },
     {
@@ -389,6 +396,7 @@
       "id": "p3078",
       "also": "aarzelde",
       "domain": "mental",
+      "topic": "will",
       "stem": "aarzel"
     },
     {
@@ -448,6 +456,7 @@
       "id": "p3369",
       "also": "geacht",
       "domain": "mental",
+      "topic": "evaluation",
       "stem": "acht"
     },
     {
@@ -456,6 +465,7 @@
       "id": "p3237",
       "also": "achtergelaten",
       "domain": "agentic",
+      "topic": "operation",
       "stem": "laat"
     },
     {
@@ -515,6 +525,7 @@
       "name_en": "action film",
       "id": "p3239",
       "domain": "culture",
+      "topic": "arts",
       "stem": "film"
     },
     {
@@ -523,6 +534,7 @@
       "id": "p3079",
       "also": "activiteiten",
       "domain": "agentic",
+      "topic": "operation",
       "stem": "act",
       "parent": "p45"
     },
@@ -544,6 +556,7 @@
       "name_en": "breathtaking",
       "id": "p3240",
       "domain": "experience",
+      "topic": "feelings",
       "stem": "adeem"
     },
     {
@@ -628,6 +641,7 @@
       "id": "p3242",
       "also": "adviseurs",
       "domain": "socium",
+      "topic": "cooperate",
       "stem": "advie",
       "parent": "p56"
     },
@@ -681,6 +695,7 @@
       "name_en": "cancelled",
       "id": "p3243",
       "domain": "core",
+      "topic": "flow",
       "stem": "last"
     },
     {
@@ -700,6 +715,7 @@
       "name_en": "dependent",
       "id": "p3246",
       "domain": "core",
+      "topic": "binding",
       "stem": "hang"
     },
     {
@@ -707,6 +723,7 @@
       "name_en": "aversion",
       "id": "p3247",
       "domain": "mental",
+      "topic": "attitude",
       "stem": "keer"
     },
     {
@@ -715,6 +732,7 @@
       "id": "p3248",
       "also": "afkoelde",
       "domain": "nature",
+      "topic": "temperature",
       "stem": "koel",
       "parent": "p1373"
     },
@@ -772,6 +790,7 @@
       "id": "p3244",
       "also": "afgerond",
       "domain": "agentic",
+      "topic": "result",
       "stem": "rond",
       "parent": "p2092"
     },
@@ -828,6 +847,7 @@
       "name_en": "arrange",
       "id": "p3080",
       "domain": "socium",
+      "topic": "cooperate",
       "stem": "spreek"
     },
     {
@@ -942,6 +962,7 @@
       "name_en": "please",
       "id": "p2948",
       "domain": "socium",
+      "topic": "common",
       "stem": "blief"
     },
     {
@@ -949,6 +970,7 @@
       "name_en": "alternative",
       "id": "p3249",
       "domain": "core",
+      "topic": "compare",
       "stem": "altern"
     },
     {
@@ -983,6 +1005,7 @@
       "name_en": "different",
       "id": "p2978",
       "domain": "core",
+      "topic": "compare",
       "stem": "ander"
     },
     {
@@ -1065,6 +1088,7 @@
       "name_en": "applause",
       "id": "p3251",
       "domain": "culture",
+      "topic": "arts",
       "stem": "applaus"
     },
     {
@@ -1111,6 +1135,7 @@
       "name_en": "poverty",
       "id": "p3252",
       "domain": "resource",
+      "topic": "possess",
       "stem": "armoed"
     },
     {
@@ -1119,6 +1144,7 @@
       "id": "p3253",
       "also": "arresteerde, gearresteerd",
       "domain": "civil",
+      "topic": "justice",
       "stem": "arrest"
     },
     {
@@ -1140,6 +1166,7 @@
       "id": "p3254",
       "also": "artiesten",
       "domain": "culture",
+      "topic": "arts",
       "stem": "artiest"
     },
     {
@@ -1148,6 +1175,7 @@
       "id": "p3255",
       "also": "artikelen",
       "domain": "knowledge",
+      "topic": "script",
       "stem": "artikel"
     },
     {
@@ -1210,6 +1238,7 @@
       "name_en": "dinner",
       "id": "p2995",
       "domain": "food",
+      "topic": "dishes",
       "stem": "eet",
       "parent": "p822"
     },
@@ -1218,6 +1247,7 @@
       "name_en": "evening paper",
       "id": "p3258",
       "domain": "knowledge",
+      "topic": "script",
       "stem": "krant",
       "parent": "p1403"
     },
@@ -1253,6 +1283,7 @@
       "name_en": "job security",
       "id": "p3259",
       "domain": "agentic",
+      "topic": "common",
       "stem": "zeek",
       "parent": "p2873"
     },
@@ -1355,6 +1386,7 @@
       "name_en": "ballpoint pen",
       "id": "p3025",
       "domain": "artifacts",
+      "topic": "tool",
       "stem": "pen"
     },
     {
@@ -1442,6 +1474,7 @@
       "name_en": "bossy",
       "id": "p3261",
       "domain": "mental",
+      "topic": "attitude",
       "stem": "baas",
       "parent": "p135"
     },
@@ -1483,6 +1516,7 @@
       "name_en": "thanks",
       "id": "p2943",
       "domain": "socium",
+      "topic": "common",
       "stem": "dank",
       "parent": "p156"
     },
@@ -1547,6 +1581,7 @@
       "name_en": "threat",
       "id": "p3262",
       "domain": "civil",
+      "topic": "clash",
       "stem": "dreig"
     },
     {
@@ -1554,6 +1589,7 @@
       "name_en": "skilled",
       "id": "p3263",
       "domain": "agentic",
+      "topic": "pragmatic",
       "stem": "drijf"
     },
     {
@@ -1596,6 +1632,7 @@
       "name_en": "business management",
       "id": "p3264",
       "domain": "resource",
+      "topic": "trade",
       "stem": "beheer",
       "parent": "p178"
     },
@@ -1655,6 +1692,7 @@
       "name_en": "guidance",
       "id": "p3265",
       "domain": "socium",
+      "topic": "care",
       "stem": "leid",
       "parent": "p1464"
     },
@@ -1689,6 +1727,7 @@
       "name_en": "understandable",
       "id": "p3081",
       "domain": "mental",
+      "topic": "understanding",
       "stem": "grijp",
       "parent": "p3266"
     },
@@ -1697,6 +1736,7 @@
       "name_en": "understanding",
       "id": "p3266",
       "domain": "mental",
+      "topic": "understanding",
       "stem": "grijp"
     },
     {
@@ -1705,6 +1745,7 @@
       "id": "p3267",
       "also": "behandeld",
       "domain": "body",
+      "topic": "health",
       "stem": "handel"
     },
     {
@@ -1733,6 +1774,7 @@
       "id": "p3268",
       "also": "behoeften",
       "domain": "mental",
+      "topic": "will",
       "stem": "hoef",
       "parent": "p1138"
     },
@@ -1742,6 +1784,7 @@
       "id": "p2967",
       "also": "behoorlijke",
       "domain": "core",
+      "topic": "overall",
       "stem": "hoor"
     },
     {
@@ -1761,6 +1804,7 @@
       "name_en": "both",
       "id": "p3269",
       "domain": "core",
+      "topic": "group",
       "stem": "beid"
     },
     {
@@ -1792,6 +1836,7 @@
       "name_en": "view",
       "id": "p3270",
       "domain": "experience",
+      "topic": "visual",
       "stem": "kijk",
       "parent": "p1314"
     },
@@ -1825,6 +1870,7 @@
       "name_en": "tax",
       "id": "p3271",
       "domain": "resource",
+      "topic": "trade",
       "stem": "last"
     },
     {
@@ -1832,6 +1878,7 @@
       "name_en": "polite",
       "id": "p3272",
       "domain": "socium",
+      "topic": "virtue",
       "stem": "leef"
     },
     {
@@ -1839,6 +1886,7 @@
       "name_en": "politeness",
       "id": "p3273",
       "domain": "socium",
+      "topic": "virtue",
       "stem": "leef",
       "parent": "p3272"
     },
@@ -1847,6 +1895,7 @@
       "name_en": "obstacle",
       "id": "p3274",
       "domain": "core",
+      "topic": "limit",
       "stem": "lemmer"
     },
     {
@@ -1897,6 +1946,7 @@
       "name_en": "listen to",
       "id": "p3276",
       "domain": "experience",
+      "topic": "audio",
       "stem": "luister",
       "parent": "p1526"
     },
@@ -1905,6 +1955,7 @@
       "name_en": "obtain",
       "id": "p3082",
       "domain": "agentic",
+      "topic": "result",
       "stem": "macht"
     },
     {
@@ -1982,6 +2033,7 @@
       "id": "p3277",
       "also": "bereiding",
       "domain": "food",
+      "topic": "dishes",
       "pos": "verb",
       "name_nl2": "bereiding",
       "stem": "reid"
@@ -2139,6 +2191,7 @@
       "name_en": "available",
       "id": "p3279",
       "domain": "core",
+      "topic": "potention",
       "stem": "schik"
     },
     {
@@ -2212,6 +2265,7 @@
       "name_en": "decided, definitely",
       "id": "p3280",
       "domain": "mental",
+      "topic": "will",
       "stem": "slis",
       "parent": "p220"
     },
@@ -2220,6 +2274,7 @@
       "name_en": "indecisiveness",
       "id": "p3084",
       "domain": "mental",
+      "topic": "will",
       "stem": "sluit",
       "parent": "p220"
     },
@@ -2229,6 +2284,7 @@
       "id": "p3083",
       "also": "besloten",
       "domain": "mental",
+      "topic": "will",
       "stem": "sluit",
       "parent": "p220"
     },
@@ -2237,6 +2293,7 @@
       "name_en": "decisive",
       "id": "p3281",
       "domain": "mental",
+      "topic": "will",
       "stem": "sluit",
       "parent": "p220"
     },
@@ -2245,6 +2302,7 @@
       "name_en": "decision-making",
       "id": "p3282",
       "domain": "mental",
+      "topic": "will",
       "stem": "sluit",
       "parent": "p220"
     },
@@ -2253,6 +2311,7 @@
       "name_en": "to save",
       "id": "p3283",
       "domain": "resource",
+      "topic": "possess",
       "stem": "spaar",
       "parent": "p2245"
     },
@@ -2261,6 +2320,7 @@
       "name_en": "to play (instrument)",
       "id": "p3284",
       "domain": "culture",
+      "topic": "arts",
       "stem": "spel"
     },
     {
@@ -2394,6 +2454,7 @@
       "id": "p3085",
       "also": "betekent",
       "domain": "language",
+      "topic": "communicate",
       "stem": "teken",
       "parent": "p232"
     },
@@ -2414,6 +2475,7 @@
       "name_en": "meaningful",
       "id": "p3285",
       "domain": "mental",
+      "topic": "evaluation",
       "stem": "teken",
       "parent": "p232"
     },
@@ -2435,6 +2497,7 @@
       "name_en": "get well",
       "id": "p3086",
       "domain": "body",
+      "topic": "health",
       "stem": "beter",
       "parent": "p233"
     },
@@ -2443,6 +2506,7 @@
       "name_en": "involvement",
       "id": "p3286",
       "domain": "socium",
+      "topic": "cooperate",
       "stem": "trek"
     },
     {
@@ -2463,6 +2527,7 @@
       "name_en": "fed up",
       "id": "p3287",
       "domain": "mental",
+      "topic": "emotion",
       "stem": "beu"
     },
     {
@@ -2470,6 +2535,7 @@
       "name_en": "stock exchange, scholarship",
       "id": "p3288",
       "domain": "resource",
+      "topic": "trade",
       "stem": "beurs"
     },
     {
@@ -2491,6 +2557,7 @@
       "name_en": "command, order",
       "id": "p3289",
       "domain": "agentic",
+      "topic": "control",
       "stem": "bevel"
     },
     {
@@ -2540,6 +2607,7 @@
       "id": "p3087",
       "also": "bevredigende",
       "domain": "experience",
+      "topic": "feelings",
       "stem": "vrede"
     },
     {
@@ -2654,6 +2722,7 @@
       "name_en": "aware, conscious",
       "id": "p3291",
       "domain": "mental",
+      "topic": "mental",
       "stem": "bewust"
     },
     {
@@ -2753,6 +2822,7 @@
       "name_en": "worried, concerned",
       "id": "p3293",
       "domain": "mental",
+      "topic": "fear",
       "stem": "zorg",
       "parent": "p2920"
     },
@@ -2863,6 +2933,7 @@
       "name_en": "to contribute",
       "id": "p3294",
       "domain": "agentic",
+      "topic": "effort",
       "stem": "draag"
     },
     {
@@ -2870,6 +2941,7 @@
       "name_en": "together",
       "id": "p3295",
       "domain": "socium",
+      "topic": "common",
       "stem": "een",
       "parent": "p762"
     },
@@ -2878,6 +2950,7 @@
       "name_en": "meeting, gathering",
       "id": "p3296",
       "domain": "socium",
+      "topic": "common",
       "stem": "koom"
     },
     {
@@ -2885,6 +2958,7 @@
       "name_en": "to keep track of",
       "id": "p3297",
       "domain": "agentic",
+      "topic": "control",
       "stem": "houd"
     },
     {
@@ -3061,6 +3135,7 @@
       "name_en": "bizarre",
       "id": "p3299",
       "domain": "mental",
+      "topic": "evaluation",
       "stem": "bizar"
     },
     {
@@ -3095,6 +3170,7 @@
       "id": "p3027",
       "also": "bladeren",
       "domain": "nature",
+      "topic": "landscape",
       "stem": "blad"
     },
     {
@@ -3135,6 +3211,7 @@
       "name_en": "pale",
       "id": "p3300",
       "domain": "experience",
+      "topic": "visual",
       "stem": "bleek"
     },
     {
@@ -3358,6 +3435,7 @@
       "name_en": "bookcase",
       "id": "p3302",
       "domain": "artifacts",
+      "topic": "furniture",
       "stem": "kast",
       "parent": "p512"
     },
@@ -3366,6 +3444,7 @@
       "name_en": "bouquet",
       "id": "p3303",
       "domain": "artifacts",
+      "topic": "accessories",
       "stem": "boeket"
     },
     {
@@ -3373,6 +3452,7 @@
       "name_en": "farmer",
       "id": "p3304",
       "domain": "socium",
+      "topic": "common",
       "stem": "boer"
     },
     {
@@ -3570,6 +3650,7 @@
       "name_en": "to collide",
       "id": "p3305",
       "domain": "spatial",
+      "topic": "impulse",
       "stem": "bots"
     },
     {
@@ -3613,6 +3694,7 @@
       "name_en": "industry, sector",
       "id": "p3306",
       "domain": "system",
+      "topic": "order",
       "stem": "branche"
     },
     {
@@ -3712,6 +3794,7 @@
       "name_en": "note",
       "id": "p3307",
       "domain": "language",
+      "topic": "communicate",
       "parent": "p350",
       "stem": "brief"
     },
@@ -3761,6 +3844,7 @@
       "name_en": "source",
       "id": "p3308",
       "domain": "knowledge",
+      "topic": "knowledge",
       "stem": "bron"
     },
     {
@@ -3811,6 +3895,7 @@
       "name_en": "wedding",
       "id": "p3089",
       "domain": "socium",
+      "topic": "family",
       "parent": "p360",
       "stem": "bruiloft"
     },
@@ -3884,6 +3969,7 @@
       "name_en": "outdoor life",
       "id": "p3309",
       "domain": "nature",
+      "topic": "landscape",
       "stem": "leef"
     },
     {
@@ -3892,6 +3978,7 @@
       "id": "p3090",
       "also": "burgers",
       "domain": "food",
+      "topic": "dishes",
       "stem": "burger"
     },
     {
@@ -3914,6 +4001,7 @@
       "name_en": "neighbor",
       "id": "p3310",
       "domain": "socium",
+      "topic": "common",
       "stem": "buur"
     },
     {
@@ -3921,6 +4009,7 @@
       "name_en": "neighboring country",
       "id": "p3311",
       "domain": "civil",
+      "topic": "common",
       "parent": "p3310",
       "stem": "land"
     },
@@ -3929,6 +4018,7 @@
       "name_en": "neighbor (male)",
       "id": "p3312",
       "domain": "socium",
+      "topic": "common",
       "parent": "p3310",
       "stem": "man"
     },
@@ -3992,6 +4082,7 @@
       "name_en": "capable",
       "id": "p3314",
       "domain": "agentic",
+      "topic": "pragmatic",
       "stem": "capac"
     },
     {
@@ -3999,6 +4090,7 @@
       "name_en": "capacity",
       "id": "p3315",
       "domain": "system",
+      "topic": "power",
       "parent": "p3314",
       "stem": "capac"
     },
@@ -4048,6 +4140,7 @@
       "name_en": "charm",
       "id": "p3319",
       "domain": "experience",
+      "topic": "feelings",
       "stem": "charme"
     },
     {
@@ -4055,6 +4148,7 @@
       "name_en": "check",
       "id": "p3091",
       "domain": "agentic",
+      "topic": "assess",
       "stem": "check"
     },
     {
@@ -4062,6 +4156,7 @@
       "name_en": "chocolate",
       "id": "p3092",
       "domain": "food",
+      "topic": "ingredients",
       "stem": "chocolade"
     },
     {
@@ -4178,6 +4273,7 @@
       "name_en": "concentrate",
       "id": "p3094",
       "domain": "mental",
+      "topic": "mental",
       "stem": "concentr"
     },
     {
@@ -4225,6 +4321,7 @@
       "id": "p2997",
       "also": "conferenties",
       "domain": "socium",
+      "topic": "common",
       "stem": "conferent"
     },
     {
@@ -4233,6 +4330,7 @@
       "id": "p3322",
       "also": "conflicten",
       "domain": "socium",
+      "topic": "conflict",
       "stem": "conflict"
     },
     {
@@ -4268,6 +4366,7 @@
       "id": "p2979",
       "also": "controleer",
       "domain": "agentic",
+      "topic": "assess",
       "stem": "controle"
     },
     {
@@ -4276,6 +4375,7 @@
       "id": "p3323",
       "also": "controversiële",
       "domain": "socium",
+      "topic": "conflict",
       "stem": "controvers"
     },
     {
@@ -4312,6 +4412,7 @@
       "id": "p2980",
       "also": "cruciale",
       "domain": "core",
+      "topic": "overall",
       "stem": "crucia"
     },
     {
@@ -4319,6 +4420,7 @@
       "name_en": "culture",
       "id": "p3324",
       "domain": "culture",
+      "topic": "customs",
       "stem": "cultuur"
     },
     {
@@ -4379,6 +4481,7 @@
       "name_en": "diary",
       "id": "p3096",
       "domain": "language",
+      "topic": "communicate",
       "stem": "boek",
       "parent": "p310"
     },
@@ -4437,6 +4540,7 @@
       "name_en": "lady",
       "id": "p3326",
       "domain": "socium",
+      "topic": "common",
       "stem": "dame"
     },
     {
@@ -4456,6 +4560,7 @@
       "name_en": "grateful",
       "id": "p2998",
       "domain": "mental",
+      "topic": "emotion",
       "parent": "p432",
       "stem": "dank"
     },
@@ -4490,6 +4595,7 @@
       "name_en": "dance lesson",
       "id": "p3097",
       "domain": "culture",
+      "topic": "arts",
       "parent": "p435",
       "stem": "les"
     },
@@ -4553,6 +4659,7 @@
       "name_en": "the one",
       "id": "p3327",
       "domain": "core",
+      "topic": "thing",
       "stem": "gene"
     },
     {
@@ -4633,6 +4740,7 @@
       "id": "p3328",
       "also": "denkwijzen",
       "domain": "mental",
+      "topic": "mental",
       "parent": "p650",
       "stem": "denk"
     },
@@ -4641,6 +4749,7 @@
       "name_en": "expert",
       "id": "p3330",
       "domain": "knowledge",
+      "topic": "knowledge",
       "stem": "kund"
     },
     {
@@ -4714,6 +4823,7 @@
       "name_en": "closer",
       "id": "p3333",
       "domain": "spatial",
+      "topic": "distance",
       "parent": "p657",
       "stem": "dicht"
     },
@@ -4796,6 +4906,7 @@
       "name_en": "dine",
       "id": "p3098",
       "domain": "food",
+      "topic": "dishes",
       "pos": "verb",
       "name_nl2": "diner",
       "stem": "diner"
@@ -4858,6 +4969,7 @@
       "id": "p3336",
       "also": "documenten",
       "domain": "knowledge",
+      "topic": "script",
       "stem": "document"
     },
     {
@@ -4969,6 +5081,7 @@
       "name_en": "dark gray",
       "id": "p3337",
       "domain": "experience",
+      "topic": "visual",
       "parent": "p687",
       "stem": "grijs"
     },
@@ -5035,6 +5148,7 @@
       "name_en": "passage",
       "id": "p3099",
       "domain": "spatial",
+      "topic": "place",
       "stem": "gang"
     },
     {
@@ -5076,6 +5190,7 @@
       "name_en": "go through",
       "id": "p3339",
       "domain": "agentic",
+      "topic": "operation",
       "stem": "lop"
     },
     {
@@ -5099,6 +5214,7 @@
       "id": "p3338",
       "also": "doorgevoerd",
       "domain": "agentic",
+      "topic": "result",
       "stem": "voer"
     },
     {
@@ -5249,6 +5365,7 @@
       "id": "p3340",
       "also": "drijft",
       "domain": "core",
+      "topic": "flow",
       "stem": "drijf"
     },
     {
@@ -5256,6 +5373,7 @@
       "name_en": "urgent",
       "id": "p3100",
       "domain": "core",
+      "topic": "overall",
       "stem": "dring"
     },
     {
@@ -5336,6 +5454,7 @@
       "name_en": "busy",
       "id": "p2960",
       "domain": "core",
+      "topic": "overall",
       "stem": "druk"
     },
     {
@@ -5440,6 +5559,7 @@
       "name_en": "dizzy",
       "id": "p3342",
       "domain": "body",
+      "topic": "health",
       "stem": "duizel"
     },
     {
@@ -5448,6 +5568,7 @@
       "id": "p3343",
       "also": "dumpte",
       "domain": "socium",
+      "topic": "conflict",
       "stem": "dump"
     },
     {
@@ -5612,6 +5733,7 @@
       "id": "p3101",
       "also": "echte",
       "domain": "core",
+      "topic": "overall",
       "stem": "echt"
     },
     {
@@ -5648,6 +5770,7 @@
       "id": "p3344",
       "also": "economische",
       "domain": "resource",
+      "topic": "trade",
       "parent": "p756",
       "stem": "econom"
     },
@@ -5744,6 +5867,7 @@
       "id": "p2981",
       "also": "eerlijke",
       "domain": "mental",
+      "topic": "attitude",
       "parent": "p767",
       "stem": "eer"
     },
@@ -5752,6 +5876,7 @@
       "name_en": "honesty",
       "id": "p3102",
       "domain": "mental",
+      "topic": "attitude",
       "parent": "p767",
       "stem": "eer"
     },
@@ -5821,6 +5946,7 @@
       "name_en": "efficiency",
       "id": "p3345",
       "domain": "system",
+      "topic": "progress",
       "stem": "efficient"
     },
     {
@@ -5942,6 +6068,7 @@
       "name_en": "electricity",
       "id": "p3347",
       "domain": "resource",
+      "topic": "consume",
       "stem": "elektr"
     },
     {
@@ -5950,6 +6077,7 @@
       "id": "p3348",
       "also": "elektronische",
       "domain": "system",
+      "topic": "power",
       "parent": "p3347",
       "stem": "elektr"
     },
@@ -5959,6 +6087,7 @@
       "id": "p2947",
       "also": "elke",
       "domain": "core",
+      "topic": "group",
       "stem": "elk"
     },
     {
@@ -5994,6 +6123,7 @@
       "name_en": "emotional",
       "id": "p3349",
       "domain": "mental",
+      "topic": "emotion",
       "parent": "p797",
       "stem": "emot"
     },
@@ -6016,6 +6146,7 @@
       "name_en": "scary",
       "id": "p3350",
       "domain": "experience",
+      "topic": "emotion",
       "stem": "eng"
     },
     {
@@ -6024,6 +6155,7 @@
       "id": "p3103",
       "also": "enige",
       "domain": "core",
+      "topic": "group",
       "stem": "enig"
     },
     {
@@ -6069,6 +6201,7 @@
       "name_en": "enthusiastic",
       "id": "p3029",
       "domain": "mental",
+      "topic": "emotion",
       "stem": "enthousiast"
     },
     {
@@ -6076,6 +6209,7 @@
       "name_en": "envelope",
       "id": "p3351",
       "domain": "artifacts",
+      "topic": "tool",
       "stem": "envelop"
     },
     {
@@ -6083,6 +6217,7 @@
       "name_en": "behind it",
       "id": "p3352",
       "domain": "spatial",
+      "topic": "position",
       "stem": "achter"
     },
     {
@@ -6129,6 +6264,7 @@
       "id": "p3353",
       "also": "ergste",
       "domain": "core",
+      "topic": "compare",
       "stem": "erg",
       "parent": "p808"
     },
@@ -6150,6 +6286,7 @@
       "name_en": "serious",
       "id": "p3355",
       "domain": "core",
+      "topic": "overall",
       "stem": "ernst"
     },
     {
@@ -6174,6 +6311,7 @@
       "id": "p3388",
       "also": "geërfd",
       "domain": "resource",
+      "topic": "getting",
       "stem": "erf"
     },
     {
@@ -6193,6 +6331,7 @@
       "name_en": "essential",
       "id": "p2983",
       "domain": "core",
+      "topic": "overall",
       "parent": "p819",
       "stem": "essent"
     },
@@ -6247,6 +6386,7 @@
       "id": "p3107",
       "also": "evenementen",
       "domain": "socium",
+      "topic": "common",
       "stem": "evenement"
     },
     {
@@ -6268,6 +6408,7 @@
       "name_en": "copy",
       "id": "p3357",
       "domain": "core",
+      "topic": "thing",
       "stem": "exemplaar"
     },
     {
@@ -6289,6 +6430,7 @@
       "name_en": "factory",
       "id": "p3108",
       "domain": "resource",
+      "topic": "building",
       "stem": "fabriek"
     },
     {
@@ -6356,6 +6498,7 @@
       "name_en": "imaginative",
       "id": "p3358",
       "domain": "mental",
+      "topic": "intellect",
       "stem": "fantasie"
     },
     {
@@ -6363,6 +6506,7 @@
       "name_en": "fantastic",
       "id": "p3000",
       "domain": "experience",
+      "topic": "feelings",
       "parent": "p3358",
       "stem": "fantast"
     },
@@ -6371,6 +6515,7 @@
       "name_en": "fascinating",
       "id": "p3359",
       "domain": "experience",
+      "topic": "feelings",
       "stem": "fascin"
     },
     {
@@ -6418,6 +6563,7 @@
       "id": "p3360",
       "also": "feestdagen",
       "domain": "culture",
+      "topic": "customs",
       "parent": "p843",
       "stem": "feest"
     },
@@ -6426,6 +6572,7 @@
       "name_en": "party",
       "id": "p3361",
       "domain": "socium",
+      "topic": "common",
       "parent": "p843",
       "stem": "feest"
     },
@@ -6523,6 +6670,7 @@
       "id": "p3362",
       "also": "financiële",
       "domain": "resource",
+      "topic": "trade",
       "stem": "financ"
     },
     {
@@ -6531,6 +6679,7 @@
       "id": "p3363",
       "also": "flatteuzer",
       "domain": "experience",
+      "topic": "visual",
       "stem": "flatteus"
     },
     {
@@ -6602,6 +6751,7 @@
       "id": "p3364",
       "also": "fluisterde",
       "domain": "language",
+      "topic": "talk",
       "stem": "fluister"
     },
     {
@@ -6652,6 +6802,7 @@
       "id": "p2984",
       "also": "foto's",
       "domain": "culture",
+      "topic": "arts",
       "stem": "foto"
     },
     {
@@ -6659,6 +6810,7 @@
       "name_en": "to photograph",
       "id": "p3109",
       "domain": "culture",
+      "topic": "arts",
       "parent": "p2984",
       "stem": "fotograf"
     },
@@ -6668,6 +6820,7 @@
       "id": "p3033",
       "also": "fouten",
       "domain": "core",
+      "topic": "structure",
       "stem": "fout"
     },
     {
@@ -6675,6 +6828,7 @@
       "name_en": "debugging",
       "id": "p3365",
       "domain": "system",
+      "topic": "defect",
       "parent": "p3033",
       "stem": "spoor"
     },
@@ -6723,6 +6877,7 @@
       "name_en": "frustrating",
       "id": "p3001",
       "domain": "mental",
+      "topic": "emotion",
       "stem": "frustr"
     },
     {
@@ -6788,6 +6943,7 @@
       "name_en": "common",
       "id": "p3367",
       "domain": "core",
+      "topic": "pattern",
       "stem": "gang"
     },
     {
@@ -6869,6 +7025,7 @@
       "id": "p3368",
       "also": "gaten",
       "domain": "spatial",
+      "topic": "surface",
       "stem": "gat"
     },
     {
@@ -6891,6 +7048,7 @@
       "name_en": "fried",
       "id": "p3110",
       "domain": "food",
+      "topic": "dishes",
       "parent": "p3110",
       "stem": "bak"
     },
@@ -6970,6 +7128,7 @@
       "name_en": "security",
       "id": "p3370",
       "domain": "mental",
+      "topic": "feelings",
       "stem": "berg"
     },
     {
@@ -6977,6 +7136,7 @@
       "name_en": "building",
       "id": "p3002",
       "domain": "artifacts",
+      "topic": "building",
       "stem": "bouw",
       "parent": "p334"
     },
@@ -7051,6 +7211,7 @@
       "name_en": "detailed",
       "id": "p3371",
       "domain": "core",
+      "topic": "content",
       "stem": "detail"
     },
     {
@@ -7058,6 +7219,7 @@
       "name_en": "poem",
       "id": "p3111",
       "domain": "culture",
+      "topic": "arts",
       "stem": "dicht"
     },
     {
@@ -7065,6 +7227,7 @@
       "name_en": "hassle",
       "id": "p3372",
       "domain": "core",
+      "topic": "effort",
       "stem": "do"
     },
     {
@@ -7124,6 +7287,7 @@
       "name_en": "congratulations",
       "id": "p3034",
       "domain": "socium",
+      "topic": "common",
       "stem": "felicit",
       "parent": "p848"
     },
@@ -7133,6 +7297,7 @@
       "id": "p3374",
       "also": "gegrilde",
       "domain": "food",
+      "topic": "dishes",
       "stem": "gril"
     },
     {
@@ -7155,6 +7320,7 @@
       "id": "p2961",
       "also": "hele",
       "domain": "core",
+      "topic": "overall",
       "stem": "heel"
     },
     {
@@ -7245,6 +7411,7 @@
       "name_en": "spending limit",
       "id": "p3375",
       "domain": "resource",
+      "topic": "trade",
       "parent": "p913",
       "stem": "limiet"
     },
@@ -7253,6 +7420,7 @@
       "name_en": "ago",
       "id": "p3112",
       "domain": "core",
+      "topic": "timeline",
       "stem": "lijd"
     },
     {
@@ -7260,6 +7428,7 @@
       "name_en": "opportunity",
       "id": "p3376",
       "domain": "core",
+      "topic": "potention",
       "stem": "lig"
     },
     {
@@ -7267,6 +7436,7 @@
       "name_en": "right",
       "id": "p3113",
       "domain": "core",
+      "topic": "compare",
       "stem": "lijk"
     },
     {
@@ -7299,6 +7469,7 @@
       "name_en": "even",
       "id": "p3377",
       "domain": "core",
+      "topic": "pattern",
       "parent": "p3113",
       "stem": "lijk"
     },
@@ -7373,6 +7544,7 @@
       "name_en": "happy",
       "id": "p3003",
       "domain": "mental",
+      "topic": "emotion",
       "parent": "p921",
       "stem": "luk"
     },
@@ -7381,6 +7553,7 @@
       "name_en": "ease",
       "id": "p3114",
       "domain": "core",
+      "topic": "effort",
       "stem": "mak",
       "parent": "p1551"
     },
@@ -7402,6 +7575,7 @@
       "id": "p3378",
       "also": "gemeenschappelijke",
       "domain": "socium",
+      "topic": "common",
       "parent": "p924",
       "stem": "gemeen"
     },
@@ -7447,6 +7621,7 @@
       "name_en": "organized",
       "id": "p3116",
       "domain": "mental",
+      "topic": "attitude",
       "stem": "organis",
       "parent": "p1845"
     },
@@ -7456,6 +7631,7 @@
       "id": "p3117",
       "also": "gerechten",
       "domain": "food",
+      "topic": "dishes",
       "stem": "recht"
     },
     {
@@ -7475,6 +7651,7 @@
       "name_en": "at ease",
       "id": "p3004",
       "domain": "mental",
+      "topic": "feelings",
       "stem": "rust"
     },
     {
@@ -7482,6 +7659,7 @@
       "name_en": "reassuring",
       "id": "p3118",
       "domain": "mental",
+      "topic": "feelings",
       "stem": "rust"
     },
     {
@@ -7530,6 +7708,7 @@
       "name_en": "gender",
       "id": "p3380",
       "domain": "life",
+      "topic": "species",
       "stem": "slacht"
     },
     {
@@ -7565,6 +7744,7 @@
       "name_en": "talented",
       "id": "p3120",
       "domain": "agentic",
+      "topic": "pragmatic",
       "stem": "talent"
     },
     {
@@ -7597,6 +7777,7 @@
       "name_en": "case",
       "id": "p3381",
       "domain": "core",
+      "topic": "thing",
       "stem": "val"
     },
     {
@@ -7631,6 +7812,7 @@
       "id": "p2985",
       "also": "gevoelens",
       "domain": "mental",
+      "topic": "feelings",
       "stem": "voel",
       "parent": "p2674"
     },
@@ -7651,6 +7833,7 @@
       "name_en": "violence",
       "id": "p3382",
       "domain": "civil",
+      "topic": "clash",
       "stem": "weld"
     },
     {
@@ -7670,6 +7853,7 @@
       "name_en": "used to",
       "id": "p3121",
       "domain": "mental",
+      "topic": "mental",
       "stem": "wenn"
     },
     {
@@ -7700,6 +7884,7 @@
       "name_en": "injured",
       "id": "p3384",
       "domain": "body",
+      "topic": "health",
       "stem": "wond"
     },
     {
@@ -7719,6 +7904,7 @@
       "name_en": "habit",
       "id": "p3385",
       "domain": "mental",
+      "topic": "mental",
       "parent": "p949",
       "stem": "woon"
     },
@@ -7728,6 +7914,7 @@
       "id": "p3386",
       "also": "gezamenlijke",
       "domain": "socium",
+      "topic": "cooperate",
       "stem": "samen",
       "parent": "p2113"
     },
@@ -7764,6 +7951,7 @@
       "id": "p3035",
       "also": "gezonde",
       "domain": "body",
+      "topic": "health",
       "parent": "p955",
       "stem": "gezond"
     },
@@ -7786,6 +7974,7 @@
       "name_en": "health problems",
       "id": "p3387",
       "domain": "body",
+      "topic": "health",
       "parent": "p955",
       "stem": "probleem"
     },
@@ -7794,6 +7983,7 @@
       "name_en": "interested",
       "id": "p3122",
       "domain": "mental",
+      "topic": "attitude",
       "stem": "interess",
       "parent": "p1227"
     },
@@ -7803,6 +7993,7 @@
       "id": "p3123",
       "also": "gidsen",
       "domain": "knowledge",
+      "topic": "script",
       "stem": "gids"
     },
     {
@@ -7842,6 +8033,7 @@
       "name_en": "last night",
       "id": "p3124",
       "domain": "core",
+      "topic": "timeline",
       "parent": "p129",
       "stem": "avond"
     },
@@ -7864,6 +8056,7 @@
       "name_en": "guitar",
       "id": "p3389",
       "domain": "culture",
+      "topic": "arts",
       "stem": "gitaar"
     },
     {
@@ -7970,6 +8163,7 @@
       "name_en": "benign",
       "id": "p3391",
       "domain": "body",
+      "topic": "health",
       "stem": "aard"
     },
     {
@@ -7989,6 +8183,7 @@
       "name_en": "make up",
       "id": "p3392",
       "domain": "socium",
+      "topic": "cooperate",
       "stem": "maak"
     },
     {
@@ -7997,6 +8192,7 @@
       "id": "p3005",
       "also": "golven",
       "domain": "nature",
+      "topic": "seescape",
       "stem": "golf"
     },
     {
@@ -8162,6 +8358,7 @@
       "name_en": "grip",
       "id": "p3393",
       "domain": "core",
+      "topic": "control",
       "stem": "grijp"
     },
     {
@@ -8183,6 +8380,7 @@
       "name_en": "flu shot",
       "id": "p3125",
       "domain": "body",
+      "topic": "health",
       "parent": "p992",
       "stem": "griep"
     },
@@ -8191,6 +8389,7 @@
       "name_en": "creepy",
       "id": "p3394",
       "domain": "experience",
+      "topic": "emotion",
       "stem": "griezel"
     },
     {
@@ -8351,6 +8550,7 @@
       "name_en": "grandmother",
       "id": "p3397",
       "domain": "socium",
+      "topic": "family",
       "parent": "p3126",
       "stem": "moeder"
     },
@@ -8360,6 +8560,7 @@
       "id": "p3126",
       "also": "grootouders",
       "domain": "socium",
+      "topic": "family",
       "stem": "ouder",
       "parent": "p1850"
     },
@@ -8368,6 +8569,7 @@
       "name_en": "grandfather",
       "id": "p3398",
       "domain": "socium",
+      "topic": "family",
       "parent": "p3126",
       "stem": "vader"
     },
@@ -8451,6 +8653,7 @@
       "name_en": "fireplace",
       "id": "p3399",
       "domain": "artifacts",
+      "topic": "buildparts",
       "stem": "haard"
     },
     {
@@ -8591,6 +8794,7 @@
       "name_en": "handshake",
       "id": "p3402",
       "domain": "socium",
+      "topic": "common",
       "stem": "druk"
     },
     {
@@ -8618,6 +8822,7 @@
       "name_en": "handy",
       "id": "p3006",
       "domain": "core",
+      "topic": "effort",
       "stem": "hand"
     },
     {
@@ -8688,6 +8893,7 @@
       "name_en": "snack",
       "id": "p3403",
       "domain": "food",
+      "topic": "dishes",
       "stem": "hap"
     },
     {
@@ -8908,6 +9114,7 @@
       "name_en": "unfortunately",
       "id": "p3404",
       "domain": "core",
+      "topic": "overall",
       "stem": "helaas"
     },
     {
@@ -8938,6 +9145,7 @@
       "name_en": "half",
       "id": "p3405",
       "domain": "core",
+      "topic": "group",
       "stem": "half"
     },
     {
@@ -8946,6 +9154,7 @@
       "id": "p2941",
       "also": "helpt, help, geholpen",
       "domain": "agentic",
+      "topic": "effort",
       "stem": "help",
       "parent": "p1169"
     },
@@ -8955,6 +9164,7 @@
       "id": "p3128",
       "also": "herenigingen",
       "domain": "socium",
+      "topic": "family",
       "stem": "een",
       "parent": "p762"
     },
@@ -8963,6 +9173,7 @@
       "name_en": "autumn",
       "id": "p3406",
       "domain": "nature",
+      "topic": "season",
       "stem": "herfst"
     },
     {
@@ -9092,6 +9303,7 @@
       "name_en": "red-handed",
       "id": "p3408",
       "domain": "civil",
+      "topic": "justice",
       "stem": "daad"
     },
     {
@@ -9125,6 +9337,7 @@
       "name_en": "intense",
       "id": "p3409",
       "domain": "core",
+      "topic": "overall",
       "stem": "hevig"
     },
     {
@@ -9157,6 +9370,7 @@
       "name_en": "here",
       "id": "p3410",
       "domain": "spatial",
+      "topic": "direction",
       "stem": "hier",
       "parent": "p1125"
     },
@@ -9286,6 +9500,7 @@
       "name_en": "honey",
       "id": "p3414",
       "domain": "food",
+      "topic": "ingredients",
       "stem": "honing"
     },
     {
@@ -9319,6 +9534,7 @@
       "name_en": "height",
       "id": "p3129",
       "domain": "spatial",
+      "topic": "extent",
       "parent": "p1150",
       "stem": "hoog"
     },
@@ -9339,6 +9555,7 @@
       "name_en": "hopefully",
       "id": "p2949",
       "domain": "mental",
+      "topic": "will",
       "parent": "p1153",
       "stem": "hoop"
     },
@@ -9498,6 +9715,7 @@
       "id": "p3130",
       "also": "huishoudelijke",
       "domain": "socium",
+      "topic": "family",
       "parent": "p1164",
       "stem": "huis"
     },
@@ -9521,6 +9739,7 @@
       "name_en": "homework",
       "id": "p3131",
       "domain": "knowledge",
+      "topic": "acquire",
       "parent": "p1164",
       "stem": "huis"
     },
@@ -9685,6 +9904,7 @@
       "name_en": "impression",
       "id": "p3420",
       "domain": "experience",
+      "topic": "perceive",
       "stem": "druk"
     },
     {
@@ -9693,6 +9913,7 @@
       "id": "p3008",
       "also": "indrukwekkende",
       "domain": "experience",
+      "topic": "feelings",
       "stem": "druk"
     },
     {
@@ -9726,6 +9947,7 @@
       "id": "p3421",
       "also": "informele",
       "domain": "socium",
+      "topic": "common",
       "stem": "form"
     },
     {
@@ -9759,6 +9981,7 @@
       "name_en": "complicated",
       "id": "p3135",
       "domain": "core",
+      "topic": "structure",
       "stem": "wikkel"
     },
     {
@@ -9795,6 +10018,7 @@
       "id": "p3423",
       "also": "inkopen",
       "domain": "resource",
+      "topic": "trade",
       "stem": "koop",
       "parent": "p1391"
     },
@@ -9804,6 +10028,7 @@
       "id": "p3036",
       "also": "inlegzolen",
       "domain": "artifacts",
+      "topic": "clothing",
       "stem": "zool"
     },
     {
@@ -9853,6 +10078,7 @@
       "name_en": "pack",
       "id": "p3424",
       "domain": "agentic",
+      "topic": "operation",
       "stem": "pak",
       "parent": "p1881"
     },
@@ -9873,6 +10099,7 @@
       "name_en": "furnish",
       "id": "p3425",
       "domain": "spatial",
+      "topic": "place",
       "stem": "richt"
     },
     {
@@ -9895,6 +10122,7 @@
       "name_en": "exert",
       "id": "p3426",
       "domain": "agentic",
+      "topic": "effort",
       "pos": "verb",
       "name_nl2": "inspanning",
       "stem": "span"
@@ -10044,6 +10272,7 @@
       "name_en": "integrity",
       "id": "p3428",
       "domain": "mental",
+      "topic": "attitude",
       "stem": "integr"
     },
     {
@@ -10076,6 +10305,7 @@
       "id": "p2968",
       "also": "interessants, interessanter",
       "domain": "experience",
+      "topic": "feelings",
       "parent": "p1227",
       "stem": "interess"
     },
@@ -10124,6 +10354,7 @@
       "id": "p3422",
       "also": "ingevuld",
       "domain": "agentic",
+      "topic": "operation",
       "stem": "vul",
       "parent": "p944"
     },
@@ -10133,6 +10364,7 @@
       "id": "p3429",
       "also": "inwoners",
       "domain": "socium",
+      "topic": "common",
       "stem": "woon",
       "parent": "p2841"
     },
@@ -10141,6 +10373,7 @@
       "name_en": "effort",
       "id": "p3137",
       "domain": "agentic",
+      "topic": "effort",
       "stem": "zet"
     },
     {
@@ -10191,6 +10424,7 @@
       "name_en": "annoying",
       "id": "p3431",
       "domain": "mental",
+      "topic": "emotion",
       "also": "vervelend",
       "parent": "p1237",
       "stem": "irrit"
@@ -10272,6 +10506,7 @@
       "name_en": "jealous",
       "id": "p3433",
       "domain": "mental",
+      "topic": "emotion",
       "parent": "p1247",
       "stem": "jaloers"
     },
@@ -10319,6 +10554,7 @@
       "id": "p3434",
       "also": "jeugdherinneringen",
       "domain": "mental",
+      "topic": "memory",
       "stem": "herinner"
     },
     {
@@ -10326,6 +10562,7 @@
       "name_en": "last",
       "id": "p3435",
       "domain": "core",
+      "topic": "timeline",
       "stem": "jl"
     },
     {
@@ -10346,6 +10583,7 @@
       "name_en": "young man",
       "id": "p3436",
       "domain": "life",
+      "topic": "species",
       "parent": "p1256",
       "stem": "man"
     },
@@ -10355,6 +10593,7 @@
       "id": "p2955",
       "also": "jongens",
       "domain": "life",
+      "topic": "species",
       "parent": "p1256",
       "stem": "jong"
     },
@@ -10401,6 +10640,7 @@
       "name_en": "map",
       "id": "p3138",
       "domain": "spatial",
+      "topic": "place",
       "stem": "kaart"
     },
     {
@@ -10513,6 +10753,7 @@
       "name_en": "candidate",
       "id": "p3438",
       "domain": "socium",
+      "topic": "promotion",
       "stem": "kandidaat"
     },
     {
@@ -10592,6 +10833,7 @@
       "name_en": "broken",
       "id": "p3439",
       "domain": "core",
+      "topic": "structure",
       "stem": "kapot"
     },
     {
@@ -10668,6 +10910,7 @@
       "name_en": "castle",
       "id": "p3440",
       "domain": "artifacts",
+      "topic": "building",
       "stem": "kasteel"
     },
     {
@@ -10843,6 +11086,7 @@
       "name_en": "christmas holiday",
       "id": "p3442",
       "domain": "culture",
+      "topic": "customs",
       "stem": "vakant"
     },
     {
@@ -10876,6 +11120,7 @@
       "name_en": "choice",
       "id": "p3139",
       "domain": "mental",
+      "topic": "will",
       "parent": "p1312",
       "stem": "keus"
     },
@@ -10968,6 +11213,7 @@
       "id": "p3140",
       "also": "kings",
       "domain": "civil",
+      "topic": "common",
       "stem": "king"
     },
     {
@@ -11074,6 +11320,7 @@
       "name_en": "class",
       "id": "p3009",
       "domain": "knowledge",
+      "topic": "acquire",
       "stem": "klas"
     },
     {
@@ -11082,6 +11329,7 @@
       "id": "p3443",
       "also": "klassieke",
       "domain": "culture",
+      "topic": "arts",
       "stem": "klass"
     },
     {
@@ -11443,6 +11691,7 @@
       "id": "p3010",
       "also": "knoppen",
       "domain": "artifacts",
+      "topic": "buildparts",
       "stem": "knop"
     },
     {
@@ -11506,6 +11755,7 @@
       "id": "p3445",
       "also": "koester",
       "domain": "mental",
+      "topic": "emotion",
       "stem": "koester"
     },
     {
@@ -11527,6 +11777,7 @@
       "name_en": "cook",
       "id": "p3446",
       "domain": "socium",
+      "topic": "common",
       "parent": "p1377",
       "stem": "kok"
     },
@@ -11874,6 +12125,7 @@
       "name_en": "strength training",
       "id": "p3447",
       "domain": "body",
+      "topic": "health",
       "parent": "p1402",
       "stem": "kracht"
     },
@@ -11882,6 +12134,7 @@
       "name_en": "cramp",
       "id": "p3141",
       "domain": "body",
+      "topic": "health",
       "stem": "kramp"
     },
     {
@@ -11904,6 +12157,7 @@
       "name_en": "tight",
       "id": "p3448",
       "domain": "core",
+      "topic": "limit",
       "stem": "krap"
     },
     {
@@ -11986,6 +12240,7 @@
       "name_en": "thrift",
       "id": "p3449",
       "domain": "resource",
+      "topic": "trade",
       "stem": "lop"
     },
     {
@@ -12207,6 +12462,7 @@
       "name_en": "bad",
       "id": "p3451",
       "domain": "core",
+      "topic": "overall",
       "stem": "kwaad"
     },
     {
@@ -12294,6 +12550,7 @@
       "name_en": "recently",
       "id": "p3142",
       "domain": "core",
+      "topic": "timeline",
       "also": "onlangs",
       "stem": "laat"
     },
@@ -12383,6 +12640,7 @@
       "id": "p3452",
       "also": "lanceringen",
       "domain": "agentic",
+      "topic": "operation",
       "stem": "lanceer"
     },
     {
@@ -12428,6 +12686,7 @@
       "name_en": "landscape",
       "id": "p3453",
       "domain": "nature",
+      "topic": "landscape",
       "stem": "land",
       "parent": "p1443"
     },
@@ -12475,6 +12734,7 @@
       "name_en": "tricky",
       "id": "p2971",
       "domain": "core",
+      "topic": "effort",
       "stem": "last"
     },
     {
@@ -12533,6 +12793,7 @@
       "name_en": "age",
       "id": "p3012",
       "domain": "life",
+      "topic": "species",
       "stem": "leef"
     },
     {
@@ -12541,6 +12802,7 @@
       "id": "p3455",
       "also": "leeftijdsgenoten",
       "domain": "socium",
+      "topic": "common",
       "stem": "leef"
     },
     {
@@ -12715,6 +12977,7 @@
       "name_en": "lesson",
       "id": "p3040",
       "domain": "knowledge",
+      "topic": "acquire",
       "parent": "p1476",
       "stem": "les"
     },
@@ -12748,6 +13011,7 @@
       "id": "p3143",
       "also": "let",
       "domain": "mental",
+      "topic": "mental",
       "stem": "let"
     },
     {
@@ -12755,6 +13019,7 @@
       "name_en": "lie",
       "id": "p3459",
       "domain": "language",
+      "topic": "communicate",
       "stem": "lieg"
     },
     {
@@ -12775,6 +13040,7 @@
       "id": "p3460",
       "also": "leunt",
       "domain": "core",
+      "topic": "flow",
       "stem": "leun"
     },
     {
@@ -12870,6 +13136,7 @@
       "name_en": "exercise",
       "id": "p3461",
       "domain": "body",
+      "topic": "health",
       "parent": "p1486",
       "stem": "weg"
     },
@@ -12935,6 +13202,7 @@
       "name_en": "love",
       "id": "p3144",
       "domain": "mental",
+      "topic": "emotion",
       "parent": "p1494",
       "stem": "lief"
     },
@@ -12943,6 +13211,7 @@
       "name_en": "loving",
       "id": "p3463",
       "domain": "mental",
+      "topic": "emotion",
       "parent": "p1494",
       "stem": "lief"
     },
@@ -12996,6 +13265,7 @@
       "name_en": "elevator",
       "id": "p3464",
       "domain": "artifacts",
+      "topic": "buildparts",
       "stem": "lift"
     },
     {
@@ -13173,6 +13443,7 @@
       "name_en": "literature",
       "id": "p3465",
       "domain": "culture",
+      "topic": "arts",
       "stem": "literatuur"
     },
     {
@@ -13194,6 +13465,7 @@
       "name_en": "logical",
       "id": "p3145",
       "domain": "mental",
+      "topic": "reasoning",
       "stem": "logis"
     },
     {
@@ -13216,6 +13488,7 @@
       "id": "p3146",
       "also": "loont",
       "domain": "resource",
+      "topic": "trade",
       "stem": "loon"
     },
     {
@@ -13223,6 +13496,7 @@
       "name_en": "rewarding",
       "id": "p3466",
       "domain": "agentic",
+      "topic": "result",
       "parent": "p3146",
       "stem": "loon"
     },
@@ -13318,6 +13592,7 @@
       "id": "p3467",
       "also": "losloopt",
       "domain": "spatial",
+      "topic": "move",
       "stem": "lop",
       "parent": "p1518"
     },
@@ -13326,6 +13601,7 @@
       "name_en": "solve",
       "id": "p3042",
       "domain": "agentic",
+      "topic": "solution",
       "stem": "los",
       "parent": "p1819"
     },
@@ -13445,6 +13721,7 @@
       "id": "p2972",
       "also": "maaltijden",
       "domain": "food",
+      "topic": "dishes",
       "stem": "maal"
     },
     {
@@ -13686,6 +13963,7 @@
       "name_en": "degree",
       "id": "p3469",
       "domain": "core",
+      "topic": "overall",
       "stem": "mate"
     },
     {
@@ -13730,6 +14008,7 @@
       "name_en": "medicine",
       "id": "p3147",
       "domain": "body",
+      "topic": "health",
       "stem": "medicijn"
     },
     {
@@ -13761,6 +14040,7 @@
       "id": "p3470",
       "also": "meegemaakt",
       "domain": "experience",
+      "topic": "perceive",
       "stem": "maak"
     },
     {
@@ -13769,6 +14049,7 @@
       "id": "p3148",
       "also": "meegenomen",
       "domain": "agentic",
+      "topic": "operation",
       "stem": "neem"
     },
     {
@@ -13788,6 +14069,7 @@
       "name_en": "usually",
       "id": "p2986",
       "domain": "core",
+      "topic": "pattern",
       "stem": "meest"
     },
     {
@@ -13825,6 +14107,7 @@
       "id": "p2987",
       "also": "meisjes",
       "domain": "life",
+      "topic": "species",
       "stem": "meisje"
     },
     {
@@ -13940,6 +14223,7 @@
       "name_en": "human",
       "id": "p3471",
       "domain": "life",
+      "topic": "species",
       "parent": "p1584",
       "stem": "mens"
     },
@@ -13949,6 +14233,7 @@
       "id": "p3472",
       "also": "mentoren",
       "domain": "socium",
+      "topic": "cooperate",
       "stem": "mentor"
     },
     {
@@ -14004,6 +14289,7 @@
       "name_en": "immediately",
       "id": "p2951",
       "domain": "core",
+      "topic": "timeline",
       "stem": "meteen"
     },
     {
@@ -14032,6 +14318,7 @@
       "id": "p3473",
       "also": "metgezellen",
       "domain": "socium",
+      "topic": "common",
       "stem": "gezel"
     },
     {
@@ -14053,6 +14340,7 @@
       "name_en": "furniture factory",
       "id": "p3474",
       "domain": "resource",
+      "topic": "building",
       "parent": "p1596",
       "stem": "fabriek"
     },
@@ -14061,6 +14349,7 @@
       "name_en": "afternoon",
       "id": "p3475",
       "domain": "core",
+      "topic": "timeline",
       "stem": "middag"
     },
     {
@@ -14069,6 +14358,7 @@
       "id": "p3477",
       "also": "middelbare",
       "domain": "knowledge",
+      "topic": "acquire",
       "stem": "middel"
     },
     {
@@ -14089,6 +14379,7 @@
       "name_en": "midnight",
       "id": "p3478",
       "domain": "core",
+      "topic": "timeline",
       "stem": "nacht",
       "parent": "p1652"
     },
@@ -14112,6 +14403,7 @@
       "name_en": "mile",
       "id": "p3479",
       "domain": "spatial",
+      "topic": "distance",
       "stem": "mijl"
     },
     {
@@ -14174,6 +14466,7 @@
       "id": "p3481",
       "also": "minste",
       "domain": "core",
+      "topic": "compare",
       "stem": "min"
     },
     {
@@ -14182,6 +14475,7 @@
       "id": "p2988",
       "also": "minuten, minuutje",
       "domain": "core",
+      "topic": "timeline",
       "stem": "minuut"
     },
     {
@@ -14189,6 +14483,7 @@
       "name_en": "crime",
       "id": "p3482",
       "domain": "civil",
+      "topic": "justice",
       "also": "misdrijf",
       "stem": "daad"
     },
@@ -14197,6 +14492,7 @@
       "name_en": "to mislead",
       "id": "p3150",
       "domain": "socium",
+      "topic": "convince",
       "stem": "leid",
       "parent": "p1464"
     },
@@ -14232,6 +14528,7 @@
       "name_en": "mobile",
       "id": "p3483",
       "domain": "artifacts",
+      "topic": "appliances",
       "stem": "mobiel"
     },
     {
@@ -14365,6 +14662,7 @@
       "name_en": "possible",
       "id": "p3043",
       "domain": "core",
+      "topic": "potention",
       "stem": "mog",
       "parent": "p1628"
     },
@@ -14464,6 +14762,7 @@
       "name_en": "monumental",
       "id": "p3485",
       "domain": "culture",
+      "topic": "arts",
       "stem": "monument"
     },
     {
@@ -14548,6 +14847,7 @@
       "id": "p3486",
       "also": "muggenbeten",
       "domain": "body",
+      "topic": "health",
       "parent": "p549",
       "stem": "mug"
     },
@@ -14556,6 +14856,7 @@
       "name_en": "mosquito spray",
       "id": "p3487",
       "domain": "artifacts",
+      "topic": "tool",
       "parent": "p549",
       "stem": "mug"
     },
@@ -14655,6 +14956,7 @@
       "id": "p3014",
       "also": "nagedacht",
       "domain": "mental",
+      "topic": "reasoning",
       "stem": "denk",
       "parent": "p650"
     },
@@ -14664,6 +14966,7 @@
       "id": "p3489",
       "also": "nadert",
       "domain": "spatial",
+      "topic": "move",
       "stem": "nader"
     },
     {
@@ -14671,6 +14974,7 @@
       "name_en": "pursue",
       "id": "p3490",
       "domain": "agentic",
+      "topic": "intent",
       "stem": "jaag"
     },
     {
@@ -14691,6 +14995,7 @@
       "name_en": "wet",
       "id": "p3491",
       "domain": "core",
+      "topic": "overall",
       "stem": "nat"
     },
     {
@@ -14712,6 +15017,7 @@
       "name_en": "accurate",
       "id": "p3493",
       "domain": "core",
+      "topic": "overall",
       "stem": "keur"
     },
     {
@@ -14745,6 +15051,7 @@
       "name_en": "down",
       "id": "p3152",
       "domain": "spatial",
+      "topic": "up-down",
       "stem": "neer"
     },
     {
@@ -14753,6 +15060,7 @@
       "id": "p3494",
       "also": "neergangen",
       "domain": "core",
+      "topic": "flow",
       "parent": "p3152",
       "stem": "gang"
     },
@@ -14916,6 +15224,7 @@
       "name_en": "news",
       "id": "p3045",
       "domain": "knowledge",
+      "topic": "knowledge",
       "stem": "nieuw"
     },
     {
@@ -14971,6 +15280,7 @@
       "name_en": "needed",
       "id": "p2942",
       "domain": "core",
+      "topic": "binding",
       "stem": "nood",
       "parent": "p3496"
     },
@@ -14999,6 +15309,7 @@
       "name_en": "need",
       "id": "p3496",
       "domain": "core",
+      "topic": "binding",
       "stem": "nood"
     },
     {
@@ -15006,6 +15317,7 @@
       "name_en": "necessary",
       "id": "p3497",
       "domain": "core",
+      "topic": "binding",
       "parent": "p3496",
       "stem": "nood"
     },
@@ -15119,6 +15431,7 @@
       "name_en": "mornings",
       "id": "p3498",
       "domain": "core",
+      "topic": "timeline",
       "stem": "ochtend",
       "parent": "p1716"
     },
@@ -15178,6 +15491,7 @@
       "id": "p3500",
       "also": "omcirkeld",
       "domain": "agentic",
+      "topic": "operation",
       "stem": "cirkel"
     },
     {
@@ -15219,6 +15533,7 @@
       "name_en": "up",
       "id": "p3501",
       "domain": "spatial",
+      "topic": "up-down",
       "stem": "hoog",
       "parent": "p1150"
     },
@@ -15259,6 +15574,7 @@
       "name_en": "size",
       "id": "p3502",
       "domain": "core",
+      "topic": "overall",
       "stem": "vang"
     },
     {
@@ -15266,6 +15582,7 @@
       "name_en": "rude",
       "id": "p3047",
       "domain": "socium",
+      "topic": "virtue",
       "stem": "leef"
     },
     {
@@ -15353,6 +15670,7 @@
       "name_en": "enterprise",
       "id": "p3504",
       "domain": "resource",
+      "topic": "trade",
       "stem": "neem"
     },
     {
@@ -15372,6 +15690,7 @@
       "name_en": "lower back",
       "id": "p3505",
       "domain": "body",
+      "topic": "bodypart",
       "stem": "rug",
       "parent": "p2100"
     },
@@ -15426,6 +15745,7 @@
       "name_en": "subject",
       "id": "p3153",
       "domain": "knowledge",
+      "topic": "knowledge",
       "stem": "werp"
     },
     {
@@ -15433,6 +15753,7 @@
       "name_en": "education",
       "id": "p3048",
       "domain": "knowledge",
+      "topic": "acquire",
       "stem": "wijs"
     },
     {
@@ -15440,6 +15761,7 @@
       "name_en": "education system",
       "id": "p3506",
       "domain": "knowledge",
+      "topic": "acquire",
       "stem": "wijs"
     },
     {
@@ -15460,6 +15782,7 @@
       "name_en": "unprecedented",
       "id": "p3508",
       "domain": "core",
+      "topic": "overall",
       "stem": "ken"
     },
     {
@@ -15467,6 +15790,7 @@
       "name_en": "wrong",
       "id": "p3154",
       "domain": "mental",
+      "topic": "evaluation",
       "stem": "lijk",
       "parent": "p3113"
     },
@@ -15475,6 +15799,7 @@
       "name_en": "incredible",
       "id": "p3509",
       "domain": "experience",
+      "topic": "feelings",
       "stem": "geloof"
     },
     {
@@ -15482,6 +15807,7 @@
       "name_en": "accident",
       "id": "p3510",
       "domain": "core",
+      "topic": "flow",
       "stem": "luk",
       "parent": "p1527"
     },
@@ -15490,6 +15816,7 @@
       "name_en": "uncomfortable",
       "id": "p3511",
       "domain": "experience",
+      "topic": "feelings",
       "stem": "mak",
       "parent": "p1551"
     },
@@ -15510,6 +15837,7 @@
       "name_en": "unusual",
       "id": "p3512",
       "domain": "core",
+      "topic": "pattern",
       "stem": "woon",
       "parent": "p949"
     },
@@ -15519,6 +15847,7 @@
       "id": "p3514",
       "also": "onmiddellijke",
       "domain": "core",
+      "topic": "timeline",
       "stem": "middel"
     },
     {
@@ -15526,6 +15855,7 @@
       "name_en": "indispensable",
       "id": "p3515",
       "domain": "core",
+      "topic": "binding",
       "stem": "mis"
     },
     {
@@ -15533,6 +15863,7 @@
       "name_en": "impossible",
       "id": "p3155",
       "domain": "core",
+      "topic": "potention",
       "stem": "mog",
       "parent": "p1628"
     },
@@ -15591,6 +15922,7 @@
       "id": "p3156",
       "also": "ontdooit",
       "domain": "food",
+      "topic": "dishes",
       "stem": "dooi"
     },
     {
@@ -15655,6 +15987,7 @@
       "name_en": "moving",
       "id": "p3049",
       "domain": "experience",
+      "topic": "emotion",
       "stem": "roer",
       "parent": "p2082"
     },
@@ -15683,6 +16016,7 @@
       "name_en": "relaxing",
       "id": "p3157",
       "domain": "experience",
+      "topic": "feelings",
       "stem": "span",
       "parent": "p1775"
     },
@@ -15732,6 +16066,7 @@
       "name_en": "disarmament",
       "id": "p3516",
       "domain": "civil",
+      "topic": "clash",
       "stem": "wapen"
     },
     {
@@ -15795,6 +16130,7 @@
       "name_en": "indifferent",
       "id": "p3518",
       "domain": "mental",
+      "topic": "attitude",
       "stem": "schil"
     },
     {
@@ -15802,6 +16138,7 @@
       "name_en": "unexpected",
       "id": "p3159",
       "domain": "core",
+      "topic": "potention",
       "stem": "wacht",
       "parent": "p3073"
     },
@@ -15810,6 +16147,7 @@
       "name_en": "unpredictable",
       "id": "p3519",
       "domain": "core",
+      "topic": "potention",
       "stem": "spel"
     },
     {
@@ -15873,6 +16211,7 @@
       "name_en": "judgment",
       "id": "p3521",
       "domain": "mental",
+      "topic": "evaluation",
       "stem": "oordeel",
       "parent": "p196"
     },
@@ -15910,6 +16249,7 @@
       "name_en": "stay up",
       "id": "p3522",
       "domain": "core",
+      "topic": "systain",
       "stem": "blijf"
     },
     {
@@ -15929,6 +16269,7 @@
       "name_en": "pop up",
       "id": "p3523",
       "domain": "core",
+      "topic": "flow",
       "stem": "duik"
     },
     {
@@ -15949,6 +16290,7 @@
       "name_en": "public",
       "id": "p3524",
       "domain": "civil",
+      "topic": "common",
       "parent": "p1804",
       "stem": "open"
     },
@@ -15974,6 +16316,7 @@
       "name_en": "open",
       "id": "p3525",
       "domain": "agentic",
+      "topic": "operation",
       "parent": "p1804",
       "stem": "open"
     },
@@ -16036,6 +16379,7 @@
       "name_en": "excited",
       "id": "p3527",
       "domain": "mental",
+      "topic": "emotion",
       "stem": "wind",
       "parent": "p1840"
     },
@@ -16075,6 +16419,7 @@
       "id": "p3528",
       "also": "opkijkt",
       "domain": "core",
+      "topic": "flow",
       "stem": "kijk",
       "parent": "p1314"
     },
@@ -16084,6 +16429,7 @@
       "id": "p3529",
       "also": "opkomende",
       "domain": "core",
+      "topic": "flow",
       "stem": "koom"
     },
     {
@@ -16103,6 +16449,7 @@
       "name_en": "charger",
       "id": "p3530",
       "domain": "artifacts",
+      "topic": "appliances",
       "stem": "laad",
       "parent": "p1438"
     },
@@ -16146,6 +16493,7 @@
       "name_en": "relief",
       "id": "p3160",
       "domain": "mental",
+      "topic": "emotion",
       "stem": "lucht"
     },
     {
@@ -16168,6 +16516,7 @@
       "name_en": "remarkable",
       "id": "p3531",
       "domain": "core",
+      "topic": "overall",
       "parent": "p1822",
       "stem": "merk"
     },
@@ -16247,6 +16596,7 @@
       "name_en": "driveway",
       "id": "p3532",
       "domain": "spatial",
+      "topic": "place",
       "stem": "rij"
     },
     {
@@ -16353,6 +16703,7 @@
       "id": "p3051",
       "also": "opties",
       "domain": "core",
+      "topic": "compare",
       "stem": "opt"
     },
     {
@@ -16372,6 +16723,7 @@
       "name_en": "performance",
       "id": "p3052",
       "domain": "culture",
+      "topic": "arts",
       "stem": "treed"
     },
     {
@@ -16409,6 +16761,7 @@
       "id": "p3161",
       "also": "opgevolgd",
       "domain": "agentic",
+      "topic": "operation",
       "stem": "volg"
     },
     {
@@ -16436,6 +16789,7 @@
       "name_en": "exciting",
       "id": "p3533",
       "domain": "experience",
+      "topic": "feelings",
       "stem": "wind",
       "parent": "p1840"
     },
@@ -16563,6 +16917,7 @@
       "id": "p3162",
       "also": "ouderen",
       "domain": "life",
+      "topic": "species",
       "parent": "p1848",
       "stem": "ouder"
     },
@@ -16571,6 +16926,7 @@
       "name_en": "elderly care",
       "id": "p3534",
       "domain": "socium",
+      "topic": "care",
       "parent": "p1850",
       "stem": "zorg"
     },
@@ -16608,6 +16964,7 @@
       "id": "p3536",
       "also": "overdrijf",
       "domain": "language",
+      "topic": "communicate",
       "stem": "drijf"
     },
     {
@@ -16663,6 +17020,7 @@
       "name_en": "take over",
       "id": "p3537",
       "domain": "agentic",
+      "topic": "control",
       "stem": "neem"
     },
     {
@@ -16687,6 +17045,7 @@
       "id": "p3538",
       "also": "overtrof",
       "domain": "agentic",
+      "topic": "result",
       "stem": "tref"
     },
     {
@@ -16716,6 +17075,7 @@
       "name_en": "convincing",
       "id": "p3539",
       "domain": "language",
+      "topic": "negotiate",
       "parent": "p1869",
       "stem": "tuig"
     },
@@ -16736,6 +17096,7 @@
       "id": "p3053",
       "also": "overweeg",
       "domain": "mental",
+      "topic": "reasoning",
       "stem": "weeg"
     },
     {
@@ -16743,6 +17104,7 @@
       "name_en": "overcome",
       "id": "p3054",
       "domain": "agentic",
+      "topic": "result",
       "pos": "verb",
       "name_nl2": "overwinning",
       "stem": "win",
@@ -16753,6 +17115,7 @@
       "name_en": "oversee",
       "id": "p3541",
       "domain": "agentic",
+      "topic": "control",
       "stem": "zie"
     },
     {
@@ -16811,6 +17174,7 @@
       "name_en": "page",
       "id": "p3542",
       "domain": "artifacts",
+      "topic": "accessories",
       "stem": "pagina"
     },
     {
@@ -16818,6 +17182,7 @@
       "name_en": "suit",
       "id": "p3543",
       "domain": "artifacts",
+      "topic": "clothing",
       "stem": "pak"
     },
     {
@@ -16911,6 +17276,7 @@
       "name_en": "paradise",
       "id": "p3544",
       "domain": "experience",
+      "topic": "feelings",
       "stem": "paradijs"
     },
     {
@@ -17013,6 +17379,7 @@
       "name_en": "pass",
       "id": "p3545",
       "domain": "artifacts",
+      "topic": "accessories",
       "stem": "pas"
     },
     {
@@ -17020,6 +17387,7 @@
       "name_en": "passport",
       "id": "p3163",
       "domain": "civil",
+      "topic": "service",
       "stem": "paspoort"
     },
     {
@@ -17136,6 +17504,7 @@
       "name_en": "pensive",
       "id": "p3547",
       "domain": "mental",
+      "topic": "reasoning",
       "stem": "peins"
     },
     {
@@ -17203,6 +17572,7 @@
       "id": "p2989",
       "also": "persoonlijke",
       "domain": "mental",
+      "topic": "mental",
       "parent": "p1915",
       "stem": "persoon"
     },
@@ -17211,6 +17581,7 @@
       "name_en": "personality",
       "id": "p3548",
       "domain": "mental",
+      "topic": "mental",
       "parent": "p1915",
       "stem": "persoon"
     },
@@ -17220,6 +17591,7 @@
       "id": "p3164",
       "also": "perspectieven",
       "domain": "mental",
+      "topic": "understanding",
       "stem": "perspect"
     },
     {
@@ -17240,6 +17612,7 @@
       "name_en": "picnic",
       "id": "p3550",
       "domain": "experience",
+      "topic": "feelings",
       "stem": "picknick"
     },
     {
@@ -17247,6 +17620,7 @@
       "name_en": "beep",
       "id": "p3551",
       "domain": "core",
+      "topic": "flow",
       "stem": "piep"
     },
     {
@@ -17295,6 +17669,7 @@
       "name_en": "pilot",
       "id": "p3552",
       "domain": "socium",
+      "topic": "common",
       "stem": "piloot"
     },
     {
@@ -17373,6 +17748,7 @@
       "name_en": "take place",
       "id": "p3553",
       "domain": "core",
+      "topic": "flow",
       "stem": "plaats",
       "parent": "p1935"
     },
@@ -17395,6 +17771,7 @@
       "name_en": "shelf",
       "id": "p3555",
       "domain": "artifacts",
+      "topic": "furniture",
       "stem": "plank"
     },
     {
@@ -17430,6 +17807,7 @@
       "name_en": "countryside",
       "id": "p3556",
       "domain": "nature",
+      "topic": "landscape",
       "stem": "land",
       "parent": "p1443"
     },
@@ -17438,6 +17816,7 @@
       "name_en": "country life",
       "id": "p3557",
       "domain": "nature",
+      "topic": "landscape",
       "parent": "p3556",
       "stem": "leef"
     },
@@ -17482,6 +17861,7 @@
       "id": "p2973",
       "also": "plekken",
       "domain": "spatial",
+      "topic": "place",
       "stem": "plek"
     },
     {
@@ -17516,6 +17896,7 @@
       "name_en": "stage",
       "id": "p3558",
       "domain": "culture",
+      "topic": "arts",
       "stem": "podium"
     },
     {
@@ -17580,6 +17961,7 @@
       "name_en": "police",
       "id": "p3165",
       "domain": "civil",
+      "topic": "justice",
       "stem": "politie"
     },
     {
@@ -17588,6 +17970,7 @@
       "id": "p3166",
       "also": "politieke",
       "domain": "civil",
+      "topic": "common",
       "stem": "politiek"
     },
     {
@@ -17620,6 +18003,7 @@
       "name_en": "doll",
       "id": "p3167",
       "domain": "artifacts",
+      "topic": "accessories",
       "stem": "pop"
     },
     {
@@ -17654,6 +18038,7 @@
       "name_en": "wallet",
       "id": "p3055",
       "domain": "artifacts",
+      "topic": "accessories",
       "stem": "portemonnee"
     },
     {
@@ -17661,6 +18046,7 @@
       "name_en": "position",
       "id": "p3559",
       "domain": "core",
+      "topic": "structure",
       "stem": "posit"
     },
     {
@@ -17723,6 +18109,7 @@
       "name_en": "post office",
       "id": "p3561",
       "domain": "civil",
+      "topic": "service",
       "parent": "p1966",
       "stem": "post"
     },
@@ -17774,6 +18161,7 @@
       "id": "p3016",
       "also": "potloden",
       "domain": "artifacts",
+      "topic": "tool",
       "stem": "potlood",
       "parent": "p565"
     },
@@ -17923,6 +18311,7 @@
       "name_en": "priority",
       "id": "p3562",
       "domain": "agentic",
+      "topic": "intent",
       "stem": "prior"
     },
     {
@@ -17984,6 +18373,7 @@
       "name_en": "process",
       "id": "p3563",
       "domain": "system",
+      "topic": "progress",
       "stem": "proces"
     },
     {
@@ -18005,6 +18395,7 @@
       "name_en": "production",
       "id": "p3564",
       "domain": "resource",
+      "topic": "building",
       "parent": "p1994",
       "stem": "product"
     },
@@ -18013,6 +18404,7 @@
       "name_en": "productive",
       "id": "p3565",
       "domain": "agentic",
+      "topic": "pragmatic",
       "parent": "p1994",
       "stem": "product"
     },
@@ -18035,6 +18427,7 @@
       "name_en": "professional",
       "id": "p3566",
       "domain": "agentic",
+      "topic": "pragmatic",
       "stem": "profess"
     },
     {
@@ -18042,6 +18435,7 @@
       "name_en": "profile",
       "id": "p3567",
       "domain": "knowledge",
+      "topic": "knowledge",
       "stem": "profiel"
     },
     {
@@ -18100,6 +18494,7 @@
       "name_en": "audience",
       "id": "p3569",
       "domain": "socium",
+      "topic": "common",
       "stem": "publiek"
     },
     {
@@ -18107,6 +18502,7 @@
       "name_en": "point",
       "id": "p3570",
       "domain": "core",
+      "topic": "thing",
       "stem": "punt"
     },
     {
@@ -18125,6 +18521,7 @@
       "name_en": "puzzle",
       "id": "p3571",
       "domain": "culture",
+      "topic": "leisure",
       "stem": "puzzel"
     },
     {
@@ -18158,6 +18555,7 @@
       "name_en": "turnip",
       "id": "p3572",
       "domain": "food",
+      "topic": "ingredients",
       "stem": "raap"
     },
     {
@@ -18235,6 +18633,7 @@
       "name_en": "report",
       "id": "p3056",
       "domain": "knowledge",
+      "topic": "script",
       "stem": "rapport"
     },
     {
@@ -18242,6 +18641,7 @@
       "name_en": "breed",
       "id": "p3574",
       "domain": "life",
+      "topic": "species",
       "stem": "ras"
     },
     {
@@ -18329,6 +18729,7 @@
       "name_en": "right",
       "id": "p3575",
       "domain": "civil",
+      "topic": "justice",
       "stem": "recht"
     },
     {
@@ -18415,6 +18816,7 @@
       "name_en": "direct",
       "id": "p3576",
       "domain": "core",
+      "topic": "flow",
       "parent": "p3575",
       "stem": "recht"
     },
@@ -18527,6 +18929,7 @@
       "name_en": "to arrange",
       "id": "p3168",
       "domain": "agentic",
+      "topic": "control",
       "parent": "p2037",
       "stem": "regel"
     },
@@ -18574,6 +18977,7 @@
       "id": "p3169",
       "also": "regent",
       "domain": "nature",
+      "topic": "weather",
       "parent": "p566",
       "stem": "regen"
     },
@@ -18583,6 +18987,7 @@
       "id": "p3577",
       "also": "reikte",
       "domain": "spatial",
+      "topic": "move",
       "stem": "reik"
     },
     {
@@ -18795,6 +19200,7 @@
       "name_en": "respect",
       "id": "p3580",
       "domain": "socium",
+      "topic": "recognition",
       "stem": "respect"
     },
     {
@@ -18858,6 +19264,7 @@
       "id": "p3582",
       "also": "richtlijnen",
       "domain": "system",
+      "topic": "order",
       "stem": "richt",
       "parent": "p2062"
     },
@@ -19191,6 +19598,7 @@
       "name_en": "novel",
       "id": "p3583",
       "domain": "culture",
+      "topic": "arts",
       "stem": "roman"
     },
     {
@@ -19223,6 +19631,7 @@
       "name_en": "cream",
       "id": "p3584",
       "domain": "food",
+      "topic": "ingredients",
       "stem": "room"
     },
     {
@@ -19380,6 +19789,7 @@
       "name_en": "soothing",
       "id": "p3585",
       "domain": "experience",
+      "topic": "feelings",
       "parent": "p2106",
       "stem": "rust"
     },
@@ -19388,6 +19798,7 @@
       "name_en": "calm",
       "id": "p3057",
       "domain": "mental",
+      "topic": "feelings",
       "parent": "p2106",
       "stem": "rust"
     },
@@ -19408,6 +19819,7 @@
       "id": "p3018",
       "also": "ruzies",
       "domain": "socium",
+      "topic": "conflict",
       "stem": "ruzie"
     },
     {
@@ -19537,6 +19949,7 @@
       "name_en": "damage",
       "id": "p3171",
       "domain": "core",
+      "topic": "structure",
       "stem": "schade"
     },
     {
@@ -19544,6 +19957,7 @@
       "name_en": "shadow",
       "id": "p3586",
       "domain": "nature",
+      "topic": "landscape",
       "stem": "schaduw"
     },
     {
@@ -19582,6 +19996,7 @@
       "id": "p3058",
       "also": "schattigste",
       "domain": "experience",
+      "topic": "visual",
       "stem": "schat"
     },
     {
@@ -19735,6 +20150,7 @@
       "name_en": "picturesque",
       "id": "p3588",
       "domain": "experience",
+      "topic": "visual",
       "parent": "p2140",
       "stem": "schilder"
     },
@@ -19859,6 +20275,7 @@
       "id": "p3589",
       "also": "scholieren",
       "domain": "socium",
+      "topic": "common",
       "stem": "school"
     },
     {
@@ -19880,6 +20297,7 @@
       "name_en": "school events",
       "id": "p3590",
       "domain": "knowledge",
+      "topic": "acquire",
       "parent": "p2150",
       "stem": "school"
     },
@@ -19888,6 +20306,7 @@
       "name_en": "school holiday",
       "id": "p3592",
       "domain": "knowledge",
+      "topic": "acquire",
       "parent": "p2150",
       "stem": "school"
     },
@@ -19923,6 +20342,7 @@
       "name_en": "lap",
       "id": "p3593",
       "domain": "body",
+      "topic": "bodypart",
       "stem": "schoot"
     },
     {
@@ -19977,6 +20397,7 @@
       "id": "p3594",
       "also": "schraapt",
       "domain": "core",
+      "topic": "flow",
       "stem": "schraap"
     },
     {
@@ -20123,6 +20544,7 @@
       "name_en": "guilt",
       "id": "p3172",
       "domain": "mental",
+      "topic": "emotion",
       "parent": "p2172",
       "stem": "schuld"
     },
@@ -20324,6 +20746,7 @@
       "id": "p3119",
       "also": "geskied",
       "domain": "experience",
+      "topic": "feelings",
       "stem": "ski"
     },
     {
@@ -20449,6 +20872,7 @@
       "name_en": "sleepy",
       "id": "p3597",
       "domain": "body",
+      "topic": "health",
       "parent": "p2206",
       "stem": "slaap"
     },
@@ -20506,6 +20930,7 @@
       "id": "p3060",
       "also": "slimme",
       "domain": "mental",
+      "topic": "intellect",
       "stem": "slim"
     },
     {
@@ -20567,6 +20992,7 @@
       "name_en": "sip",
       "id": "p3598",
       "domain": "food",
+      "topic": "drinks",
       "stem": "slok"
     },
     {
@@ -20716,6 +21142,7 @@
       "id": "p3599",
       "also": "sneeuwt",
       "domain": "nature",
+      "topic": "weather",
       "parent": "p588",
       "stem": "sneeuw"
     },
@@ -20830,6 +21257,7 @@
       "name_en": "solid",
       "id": "p3600",
       "domain": "core",
+      "topic": "structure",
       "stem": "solide"
     },
     {
@@ -20932,6 +21360,7 @@
       "id": "p3174",
       "also": "specifieke",
       "domain": "core",
+      "topic": "overall",
       "stem": "specif"
     },
     {
@@ -20953,6 +21382,7 @@
       "name_en": "spectacle",
       "id": "p3602",
       "domain": "culture",
+      "topic": "arts",
       "stem": "spektakel"
     },
     {
@@ -21311,6 +21741,7 @@
       "id": "p3062",
       "also": "staten",
       "domain": "civil",
+      "topic": "common",
       "stem": "staat"
     },
     {
@@ -21331,6 +21762,7 @@
       "id": "p3606",
       "also": "stabiliseert",
       "domain": "system",
+      "topic": "systain",
       "parent": "p2281",
       "stem": "stabil"
     },
@@ -21353,6 +21785,7 @@
       "name_en": "town hall",
       "id": "p3607",
       "domain": "civil",
+      "topic": "service",
       "parent": "p2282",
       "stem": "stad"
     },
@@ -21361,6 +21794,7 @@
       "name_en": "city life",
       "id": "p3608",
       "domain": "socium",
+      "topic": "common",
       "parent": "p2282",
       "stem": "leef"
     },
@@ -21524,6 +21958,7 @@
       "name_en": "constantly",
       "id": "p3019",
       "domain": "core",
+      "topic": "pattern",
       "stem": "steeds"
     },
     {
@@ -21665,6 +22100,7 @@
       "id": "p3176",
       "also": "sterke",
       "domain": "body",
+      "topic": "body",
       "parent": "p2304",
       "stem": "sterk"
     },
@@ -21782,6 +22218,7 @@
       "name_en": "stylish",
       "id": "p3609",
       "domain": "experience",
+      "topic": "visual",
       "parent": "p2315",
       "stem": "stijl"
     },
@@ -21790,6 +22227,7 @@
       "name_en": "quiet",
       "id": "p3178",
       "domain": "experience",
+      "topic": "audio",
       "parent": "p2318",
       "stem": "stil"
     },
@@ -21992,6 +22430,7 @@
       "id": "p3611",
       "also": "strategieën",
       "domain": "agentic",
+      "topic": "intent",
       "stem": "strateg"
     },
     {
@@ -22019,6 +22458,7 @@
       "name_en": "strict",
       "id": "p3613",
       "domain": "mental",
+      "topic": "attitude",
       "stem": "streng"
     },
     {
@@ -22047,6 +22487,7 @@
       "id": "p3612",
       "also": "streef",
       "domain": "agentic",
+      "topic": "intent",
       "stem": "streef"
     },
     {
@@ -22148,6 +22589,7 @@
       "id": "p3614",
       "also": "studenten",
       "domain": "socium",
+      "topic": "common",
       "stem": "stud"
     },
     {
@@ -22219,6 +22661,7 @@
       "id": "p3179",
       "also": "stukjes",
       "domain": "core",
+      "topic": "content",
       "parent": "p2354",
       "stem": "stuk"
     },
@@ -22243,6 +22686,7 @@
       "id": "p3616",
       "also": "subtiele",
       "domain": "experience",
+      "topic": "perceive",
       "stem": "subtiel"
     },
     {
@@ -22290,6 +22734,7 @@
       "id": "p3180",
       "also": "surfers",
       "domain": "experience",
+      "topic": "feelings",
       "pos": "verb",
       "name_nl2": "surfer",
       "stem": "surf"
@@ -22462,6 +22907,7 @@
       "name_en": "technology",
       "id": "p3181",
       "domain": "system",
+      "topic": "power",
       "stem": "technolog"
     },
     {
@@ -22532,6 +22978,7 @@
       "name_en": "nowadays",
       "id": "p3182",
       "domain": "core",
+      "topic": "timeline",
       "stem": "woord"
     },
     {
@@ -22539,6 +22986,7 @@
       "name_en": "sign",
       "id": "p3064",
       "domain": "language",
+      "topic": "communicate",
       "stem": "teken"
     },
     {
@@ -22584,6 +23032,7 @@
       "name_en": "phone",
       "id": "p3020",
       "domain": "artifacts",
+      "topic": "appliances",
       "stem": "telefoon"
     },
     {
@@ -22591,6 +23040,7 @@
       "name_en": "disappointing",
       "id": "p3622",
       "domain": "mental",
+      "topic": "emotion",
       "stem": "stel"
     },
     {
@@ -22599,6 +23049,7 @@
       "id": "p3623",
       "also": "televisies",
       "domain": "artifacts",
+      "topic": "appliances",
       "stem": "televisie"
     },
     {
@@ -22640,6 +23091,7 @@
       "name_en": "pace",
       "id": "p3624",
       "domain": "core",
+      "topic": "flow",
       "stem": "tempo"
     },
     {
@@ -22659,6 +23111,7 @@
       "name_en": "to play tennis",
       "id": "p3626",
       "domain": "experience",
+      "topic": "feelings",
       "stem": "tennis"
     },
     {
@@ -22667,6 +23120,7 @@
       "id": "p3627",
       "also": "termen",
       "domain": "language",
+      "topic": "communicate",
       "stem": "term"
     },
     {
@@ -22674,6 +23128,7 @@
       "name_en": "terrace",
       "id": "p3628",
       "domain": "spatial",
+      "topic": "place",
       "stem": "terras"
     },
     {
@@ -22695,6 +23150,7 @@
       "id": "p3629",
       "also": "teruggeeft",
       "domain": "core",
+      "topic": "posess",
       "stem": "geef"
     },
     {
@@ -22748,6 +23204,7 @@
       "name_en": "to scale back",
       "id": "p3630",
       "domain": "core",
+      "topic": "limit",
       "stem": "schroef",
       "parent": "p580"
     },
@@ -22769,6 +23226,7 @@
       "name_en": "satisfaction",
       "id": "p3631",
       "domain": "mental",
+      "topic": "emotion",
       "stem": "tevreed",
       "parent": "p2412"
     },
@@ -22830,6 +23288,7 @@
       "name_en": "time",
       "id": "p3183",
       "domain": "core",
+      "topic": "timeline",
       "stem": "tijd",
       "parent": "p2419"
     },
@@ -22838,6 +23297,7 @@
       "name_en": "pastime",
       "id": "p3636",
       "domain": "experience",
+      "topic": "feelings",
       "stem": "tijd",
       "parent": "p2419"
     },
@@ -22899,6 +23359,7 @@
       "name_en": "carpentry",
       "id": "p3638",
       "domain": "artifacts",
+      "topic": "building",
       "stem": "timmer"
     },
     {
@@ -22948,6 +23409,7 @@
       "name_en": "accessible",
       "id": "p3639",
       "domain": "core",
+      "topic": "potention",
       "stem": "gang"
     },
     {
@@ -22955,6 +23417,7 @@
       "name_en": "applied",
       "id": "p3640",
       "domain": "core",
+      "topic": "produce",
       "stem": "pas",
       "parent": "p2433"
     },
@@ -22963,6 +23426,7 @@
       "name_en": "to admit",
       "id": "p3184",
       "domain": "mental",
+      "topic": "acceptance",
       "stem": "geef"
     },
     {
@@ -23025,6 +23489,7 @@
       "name_en": "to strike",
       "id": "p3642",
       "domain": "core",
+      "topic": "influence",
       "stem": "sla"
     },
     {
@@ -23044,6 +23509,7 @@
       "name_en": "test",
       "id": "p3185",
       "domain": "knowledge",
+      "topic": "acquire",
       "stem": "toets"
     },
     {
@@ -23051,6 +23517,7 @@
       "name_en": "by chance",
       "id": "p3643",
       "domain": "core",
+      "topic": "potention",
       "stem": "val"
     },
     {
@@ -23058,6 +23525,7 @@
       "name_en": "dedication",
       "id": "p3644",
       "domain": "mental",
+      "topic": "will",
       "stem": "wijd"
     },
     {
@@ -23094,6 +23562,7 @@
       "id": "p3186",
       "also": "toonde",
       "domain": "agentic",
+      "topic": "operation",
       "stem": "toon"
     },
     {
@@ -23142,6 +23611,7 @@
       "name_en": "peak season",
       "id": "p3645",
       "domain": "core",
+      "topic": "timeline",
       "stem": "seizoen",
       "parent": "p2178"
     },
@@ -23150,6 +23620,7 @@
       "name_en": "total",
       "id": "p3646",
       "domain": "core",
+      "topic": "overall",
       "stem": "totaal"
     },
     {
@@ -23171,6 +23642,7 @@
       "name_en": "tragic",
       "id": "p3648",
       "domain": "experience",
+      "topic": "emotion",
       "stem": "tragis"
     },
     {
@@ -23299,6 +23771,7 @@
       "name_en": "sad",
       "id": "p3649",
       "domain": "mental",
+      "topic": "emotion",
       "stem": "triest"
     },
     {
@@ -23372,6 +23845,7 @@
       "name_en": "wedding day",
       "id": "p3187",
       "domain": "socium",
+      "topic": "family",
       "parent": "p2461",
       "stem": "trouw"
     },
@@ -23458,6 +23932,7 @@
       "name_en": "turbulence",
       "id": "p3650",
       "domain": "nature",
+      "topic": "weather",
       "stem": "turbulent"
     },
     {
@@ -23507,6 +23982,7 @@
       "name_en": "typhoon",
       "id": "p3651",
       "domain": "nature",
+      "topic": "weather",
       "stem": "tyfoon"
     },
     {
@@ -23549,6 +24025,7 @@
       "id": "p3189",
       "also": "uitdagende",
       "domain": "experience",
+      "topic": "feelings",
       "parent": "p2486",
       "stem": "daag"
     },
@@ -23571,6 +24048,7 @@
       "name_en": "expression",
       "id": "p3652",
       "domain": "language",
+      "topic": "communicate",
       "stem": "druk"
     },
     {
@@ -23578,6 +24056,7 @@
       "name_en": "apart",
       "id": "p3653",
       "domain": "spatial",
+      "topic": "distance",
       "stem": "een",
       "parent": "p762"
     },
@@ -23586,6 +24065,7 @@
       "name_en": "to express",
       "id": "p3654",
       "domain": "language",
+      "topic": "communicate",
       "parent": "p3652",
       "stem": "uit"
     },
@@ -23737,6 +24217,7 @@
       "id": "p3655",
       "also": "uitgepakt",
       "domain": "agentic",
+      "topic": "operation",
       "stem": "pak",
       "parent": "p1881"
     },
@@ -23758,6 +24239,7 @@
       "id": "p3656",
       "also": "uitgerekt",
       "domain": "body",
+      "topic": "behave",
       "stem": "strek",
       "parent": "p3579"
     },
@@ -23802,6 +24284,7 @@
       "name_en": "to postpone",
       "id": "p3658",
       "domain": "core",
+      "topic": "timeline",
       "stem": "stel"
     },
     {
@@ -23883,6 +24366,7 @@
       "name_en": "view",
       "id": "p3191",
       "domain": "experience",
+      "topic": "visual",
       "stem": "zicht",
       "parent": "p2892"
     },
@@ -23891,6 +24375,7 @@
       "name_en": "to find out",
       "id": "p3659",
       "domain": "knowledge",
+      "topic": "acquire",
       "also": "achterhalen",
       "stem": "zoek"
     },
@@ -24017,6 +24502,7 @@
       "name_en": "craft",
       "id": "p3660",
       "domain": "artifacts",
+      "topic": "building",
       "stem": "ambacht"
     },
     {
@@ -24024,6 +24510,7 @@
       "name_en": "holiday",
       "id": "p3661",
       "domain": "experience",
+      "topic": "feelings",
       "stem": "vakant"
     },
     {
@@ -24079,6 +24566,7 @@
       "name_en": "tonight",
       "id": "p2975",
       "domain": "core",
+      "topic": "timeline",
       "parent": "p129",
       "stem": "avond"
     },
@@ -24120,6 +24608,7 @@
       "name_en": "this afternoon",
       "id": "p3662",
       "domain": "core",
+      "topic": "timeline",
       "parent": "p2536",
       "stem": "middag"
     },
@@ -24128,6 +24617,7 @@
       "name_en": "this morning",
       "id": "p3066",
       "domain": "core",
+      "topic": "timeline",
       "parent": "p2536",
       "stem": "ochtend"
     },
@@ -24172,6 +24662,7 @@
       "name_en": "stuck",
       "id": "p3067",
       "domain": "core",
+      "topic": "binding",
       "stem": "vast"
     },
     {
@@ -24190,6 +24681,7 @@
       "name_en": "determination",
       "id": "p3663",
       "domain": "mental",
+      "topic": "will",
       "parent": "p2546",
       "stem": "vast"
     },
@@ -24198,6 +24690,7 @@
       "name_en": "determined",
       "id": "p3664",
       "domain": "mental",
+      "topic": "will",
       "parent": "p2546",
       "stem": "vast"
     },
@@ -24206,6 +24699,7 @@
       "name_en": "to grasp",
       "id": "p3665",
       "domain": "mental",
+      "topic": "understanding",
       "stem": "vat"
     },
     {
@@ -24260,6 +24754,7 @@
       "name_en": "safety",
       "id": "p3022",
       "domain": "civil",
+      "topic": "justice",
       "parent": "p2551",
       "stem": "veilig"
     },
@@ -24268,6 +24763,7 @@
       "name_en": "field",
       "id": "p3666",
       "domain": "spatial",
+      "topic": "place",
       "stem": "veld"
     },
     {
@@ -24275,6 +24771,7 @@
       "name_en": "ventilation",
       "id": "p3667",
       "domain": "system",
+      "topic": "power",
       "stem": "ventil"
     },
     {
@@ -24296,6 +24793,7 @@
       "id": "p2976",
       "also": "veranderd, veranderende, veranderingen, verandert",
       "domain": "core",
+      "topic": "flow",
       "stem": "ander"
     },
     {
@@ -24317,6 +24815,7 @@
       "name_en": "surprised",
       "id": "p3192",
       "domain": "mental",
+      "topic": "emotion",
       "parent": "p2559",
       "stem": "baas"
     },
@@ -24351,6 +24850,7 @@
       "name_en": "amazing",
       "id": "p3193",
       "domain": "experience",
+      "topic": "feelings",
       "parent": "p2559",
       "stem": "baas"
     },
@@ -24360,6 +24860,7 @@
       "id": "p3068",
       "also": "verbeteringen",
       "domain": "agentic",
+      "topic": "result",
       "pos": "verb",
       "name_nl2": "verbetering",
       "stem": "beter",
@@ -24371,6 +24872,7 @@
       "id": "p3669",
       "also": "verbindende",
       "domain": "system",
+      "topic": "order",
       "parent": "p278",
       "stem": "bind"
     },
@@ -24380,6 +24882,7 @@
       "id": "p3670",
       "also": "verbindingen",
       "domain": "system",
+      "topic": "order",
       "stem": "bind",
       "parent": "p278"
     },
@@ -24389,6 +24892,7 @@
       "id": "p3195",
       "also": "verbrand",
       "domain": "body",
+      "topic": "health",
       "stem": "brand"
     },
     {
@@ -24408,6 +24912,7 @@
       "name_en": "further",
       "id": "p3069",
       "domain": "core",
+      "topic": "flow",
       "stem": "ver",
       "parent": "p2554"
     },
@@ -24452,6 +24957,7 @@
       "name_en": "to endure",
       "id": "p3196",
       "domain": "mental",
+      "topic": "acceptance",
       "stem": "draag"
     },
     {
@@ -24501,6 +25007,7 @@
       "id": "p2990",
       "also": "vereist",
       "domain": "system",
+      "topic": "order",
       "stem": "eis"
     },
     {
@@ -24509,6 +25016,7 @@
       "id": "p3070",
       "also": "verenigde",
       "domain": "socium",
+      "topic": "cooperate",
       "stem": "een",
       "parent": "p762"
     },
@@ -24517,6 +25025,7 @@
       "name_en": "refreshing",
       "id": "p3197",
       "domain": "experience",
+      "topic": "feelings",
       "stem": "fris"
     },
     {
@@ -24539,6 +25048,7 @@
       "id": "p3671",
       "also": "vergelijkbare",
       "domain": "core",
+      "topic": "compare",
       "parent": "p2572",
       "stem": "lijk"
     },
@@ -24623,6 +25133,7 @@
       "name_en": "clarifies",
       "id": "p3672",
       "domain": "language",
+      "topic": "communicate",
       "also": "verheldert",
       "pos": "verb",
       "name_nl2": "verheldering",
@@ -24650,6 +25161,7 @@
       "name_en": "to relate",
       "id": "p3674",
       "domain": "core",
+      "topic": "compare",
       "stem": "houd"
     },
     {
@@ -24657,6 +25169,7 @@
       "name_en": "rental",
       "id": "p3675",
       "domain": "resource",
+      "topic": "trade",
       "stem": "huur",
       "parent": "p1173"
     },
@@ -24720,6 +25233,7 @@
       "name_en": "sale",
       "id": "p3676",
       "domain": "resource",
+      "topic": "trade",
       "parent": "p2584",
       "stem": "koop"
     },
@@ -24756,6 +25270,7 @@
       "name_en": "having a cold",
       "id": "p3677",
       "domain": "body",
+      "topic": "health",
       "stem": "koud",
       "parent": "p1399"
     },
@@ -24764,6 +25279,7 @@
       "name_en": "to leave",
       "id": "p3678",
       "domain": "spatial",
+      "topic": "move",
       "stem": "laat"
     },
     {
@@ -24799,6 +25315,7 @@
       "id": "p3198",
       "also": "verlengde",
       "domain": "core",
+      "topic": "timeline",
       "stem": "lang",
       "parent": "p1446"
     },
@@ -24807,6 +25324,7 @@
       "name_en": "in love",
       "id": "p3679",
       "domain": "mental",
+      "topic": "emotion",
       "stem": "lief",
       "parent": "p1494"
     },
@@ -24815,6 +25333,7 @@
       "name_en": "loss",
       "id": "p3680",
       "domain": "core",
+      "topic": "posess",
       "parent": "p2592",
       "stem": "lies"
     },
@@ -24847,6 +25366,7 @@
       "name_en": "lost",
       "id": "p3681",
       "domain": "core",
+      "topic": "posess",
       "parent": "p2592",
       "stem": "lies"
     },
@@ -24855,6 +25375,7 @@
       "name_en": "tiring",
       "id": "p3682",
       "domain": "body",
+      "topic": "health",
       "stem": "moe",
       "parent": "p1620"
     },
@@ -24864,6 +25385,7 @@
       "id": "p3683",
       "also": "vernietigd",
       "domain": "core",
+      "topic": "structure",
       "stem": "niet",
       "parent": "p2595"
     },
@@ -24884,6 +25406,7 @@
       "name_en": "disturbing",
       "id": "p3684",
       "domain": "mental",
+      "topic": "fear",
       "stem": "rust",
       "parent": "p2106"
     },
@@ -24913,6 +25436,7 @@
       "id": "p3071",
       "also": "veroorzaakt",
       "domain": "system",
+      "topic": "occurence",
       "stem": "oorzaak"
     },
     {
@@ -24955,6 +25479,7 @@
       "name_en": "nursing",
       "id": "p3685",
       "domain": "body",
+      "topic": "health",
       "stem": "pleeg"
     },
     {
@@ -24983,6 +25508,7 @@
       "name_en": "surprising",
       "id": "p3686",
       "domain": "experience",
+      "topic": "emotion",
       "parent": "p2603",
       "stem": "ras"
     },
@@ -24991,6 +25517,7 @@
       "name_en": "to enrich",
       "id": "p3688",
       "domain": "core",
+      "topic": "content",
       "stem": "rijk"
     },
     {
@@ -24999,6 +25526,7 @@
       "id": "p3689",
       "also": "verruimt",
       "domain": "mental",
+      "topic": "understanding",
       "stem": "ruim",
       "parent": "p2104"
     },
@@ -25020,6 +25548,7 @@
       "name_en": "variety",
       "id": "p3690",
       "domain": "core",
+      "topic": "group",
       "stem": "scheid"
     },
     {
@@ -25063,6 +25592,7 @@
       "id": "p2991",
       "also": "verschillende",
       "domain": "core",
+      "topic": "compare",
       "parent": "p2609",
       "stem": "schil"
     },
@@ -25083,6 +25613,7 @@
       "id": "p3199",
       "also": "versper",
       "domain": "spatial",
+      "topic": "manipulate",
       "stem": "sper"
     },
     {
@@ -25110,6 +25641,7 @@
       "name_en": "sensible",
       "id": "p3691",
       "domain": "mental",
+      "topic": "reasoning",
       "stem": "stand"
     },
     {
@@ -25129,6 +25661,7 @@
       "name_en": "hidden",
       "id": "p3692",
       "domain": "core",
+      "topic": "structure",
       "parent": "p2617",
       "stem": "stop"
     },
@@ -25149,6 +25682,7 @@
       "name_en": "to send",
       "id": "p3200",
       "domain": "language",
+      "topic": "communicate",
       "stem": "stuur",
       "parent": "p2356"
     },
@@ -25157,6 +25691,7 @@
       "name_en": "translate",
       "id": "p3072",
       "domain": "language",
+      "topic": "communicate",
       "pos": "verb",
       "name_nl2": "vertaling",
       "stem": "taal"
@@ -25235,6 +25770,7 @@
       "id": "p3201",
       "also": "vertrouwelijke",
       "domain": "knowledge",
+      "topic": "knowledge",
       "stem": "trouw",
       "parent": "p2624"
     },
@@ -25244,6 +25780,7 @@
       "id": "p2992",
       "also": "vertrouw",
       "domain": "mental",
+      "topic": "attitude",
       "stem": "trouw",
       "parent": "p2624"
     },
@@ -25281,6 +25818,7 @@
       "id": "p3694",
       "also": "vervangende",
       "domain": "core",
+      "topic": "compare",
       "parent": "p2625",
       "stem": "vang"
     },
@@ -25325,6 +25863,7 @@
       "id": "p3073",
       "also": "verwacht",
       "domain": "mental",
+      "topic": "certainty",
       "pos": "verb",
       "name_nl2": "verwachting",
       "stem": "wacht"
@@ -25380,6 +25919,7 @@
       "name_en": "devastating",
       "id": "p3697",
       "domain": "core",
+      "topic": "structure",
       "stem": "woest"
     },
     {
@@ -25417,6 +25957,7 @@
       "id": "p3202",
       "also": "verzeker",
       "domain": "resource",
+      "topic": "trade",
       "pos": "verb",
       "name_nl2": "verzekering",
       "stem": "zeek",
@@ -25427,6 +25968,7 @@
       "name_en": "insurance company",
       "id": "p3699",
       "domain": "resource",
+      "topic": "trade",
       "parent": "p3202",
       "stem": "zeek"
     },
@@ -25467,6 +26009,7 @@
       "name_en": "sunk",
       "id": "p3700",
       "domain": "core",
+      "topic": "flow",
       "stem": "zink",
       "parent": "p2899"
     },
@@ -25476,6 +26019,7 @@
       "id": "p3701",
       "also": "verzorgers",
       "domain": "socium",
+      "topic": "care",
       "stem": "zorg",
       "parent": "p2920"
     },
@@ -25509,6 +26053,7 @@
       "name_en": "to celebrate",
       "id": "p3703",
       "domain": "culture",
+      "topic": "customs",
       "stem": "vier"
     },
     {
@@ -25552,6 +26097,7 @@
       "name_en": "pond",
       "id": "p3704",
       "domain": "nature",
+      "topic": "seescape",
       "stem": "vijver"
     },
     {
@@ -25584,6 +26130,7 @@
       "name_en": "resourceful",
       "id": "p3705",
       "domain": "mental",
+      "topic": "intellect",
       "stem": "vind"
     },
     {
@@ -25632,6 +26179,7 @@
       "name_en": "visa",
       "id": "p3707",
       "domain": "civil",
+      "topic": "travel",
       "stem": "visum"
     },
     {
@@ -25761,6 +26309,7 @@
       "name_en": "airport",
       "id": "p3709",
       "domain": "spatial",
+      "topic": "place",
       "parent": "p2664",
       "stem": "vlieg"
     },
@@ -25800,6 +26349,7 @@
       "name_en": "fluent",
       "id": "p3203",
       "domain": "language",
+      "topic": "grade",
       "stem": "vloei",
       "parent": "p2667"
     },
@@ -25808,6 +26358,7 @@
       "name_en": "flight",
       "id": "p2965",
       "domain": "spatial",
+      "topic": "move",
       "also": "vliegreis",
       "parent": "p2664",
       "stem": "vlucht"
@@ -25853,6 +26404,7 @@
       "name_en": "food safety",
       "id": "p3710",
       "domain": "food",
+      "topic": "dishes",
       "parent": "p2675",
       "stem": "voedsel"
     },
@@ -25974,6 +26526,7 @@
       "id": "p2945",
       "also": "volgende",
       "domain": "core",
+      "topic": "sequence",
       "parent": "p2682",
       "stem": "volg"
     },
@@ -25982,6 +26535,7 @@
       "name_en": "crammed",
       "id": "p3711",
       "domain": "core",
+      "topic": "limit",
       "stem": "prop"
     },
     {
@@ -26036,6 +26590,7 @@
       "name_en": "adult",
       "id": "p3712",
       "domain": "life",
+      "topic": "species",
       "stem": "was"
     },
     {
@@ -26058,6 +26613,7 @@
       "id": "p2993",
       "also": "voorbereid",
       "domain": "agentic",
+      "topic": "operation",
       "stem": "reid",
       "parent": "p3277"
     },
@@ -26093,6 +26649,7 @@
       "name_en": "front",
       "id": "p3714",
       "domain": "spatial",
+      "topic": "position",
       "stem": "kant"
     },
     {
@@ -26101,6 +26658,7 @@
       "id": "p2952",
       "also": "voorkeuren",
       "domain": "mental",
+      "topic": "will",
       "stem": "keus"
     },
     {
@@ -26166,6 +26724,7 @@
       "name_en": "pantry",
       "id": "p3715",
       "domain": "artifacts",
+      "topic": "furniture",
       "stem": "kast",
       "parent": "p512"
     },
@@ -26175,6 +26734,7 @@
       "id": "p3713",
       "also": "voorgeschreven",
       "domain": "body",
+      "topic": "health",
       "stem": "schrijf"
     },
     {
@@ -26242,6 +26802,7 @@
       "id": "p3206",
       "also": "vooruitgegaan",
       "domain": "agentic",
+      "topic": "result",
       "parent": "p2707",
       "stem": "ga"
     },
@@ -26290,6 +26851,7 @@
       "id": "p3716",
       "also": "voorzieningen",
       "domain": "resource",
+      "topic": "getting",
       "stem": "zie"
     },
     {
@@ -26422,6 +26984,7 @@
       "id": "p3717",
       "also": "vreedzame",
       "domain": "civil",
+      "topic": "clash",
       "parent": "p2720",
       "stem": "vrede"
     },
@@ -26490,6 +27053,7 @@
       "name_en": "friendly",
       "id": "p3210",
       "domain": "socium",
+      "topic": "virtue",
       "parent": "p2726",
       "stem": "vriend"
     },
@@ -26498,6 +27062,7 @@
       "name_en": "girlfriend",
       "id": "p3211",
       "domain": "socium",
+      "topic": "family",
       "parent": "p2726",
       "stem": "vriend"
     },
@@ -26556,6 +27121,7 @@
       "name_en": "early",
       "id": "p3212",
       "domain": "core",
+      "topic": "timeline",
       "stem": "vroeg"
     },
     {
@@ -26642,6 +27208,7 @@
       "name_en": "worth",
       "id": "p2966",
       "domain": "resource",
+      "topic": "measure",
       "parent": "p2744",
       "stem": "waard"
     },
@@ -26677,6 +27244,7 @@
       "id": "p3075",
       "also": "waardevolle",
       "domain": "resource",
+      "topic": "measure",
       "parent": "p2744",
       "stem": "waard"
     },
@@ -26729,6 +27297,7 @@
       "name_en": "probably",
       "id": "p3076",
       "domain": "core",
+      "topic": "potention",
       "stem": "schijn"
     },
     {
@@ -26770,6 +27339,7 @@
       "id": "p2956",
       "also": "wachtte, gewacht",
       "domain": "agentic",
+      "topic": "operation",
       "stem": "wacht"
     },
     {
@@ -26830,6 +27400,7 @@
       "name_en": "confused",
       "id": "p3725",
       "domain": "mental",
+      "topic": "mental",
       "stem": "war"
     },
     {
@@ -26851,6 +27422,7 @@
       "name_en": "to warm",
       "id": "p3726",
       "domain": "core",
+      "topic": "flow",
       "stem": "warm"
     },
     {
@@ -26929,6 +27501,7 @@
       "name_en": "match",
       "id": "p3214",
       "domain": "experience",
+      "topic": "feelings",
       "stem": "strijd"
     },
     {
@@ -26966,6 +27539,7 @@
       "id": "p3727",
       "also": "weerhield",
       "domain": "core",
+      "topic": "control",
       "stem": "houd"
     },
     {
@@ -26985,6 +27559,7 @@
       "name_en": "weather forecast",
       "id": "p3728",
       "domain": "nature",
+      "topic": "weather",
       "stem": "weer",
       "parent": "p1119"
     },
@@ -26993,6 +27568,7 @@
       "name_en": "orphan",
       "id": "p3729",
       "domain": "socium",
+      "topic": "family",
       "stem": "wees"
     },
     {
@@ -27055,6 +27631,7 @@
       "name_en": "reserved",
       "id": "p3730",
       "domain": "core",
+      "topic": "potention",
       "stem": "leg"
     },
     {
@@ -27099,6 +27676,7 @@
       "name_en": "welcome",
       "id": "p3215",
       "domain": "socium",
+      "topic": "common",
       "stem": "welkom"
     },
     {
@@ -27119,6 +27697,7 @@
       "name_en": "well-deserved",
       "id": "p3732",
       "domain": "core",
+      "topic": "overall",
       "stem": "dien",
       "parent": "p2566"
     },
@@ -27212,6 +27791,7 @@
       "id": "p3216",
       "also": "wereldwijde",
       "domain": "spatial",
+      "topic": "extent",
       "parent": "p2792",
       "stem": "wereld"
     },
@@ -27558,6 +28138,7 @@
       "name_en": "mathematics",
       "id": "p3741",
       "domain": "knowledge",
+      "topic": "knowledge",
       "stem": "wiskunde"
     },
     {
@@ -27823,6 +28404,7 @@
       "name_en": "cruel",
       "id": "p3742",
       "domain": "mental",
+      "topic": "attitude",
       "stem": "wreed"
     },
     {
@@ -27922,6 +28504,7 @@
       "name_en": "business trip",
       "id": "p3743",
       "domain": "spatial",
+      "topic": "move",
       "stem": "reis",
       "parent": "p2042"
     },
@@ -27955,6 +28538,7 @@
       "name_en": "pickpocket",
       "id": "p3217",
       "domain": "civil",
+      "topic": "justice",
       "stem": "zak"
     },
     {
@@ -27976,6 +28560,7 @@
       "name_en": "salmon",
       "id": "p3744",
       "domain": "food",
+      "topic": "ingredients",
       "stem": "zalm"
     },
     {
@@ -28065,6 +28650,7 @@
       "name_en": "certainty",
       "id": "p3218",
       "domain": "mental",
+      "topic": "certainty",
       "parent": "p2873",
       "stem": "zeek"
     },
@@ -28086,6 +28672,7 @@
       "name_en": "rare",
       "id": "p3746",
       "domain": "core",
+      "topic": "pattern",
       "stem": "zeld",
       "parent": "p2874"
     },
@@ -28107,6 +28694,7 @@
       "name_en": "channel",
       "id": "p3748",
       "domain": "culture",
+      "topic": "arts",
       "stem": "zend"
     },
     {
@@ -28115,6 +28703,7 @@
       "id": "p2994",
       "also": "zet, gezet",
       "domain": "agentic",
+      "topic": "operation",
       "stem": "zet"
     },
     {
@@ -28146,6 +28735,7 @@
       "name_en": "visible",
       "id": "p3752",
       "domain": "experience",
+      "topic": "visual",
       "parent": "p2886",
       "stem": "zicht"
     },
@@ -28170,6 +28760,7 @@
       "id": "p3753",
       "also": "ziekenhuizen",
       "domain": "body",
+      "topic": "health",
       "stem": "ziek"
     },
     {
@@ -28399,6 +28990,7 @@
       "name_en": "just like that",
       "id": "p3755",
       "domain": "core",
+      "topic": "overall",
       "stem": "zomaar"
     },
     {
@@ -28406,6 +28998,7 @@
       "name_en": "summer",
       "id": "p3221",
       "domain": "nature",
+      "topic": "season",
       "stem": "zomer"
     },
     {
@@ -28479,6 +29072,7 @@
       "id": "p3222",
       "also": "zorgvuldige",
       "domain": "mental",
+      "topic": "attitude",
       "parent": "p2920",
       "stem": "zorg"
     },
@@ -28487,6 +29081,7 @@
       "name_en": "worrying",
       "id": "p3223",
       "domain": "mental",
+      "topic": "fear",
       "parent": "p2920",
       "stem": "zorg"
     },
@@ -28528,6 +29123,7 @@
       "name_en": "southern",
       "id": "p3756",
       "domain": "spatial",
+      "topic": "direction",
       "stem": "zuid"
     },
     {
@@ -28635,6 +29231,7 @@
       "id": "p3759",
       "also": "zwakke",
       "domain": "body",
+      "topic": "body",
       "stem": "zwak"
     },
     {

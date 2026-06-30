@@ -49,6 +49,7 @@ Examples:
 | **iets** | something | Ik wil **iets** drinken. (I want something to drink.) |
 | **niets / niks** | nothing | Er is **niets** gebeurd. (Nothing happened.) |
 | **alles** | everything | **Alles** is klaar. (Everything is ready.) |
+| allerlei|||
 | **elkaar** | each other | Ze helpen **elkaar**. (They help each other.) |
 | **wie dan ook** | whoever, anyone at all | Vraag het aan **wie dan ook**. (Ask anyone at all.) |
 | **wat dan ook** | whatever, anything at all | Hij eet **wat dan ook**. (He eats anything at all.) |
