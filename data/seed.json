@@ -7,7 +7,10 @@
       "domain": "resource",
       "topic": "trade",
       "stem": "bied",
-      "parent": "p264"
+      "parent": "p264",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -27,7 +30,10 @@
       "id": "p3226",
       "domain": "agentic",
       "topic": "operation",
-      "stem": "do"
+      "stem": "do",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "aangenaam",
@@ -36,7 +42,10 @@
       "also": "aangename, aangenamer",
       "domain": "experience",
       "topic": "feelings",
-      "stem": "genaam"
+      "stem": "genaam",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -94,7 +103,10 @@
       "id": "p3227",
       "domain": "resource",
       "topic": "trade",
-      "stem": "koop"
+      "stem": "koop",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "aanleggen",
@@ -172,7 +184,9 @@
       "pos": "verb",
       "name_nl2": "aanpak",
       "stem": "pak",
-      "parent": "p1881"
+      "parent": "p1881",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "aanpassen",
@@ -212,7 +226,10 @@
       "domain": "spatial",
       "topic": "move",
       "stem": "ren",
-      "parent": "p2054"
+      "parent": "p2054",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "aanspreken",
@@ -295,7 +312,10 @@
       "id": "p3234",
       "domain": "core",
       "topic": "content",
-      "stem": "vul"
+      "stem": "vul",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "aanwezig",
@@ -397,7 +417,10 @@
       "also": "aarzelde",
       "domain": "mental",
       "topic": "will",
-      "stem": "aarzel"
+      "stem": "aarzel",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "absoluut",
@@ -457,7 +480,10 @@
       "also": "geacht",
       "domain": "mental",
       "topic": "evaluation",
-      "stem": "acht"
+      "stem": "acht",
+      "pos": "verb",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "achterlaten",
@@ -466,7 +492,10 @@
       "also": "achtergelaten",
       "domain": "agentic",
       "topic": "operation",
-      "stem": "laat"
+      "stem": "laat",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "achterop",
@@ -526,7 +555,10 @@
       "id": "p3239",
       "domain": "culture",
       "topic": "arts",
-      "stem": "film"
+      "stem": "film",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "activiteit",
@@ -536,7 +568,10 @@
       "domain": "agentic",
       "topic": "operation",
       "stem": "act",
-      "parent": "p45"
+      "parent": "p45",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "actueel",
@@ -557,7 +592,10 @@
       "id": "p3240",
       "domain": "experience",
       "topic": "feelings",
-      "stem": "adeem"
+      "stem": "adeem",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "domain": "body",
@@ -643,7 +681,10 @@
       "domain": "socium",
       "topic": "cooperate",
       "stem": "advie",
-      "parent": "p56"
+      "parent": "p56",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "domain": "civil",
@@ -696,7 +737,10 @@
       "id": "p3243",
       "domain": "core",
       "topic": "flow",
-      "stem": "last"
+      "stem": "last",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "afgelopen",
@@ -716,7 +760,10 @@
       "id": "p3246",
       "domain": "core",
       "topic": "binding",
-      "stem": "hang"
+      "stem": "hang",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "afkeer",
@@ -724,7 +771,10 @@
       "id": "p3247",
       "domain": "mental",
       "topic": "attitude",
-      "stem": "keer"
+      "stem": "keer",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "afkoelen",
@@ -734,7 +784,10 @@
       "domain": "nature",
       "topic": "temperature",
       "stem": "koel",
-      "parent": "p1373"
+      "parent": "p1373",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -792,7 +845,10 @@
       "domain": "agentic",
       "topic": "result",
       "stem": "rond",
-      "parent": "p2092"
+      "parent": "p2092",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -848,7 +904,10 @@
       "id": "p3080",
       "domain": "socium",
       "topic": "cooperate",
-      "stem": "spreek"
+      "stem": "spreek",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -963,7 +1022,10 @@
       "id": "p2948",
       "domain": "socium",
       "topic": "common",
-      "stem": "blief"
+      "stem": "blief",
+      "pos": "adv",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "alternatief",
@@ -971,7 +1033,10 @@
       "id": "p3249",
       "domain": "core",
       "topic": "compare",
-      "stem": "altern"
+      "stem": "altern",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "ambitieus",
@@ -1006,7 +1071,10 @@
       "id": "p2978",
       "domain": "core",
       "topic": "compare",
-      "stem": "ander"
+      "stem": "ander",
+      "pos": "adv",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -1089,7 +1157,10 @@
       "id": "p3251",
       "domain": "culture",
       "topic": "arts",
-      "stem": "applaus"
+      "stem": "applaus",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "pos": "noun",
@@ -1136,7 +1207,10 @@
       "id": "p3252",
       "domain": "resource",
       "topic": "possess",
-      "stem": "armoed"
+      "stem": "armoed",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "arresteren",
@@ -1145,7 +1219,10 @@
       "also": "arresteerde, gearresteerd",
       "domain": "civil",
       "topic": "justice",
-      "stem": "arrest"
+      "stem": "arrest",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "arrogant",
@@ -1167,7 +1244,10 @@
       "also": "artiesten",
       "domain": "culture",
       "topic": "arts",
-      "stem": "artiest"
+      "stem": "artiest",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "artikel",
@@ -1176,7 +1256,10 @@
       "also": "artikelen",
       "domain": "knowledge",
       "topic": "script",
-      "stem": "artikel"
+      "stem": "artikel",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "arts",
@@ -1240,7 +1323,10 @@
       "domain": "food",
       "topic": "dishes",
       "stem": "eet",
-      "parent": "p822"
+      "parent": "p822",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "avondkrant",
@@ -1249,7 +1335,10 @@
       "domain": "knowledge",
       "topic": "script",
       "stem": "krant",
-      "parent": "p1403"
+      "parent": "p1403",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -1285,7 +1374,10 @@
       "domain": "agentic",
       "topic": "common",
       "stem": "zeek",
-      "parent": "p2873"
+      "parent": "p2873",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "baas",
@@ -1364,7 +1456,8 @@
       "topic": "systain",
       "level": "b",
       "similarity": "native",
-      "stem": "evenwicht"
+      "stem": "evenwicht",
+      "pos": "noun"
     },
     {
       "name": "balen",
@@ -1387,7 +1480,10 @@
       "id": "p3025",
       "domain": "artifacts",
       "topic": "tool",
-      "stem": "pen"
+      "stem": "pen",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -1476,7 +1572,10 @@
       "domain": "mental",
       "topic": "attitude",
       "stem": "baas",
-      "parent": "p135"
+      "parent": "p135",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -1518,7 +1617,10 @@
       "domain": "socium",
       "topic": "common",
       "stem": "dank",
-      "parent": "p156"
+      "parent": "p156",
+      "pos": "adv",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -1582,7 +1684,10 @@
       "id": "p3262",
       "domain": "civil",
       "topic": "clash",
-      "stem": "dreig"
+      "stem": "dreig",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "bedreven",
@@ -1590,7 +1695,10 @@
       "id": "p3263",
       "domain": "agentic",
       "topic": "pragmatic",
-      "stem": "drijf"
+      "stem": "drijf",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "domain": "socium",
@@ -1634,7 +1742,10 @@
       "domain": "resource",
       "topic": "trade",
       "stem": "beheer",
-      "parent": "p178"
+      "parent": "p178",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -1694,7 +1805,10 @@
       "domain": "socium",
       "topic": "care",
       "stem": "leid",
-      "parent": "p1464"
+      "parent": "p1464",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -1729,7 +1843,10 @@
       "domain": "mental",
       "topic": "understanding",
       "stem": "grijp",
-      "parent": "p3266"
+      "parent": "p3266",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "begrip",
@@ -1737,7 +1854,10 @@
       "id": "p3266",
       "domain": "mental",
       "topic": "understanding",
-      "stem": "grijp"
+      "stem": "grijp",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "behandelen",
@@ -1746,7 +1866,10 @@
       "also": "behandeld",
       "domain": "body",
       "topic": "health",
-      "stem": "handel"
+      "stem": "handel",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -1776,7 +1899,10 @@
       "domain": "mental",
       "topic": "will",
       "stem": "hoef",
-      "parent": "p1138"
+      "parent": "p1138",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "behoorlijk",
@@ -1785,7 +1911,10 @@
       "also": "behoorlijke",
       "domain": "core",
       "topic": "overall",
-      "stem": "hoor"
+      "stem": "hoor",
+      "pos": "adv",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -1805,7 +1934,10 @@
       "id": "p3269",
       "domain": "core",
       "topic": "group",
-      "stem": "beid"
+      "stem": "beid",
+      "pos": "adj",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "beige",
@@ -1838,7 +1970,10 @@
       "domain": "experience",
       "topic": "visual",
       "stem": "kijk",
-      "parent": "p1314"
+      "parent": "p1314",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "belachelijk",
@@ -1871,7 +2006,10 @@
       "id": "p3271",
       "domain": "resource",
       "topic": "trade",
-      "stem": "last"
+      "stem": "last",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "beleefd",
@@ -1879,7 +2017,10 @@
       "id": "p3272",
       "domain": "socium",
       "topic": "virtue",
-      "stem": "leef"
+      "stem": "leef",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "beleefdheid",
@@ -1888,7 +2029,10 @@
       "domain": "socium",
       "topic": "virtue",
       "stem": "leef",
-      "parent": "p3272"
+      "parent": "p3272",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "belemmering",
@@ -1896,7 +2040,10 @@
       "id": "p3274",
       "domain": "core",
       "topic": "limit",
-      "stem": "lemmer"
+      "stem": "lemmer",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -1948,7 +2095,10 @@
       "domain": "experience",
       "topic": "audio",
       "stem": "luister",
-      "parent": "p1526"
+      "parent": "p1526",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "bemachtigen",
@@ -1956,7 +2106,10 @@
       "id": "p3082",
       "domain": "agentic",
       "topic": "result",
-      "stem": "macht"
+      "stem": "macht",
+      "pos": "verb",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "beneden",
@@ -2036,7 +2189,9 @@
       "topic": "dishes",
       "pos": "verb",
       "name_nl2": "bereiding",
-      "stem": "reid"
+      "stem": "reid",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -2192,7 +2347,10 @@
       "id": "p3279",
       "domain": "core",
       "topic": "potention",
-      "stem": "schik"
+      "stem": "schik",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "socium",
@@ -2267,7 +2425,10 @@
       "domain": "mental",
       "topic": "will",
       "stem": "slis",
-      "parent": "p220"
+      "parent": "p220",
+      "pos": "adv",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "besluiteloosheid",
@@ -2276,7 +2437,10 @@
       "domain": "mental",
       "topic": "will",
       "stem": "sluit",
-      "parent": "p220"
+      "parent": "p220",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "besluiten",
@@ -2286,7 +2450,10 @@
       "domain": "mental",
       "topic": "will",
       "stem": "sluit",
-      "parent": "p220"
+      "parent": "p220",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "besluitvaardig",
@@ -2295,7 +2462,10 @@
       "domain": "mental",
       "topic": "will",
       "stem": "sluit",
-      "parent": "p220"
+      "parent": "p220",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "besluitvorming",
@@ -2304,7 +2474,10 @@
       "domain": "mental",
       "topic": "will",
       "stem": "sluit",
-      "parent": "p220"
+      "parent": "p220",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "besparen",
@@ -2313,7 +2486,10 @@
       "domain": "resource",
       "topic": "possess",
       "stem": "spaar",
-      "parent": "p2245"
+      "parent": "p2245",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "bespelen",
@@ -2321,7 +2497,10 @@
       "id": "p3284",
       "domain": "culture",
       "topic": "arts",
-      "stem": "spel"
+      "stem": "spel",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "bespreken",
@@ -2456,7 +2635,10 @@
       "domain": "language",
       "topic": "communicate",
       "stem": "teken",
-      "parent": "p232"
+      "parent": "p232",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -2477,7 +2659,10 @@
       "domain": "mental",
       "topic": "evaluation",
       "stem": "teken",
-      "parent": "p232"
+      "parent": "p232",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -2499,7 +2684,10 @@
       "domain": "body",
       "topic": "health",
       "stem": "beter",
-      "parent": "p233"
+      "parent": "p233",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "betrokkenheid",
@@ -2507,7 +2695,10 @@
       "id": "p3286",
       "domain": "socium",
       "topic": "cooperate",
-      "stem": "trek"
+      "stem": "trek",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -2528,7 +2719,10 @@
       "id": "p3287",
       "domain": "mental",
       "topic": "emotion",
-      "stem": "beu"
+      "stem": "beu",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "beurs",
@@ -2536,7 +2730,10 @@
       "id": "p3288",
       "domain": "resource",
       "topic": "trade",
-      "stem": "beurs"
+      "stem": "beurs",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -2558,7 +2755,10 @@
       "id": "p3289",
       "domain": "agentic",
       "topic": "control",
-      "stem": "bevel"
+      "stem": "bevel",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "body",
@@ -2608,7 +2808,10 @@
       "also": "bevredigende",
       "domain": "experience",
       "topic": "feelings",
-      "stem": "vrede"
+      "stem": "vrede",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -2723,7 +2926,10 @@
       "id": "p3291",
       "domain": "mental",
       "topic": "mental",
-      "stem": "bewust"
+      "stem": "bewust",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "bezem",
@@ -2824,7 +3030,10 @@
       "domain": "mental",
       "topic": "fear",
       "stem": "zorg",
-      "parent": "p2920"
+      "parent": "p2920",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "bezwaar",
@@ -2934,7 +3143,10 @@
       "id": "p3294",
       "domain": "agentic",
       "topic": "effort",
-      "stem": "draag"
+      "stem": "draag",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "bijeen",
@@ -2943,7 +3155,10 @@
       "domain": "socium",
       "topic": "common",
       "stem": "een",
-      "parent": "p762"
+      "parent": "p762",
+      "pos": "adv",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "bijeenkomst",
@@ -2951,7 +3166,10 @@
       "id": "p3296",
       "domain": "socium",
       "topic": "common",
-      "stem": "koom"
+      "stem": "koom",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "bijhouden",
@@ -2959,7 +3177,10 @@
       "id": "p3297",
       "domain": "agentic",
       "topic": "control",
-      "stem": "houd"
+      "stem": "houd",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "body",
@@ -3136,7 +3357,10 @@
       "id": "p3299",
       "domain": "mental",
       "topic": "evaluation",
-      "stem": "bizar"
+      "stem": "bizar",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "pos": "noun",
@@ -3171,7 +3395,10 @@
       "also": "bladeren",
       "domain": "nature",
       "topic": "landscape",
-      "stem": "blad"
+      "stem": "blad",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -3212,7 +3439,10 @@
       "id": "p3300",
       "domain": "experience",
       "topic": "visual",
-      "stem": "bleek"
+      "stem": "bleek",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -3437,7 +3667,10 @@
       "domain": "artifacts",
       "topic": "furniture",
       "stem": "kast",
-      "parent": "p512"
+      "parent": "p512",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "boeket",
@@ -3445,7 +3678,10 @@
       "id": "p3303",
       "domain": "artifacts",
       "topic": "accessories",
-      "stem": "boeket"
+      "stem": "boeket",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "boer",
@@ -3453,7 +3689,10 @@
       "id": "p3304",
       "domain": "socium",
       "topic": "common",
-      "stem": "boer"
+      "stem": "boer",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "boerderij",
@@ -3651,7 +3890,10 @@
       "id": "p3305",
       "domain": "spatial",
       "topic": "impulse",
-      "stem": "bots"
+      "stem": "bots",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -3695,7 +3937,10 @@
       "id": "p3306",
       "domain": "system",
       "topic": "order",
-      "stem": "branche"
+      "stem": "branche",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "pos": "adj",
@@ -3796,7 +4041,10 @@
       "domain": "language",
       "topic": "communicate",
       "parent": "p350",
-      "stem": "brief"
+      "stem": "brief",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "bril",
@@ -3845,7 +4093,10 @@
       "id": "p3308",
       "domain": "knowledge",
       "topic": "knowledge",
-      "stem": "bron"
+      "stem": "bron",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "brood",
@@ -3897,7 +4148,10 @@
       "domain": "socium",
       "topic": "family",
       "parent": "p360",
-      "stem": "bruiloft"
+      "stem": "bruiloft",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -3970,7 +4224,10 @@
       "id": "p3309",
       "domain": "nature",
       "topic": "landscape",
-      "stem": "leef"
+      "stem": "leef",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "burger",
@@ -3979,7 +4236,10 @@
       "also": "burgers",
       "domain": "food",
       "topic": "dishes",
-      "stem": "burger"
+      "stem": "burger",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "same"
     },
     {
       "name": "bus",
@@ -4002,7 +4262,10 @@
       "id": "p3310",
       "domain": "socium",
       "topic": "common",
-      "stem": "buur"
+      "stem": "buur",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "buurland",
@@ -4011,7 +4274,10 @@
       "domain": "civil",
       "topic": "common",
       "parent": "p3310",
-      "stem": "land"
+      "stem": "land",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "buurman",
@@ -4020,7 +4286,10 @@
       "domain": "socium",
       "topic": "common",
       "parent": "p3310",
-      "stem": "man"
+      "stem": "man",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "buurt",
@@ -4083,7 +4352,10 @@
       "id": "p3314",
       "domain": "agentic",
       "topic": "pragmatic",
-      "stem": "capac"
+      "stem": "capac",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "capaciteit",
@@ -4092,7 +4364,10 @@
       "domain": "system",
       "topic": "power",
       "parent": "p3314",
-      "stem": "capac"
+      "stem": "capac",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "categorie",
@@ -4141,7 +4416,10 @@
       "id": "p3319",
       "domain": "experience",
       "topic": "feelings",
-      "stem": "charme"
+      "stem": "charme",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "checken",
@@ -4149,7 +4427,10 @@
       "id": "p3091",
       "domain": "agentic",
       "topic": "assess",
-      "stem": "check"
+      "stem": "check",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "soundex"
     },
     {
       "name": "chocolade",
@@ -4157,7 +4438,10 @@
       "id": "p3092",
       "domain": "food",
       "topic": "ingredients",
-      "stem": "chocolade"
+      "stem": "chocolade",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "universal"
     },
     {
       "pos": "noun",
@@ -4274,7 +4558,10 @@
       "id": "p3094",
       "domain": "mental",
       "topic": "mental",
-      "stem": "concentr"
+      "stem": "concentr",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "concert",
@@ -4322,7 +4609,10 @@
       "also": "conferenties",
       "domain": "socium",
       "topic": "common",
-      "stem": "conferent"
+      "stem": "conferent",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "conflict",
@@ -4331,7 +4621,10 @@
       "also": "conflicten",
       "domain": "socium",
       "topic": "conflict",
-      "stem": "conflict"
+      "stem": "conflict",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "same"
     },
     {
       "pos": "noun",
@@ -4367,7 +4660,10 @@
       "also": "controleer",
       "domain": "agentic",
       "topic": "assess",
-      "stem": "controle"
+      "stem": "controle",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "controversieel",
@@ -4376,7 +4672,10 @@
       "also": "controversiële",
       "domain": "socium",
       "topic": "conflict",
-      "stem": "controvers"
+      "stem": "controvers",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "universal"
     },
     {
       "name": "corrigeren",
@@ -4413,7 +4712,10 @@
       "also": "cruciale",
       "domain": "core",
       "topic": "overall",
-      "stem": "crucia"
+      "stem": "crucia",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "cultuur",
@@ -4421,7 +4723,10 @@
       "id": "p3324",
       "domain": "culture",
       "topic": "customs",
-      "stem": "cultuur"
+      "stem": "cultuur",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "cursus",
@@ -4483,7 +4788,10 @@
       "domain": "language",
       "topic": "communicate",
       "stem": "boek",
-      "parent": "p310"
+      "parent": "p310",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "dak",
@@ -4541,7 +4849,10 @@
       "id": "p3326",
       "domain": "socium",
       "topic": "common",
-      "stem": "dame"
+      "stem": "dame",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "pos": "verb",
@@ -4562,7 +4873,10 @@
       "domain": "mental",
       "topic": "emotion",
       "parent": "p432",
-      "stem": "dank"
+      "stem": "dank",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -4597,7 +4911,10 @@
       "domain": "culture",
       "topic": "arts",
       "parent": "p435",
-      "stem": "les"
+      "stem": "les",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "dapper",
@@ -4660,7 +4977,10 @@
       "id": "p3327",
       "domain": "core",
       "topic": "thing",
-      "stem": "gene"
+      "stem": "gene",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -4742,7 +5062,10 @@
       "domain": "mental",
       "topic": "mental",
       "parent": "p650",
-      "stem": "denk"
+      "stem": "denk",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "deskundige",
@@ -4750,7 +5073,10 @@
       "id": "p3330",
       "domain": "knowledge",
       "topic": "knowledge",
-      "stem": "kund"
+      "stem": "kund",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -4788,7 +5114,8 @@
       "level": "b",
       "similarity": "native",
       "normalized": 0.778,
-      "stem": "zelf"
+      "stem": "zelf",
+      "pos": "adj"
     },
     {
       "pos": "adj",
@@ -4825,7 +5152,10 @@
       "domain": "spatial",
       "topic": "distance",
       "parent": "p657",
-      "stem": "dicht"
+      "stem": "dicht",
+      "pos": "adv",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -4909,7 +5239,9 @@
       "topic": "dishes",
       "pos": "verb",
       "name_nl2": "diner",
-      "stem": "diner"
+      "stem": "diner",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "pos": "noun",
@@ -4970,7 +5302,10 @@
       "also": "documenten",
       "domain": "knowledge",
       "topic": "script",
-      "stem": "document"
+      "stem": "document",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "same"
     },
     {
       "name": "doek",
@@ -5083,7 +5418,10 @@
       "domain": "experience",
       "topic": "visual",
       "parent": "p687",
-      "stem": "grijs"
+      "stem": "grijs",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -5149,7 +5487,10 @@
       "id": "p3099",
       "domain": "spatial",
       "topic": "place",
-      "stem": "gang"
+      "stem": "gang",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "doorgeven",
@@ -5191,7 +5532,10 @@
       "id": "p3339",
       "domain": "agentic",
       "topic": "operation",
-      "stem": "lop"
+      "stem": "lop",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "doorverwijzen",
@@ -5215,7 +5559,10 @@
       "also": "doorgevoerd",
       "domain": "agentic",
       "topic": "result",
-      "stem": "voer"
+      "stem": "voer",
+      "pos": "verb",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -5366,7 +5713,10 @@
       "also": "drijft",
       "domain": "core",
       "topic": "flow",
-      "stem": "drijf"
+      "stem": "drijf",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "dringend",
@@ -5374,7 +5724,10 @@
       "id": "p3100",
       "domain": "core",
       "topic": "overall",
-      "stem": "dring"
+      "stem": "dring",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -5455,7 +5808,10 @@
       "id": "p2960",
       "domain": "core",
       "topic": "overall",
-      "stem": "druk"
+      "stem": "druk",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "spatial",
@@ -5560,7 +5916,10 @@
       "id": "p3342",
       "domain": "body",
       "topic": "health",
-      "stem": "duizel"
+      "stem": "duizel",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "dumpen",
@@ -5569,7 +5928,10 @@
       "also": "dumpte",
       "domain": "socium",
       "topic": "conflict",
-      "stem": "dump"
+      "stem": "dump",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "soundex"
     },
     {
       "name": "dun",
@@ -5734,7 +6096,10 @@
       "also": "echte",
       "domain": "core",
       "topic": "overall",
-      "stem": "echt"
+      "stem": "echt",
+      "pos": "adj",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "echtpaar",
@@ -5772,7 +6137,10 @@
       "domain": "resource",
       "topic": "trade",
       "parent": "p756",
-      "stem": "econom"
+      "stem": "econom",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "pos": "enum",
@@ -5869,7 +6237,10 @@
       "domain": "mental",
       "topic": "attitude",
       "parent": "p767",
-      "stem": "eer"
+      "stem": "eer",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "eerlijkheid",
@@ -5878,7 +6249,10 @@
       "domain": "mental",
       "topic": "attitude",
       "parent": "p767",
-      "stem": "eer"
+      "stem": "eer",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "eerst",
@@ -5947,7 +6321,10 @@
       "id": "p3345",
       "domain": "system",
       "topic": "progress",
-      "stem": "efficient"
+      "stem": "efficient",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "universal"
     },
     {
       "pos": "enum",
@@ -6069,7 +6446,10 @@
       "id": "p3347",
       "domain": "resource",
       "topic": "consume",
-      "stem": "elektr"
+      "stem": "elektr",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "elektronisch",
@@ -6079,7 +6459,10 @@
       "domain": "system",
       "topic": "power",
       "parent": "p3347",
-      "stem": "elektr"
+      "stem": "elektr",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "elk",
@@ -6088,7 +6471,10 @@
       "also": "elke",
       "domain": "core",
       "topic": "group",
-      "stem": "elk"
+      "stem": "elk",
+      "pos": "adj",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "elleboog",
@@ -6125,7 +6511,10 @@
       "domain": "mental",
       "topic": "emotion",
       "parent": "p797",
-      "stem": "emot"
+      "stem": "emot",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "energie",
@@ -6147,7 +6536,10 @@
       "id": "p3350",
       "domain": "experience",
       "topic": "emotion",
-      "stem": "eng"
+      "stem": "eng",
+      "pos": "adj",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "enig",
@@ -6156,7 +6548,10 @@
       "also": "enige",
       "domain": "core",
       "topic": "group",
-      "stem": "enig"
+      "stem": "enig",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -6202,7 +6597,10 @@
       "id": "p3029",
       "domain": "mental",
       "topic": "emotion",
-      "stem": "enthousiast"
+      "stem": "enthousiast",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "envelop",
@@ -6210,7 +6608,10 @@
       "id": "p3351",
       "domain": "artifacts",
       "topic": "tool",
-      "stem": "envelop"
+      "stem": "envelop",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "erachter",
@@ -6218,7 +6619,10 @@
       "id": "p3352",
       "domain": "spatial",
       "topic": "position",
-      "stem": "achter"
+      "stem": "achter",
+      "pos": "adv",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "experience",
@@ -6266,7 +6670,10 @@
       "domain": "core",
       "topic": "compare",
       "stem": "erg",
-      "parent": "p808"
+      "parent": "p808",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -6287,7 +6694,10 @@
       "id": "p3355",
       "domain": "core",
       "topic": "overall",
-      "stem": "ernst"
+      "stem": "ernst",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "ervaren",
@@ -6312,7 +6722,10 @@
       "also": "geërfd",
       "domain": "resource",
       "topic": "getting",
-      "stem": "erf"
+      "stem": "erf",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -6333,7 +6746,10 @@
       "domain": "core",
       "topic": "overall",
       "parent": "p819",
-      "stem": "essent"
+      "stem": "essent",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "pos": "verb",
@@ -6387,7 +6803,10 @@
       "also": "evenementen",
       "domain": "socium",
       "topic": "common",
-      "stem": "evenement"
+      "stem": "evenement",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "examen",
@@ -6409,7 +6828,10 @@
       "id": "p3357",
       "domain": "core",
       "topic": "thing",
-      "stem": "exemplaar"
+      "stem": "exemplaar",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "universal"
     },
     {
       "name": "expositie",
@@ -6431,7 +6853,10 @@
       "id": "p3108",
       "domain": "resource",
       "topic": "building",
-      "stem": "fabriek"
+      "stem": "fabriek",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "domain": "civil",
@@ -6477,7 +6902,8 @@
       "level": "b",
       "similarity": "native",
       "normalized": 0.833,
-      "stem": "gezin"
+      "stem": "gezin",
+      "pos": "noun"
     },
     {
       "name": "fan",
@@ -6499,7 +6925,10 @@
       "id": "p3358",
       "domain": "mental",
       "topic": "intellect",
-      "stem": "fantasie"
+      "stem": "fantasie",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "fantastisch",
@@ -6508,7 +6937,10 @@
       "domain": "experience",
       "topic": "feelings",
       "parent": "p3358",
-      "stem": "fantast"
+      "stem": "fantast",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "fascinerend",
@@ -6516,7 +6948,10 @@
       "id": "p3359",
       "domain": "experience",
       "topic": "feelings",
-      "stem": "fascin"
+      "stem": "fascin",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "universal"
     },
     {
       "pos": "noun",
@@ -6565,7 +7000,10 @@
       "domain": "culture",
       "topic": "customs",
       "parent": "p843",
-      "stem": "feest"
+      "stem": "feest",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "feestje",
@@ -6574,7 +7012,10 @@
       "domain": "socium",
       "topic": "common",
       "parent": "p843",
-      "stem": "feest"
+      "stem": "feest",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -6671,7 +7112,10 @@
       "also": "financiële",
       "domain": "resource",
       "topic": "trade",
-      "stem": "financ"
+      "stem": "financ",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "flatteus",
@@ -6680,7 +7124,10 @@
       "also": "flatteuzer",
       "domain": "experience",
       "topic": "visual",
-      "stem": "flatteus"
+      "stem": "flatteus",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "universal"
     },
     {
       "pos": "enum",
@@ -6752,7 +7199,10 @@
       "also": "fluisterde",
       "domain": "language",
       "topic": "talk",
-      "stem": "fluister"
+      "stem": "fluister",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "fluitje",
@@ -6803,7 +7253,10 @@
       "also": "foto's",
       "domain": "culture",
       "topic": "arts",
-      "stem": "foto"
+      "stem": "foto",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "universal"
     },
     {
       "name": "fotograferen",
@@ -6812,7 +7265,10 @@
       "domain": "culture",
       "topic": "arts",
       "parent": "p2984",
-      "stem": "fotograf"
+      "stem": "fotograf",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "fout",
@@ -6821,7 +7277,10 @@
       "also": "fouten",
       "domain": "core",
       "topic": "structure",
-      "stem": "fout"
+      "stem": "fout",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "foutopsporing",
@@ -6830,7 +7289,10 @@
       "domain": "system",
       "topic": "defect",
       "parent": "p3033",
-      "stem": "spoor"
+      "stem": "spoor",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -6878,7 +7340,10 @@
       "id": "p3001",
       "domain": "mental",
       "topic": "emotion",
-      "stem": "frustr"
+      "stem": "frustr",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "pos": "verb",
@@ -6944,7 +7409,10 @@
       "id": "p3367",
       "domain": "core",
       "topic": "pattern",
-      "stem": "gang"
+      "stem": "gang",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -7026,7 +7494,10 @@
       "also": "gaten",
       "domain": "spatial",
       "topic": "surface",
-      "stem": "gat"
+      "stem": "gat",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "gebak",
@@ -7050,7 +7521,10 @@
       "domain": "food",
       "topic": "dishes",
       "parent": "p3110",
-      "stem": "bak"
+      "stem": "bak",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "body",
@@ -7129,7 +7603,10 @@
       "id": "p3370",
       "domain": "mental",
       "topic": "feelings",
-      "stem": "berg"
+      "stem": "berg",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "gebouw",
@@ -7138,7 +7615,10 @@
       "domain": "artifacts",
       "topic": "building",
       "stem": "bouw",
-      "parent": "p334"
+      "parent": "p334",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "gebrek",
@@ -7212,7 +7692,10 @@
       "id": "p3371",
       "domain": "core",
       "topic": "content",
-      "stem": "detail"
+      "stem": "detail",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "universal"
     },
     {
       "name": "gedicht",
@@ -7220,7 +7703,10 @@
       "id": "p3111",
       "domain": "culture",
       "topic": "arts",
-      "stem": "dicht"
+      "stem": "dicht",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "gedoe",
@@ -7228,7 +7714,10 @@
       "id": "p3372",
       "domain": "core",
       "topic": "effort",
-      "stem": "do"
+      "stem": "do",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -7289,7 +7778,10 @@
       "domain": "socium",
       "topic": "common",
       "stem": "felicit",
-      "parent": "p848"
+      "parent": "p848",
+      "pos": "adv",
+      "level": "a",
+      "similarity": "universal"
     },
     {
       "name": "gegrild",
@@ -7298,7 +7790,10 @@
       "also": "gegrilde",
       "domain": "food",
       "topic": "dishes",
-      "stem": "gril"
+      "stem": "gril",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "soundex"
     },
     {
       "name": "gehakt",
@@ -7321,7 +7816,10 @@
       "also": "hele",
       "domain": "core",
       "topic": "overall",
-      "stem": "heel"
+      "stem": "heel",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "geheim",
@@ -7413,7 +7911,10 @@
       "domain": "resource",
       "topic": "trade",
       "parent": "p913",
-      "stem": "limiet"
+      "stem": "limiet",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "geleden",
@@ -7421,7 +7922,10 @@
       "id": "p3112",
       "domain": "core",
       "topic": "timeline",
-      "stem": "lijd"
+      "stem": "lijd",
+      "pos": "adv",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "gelegenheid",
@@ -7429,7 +7933,10 @@
       "id": "p3376",
       "domain": "core",
       "topic": "potention",
-      "stem": "lig"
+      "stem": "lig",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "gelijk",
@@ -7437,7 +7944,10 @@
       "id": "p3113",
       "domain": "core",
       "topic": "compare",
-      "stem": "lijk"
+      "stem": "lijk",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -7471,7 +7981,10 @@
       "domain": "core",
       "topic": "pattern",
       "parent": "p3113",
-      "stem": "lijk"
+      "stem": "lijk",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -7546,7 +8059,10 @@
       "domain": "mental",
       "topic": "emotion",
       "parent": "p921",
-      "stem": "luk"
+      "stem": "luk",
+      "pos": "adj",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "gemak",
@@ -7555,7 +8071,10 @@
       "domain": "core",
       "topic": "effort",
       "stem": "mak",
-      "parent": "p1551"
+      "parent": "p1551",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -7577,7 +8096,10 @@
       "domain": "socium",
       "topic": "common",
       "parent": "p924",
-      "stem": "gemeen"
+      "stem": "gemeen",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -7623,7 +8145,10 @@
       "domain": "mental",
       "topic": "attitude",
       "stem": "organis",
-      "parent": "p1845"
+      "parent": "p1845",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "gerecht",
@@ -7632,7 +8157,10 @@
       "also": "gerechten",
       "domain": "food",
       "topic": "dishes",
-      "stem": "recht"
+      "stem": "recht",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -7652,7 +8180,10 @@
       "id": "p3004",
       "domain": "mental",
       "topic": "feelings",
-      "stem": "rust"
+      "stem": "rust",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "geruststellend",
@@ -7660,7 +8191,10 @@
       "id": "p3118",
       "domain": "mental",
       "topic": "feelings",
-      "stem": "rust"
+      "stem": "rust",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "gescheiden",
@@ -7709,7 +8243,10 @@
       "id": "p3380",
       "domain": "life",
       "topic": "species",
-      "stem": "slacht"
+      "stem": "slacht",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "gesneden",
@@ -7745,7 +8282,10 @@
       "id": "p3120",
       "domain": "agentic",
       "topic": "pragmatic",
-      "stem": "talent"
+      "stem": "talent",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "universal"
     },
     {
       "pos": "noun",
@@ -7778,7 +8318,10 @@
       "id": "p3381",
       "domain": "core",
       "topic": "thing",
-      "stem": "val"
+      "stem": "val",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -7814,7 +8357,10 @@
       "domain": "mental",
       "topic": "feelings",
       "stem": "voel",
-      "parent": "p2674"
+      "parent": "p2674",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -7834,7 +8380,10 @@
       "id": "p3382",
       "domain": "civil",
       "topic": "clash",
-      "stem": "weld"
+      "stem": "weld",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -7854,7 +8403,10 @@
       "id": "p3121",
       "domain": "mental",
       "topic": "mental",
-      "stem": "wenn"
+      "stem": "wenn",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -7885,7 +8437,10 @@
       "id": "p3384",
       "domain": "body",
       "topic": "health",
-      "stem": "wond"
+      "stem": "wond",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -7906,7 +8461,10 @@
       "domain": "mental",
       "topic": "mental",
       "parent": "p949",
-      "stem": "woon"
+      "stem": "woon",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "gezamenlijk",
@@ -7916,7 +8474,10 @@
       "domain": "socium",
       "topic": "cooperate",
       "stem": "samen",
-      "parent": "p2113"
+      "parent": "p2113",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "gezellig",
@@ -7953,7 +8514,10 @@
       "domain": "body",
       "topic": "health",
       "parent": "p955",
-      "stem": "gezond"
+      "stem": "gezond",
+      "pos": "adj",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "gezondheid",
@@ -7976,7 +8540,10 @@
       "domain": "body",
       "topic": "health",
       "parent": "p955",
-      "stem": "probleem"
+      "stem": "probleem",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "geïnteresseerd",
@@ -7985,7 +8552,10 @@
       "domain": "mental",
       "topic": "attitude",
       "stem": "interess",
-      "parent": "p1227"
+      "parent": "p1227",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "gids",
@@ -7994,7 +8564,10 @@
       "also": "gidsen",
       "domain": "knowledge",
       "topic": "script",
-      "stem": "gids"
+      "stem": "gids",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -8035,7 +8608,10 @@
       "domain": "core",
       "topic": "timeline",
       "parent": "p129",
-      "stem": "avond"
+      "stem": "avond",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "gisteren",
@@ -8057,7 +8633,10 @@
       "id": "p3389",
       "domain": "culture",
       "topic": "arts",
-      "stem": "gitaar"
+      "stem": "gitaar",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "pos": "adj",
@@ -8164,7 +8743,10 @@
       "id": "p3391",
       "domain": "body",
       "topic": "health",
-      "stem": "aard"
+      "stem": "aard",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "goedkoop",
@@ -8184,7 +8766,10 @@
       "id": "p3392",
       "domain": "socium",
       "topic": "cooperate",
-      "stem": "maak"
+      "stem": "maak",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "golf",
@@ -8193,7 +8778,10 @@
       "also": "golven",
       "domain": "nature",
       "topic": "seescape",
-      "stem": "golf"
+      "stem": "golf",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "spatial",
@@ -8359,7 +8947,10 @@
       "id": "p3393",
       "domain": "core",
       "topic": "control",
-      "stem": "grijp"
+      "stem": "grijp",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "griep",
@@ -8382,7 +8973,10 @@
       "domain": "body",
       "topic": "health",
       "parent": "p992",
-      "stem": "griep"
+      "stem": "griep",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "griezelig",
@@ -8390,7 +8984,10 @@
       "id": "p3394",
       "domain": "experience",
       "topic": "emotion",
-      "stem": "griezel"
+      "stem": "griezel",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -8552,7 +9149,10 @@
       "domain": "socium",
       "topic": "family",
       "parent": "p3126",
-      "stem": "moeder"
+      "stem": "moeder",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "grootouder",
@@ -8562,7 +9162,10 @@
       "domain": "socium",
       "topic": "family",
       "stem": "ouder",
-      "parent": "p1850"
+      "parent": "p1850",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "grootvader",
@@ -8571,7 +9174,10 @@
       "domain": "socium",
       "topic": "family",
       "parent": "p3126",
-      "stem": "vader"
+      "stem": "vader",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -8654,7 +9260,10 @@
       "id": "p3399",
       "domain": "artifacts",
       "topic": "buildparts",
-      "stem": "haard"
+      "stem": "haard",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -8795,7 +9404,10 @@
       "id": "p3402",
       "domain": "socium",
       "topic": "common",
-      "stem": "druk"
+      "stem": "druk",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -8823,7 +9435,10 @@
       "id": "p3006",
       "domain": "core",
       "topic": "effort",
-      "stem": "hand"
+      "stem": "hand",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -8894,7 +9509,10 @@
       "id": "p3403",
       "domain": "food",
       "topic": "dishes",
-      "stem": "hap"
+      "stem": "hap",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -9115,7 +9733,10 @@
       "id": "p3404",
       "domain": "core",
       "topic": "overall",
-      "stem": "helaas"
+      "stem": "helaas",
+      "pos": "adv",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -9146,7 +9767,10 @@
       "id": "p3405",
       "domain": "core",
       "topic": "group",
-      "stem": "half"
+      "stem": "half",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "helpen",
@@ -9156,7 +9780,10 @@
       "domain": "agentic",
       "topic": "effort",
       "stem": "help",
-      "parent": "p1169"
+      "parent": "p1169",
+      "pos": "verb",
+      "level": "a",
+      "similarity": "soundex"
     },
     {
       "name": "hereniging",
@@ -9166,7 +9793,10 @@
       "domain": "socium",
       "topic": "family",
       "stem": "een",
-      "parent": "p762"
+      "parent": "p762",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "herfst",
@@ -9174,7 +9804,10 @@
       "id": "p3406",
       "domain": "nature",
       "topic": "season",
-      "stem": "herfst"
+      "stem": "herfst",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -9304,7 +9937,10 @@
       "id": "p3408",
       "domain": "civil",
       "topic": "justice",
-      "stem": "daad"
+      "stem": "daad",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "heup",
@@ -9338,7 +9974,10 @@
       "id": "p3409",
       "domain": "core",
       "topic": "overall",
-      "stem": "hevig"
+      "stem": "hevig",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "hiel",
@@ -9372,7 +10011,10 @@
       "domain": "spatial",
       "topic": "direction",
       "stem": "hier",
-      "parent": "p1125"
+      "parent": "p1125",
+      "pos": "adv",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "spatial",
@@ -9501,7 +10143,10 @@
       "id": "p3414",
       "domain": "food",
       "topic": "ingredients",
-      "stem": "honing"
+      "stem": "honing",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "soundex"
     },
     {
       "name": "hoofd",
@@ -9536,7 +10181,10 @@
       "domain": "spatial",
       "topic": "extent",
       "parent": "p1150",
-      "stem": "hoog"
+      "stem": "hoog",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -9557,7 +10205,10 @@
       "domain": "mental",
       "topic": "will",
       "parent": "p1153",
-      "stem": "hoop"
+      "stem": "hoop",
+      "pos": "adv",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -9717,7 +10368,10 @@
       "domain": "socium",
       "topic": "family",
       "parent": "p1164",
-      "stem": "huis"
+      "stem": "huis",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "huishouden",
@@ -9741,7 +10395,10 @@
       "domain": "knowledge",
       "topic": "acquire",
       "parent": "p1164",
-      "stem": "huis"
+      "stem": "huis",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -9905,7 +10562,10 @@
       "id": "p3420",
       "domain": "experience",
       "topic": "perceive",
-      "stem": "druk"
+      "stem": "druk",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "indrukwekkend",
@@ -9914,7 +10574,10 @@
       "also": "indrukwekkende",
       "domain": "experience",
       "topic": "feelings",
-      "stem": "druk"
+      "stem": "druk",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -9948,7 +10611,10 @@
       "also": "informele",
       "domain": "socium",
       "topic": "common",
-      "stem": "form"
+      "stem": "form",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "ingang",
@@ -9960,7 +10626,8 @@
       "level": "b",
       "similarity": "native",
       "normalized": 0.75,
-      "stem": "gang"
+      "stem": "gang",
+      "pos": "noun"
     },
     {
       "name": "ingenieur",
@@ -9982,7 +10649,10 @@
       "id": "p3135",
       "domain": "core",
       "topic": "structure",
-      "stem": "wikkel"
+      "stem": "wikkel",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -10020,7 +10690,10 @@
       "domain": "resource",
       "topic": "trade",
       "stem": "koop",
-      "parent": "p1391"
+      "parent": "p1391",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "inlegzool",
@@ -10029,7 +10702,10 @@
       "also": "inlegzolen",
       "domain": "artifacts",
       "topic": "clothing",
-      "stem": "zool"
+      "stem": "zool",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "inleveren",
@@ -10080,7 +10756,10 @@
       "domain": "agentic",
       "topic": "operation",
       "stem": "pak",
-      "parent": "p1881"
+      "parent": "p1881",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -10100,7 +10779,10 @@
       "id": "p3425",
       "domain": "spatial",
       "topic": "place",
-      "stem": "richt"
+      "stem": "richt",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "inschrijven",
@@ -10125,7 +10807,9 @@
       "topic": "effort",
       "pos": "verb",
       "name_nl2": "inspanning",
-      "stem": "span"
+      "stem": "span",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "domain": "mental",
@@ -10273,7 +10957,10 @@
       "id": "p3428",
       "domain": "mental",
       "topic": "attitude",
-      "stem": "integr"
+      "stem": "integr",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "universal"
     },
     {
       "name": "intellectueel",
@@ -10307,7 +10994,10 @@
       "domain": "experience",
       "topic": "feelings",
       "parent": "p1227",
-      "stem": "interess"
+      "stem": "interess",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "interesseren",
@@ -10356,7 +11046,10 @@
       "domain": "agentic",
       "topic": "operation",
       "stem": "vul",
-      "parent": "p944"
+      "parent": "p944",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "inwoner",
@@ -10366,7 +11059,10 @@
       "domain": "socium",
       "topic": "common",
       "stem": "woon",
-      "parent": "p2841"
+      "parent": "p2841",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "inzet",
@@ -10374,7 +11070,10 @@
       "id": "p3137",
       "domain": "agentic",
       "topic": "effort",
-      "stem": "zet"
+      "stem": "zet",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -10397,7 +11096,8 @@
       "topic": "understanding",
       "level": "b",
       "similarity": "native",
-      "stem": "zicht"
+      "stem": "zicht",
+      "pos": "noun"
     },
     {
       "domain": "mental",
@@ -10427,7 +11127,10 @@
       "topic": "emotion",
       "also": "vervelend",
       "parent": "p1237",
-      "stem": "irrit"
+      "stem": "irrit",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "pos": "verb",
@@ -10508,7 +11211,10 @@
       "domain": "mental",
       "topic": "emotion",
       "parent": "p1247",
-      "stem": "jaloers"
+      "stem": "jaloers",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -10555,7 +11261,10 @@
       "also": "jeugdherinneringen",
       "domain": "mental",
       "topic": "memory",
-      "stem": "herinner"
+      "stem": "herinner",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "jl",
@@ -10563,7 +11272,10 @@
       "id": "p3435",
       "domain": "core",
       "topic": "timeline",
-      "stem": "jl"
+      "stem": "jl",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -10585,7 +11297,10 @@
       "domain": "life",
       "topic": "species",
       "parent": "p1256",
-      "stem": "man"
+      "stem": "man",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "jongen",
@@ -10595,7 +11310,10 @@
       "domain": "life",
       "topic": "species",
       "parent": "p1256",
-      "stem": "jong"
+      "stem": "jong",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -10641,7 +11359,10 @@
       "id": "p3138",
       "domain": "spatial",
       "topic": "place",
-      "stem": "kaart"
+      "stem": "kaart",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "soundex"
     },
     {
       "name": "kaartje",
@@ -10754,7 +11475,10 @@
       "id": "p3438",
       "domain": "socium",
       "topic": "promotion",
-      "stem": "kandidaat"
+      "stem": "kandidaat",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "pos": "noun",
@@ -10777,7 +11501,8 @@
       "topic": "materials",
       "level": "b",
       "similarity": "native",
-      "stem": "zijd"
+      "stem": "zijd",
+      "pos": "noun"
     },
     {
       "domain": "spatial",
@@ -10834,7 +11559,10 @@
       "id": "p3439",
       "domain": "core",
       "topic": "structure",
-      "stem": "kapot"
+      "stem": "kapot",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "kapper",
@@ -10911,7 +11639,10 @@
       "id": "p3440",
       "domain": "artifacts",
       "topic": "building",
-      "stem": "kasteel"
+      "stem": "kasteel",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "kat",
@@ -11087,7 +11818,10 @@
       "id": "p3442",
       "domain": "culture",
       "topic": "customs",
-      "stem": "vakant"
+      "stem": "vakant",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -11122,7 +11856,10 @@
       "domain": "mental",
       "topic": "will",
       "parent": "p1312",
-      "stem": "keus"
+      "stem": "keus",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -11214,7 +11951,10 @@
       "also": "kings",
       "domain": "civil",
       "topic": "common",
-      "stem": "king"
+      "stem": "king",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "same"
     },
     {
       "name": "kip",
@@ -11321,7 +12061,10 @@
       "id": "p3009",
       "domain": "knowledge",
       "topic": "acquire",
-      "stem": "klas"
+      "stem": "klas",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "soundex"
     },
     {
       "name": "klassiek",
@@ -11330,7 +12073,10 @@
       "also": "klassieke",
       "domain": "culture",
       "topic": "arts",
-      "stem": "klass"
+      "stem": "klass",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "kleed",
@@ -11692,7 +12438,10 @@
       "also": "knoppen",
       "domain": "artifacts",
       "topic": "buildparts",
-      "stem": "knop"
+      "stem": "knop",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -11756,7 +12505,10 @@
       "also": "koester",
       "domain": "mental",
       "topic": "emotion",
-      "stem": "koester"
+      "stem": "koester",
+      "pos": "verb",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "koffie",
@@ -11779,7 +12531,10 @@
       "domain": "socium",
       "topic": "common",
       "parent": "p1377",
-      "stem": "kok"
+      "stem": "kok",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "soundex"
     },
     {
       "pos": "verb",
@@ -12127,7 +12882,10 @@
       "domain": "body",
       "topic": "health",
       "parent": "p1402",
-      "stem": "kracht"
+      "stem": "kracht",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "kramp",
@@ -12135,7 +12893,10 @@
       "id": "p3141",
       "domain": "body",
       "topic": "health",
-      "stem": "kramp"
+      "stem": "kramp",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "soundex"
     },
     {
       "name": "krant",
@@ -12158,7 +12919,10 @@
       "id": "p3448",
       "domain": "core",
       "topic": "limit",
-      "stem": "krap"
+      "stem": "krap",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "body",
@@ -12241,7 +13005,10 @@
       "id": "p3449",
       "domain": "resource",
       "topic": "trade",
-      "stem": "lop"
+      "stem": "lop",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "krop",
@@ -12463,7 +13230,10 @@
       "id": "p3451",
       "domain": "core",
       "topic": "overall",
-      "stem": "kwaad"
+      "stem": "kwaad",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -12552,7 +13322,10 @@
       "domain": "core",
       "topic": "timeline",
       "also": "onlangs",
-      "stem": "laat"
+      "stem": "laat",
+      "pos": "adv",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "laatste",
@@ -12641,7 +13414,10 @@
       "also": "lanceringen",
       "domain": "agentic",
       "topic": "operation",
-      "stem": "lanceer"
+      "stem": "lanceer",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "land",
@@ -12688,7 +13464,10 @@
       "domain": "nature",
       "topic": "landscape",
       "stem": "land",
-      "parent": "p1443"
+      "parent": "p1443",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "soundex"
     },
     {
       "pos": "adj",
@@ -12735,7 +13514,10 @@
       "id": "p2971",
       "domain": "core",
       "topic": "effort",
-      "stem": "last"
+      "stem": "last",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -12794,7 +13576,10 @@
       "id": "p3012",
       "domain": "life",
       "topic": "species",
-      "stem": "leef"
+      "stem": "leef",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "leeftijdsgenoot",
@@ -12803,7 +13588,10 @@
       "also": "leeftijdsgenoten",
       "domain": "socium",
       "topic": "common",
-      "stem": "leef"
+      "stem": "leef",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "leeg",
@@ -12979,7 +13767,10 @@
       "domain": "knowledge",
       "topic": "acquire",
       "parent": "p1476",
-      "stem": "les"
+      "stem": "les",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "lesgeven",
@@ -12991,7 +13782,8 @@
       "level": "a",
       "similarity": "native",
       "stem": "wijs",
-      "parent": "p1476"
+      "parent": "p1476",
+      "pos": "verb"
     },
     {
       "pos": "noun",
@@ -13012,7 +13804,10 @@
       "also": "let",
       "domain": "mental",
       "topic": "mental",
-      "stem": "let"
+      "stem": "let",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "leugen",
@@ -13020,7 +13815,10 @@
       "id": "p3459",
       "domain": "language",
       "topic": "communicate",
-      "stem": "lieg"
+      "stem": "lieg",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -13041,7 +13839,10 @@
       "also": "leunt",
       "domain": "core",
       "topic": "flow",
-      "stem": "leun"
+      "stem": "leun",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -13138,7 +13939,10 @@
       "domain": "body",
       "topic": "health",
       "parent": "p1486",
-      "stem": "weg"
+      "stem": "weg",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "licht",
@@ -13204,7 +14008,10 @@
       "domain": "mental",
       "topic": "emotion",
       "parent": "p1494",
-      "stem": "lief"
+      "stem": "lief",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "liefdevol",
@@ -13213,7 +14020,10 @@
       "domain": "mental",
       "topic": "emotion",
       "parent": "p1494",
-      "stem": "lief"
+      "stem": "lief",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "liefst",
@@ -13266,7 +14076,10 @@
       "id": "p3464",
       "domain": "artifacts",
       "topic": "buildparts",
-      "stem": "lift"
+      "stem": "lift",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "same"
     },
     {
       "pos": "verb",
@@ -13444,7 +14257,10 @@
       "id": "p3465",
       "domain": "culture",
       "topic": "arts",
-      "stem": "literatuur"
+      "stem": "literatuur",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "locatie",
@@ -13466,7 +14282,10 @@
       "id": "p3145",
       "domain": "mental",
       "topic": "reasoning",
-      "stem": "logis"
+      "stem": "logis",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "lokaal",
@@ -13489,7 +14308,10 @@
       "also": "loont",
       "domain": "resource",
       "topic": "trade",
-      "stem": "loon"
+      "stem": "loon",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "lonend",
@@ -13498,7 +14320,10 @@
       "domain": "agentic",
       "topic": "result",
       "parent": "p3146",
-      "stem": "loon"
+      "stem": "loon",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "long",
@@ -13594,7 +14419,10 @@
       "domain": "spatial",
       "topic": "move",
       "stem": "lop",
-      "parent": "p1518"
+      "parent": "p1518",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "lossen",
@@ -13603,7 +14431,10 @@
       "domain": "agentic",
       "topic": "solution",
       "stem": "los",
-      "parent": "p1819"
+      "parent": "p1819",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "lot",
@@ -13614,7 +14445,8 @@
       "topic": "potention",
       "level": "b",
       "similarity": "native",
-      "stem": "nood"
+      "stem": "nood",
+      "pos": "noun"
     },
     {
       "pos": "enum",
@@ -13722,7 +14554,10 @@
       "also": "maaltijden",
       "domain": "food",
       "topic": "dishes",
-      "stem": "maal"
+      "stem": "maal",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -13964,7 +14799,10 @@
       "id": "p3469",
       "domain": "core",
       "topic": "overall",
-      "stem": "mate"
+      "stem": "mate",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -14009,7 +14847,10 @@
       "id": "p3147",
       "domain": "body",
       "topic": "health",
-      "stem": "medicijn"
+      "stem": "medicijn",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "domain": "spatial",
@@ -14041,7 +14882,10 @@
       "also": "meegemaakt",
       "domain": "experience",
       "topic": "perceive",
-      "stem": "maak"
+      "stem": "maak",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "meenemen",
@@ -14050,7 +14894,10 @@
       "also": "meegenomen",
       "domain": "agentic",
       "topic": "operation",
-      "stem": "neem"
+      "stem": "neem",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -14070,7 +14917,10 @@
       "id": "p2986",
       "domain": "core",
       "topic": "pattern",
-      "stem": "meest"
+      "stem": "meest",
+      "pos": "adv",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "meevallen",
@@ -14108,7 +14958,10 @@
       "also": "meisjes",
       "domain": "life",
       "topic": "species",
-      "stem": "meisje"
+      "stem": "meisje",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "melden",
@@ -14225,7 +15078,10 @@
       "domain": "life",
       "topic": "species",
       "parent": "p1584",
-      "stem": "mens"
+      "stem": "mens",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "mentor",
@@ -14234,7 +15090,10 @@
       "also": "mentoren",
       "domain": "socium",
       "topic": "cooperate",
-      "stem": "mentor"
+      "stem": "mentor",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "same"
     },
     {
       "name": "menu",
@@ -14290,7 +15149,10 @@
       "id": "p2951",
       "domain": "core",
       "topic": "timeline",
-      "stem": "meteen"
+      "stem": "meteen",
+      "pos": "adv",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "domain": "mental",
@@ -14319,7 +15181,10 @@
       "also": "metgezellen",
       "domain": "socium",
       "topic": "common",
-      "stem": "gezel"
+      "stem": "gezel",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "meubel",
@@ -14342,7 +15207,10 @@
       "domain": "resource",
       "topic": "building",
       "parent": "p1596",
-      "stem": "fabriek"
+      "stem": "fabriek",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "middag",
@@ -14350,7 +15218,10 @@
       "id": "p3475",
       "domain": "core",
       "topic": "timeline",
-      "stem": "middag"
+      "stem": "middag",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "middelbaar",
@@ -14359,7 +15230,10 @@
       "also": "middelbare",
       "domain": "knowledge",
       "topic": "acquire",
-      "stem": "middel"
+      "stem": "middel",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -14381,7 +15255,10 @@
       "domain": "core",
       "topic": "timeline",
       "stem": "nacht",
-      "parent": "p1652"
+      "parent": "p1652",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "mijden",
@@ -14404,7 +15281,10 @@
       "id": "p3479",
       "domain": "spatial",
       "topic": "distance",
-      "stem": "mijl"
+      "stem": "mijl",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "soundex"
     },
     {
       "pos": "enum",
@@ -14467,7 +15347,10 @@
       "also": "minste",
       "domain": "core",
       "topic": "compare",
-      "stem": "min"
+      "stem": "min",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "minuut",
@@ -14476,7 +15359,10 @@
       "also": "minuten, minuutje",
       "domain": "core",
       "topic": "timeline",
-      "stem": "minuut"
+      "stem": "minuut",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "universal"
     },
     {
       "name": "misdaad",
@@ -14485,7 +15371,10 @@
       "domain": "civil",
       "topic": "justice",
       "also": "misdrijf",
-      "stem": "daad"
+      "stem": "daad",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "misleiden",
@@ -14494,7 +15383,10 @@
       "domain": "socium",
       "topic": "convince",
       "stem": "leid",
-      "parent": "p1464"
+      "parent": "p1464",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "misschien",
@@ -14529,7 +15421,10 @@
       "id": "p3483",
       "domain": "artifacts",
       "topic": "appliances",
-      "stem": "mobiel"
+      "stem": "mobiel",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "pos": "enum",
@@ -14664,7 +15559,10 @@
       "domain": "core",
       "topic": "potention",
       "stem": "mog",
-      "parent": "p1628"
+      "parent": "p1628",
+      "pos": "adj",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -14763,7 +15661,10 @@
       "id": "p3485",
       "domain": "culture",
       "topic": "arts",
-      "stem": "monument"
+      "stem": "monument",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "universal"
     },
     {
       "name": "mooi",
@@ -14849,7 +15750,10 @@
       "domain": "body",
       "topic": "health",
       "parent": "p549",
-      "stem": "mug"
+      "stem": "mug",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "muggenspray",
@@ -14858,7 +15762,10 @@
       "domain": "artifacts",
       "topic": "tool",
       "parent": "p549",
-      "stem": "mug"
+      "stem": "mug",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -14958,7 +15865,10 @@
       "domain": "mental",
       "topic": "reasoning",
       "stem": "denk",
-      "parent": "p650"
+      "parent": "p650",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "naderen",
@@ -14967,7 +15877,10 @@
       "also": "nadert",
       "domain": "spatial",
       "topic": "move",
-      "stem": "nader"
+      "stem": "nader",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "najagen",
@@ -14975,7 +15888,10 @@
       "id": "p3490",
       "domain": "agentic",
       "topic": "intent",
-      "stem": "jaag"
+      "stem": "jaag",
+      "pos": "verb",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "namelijk",
@@ -14996,7 +15912,10 @@
       "id": "p3491",
       "domain": "core",
       "topic": "overall",
-      "stem": "nat"
+      "stem": "nat",
+      "pos": "adj",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -15018,7 +15937,10 @@
       "id": "p3493",
       "domain": "core",
       "topic": "overall",
-      "stem": "keur"
+      "stem": "keur",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -15052,7 +15974,10 @@
       "id": "p3152",
       "domain": "spatial",
       "topic": "up-down",
-      "stem": "neer"
+      "stem": "neer",
+      "pos": "adv",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "neergang",
@@ -15062,7 +15987,10 @@
       "domain": "core",
       "topic": "flow",
       "parent": "p3152",
-      "stem": "gang"
+      "stem": "gang",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -15225,7 +16153,10 @@
       "id": "p3045",
       "domain": "knowledge",
       "topic": "knowledge",
-      "stem": "nieuw"
+      "stem": "nieuw",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "soundex"
     },
     {
       "name": "nieuwsgierig",
@@ -15282,7 +16213,10 @@
       "domain": "core",
       "topic": "binding",
       "stem": "nood",
-      "parent": "p3496"
+      "parent": "p3496",
+      "pos": "adj",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "domain": "socium",
@@ -15310,7 +16244,10 @@
       "id": "p3496",
       "domain": "core",
       "topic": "binding",
-      "stem": "nood"
+      "stem": "nood",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "noodzakelijk",
@@ -15319,7 +16256,10 @@
       "domain": "core",
       "topic": "binding",
       "parent": "p3496",
-      "stem": "nood"
+      "stem": "nood",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -15433,7 +16373,10 @@
       "domain": "core",
       "topic": "timeline",
       "stem": "ochtend",
-      "parent": "p1716"
+      "parent": "p1716",
+      "pos": "adv",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "oefenen",
@@ -15492,7 +16435,10 @@
       "also": "omcirkeld",
       "domain": "agentic",
       "topic": "operation",
-      "stem": "cirkel"
+      "stem": "cirkel",
+      "pos": "verb",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "omgeving",
@@ -15535,7 +16481,10 @@
       "domain": "spatial",
       "topic": "up-down",
       "stem": "hoog",
-      "parent": "p1150"
+      "parent": "p1150",
+      "pos": "adv",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "omhouden",
@@ -15575,7 +16524,10 @@
       "id": "p3502",
       "domain": "core",
       "topic": "overall",
-      "stem": "vang"
+      "stem": "vang",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "onbeleefd",
@@ -15583,7 +16535,10 @@
       "id": "p3047",
       "domain": "socium",
       "topic": "virtue",
-      "stem": "leef"
+      "stem": "leef",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -15671,7 +16626,10 @@
       "id": "p3504",
       "domain": "resource",
       "topic": "trade",
-      "stem": "neem"
+      "stem": "neem",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -15692,7 +16650,10 @@
       "domain": "body",
       "topic": "bodypart",
       "stem": "rug",
-      "parent": "p2100"
+      "parent": "p2100",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -15746,7 +16707,10 @@
       "id": "p3153",
       "domain": "knowledge",
       "topic": "knowledge",
-      "stem": "werp"
+      "stem": "werp",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "onderwijs",
@@ -15754,7 +16718,10 @@
       "id": "p3048",
       "domain": "knowledge",
       "topic": "acquire",
-      "stem": "wijs"
+      "stem": "wijs",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "onderwijssysteem",
@@ -15762,7 +16729,10 @@
       "id": "p3506",
       "domain": "knowledge",
       "topic": "acquire",
-      "stem": "wijs"
+      "stem": "wijs",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -15783,7 +16753,10 @@
       "id": "p3508",
       "domain": "core",
       "topic": "overall",
-      "stem": "ken"
+      "stem": "ken",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "ongelijk",
@@ -15792,7 +16765,10 @@
       "domain": "mental",
       "topic": "evaluation",
       "stem": "lijk",
-      "parent": "p3113"
+      "parent": "p3113",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "ongelooflijk",
@@ -15800,7 +16776,10 @@
       "id": "p3509",
       "domain": "experience",
       "topic": "feelings",
-      "stem": "geloof"
+      "stem": "geloof",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "ongeluk",
@@ -15809,7 +16788,10 @@
       "domain": "core",
       "topic": "flow",
       "stem": "luk",
-      "parent": "p1527"
+      "parent": "p1527",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "ongemakkelijk",
@@ -15818,7 +16800,10 @@
       "domain": "experience",
       "topic": "feelings",
       "stem": "mak",
-      "parent": "p1551"
+      "parent": "p1551",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "ongeveer",
@@ -15839,7 +16824,10 @@
       "domain": "core",
       "topic": "pattern",
       "stem": "woon",
-      "parent": "p949"
+      "parent": "p949",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "onmiddellijk",
@@ -15848,7 +16836,10 @@
       "also": "onmiddellijke",
       "domain": "core",
       "topic": "timeline",
-      "stem": "middel"
+      "stem": "middel",
+      "pos": "adv",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "onmisbaar",
@@ -15856,7 +16847,10 @@
       "id": "p3515",
       "domain": "core",
       "topic": "binding",
-      "stem": "mis"
+      "stem": "mis",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "onmogelijk",
@@ -15865,7 +16859,10 @@
       "domain": "core",
       "topic": "potention",
       "stem": "mog",
-      "parent": "p1628"
+      "parent": "p1628",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "ontbijt",
@@ -15923,7 +16920,10 @@
       "also": "ontdooit",
       "domain": "food",
       "topic": "dishes",
-      "stem": "dooi"
+      "stem": "dooi",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -15989,7 +16989,10 @@
       "domain": "experience",
       "topic": "emotion",
       "stem": "roer",
-      "parent": "p2082"
+      "parent": "p2082",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "ontspannen",
@@ -16018,7 +17021,10 @@
       "domain": "experience",
       "topic": "feelings",
       "stem": "span",
-      "parent": "p1775"
+      "parent": "p1775",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "spatial",
@@ -16067,7 +17073,10 @@
       "id": "p3516",
       "domain": "civil",
       "topic": "clash",
-      "stem": "wapen"
+      "stem": "wapen",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -16131,7 +17140,10 @@
       "id": "p3518",
       "domain": "mental",
       "topic": "attitude",
-      "stem": "schil"
+      "stem": "schil",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "onverwacht",
@@ -16140,7 +17152,10 @@
       "domain": "core",
       "topic": "potention",
       "stem": "wacht",
-      "parent": "p3073"
+      "parent": "p3073",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "onvoorspelbaar",
@@ -16148,7 +17163,10 @@
       "id": "p3519",
       "domain": "core",
       "topic": "potention",
-      "stem": "spel"
+      "stem": "spel",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "oog",
@@ -16213,7 +17231,10 @@
       "domain": "mental",
       "topic": "evaluation",
       "stem": "oordeel",
-      "parent": "p196"
+      "parent": "p196",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "oorlog",
@@ -16250,7 +17271,10 @@
       "id": "p3522",
       "domain": "core",
       "topic": "systain",
-      "stem": "blijf"
+      "stem": "blijf",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -16270,7 +17294,10 @@
       "id": "p3523",
       "domain": "core",
       "topic": "flow",
-      "stem": "duik"
+      "stem": "duik",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "open",
@@ -16292,7 +17319,10 @@
       "domain": "civil",
       "topic": "common",
       "parent": "p1804",
-      "stem": "open"
+      "stem": "open",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "opendoen",
@@ -16318,7 +17348,10 @@
       "domain": "agentic",
       "topic": "operation",
       "parent": "p1804",
-      "stem": "open"
+      "stem": "open",
+      "pos": "verb",
+      "level": "a",
+      "similarity": "soundex"
     },
     {
       "name": "operatie",
@@ -16381,7 +17414,10 @@
       "domain": "mental",
       "topic": "emotion",
       "stem": "wind",
-      "parent": "p1840"
+      "parent": "p1840",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "ophalen",
@@ -16421,7 +17457,10 @@
       "domain": "core",
       "topic": "flow",
       "stem": "kijk",
-      "parent": "p1314"
+      "parent": "p1314",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "opkomend",
@@ -16430,7 +17469,10 @@
       "also": "opkomende",
       "domain": "core",
       "topic": "flow",
-      "stem": "koom"
+      "stem": "koom",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -16451,7 +17493,10 @@
       "domain": "artifacts",
       "topic": "appliances",
       "stem": "laad",
-      "parent": "p1438"
+      "parent": "p1438",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "opleiding",
@@ -16494,7 +17539,10 @@
       "id": "p3160",
       "domain": "mental",
       "topic": "emotion",
-      "stem": "lucht"
+      "stem": "lucht",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "opmaken",
@@ -16518,7 +17566,10 @@
       "domain": "core",
       "topic": "overall",
       "parent": "p1822",
-      "stem": "merk"
+      "stem": "merk",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "domain": "experience",
@@ -16597,7 +17648,10 @@
       "id": "p3532",
       "domain": "spatial",
       "topic": "place",
-      "stem": "rij"
+      "stem": "rij",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "opruimen",
@@ -16704,7 +17758,10 @@
       "also": "opties",
       "domain": "core",
       "topic": "compare",
-      "stem": "opt"
+      "stem": "opt",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "optimistisch",
@@ -16724,7 +17781,10 @@
       "id": "p3052",
       "domain": "culture",
       "topic": "arts",
-      "stem": "treed"
+      "stem": "treed",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "opvallen",
@@ -16762,7 +17822,10 @@
       "also": "opgevolgd",
       "domain": "agentic",
       "topic": "operation",
-      "stem": "volg"
+      "stem": "volg",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "experience",
@@ -16791,7 +17854,10 @@
       "domain": "experience",
       "topic": "feelings",
       "stem": "wind",
-      "parent": "p1840"
+      "parent": "p1840",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "opzoeken",
@@ -16919,7 +17985,10 @@
       "domain": "life",
       "topic": "species",
       "parent": "p1848",
-      "stem": "ouder"
+      "stem": "ouder",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "ouderenzorg",
@@ -16928,7 +17997,10 @@
       "domain": "socium",
       "topic": "care",
       "parent": "p1850",
-      "stem": "zorg"
+      "stem": "zorg",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "ouderwets",
@@ -16965,7 +18037,10 @@
       "also": "overdrijf",
       "domain": "language",
       "topic": "communicate",
-      "stem": "drijf"
+      "stem": "drijf",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -17021,7 +18096,10 @@
       "id": "p3537",
       "domain": "agentic",
       "topic": "control",
-      "stem": "neem"
+      "stem": "neem",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "overstappen",
@@ -17046,7 +18124,10 @@
       "also": "overtrof",
       "domain": "agentic",
       "topic": "result",
-      "stem": "tref"
+      "stem": "tref",
+      "pos": "verb",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "domain": "socium",
@@ -17077,7 +18158,10 @@
       "domain": "language",
       "topic": "negotiate",
       "parent": "p1869",
-      "stem": "tuig"
+      "stem": "tuig",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -17097,7 +18181,10 @@
       "also": "overweeg",
       "domain": "mental",
       "topic": "reasoning",
-      "stem": "weeg"
+      "stem": "weeg",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "overwinnen",
@@ -17108,7 +18195,9 @@
       "pos": "verb",
       "name_nl2": "overwinning",
       "stem": "win",
-      "parent": "p2830"
+      "parent": "p2830",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "overzien",
@@ -17116,7 +18205,10 @@
       "id": "p3541",
       "domain": "agentic",
       "topic": "control",
-      "stem": "zie"
+      "stem": "zie",
+      "pos": "verb",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -17175,7 +18267,10 @@
       "id": "p3542",
       "domain": "artifacts",
       "topic": "accessories",
-      "stem": "pagina"
+      "stem": "pagina",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "pak",
@@ -17183,7 +18278,10 @@
       "id": "p3543",
       "domain": "artifacts",
       "topic": "clothing",
-      "stem": "pak"
+      "stem": "pak",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -17277,7 +18375,10 @@
       "id": "p3544",
       "domain": "experience",
       "topic": "feelings",
-      "stem": "paradijs"
+      "stem": "paradijs",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "paraplu",
@@ -17380,7 +18481,10 @@
       "id": "p3545",
       "domain": "artifacts",
       "topic": "accessories",
-      "stem": "pas"
+      "stem": "pas",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "paspoort",
@@ -17388,7 +18492,10 @@
       "id": "p3163",
       "domain": "civil",
       "topic": "service",
-      "stem": "paspoort"
+      "stem": "paspoort",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "passen",
@@ -17505,7 +18612,10 @@
       "id": "p3547",
       "domain": "mental",
       "topic": "reasoning",
-      "stem": "peins"
+      "stem": "peins",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "domain": "spatial",
@@ -17574,7 +18684,10 @@
       "domain": "mental",
       "topic": "mental",
       "parent": "p1915",
-      "stem": "persoon"
+      "stem": "persoon",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "persoonlijkheid",
@@ -17583,7 +18696,10 @@
       "domain": "mental",
       "topic": "mental",
       "parent": "p1915",
-      "stem": "persoon"
+      "stem": "persoon",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "perspectief",
@@ -17592,7 +18708,10 @@
       "also": "perspectieven",
       "domain": "mental",
       "topic": "understanding",
-      "stem": "perspect"
+      "stem": "perspect",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "universal"
     },
     {
       "name": "pessimistisch",
@@ -17613,7 +18732,10 @@
       "id": "p3550",
       "domain": "experience",
       "topic": "feelings",
-      "stem": "picknick"
+      "stem": "picknick",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "piepen",
@@ -17621,7 +18743,10 @@
       "id": "p3551",
       "domain": "core",
       "topic": "flow",
-      "stem": "piep"
+      "stem": "piep",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -17670,7 +18795,10 @@
       "id": "p3552",
       "domain": "socium",
       "topic": "common",
-      "stem": "piloot"
+      "stem": "piloot",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "pink",
@@ -17750,7 +18878,10 @@
       "domain": "core",
       "topic": "flow",
       "stem": "plaats",
-      "parent": "p1935"
+      "parent": "p1935",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "plafond",
@@ -17772,7 +18903,10 @@
       "id": "p3555",
       "domain": "artifacts",
       "topic": "furniture",
-      "stem": "plank"
+      "stem": "plank",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -17809,7 +18943,10 @@
       "domain": "nature",
       "topic": "landscape",
       "stem": "land",
-      "parent": "p1443"
+      "parent": "p1443",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "plattelandsleven",
@@ -17818,7 +18955,10 @@
       "domain": "nature",
       "topic": "landscape",
       "parent": "p3556",
-      "stem": "leef"
+      "stem": "leef",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -17862,7 +19002,10 @@
       "also": "plekken",
       "domain": "spatial",
       "topic": "place",
-      "stem": "plek"
+      "stem": "plek",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "plezier",
@@ -17897,7 +19040,10 @@
       "id": "p3558",
       "domain": "culture",
       "topic": "arts",
-      "stem": "podium"
+      "stem": "podium",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "pos": "adj",
@@ -17962,7 +19108,10 @@
       "id": "p3165",
       "domain": "civil",
       "topic": "justice",
-      "stem": "politie"
+      "stem": "politie",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "universal"
     },
     {
       "name": "politiek",
@@ -17971,7 +19120,10 @@
       "also": "politieke",
       "domain": "civil",
       "topic": "common",
-      "stem": "politiek"
+      "stem": "politiek",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "pos": "enum",
@@ -18004,7 +19156,10 @@
       "id": "p3167",
       "domain": "artifacts",
       "topic": "accessories",
-      "stem": "pop"
+      "stem": "pop",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "populair",
@@ -18039,7 +19194,10 @@
       "id": "p3055",
       "domain": "artifacts",
       "topic": "accessories",
-      "stem": "portemonnee"
+      "stem": "portemonnee",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "positie",
@@ -18047,7 +19205,10 @@
       "id": "p3559",
       "domain": "core",
       "topic": "structure",
-      "stem": "posit"
+      "stem": "posit",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "pos": "adj",
@@ -18111,7 +19272,10 @@
       "domain": "civil",
       "topic": "service",
       "parent": "p1966",
-      "stem": "post"
+      "stem": "post",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "postuur",
@@ -18163,7 +19327,10 @@
       "domain": "artifacts",
       "topic": "tool",
       "stem": "potlood",
-      "parent": "p565"
+      "parent": "p565",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "prachtig",
@@ -18312,7 +19479,10 @@
       "id": "p3562",
       "domain": "agentic",
       "topic": "intent",
-      "stem": "prior"
+      "stem": "prior",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "universal"
     },
     {
       "pos": "verb",
@@ -18374,7 +19544,10 @@
       "id": "p3563",
       "domain": "system",
       "topic": "progress",
-      "stem": "proces"
+      "stem": "proces",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "product",
@@ -18397,7 +19570,10 @@
       "domain": "resource",
       "topic": "building",
       "parent": "p1994",
-      "stem": "product"
+      "stem": "product",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "productief",
@@ -18406,7 +19582,10 @@
       "domain": "agentic",
       "topic": "pragmatic",
       "parent": "p1994",
-      "stem": "product"
+      "stem": "product",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "pos": "verb",
@@ -18428,7 +19607,10 @@
       "id": "p3566",
       "domain": "agentic",
       "topic": "pragmatic",
-      "stem": "profess"
+      "stem": "profess",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "profiel",
@@ -18436,7 +19618,10 @@
       "id": "p3567",
       "domain": "knowledge",
       "topic": "knowledge",
-      "stem": "profiel"
+      "stem": "profiel",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "prognose",
@@ -18495,7 +19680,10 @@
       "id": "p3569",
       "domain": "socium",
       "topic": "common",
-      "stem": "publiek"
+      "stem": "publiek",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "punt",
@@ -18503,7 +19691,10 @@
       "id": "p3570",
       "domain": "core",
       "topic": "thing",
-      "stem": "punt"
+      "stem": "punt",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "soundex"
     },
     {
       "pos": "verb",
@@ -18522,7 +19713,10 @@
       "id": "p3571",
       "domain": "culture",
       "topic": "leisure",
-      "stem": "puzzel"
+      "stem": "puzzel",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "soundex"
     },
     {
       "pos": "verb",
@@ -18556,7 +19750,10 @@
       "id": "p3572",
       "domain": "food",
       "topic": "ingredients",
-      "stem": "raap"
+      "stem": "raap",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "domain": "socium",
@@ -18634,7 +19831,10 @@
       "id": "p3056",
       "domain": "knowledge",
       "topic": "script",
-      "stem": "rapport"
+      "stem": "rapport",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "ras",
@@ -18642,7 +19842,10 @@
       "id": "p3574",
       "domain": "life",
       "topic": "species",
-      "stem": "ras"
+      "stem": "ras",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -18730,7 +19933,10 @@
       "id": "p3575",
       "domain": "civil",
       "topic": "justice",
-      "stem": "recht"
+      "stem": "recht",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -18818,7 +20024,10 @@
       "domain": "core",
       "topic": "flow",
       "parent": "p3575",
-      "stem": "recht"
+      "stem": "recht",
+      "pos": "adv",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -18931,7 +20140,10 @@
       "domain": "agentic",
       "topic": "control",
       "parent": "p2037",
-      "stem": "regel"
+      "stem": "regel",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -18979,7 +20191,10 @@
       "domain": "nature",
       "topic": "weather",
       "parent": "p566",
-      "stem": "regen"
+      "stem": "regen",
+      "pos": "verb",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "reiken",
@@ -18988,7 +20203,10 @@
       "also": "reikte",
       "domain": "spatial",
       "topic": "move",
-      "stem": "reik"
+      "stem": "reik",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -19071,7 +20289,8 @@
       "level": "b",
       "similarity": "native",
       "normalized": 0.5,
-      "stem": "strek"
+      "stem": "strek",
+      "pos": "verb"
     },
     {
       "name": "relatie",
@@ -19201,7 +20420,10 @@
       "id": "p3580",
       "domain": "socium",
       "topic": "recognition",
-      "stem": "respect"
+      "stem": "respect",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "restaurant",
@@ -19266,7 +20488,10 @@
       "domain": "system",
       "topic": "order",
       "stem": "richt",
-      "parent": "p2062"
+      "parent": "p2062",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -19517,7 +20742,6 @@
       "name_en": "called",
       "similarity": "native",
       "id": "p2080",
-      "parent": "p2081",
       "stem": "roep",
       "also": "riep",
       "name_nl2": "roep"
@@ -19599,7 +20823,10 @@
       "id": "p3583",
       "domain": "culture",
       "topic": "arts",
-      "stem": "roman"
+      "stem": "roman",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "pos": "adj",
@@ -19632,7 +20859,10 @@
       "id": "p3584",
       "domain": "food",
       "topic": "ingredients",
-      "stem": "room"
+      "stem": "room",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "roos",
@@ -19791,7 +21021,10 @@
       "domain": "experience",
       "topic": "feelings",
       "parent": "p2106",
-      "stem": "rust"
+      "stem": "rust",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "rustig",
@@ -19800,7 +21033,10 @@
       "domain": "mental",
       "topic": "feelings",
       "parent": "p2106",
-      "stem": "rust"
+      "stem": "rust",
+      "pos": "adj",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -19820,7 +21056,10 @@
       "also": "ruzies",
       "domain": "socium",
       "topic": "conflict",
-      "stem": "ruzie"
+      "stem": "ruzie",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -19950,7 +21189,10 @@
       "id": "p3171",
       "domain": "core",
       "topic": "structure",
-      "stem": "schade"
+      "stem": "schade",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "schaduw",
@@ -19958,7 +21200,10 @@
       "id": "p3586",
       "domain": "nature",
       "topic": "landscape",
-      "stem": "schaduw"
+      "stem": "schaduw",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "soundex"
     },
     {
       "name": "schamen",
@@ -19997,7 +21242,10 @@
       "also": "schattigste",
       "domain": "experience",
       "topic": "visual",
-      "stem": "schat"
+      "stem": "schat",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "scheiden",
@@ -20152,7 +21400,10 @@
       "domain": "experience",
       "topic": "visual",
       "parent": "p2140",
-      "stem": "schilder"
+      "stem": "schilder",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -20276,7 +21527,10 @@
       "also": "scholieren",
       "domain": "socium",
       "topic": "common",
-      "stem": "school"
+      "stem": "school",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -20299,7 +21553,10 @@
       "domain": "knowledge",
       "topic": "acquire",
       "parent": "p2150",
-      "stem": "school"
+      "stem": "school",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "schoolvakantie",
@@ -20308,7 +21565,10 @@
       "domain": "knowledge",
       "topic": "acquire",
       "parent": "p2150",
-      "stem": "school"
+      "stem": "school",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -20343,7 +21603,10 @@
       "id": "p3593",
       "domain": "body",
       "topic": "bodypart",
-      "stem": "schoot"
+      "stem": "schoot",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "domain": "spatial",
@@ -20398,7 +21661,10 @@
       "also": "schraapt",
       "domain": "core",
       "topic": "flow",
-      "stem": "schraap"
+      "stem": "schraap",
+      "pos": "verb",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -20546,7 +21812,10 @@
       "domain": "mental",
       "topic": "emotion",
       "parent": "p2172",
-      "stem": "schuld"
+      "stem": "schuld",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -20747,7 +22016,10 @@
       "also": "geskied",
       "domain": "experience",
       "topic": "feelings",
-      "stem": "ski"
+      "stem": "ski",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "sla",
@@ -20874,7 +22146,10 @@
       "domain": "body",
       "topic": "health",
       "parent": "p2206",
-      "stem": "slaap"
+      "stem": "slaap",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "slecht",
@@ -20931,7 +22206,10 @@
       "also": "slimme",
       "domain": "mental",
       "topic": "intellect",
-      "stem": "slim"
+      "stem": "slim",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -20993,7 +22271,10 @@
       "id": "p3598",
       "domain": "food",
       "topic": "drinks",
-      "stem": "slok"
+      "stem": "slok",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "slordig",
@@ -21144,7 +22425,10 @@
       "domain": "nature",
       "topic": "weather",
       "parent": "p588",
-      "stem": "sneeuw"
+      "stem": "sneeuw",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "soundex"
     },
     {
       "domain": "spatial",
@@ -21258,7 +22542,10 @@
       "id": "p3600",
       "domain": "core",
       "topic": "structure",
-      "stem": "solide"
+      "stem": "solide",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "universal"
     },
     {
       "name": "soort",
@@ -21361,7 +22648,10 @@
       "also": "specifieke",
       "domain": "core",
       "topic": "overall",
-      "stem": "specif"
+      "stem": "specif",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "speelgoed",
@@ -21383,7 +22673,10 @@
       "id": "p3602",
       "domain": "culture",
       "topic": "arts",
-      "stem": "spektakel"
+      "stem": "spektakel",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "universal"
     },
     {
       "name": "spelen",
@@ -21742,7 +23035,10 @@
       "also": "staten",
       "domain": "civil",
       "topic": "common",
-      "stem": "staat"
+      "stem": "staat",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "soundex"
     },
     {
       "pos": "adj",
@@ -21764,7 +23060,10 @@
       "domain": "system",
       "topic": "systain",
       "parent": "p2281",
-      "stem": "stabil"
+      "stem": "stabil",
+      "pos": "verb",
+      "level": "c",
+      "similarity": "universal"
     },
     {
       "name": "stad",
@@ -21787,7 +23086,10 @@
       "domain": "civil",
       "topic": "service",
       "parent": "p2282",
-      "stem": "stad"
+      "stem": "stad",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "stadsleven",
@@ -21796,7 +23098,10 @@
       "domain": "socium",
       "topic": "common",
       "parent": "p2282",
-      "stem": "leef"
+      "stem": "leef",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "stage",
@@ -21959,7 +23264,10 @@
       "id": "p3019",
       "domain": "core",
       "topic": "pattern",
-      "stem": "steeds"
+      "stem": "steeds",
+      "pos": "adv",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -22102,7 +23410,10 @@
       "domain": "body",
       "topic": "body",
       "parent": "p2304",
-      "stem": "sterk"
+      "stem": "sterk",
+      "pos": "adj",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -22220,7 +23531,10 @@
       "domain": "experience",
       "topic": "visual",
       "parent": "p2315",
-      "stem": "stijl"
+      "stem": "stijl",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "stil",
@@ -22229,7 +23543,10 @@
       "domain": "experience",
       "topic": "audio",
       "parent": "p2318",
-      "stem": "stil"
+      "stem": "stil",
+      "pos": "adj",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -22431,7 +23748,10 @@
       "also": "strategieën",
       "domain": "agentic",
       "topic": "intent",
-      "stem": "strateg"
+      "stem": "strateg",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "universal"
     },
     {
       "domain": "core",
@@ -22459,7 +23779,10 @@
       "id": "p3613",
       "domain": "mental",
       "topic": "attitude",
-      "stem": "streng"
+      "stem": "streng",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "experience",
@@ -22488,7 +23811,10 @@
       "also": "streef",
       "domain": "agentic",
       "topic": "intent",
-      "stem": "streef"
+      "stem": "streef",
+      "pos": "verb",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -22499,7 +23825,6 @@
       "name_en": "conflict",
       "similarity": "native",
       "id": "p2337",
-      "parent": "p2338",
       "article": "de",
       "stem": "strijd",
       "also": "geschil"
@@ -22590,7 +23915,10 @@
       "also": "studenten",
       "domain": "socium",
       "topic": "common",
-      "stem": "stud"
+      "stem": "stud",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "same"
     },
     {
       "pos": "verb",
@@ -22617,7 +23945,6 @@
       "verb3": "heeft gestudeerd",
       "normalized": 0.5,
       "id": "p2350",
-      "parent": "p2352",
       "stem": "stud",
       "also": "studie"
     },
@@ -22663,7 +23990,10 @@
       "domain": "core",
       "topic": "content",
       "parent": "p2354",
-      "stem": "stuk"
+      "stem": "stuk",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "sturen",
@@ -22687,7 +24017,10 @@
       "also": "subtiele",
       "domain": "experience",
       "topic": "perceive",
-      "stem": "subtiel"
+      "stem": "subtiel",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "universal"
     },
     {
       "name": "succes",
@@ -22698,7 +24031,8 @@
       "topic": "result",
       "level": "b",
       "similarity": "native",
-      "stem": "slaag"
+      "stem": "slaag",
+      "pos": "noun"
     },
     {
       "name": "suggestie",
@@ -22737,7 +24071,9 @@
       "topic": "feelings",
       "pos": "verb",
       "name_nl2": "surfer",
-      "stem": "surf"
+      "stem": "surf",
+      "level": "b",
+      "similarity": "soundex"
     },
     {
       "name": "taak",
@@ -22748,7 +24084,8 @@
       "topic": "solution",
       "level": "b",
       "similarity": "native",
-      "stem": "taak"
+      "stem": "taak",
+      "pos": "noun"
     },
     {
       "pos": "noun",
@@ -22908,7 +24245,10 @@
       "id": "p3181",
       "domain": "system",
       "topic": "power",
-      "stem": "technolog"
+      "stem": "technolog",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "teen",
@@ -22979,7 +24319,10 @@
       "id": "p3182",
       "domain": "core",
       "topic": "timeline",
-      "stem": "woord"
+      "stem": "woord",
+      "pos": "adv",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "teken",
@@ -22987,7 +24330,10 @@
       "id": "p3064",
       "domain": "language",
       "topic": "communicate",
-      "stem": "teken"
+      "stem": "teken",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -23033,7 +24379,10 @@
       "id": "p3020",
       "domain": "artifacts",
       "topic": "appliances",
-      "stem": "telefoon"
+      "stem": "telefoon",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "universal"
     },
     {
       "name": "teleurstellend",
@@ -23041,7 +24390,10 @@
       "id": "p3622",
       "domain": "mental",
       "topic": "emotion",
-      "stem": "stel"
+      "stem": "stel",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "televisie",
@@ -23050,7 +24402,10 @@
       "also": "televisies",
       "domain": "artifacts",
       "topic": "appliances",
-      "stem": "televisie"
+      "stem": "televisie",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "universal"
     },
     {
       "domain": "mental",
@@ -23092,7 +24447,10 @@
       "id": "p3624",
       "domain": "core",
       "topic": "flow",
-      "stem": "tempo"
+      "stem": "tempo",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "ten",
@@ -23112,7 +24470,10 @@
       "id": "p3626",
       "domain": "experience",
       "topic": "feelings",
-      "stem": "tennis"
+      "stem": "tennis",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "term",
@@ -23121,7 +24482,10 @@
       "also": "termen",
       "domain": "language",
       "topic": "communicate",
-      "stem": "term"
+      "stem": "term",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "same"
     },
     {
       "name": "terras",
@@ -23129,7 +24493,10 @@
       "id": "p3628",
       "domain": "spatial",
       "topic": "place",
-      "stem": "terras"
+      "stem": "terras",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "terug",
@@ -23151,7 +24518,10 @@
       "also": "teruggeeft",
       "domain": "core",
       "topic": "posess",
-      "stem": "geef"
+      "stem": "geef",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "spatial",
@@ -23206,7 +24576,10 @@
       "domain": "core",
       "topic": "limit",
       "stem": "schroef",
-      "parent": "p580"
+      "parent": "p580",
+      "pos": "verb",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -23228,7 +24601,10 @@
       "domain": "mental",
       "topic": "emotion",
       "stem": "tevreed",
-      "parent": "p2412"
+      "parent": "p2412",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "theater",
@@ -23290,7 +24666,10 @@
       "domain": "core",
       "topic": "timeline",
       "stem": "tijd",
-      "parent": "p2419"
+      "parent": "p2419",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "tijdverdrijf",
@@ -23299,7 +24678,10 @@
       "domain": "experience",
       "topic": "feelings",
       "stem": "tijd",
-      "parent": "p2419"
+      "parent": "p2419",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -23360,7 +24742,10 @@
       "id": "p3638",
       "domain": "artifacts",
       "topic": "building",
-      "stem": "timmer"
+      "stem": "timmer",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "tip",
@@ -23410,7 +24795,10 @@
       "id": "p3639",
       "domain": "core",
       "topic": "potention",
-      "stem": "gang"
+      "stem": "gang",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "toegepast",
@@ -23419,7 +24807,10 @@
       "domain": "core",
       "topic": "produce",
       "stem": "pas",
-      "parent": "p2433"
+      "parent": "p2433",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "toegeven",
@@ -23427,7 +24818,10 @@
       "id": "p3184",
       "domain": "mental",
       "topic": "acceptance",
-      "stem": "geef"
+      "stem": "geef",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "toekomst",
@@ -23490,7 +24884,10 @@
       "id": "p3642",
       "domain": "core",
       "topic": "influence",
-      "stem": "sla"
+      "stem": "sla",
+      "pos": "verb",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -23510,7 +24907,10 @@
       "id": "p3185",
       "domain": "knowledge",
       "topic": "acquire",
-      "stem": "toets"
+      "stem": "toets",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "toevallig",
@@ -23518,7 +24918,10 @@
       "id": "p3643",
       "domain": "core",
       "topic": "potention",
-      "stem": "val"
+      "stem": "val",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "toewijding",
@@ -23526,7 +24929,10 @@
       "id": "p3644",
       "domain": "mental",
       "topic": "will",
-      "stem": "wijd"
+      "stem": "wijd",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "tolk",
@@ -23563,7 +24969,10 @@
       "also": "toonde",
       "domain": "agentic",
       "topic": "operation",
-      "stem": "toon"
+      "stem": "toon",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "tong",
@@ -23613,7 +25022,10 @@
       "domain": "core",
       "topic": "timeline",
       "stem": "seizoen",
-      "parent": "p2178"
+      "parent": "p2178",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "totaal",
@@ -23621,7 +25033,10 @@
       "id": "p3646",
       "domain": "core",
       "topic": "overall",
-      "stem": "totaal"
+      "stem": "totaal",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "traditie",
@@ -23643,7 +25058,10 @@
       "id": "p3648",
       "domain": "experience",
       "topic": "emotion",
-      "stem": "tragis"
+      "stem": "tragis",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "trakteren",
@@ -23772,7 +25190,10 @@
       "id": "p3649",
       "domain": "mental",
       "topic": "emotion",
-      "stem": "triest"
+      "stem": "triest",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "body",
@@ -23847,7 +25268,10 @@
       "domain": "socium",
       "topic": "family",
       "parent": "p2461",
-      "stem": "trouw"
+      "stem": "trouw",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "socium",
@@ -23933,7 +25357,10 @@
       "id": "p3650",
       "domain": "nature",
       "topic": "weather",
-      "stem": "turbulent"
+      "stem": "turbulent",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "universal"
     },
     {
       "name": "tweeling",
@@ -23983,7 +25410,10 @@
       "id": "p3651",
       "domain": "nature",
       "topic": "weather",
-      "stem": "tyfoon"
+      "stem": "tyfoon",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "universal"
     },
     {
       "domain": "core",
@@ -24027,7 +25457,10 @@
       "domain": "experience",
       "topic": "feelings",
       "parent": "p2486",
-      "stem": "daag"
+      "stem": "daag",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -24049,7 +25482,10 @@
       "id": "p3652",
       "domain": "language",
       "topic": "communicate",
-      "stem": "druk"
+      "stem": "druk",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "uiteen",
@@ -24058,7 +25494,10 @@
       "domain": "spatial",
       "topic": "distance",
       "stem": "een",
-      "parent": "p762"
+      "parent": "p762",
+      "pos": "adv",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "uiten",
@@ -24067,7 +25506,10 @@
       "domain": "language",
       "topic": "communicate",
       "parent": "p3652",
-      "stem": "uit"
+      "stem": "uit",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "uitgaan",
@@ -24161,7 +25603,6 @@
       "normalized": 0.909,
       "similarity": "native",
       "id": "p2495",
-      "parent": "p2496",
       "stem": "leeg",
       "name_nl2": "uitleg"
     },
@@ -24219,7 +25660,10 @@
       "domain": "agentic",
       "topic": "operation",
       "stem": "pak",
-      "parent": "p1881"
+      "parent": "p1881",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -24241,7 +25685,10 @@
       "domain": "body",
       "topic": "behave",
       "stem": "strek",
-      "parent": "p3579"
+      "parent": "p3579",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "uitschrijven",
@@ -24285,7 +25732,10 @@
       "id": "p3658",
       "domain": "core",
       "topic": "timeline",
-      "stem": "stel"
+      "stem": "stel",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "mental",
@@ -24368,7 +25818,10 @@
       "domain": "experience",
       "topic": "visual",
       "stem": "zicht",
-      "parent": "p2892"
+      "parent": "p2892",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "uitzoeken",
@@ -24377,7 +25830,10 @@
       "domain": "knowledge",
       "topic": "acquire",
       "also": "achterhalen",
-      "stem": "zoek"
+      "stem": "zoek",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "universiteit",
@@ -24503,7 +25959,10 @@
       "id": "p3660",
       "domain": "artifacts",
       "topic": "building",
-      "stem": "ambacht"
+      "stem": "ambacht",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "vakantie",
@@ -24511,7 +25970,10 @@
       "id": "p3661",
       "domain": "experience",
       "topic": "feelings",
-      "stem": "vakant"
+      "stem": "vakant",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "universal"
     },
     {
       "pos": "noun",
@@ -24568,7 +26030,10 @@
       "domain": "core",
       "topic": "timeline",
       "parent": "p129",
-      "stem": "avond"
+      "stem": "avond",
+      "pos": "adv",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -24610,7 +26075,10 @@
       "domain": "core",
       "topic": "timeline",
       "parent": "p2536",
-      "stem": "middag"
+      "stem": "middag",
+      "pos": "adv",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "vanochtend",
@@ -24619,7 +26087,10 @@
       "domain": "core",
       "topic": "timeline",
       "parent": "p2536",
-      "stem": "ochtend"
+      "stem": "ochtend",
+      "pos": "adv",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "domain": "spatial",
@@ -24663,7 +26134,10 @@
       "id": "p3067",
       "domain": "core",
       "topic": "binding",
-      "stem": "vast"
+      "stem": "vast",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -24683,7 +26157,10 @@
       "domain": "mental",
       "topic": "will",
       "parent": "p2546",
-      "stem": "vast"
+      "stem": "vast",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "vastbesloten",
@@ -24692,7 +26169,10 @@
       "domain": "mental",
       "topic": "will",
       "parent": "p2546",
-      "stem": "vast"
+      "stem": "vast",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "vatten",
@@ -24700,7 +26180,10 @@
       "id": "p3665",
       "domain": "mental",
       "topic": "understanding",
-      "stem": "vat"
+      "stem": "vat",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "socium",
@@ -24756,7 +26239,10 @@
       "domain": "civil",
       "topic": "justice",
       "parent": "p2551",
-      "stem": "veilig"
+      "stem": "veilig",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "veld",
@@ -24764,7 +26250,10 @@
       "id": "p3666",
       "domain": "spatial",
       "topic": "place",
-      "stem": "veld"
+      "stem": "veld",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "ventilatie",
@@ -24772,7 +26261,10 @@
       "id": "p3667",
       "domain": "system",
       "topic": "power",
-      "stem": "ventil"
+      "stem": "ventil",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "universal"
     },
     {
       "name": "ver",
@@ -24794,7 +26286,10 @@
       "also": "veranderd, veranderende, veranderingen, verandert",
       "domain": "core",
       "topic": "flow",
-      "stem": "ander"
+      "stem": "ander",
+      "pos": "verb",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -24817,7 +26312,10 @@
       "domain": "mental",
       "topic": "emotion",
       "parent": "p2559",
-      "stem": "baas"
+      "stem": "baas",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "experience",
@@ -24852,7 +26350,10 @@
       "domain": "experience",
       "topic": "feelings",
       "parent": "p2559",
-      "stem": "baas"
+      "stem": "baas",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "verbeteren",
@@ -24864,7 +26365,9 @@
       "pos": "verb",
       "name_nl2": "verbetering",
       "stem": "beter",
-      "parent": "p233"
+      "parent": "p233",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "verbindend",
@@ -24874,7 +26377,10 @@
       "domain": "system",
       "topic": "order",
       "parent": "p278",
-      "stem": "bind"
+      "stem": "bind",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "verbinding",
@@ -24884,7 +26390,10 @@
       "domain": "system",
       "topic": "order",
       "stem": "bind",
-      "parent": "p278"
+      "parent": "p278",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "verbranden",
@@ -24893,7 +26402,10 @@
       "also": "verbrand",
       "domain": "body",
       "topic": "health",
-      "stem": "brand"
+      "stem": "brand",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -24914,7 +26426,10 @@
       "domain": "core",
       "topic": "flow",
       "stem": "ver",
-      "parent": "p2554"
+      "parent": "p2554",
+      "pos": "adv",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -24958,7 +26473,10 @@
       "id": "p3196",
       "domain": "mental",
       "topic": "acceptance",
-      "stem": "draag"
+      "stem": "draag",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -25008,7 +26526,10 @@
       "also": "vereist",
       "domain": "system",
       "topic": "order",
-      "stem": "eis"
+      "stem": "eis",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "verenigd",
@@ -25018,7 +26539,10 @@
       "domain": "socium",
       "topic": "cooperate",
       "stem": "een",
-      "parent": "p762"
+      "parent": "p762",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "verfrissend",
@@ -25026,7 +26550,10 @@
       "id": "p3197",
       "domain": "experience",
       "topic": "feelings",
-      "stem": "fris"
+      "stem": "fris",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "vergadering",
@@ -25050,7 +26577,10 @@
       "domain": "core",
       "topic": "compare",
       "parent": "p2572",
-      "stem": "lijk"
+      "stem": "lijk",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -25138,7 +26668,9 @@
       "pos": "verb",
       "name_nl2": "verheldering",
       "stem": "helder",
-      "parent": "p1054"
+      "parent": "p1054",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "verheugen",
@@ -25162,7 +26694,10 @@
       "id": "p3674",
       "domain": "core",
       "topic": "compare",
-      "stem": "houd"
+      "stem": "houd",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "verhuur",
@@ -25171,7 +26706,10 @@
       "domain": "resource",
       "topic": "trade",
       "stem": "huur",
-      "parent": "p1173"
+      "parent": "p1173",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -25235,7 +26773,10 @@
       "domain": "resource",
       "topic": "trade",
       "parent": "p2584",
-      "stem": "koop"
+      "stem": "koop",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -25272,7 +26813,10 @@
       "domain": "body",
       "topic": "health",
       "stem": "koud",
-      "parent": "p1399"
+      "parent": "p1399",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "verlaten",
@@ -25280,7 +26824,10 @@
       "id": "p3678",
       "domain": "spatial",
       "topic": "move",
-      "stem": "laat"
+      "stem": "laat",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "verleden",
@@ -25317,7 +26864,10 @@
       "domain": "core",
       "topic": "timeline",
       "stem": "lang",
-      "parent": "p1446"
+      "parent": "p1446",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "verliefd",
@@ -25326,7 +26876,10 @@
       "domain": "mental",
       "topic": "emotion",
       "stem": "lief",
-      "parent": "p1494"
+      "parent": "p1494",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "verlies",
@@ -25335,7 +26888,10 @@
       "domain": "core",
       "topic": "posess",
       "parent": "p2592",
-      "stem": "lies"
+      "stem": "lies",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -25368,7 +26924,10 @@
       "domain": "core",
       "topic": "posess",
       "parent": "p2592",
-      "stem": "lies"
+      "stem": "lies",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "vermoeiend",
@@ -25377,7 +26936,10 @@
       "domain": "body",
       "topic": "health",
       "stem": "moe",
-      "parent": "p1620"
+      "parent": "p1620",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "vernietigen",
@@ -25387,7 +26949,10 @@
       "domain": "core",
       "topic": "structure",
       "stem": "niet",
-      "parent": "p2595"
+      "parent": "p2595",
+      "pos": "verb",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -25408,7 +26973,10 @@
       "domain": "mental",
       "topic": "fear",
       "stem": "rust",
-      "parent": "p2106"
+      "parent": "p2106",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "domain": "socium",
@@ -25437,7 +27005,10 @@
       "also": "veroorzaakt",
       "domain": "system",
       "topic": "occurence",
-      "stem": "oorzaak"
+      "stem": "oorzaak",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "spatial",
@@ -25480,7 +27051,10 @@
       "id": "p3685",
       "domain": "body",
       "topic": "health",
-      "stem": "pleeg"
+      "stem": "pleeg",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "verrassen",
@@ -25510,7 +27084,10 @@
       "domain": "experience",
       "topic": "emotion",
       "parent": "p2603",
-      "stem": "ras"
+      "stem": "ras",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "verrijken",
@@ -25518,7 +27095,10 @@
       "id": "p3688",
       "domain": "core",
       "topic": "content",
-      "stem": "rijk"
+      "stem": "rijk",
+      "pos": "verb",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "verruimen",
@@ -25528,7 +27108,10 @@
       "domain": "mental",
       "topic": "understanding",
       "stem": "ruim",
-      "parent": "p2104"
+      "parent": "p2104",
+      "pos": "verb",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -25549,7 +27132,10 @@
       "id": "p3690",
       "domain": "core",
       "topic": "group",
-      "stem": "scheid"
+      "stem": "scheid",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -25594,7 +27180,10 @@
       "domain": "core",
       "topic": "compare",
       "parent": "p2609",
-      "stem": "schil"
+      "stem": "schil",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -25614,7 +27203,10 @@
       "also": "versper",
       "domain": "spatial",
       "topic": "manipulate",
-      "stem": "sper"
+      "stem": "sper",
+      "pos": "verb",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -25642,7 +27234,10 @@
       "id": "p3691",
       "domain": "mental",
       "topic": "reasoning",
-      "stem": "stand"
+      "stem": "stand",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "verstoppen",
@@ -25663,7 +27258,10 @@
       "domain": "core",
       "topic": "structure",
       "parent": "p2617",
-      "stem": "stop"
+      "stem": "stop",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -25684,7 +27282,10 @@
       "domain": "language",
       "topic": "communicate",
       "stem": "stuur",
-      "parent": "p2356"
+      "parent": "p2356",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "vertalen",
@@ -25694,7 +27295,9 @@
       "topic": "communicate",
       "pos": "verb",
       "name_nl2": "vertaling",
-      "stem": "taal"
+      "stem": "taal",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -25733,7 +27336,6 @@
       "level": "b",
       "normalized": 0.8,
       "id": "p2621",
-      "parent": "p2620",
       "domain": "system",
       "topic": "progress",
       "stem": "traag"
@@ -25772,7 +27374,10 @@
       "domain": "knowledge",
       "topic": "knowledge",
       "stem": "trouw",
-      "parent": "p2624"
+      "parent": "p2624",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "vertrouwen",
@@ -25782,7 +27387,10 @@
       "domain": "mental",
       "topic": "attitude",
       "stem": "trouw",
-      "parent": "p2624"
+      "parent": "p2624",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -25820,7 +27428,10 @@
       "domain": "core",
       "topic": "compare",
       "parent": "p2625",
-      "stem": "vang"
+      "stem": "vang",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "domain": "experience",
@@ -25866,7 +27477,9 @@
       "topic": "certainty",
       "pos": "verb",
       "name_nl2": "verwachting",
-      "stem": "wacht"
+      "stem": "wacht",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -25920,7 +27533,10 @@
       "id": "p3697",
       "domain": "core",
       "topic": "structure",
-      "stem": "woest"
+      "stem": "woest",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -25961,7 +27577,9 @@
       "pos": "verb",
       "name_nl2": "verzekering",
       "stem": "zeek",
-      "parent": "p2873"
+      "parent": "p2873",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "verzekeringsmaatschappij",
@@ -25970,7 +27588,10 @@
       "domain": "resource",
       "topic": "trade",
       "parent": "p3202",
-      "stem": "zeek"
+      "stem": "zeek",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "domain": "mental",
@@ -26011,7 +27632,10 @@
       "domain": "core",
       "topic": "flow",
       "stem": "zink",
-      "parent": "p2899"
+      "parent": "p2899",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "verzorger",
@@ -26021,7 +27645,10 @@
       "domain": "socium",
       "topic": "care",
       "stem": "zorg",
-      "parent": "p2920"
+      "parent": "p2920",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "vest",
@@ -26054,7 +27681,10 @@
       "id": "p3703",
       "domain": "culture",
       "topic": "customs",
-      "stem": "vier"
+      "stem": "vier",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -26098,7 +27728,10 @@
       "id": "p3704",
       "domain": "nature",
       "topic": "seescape",
-      "stem": "vijver"
+      "stem": "vijver",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -26131,7 +27764,10 @@
       "id": "p3705",
       "domain": "mental",
       "topic": "intellect",
-      "stem": "vind"
+      "stem": "vind",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "vinger",
@@ -26180,7 +27816,10 @@
       "id": "p3707",
       "domain": "civil",
       "topic": "travel",
-      "stem": "visum"
+      "stem": "visum",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "universal"
     },
     {
       "name": "vitrage",
@@ -26311,7 +27950,10 @@
       "domain": "spatial",
       "topic": "place",
       "parent": "p2664",
-      "stem": "vlieg"
+      "stem": "vlieg",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -26351,7 +27993,10 @@
       "domain": "language",
       "topic": "grade",
       "stem": "vloei",
-      "parent": "p2667"
+      "parent": "p2667",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "vlucht",
@@ -26361,7 +28006,10 @@
       "topic": "move",
       "also": "vliegreis",
       "parent": "p2664",
-      "stem": "vlucht"
+      "stem": "vlucht",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -26406,7 +28054,10 @@
       "domain": "food",
       "topic": "dishes",
       "parent": "p2675",
-      "stem": "voedsel"
+      "stem": "voedsel",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -26528,7 +28179,10 @@
       "domain": "core",
       "topic": "sequence",
       "parent": "p2682",
-      "stem": "volg"
+      "stem": "volg",
+      "pos": "adj",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "volgepropt",
@@ -26536,7 +28190,10 @@
       "id": "p3711",
       "domain": "core",
       "topic": "limit",
-      "stem": "prop"
+      "stem": "prop",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "volgorde",
@@ -26591,7 +28248,10 @@
       "id": "p3712",
       "domain": "life",
       "topic": "species",
-      "stem": "was"
+      "stem": "was",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -26615,7 +28275,10 @@
       "domain": "agentic",
       "topic": "operation",
       "stem": "reid",
-      "parent": "p3277"
+      "parent": "p3277",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "voordeel",
@@ -26650,7 +28313,10 @@
       "id": "p3714",
       "domain": "spatial",
       "topic": "position",
-      "stem": "kant"
+      "stem": "kant",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "voorkeur",
@@ -26659,7 +28325,10 @@
       "also": "voorkeuren",
       "domain": "mental",
       "topic": "will",
-      "stem": "keus"
+      "stem": "keus",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -26726,7 +28395,10 @@
       "domain": "artifacts",
       "topic": "furniture",
       "stem": "kast",
-      "parent": "p512"
+      "parent": "p512",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "voorschrijven",
@@ -26735,7 +28407,10 @@
       "also": "voorgeschreven",
       "domain": "body",
       "topic": "health",
-      "stem": "schrijf"
+      "stem": "schrijf",
+      "pos": "verb",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -26804,7 +28479,10 @@
       "domain": "agentic",
       "topic": "result",
       "parent": "p2707",
-      "stem": "ga"
+      "stem": "ga",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -26852,7 +28530,10 @@
       "also": "voorzieningen",
       "domain": "resource",
       "topic": "getting",
-      "stem": "zie"
+      "stem": "zie",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "vorig",
@@ -26986,7 +28667,10 @@
       "domain": "civil",
       "topic": "clash",
       "parent": "p2720",
-      "stem": "vrede"
+      "stem": "vrede",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -27055,7 +28739,10 @@
       "domain": "socium",
       "topic": "virtue",
       "parent": "p2726",
-      "stem": "vriend"
+      "stem": "vriend",
+      "pos": "adj",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "vriendin",
@@ -27064,7 +28751,10 @@
       "domain": "socium",
       "topic": "family",
       "parent": "p2726",
-      "stem": "vriend"
+      "stem": "vriend",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "domain": "core",
@@ -27111,7 +28801,6 @@
       "level": "b",
       "normalized": 0.75,
       "id": "p2734",
-      "parent": "p2733",
       "domain": "socium",
       "topic": "common",
       "stem": "wil"
@@ -27122,7 +28811,10 @@
       "id": "p3212",
       "domain": "core",
       "topic": "timeline",
-      "stem": "vroeg"
+      "stem": "vroeg",
+      "pos": "adj",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "vroeger",
@@ -27132,7 +28824,6 @@
       "normalized": 0.85,
       "similarity": "native",
       "id": "p2737",
-      "parent": "p2736",
       "domain": "system",
       "topic": "timeline",
       "article": "de",
@@ -27210,7 +28901,10 @@
       "domain": "resource",
       "topic": "measure",
       "parent": "p2744",
-      "stem": "waard"
+      "stem": "waard",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -27246,7 +28940,10 @@
       "domain": "resource",
       "topic": "measure",
       "parent": "p2744",
-      "stem": "waard"
+      "stem": "waard",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -27298,7 +28995,10 @@
       "id": "p3076",
       "domain": "core",
       "topic": "potention",
-      "stem": "schijn"
+      "stem": "schijn",
+      "pos": "adv",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "domain": "socium",
@@ -27340,7 +29040,10 @@
       "also": "wachtte, gewacht",
       "domain": "agentic",
       "topic": "operation",
-      "stem": "wacht"
+      "stem": "wacht",
+      "pos": "verb",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "wakker",
@@ -27401,7 +29104,10 @@
       "id": "p3725",
       "domain": "mental",
       "topic": "mental",
-      "stem": "war"
+      "stem": "war",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -27423,7 +29129,10 @@
       "id": "p3726",
       "domain": "core",
       "topic": "flow",
-      "stem": "warm"
+      "stem": "warm",
+      "pos": "verb",
+      "level": "b",
+      "similarity": "soundex"
     },
     {
       "name": "wasmachine",
@@ -27502,7 +29211,10 @@
       "id": "p3214",
       "domain": "experience",
       "topic": "feelings",
-      "stem": "strijd"
+      "stem": "strijd",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "week",
@@ -27540,7 +29252,10 @@
       "also": "weerhield",
       "domain": "core",
       "topic": "control",
-      "stem": "houd"
+      "stem": "houd",
+      "pos": "verb",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -27561,7 +29276,10 @@
       "domain": "nature",
       "topic": "weather",
       "stem": "weer",
-      "parent": "p1119"
+      "parent": "p1119",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "wees",
@@ -27569,7 +29287,10 @@
       "id": "p3729",
       "domain": "socium",
       "topic": "family",
-      "stem": "wees"
+      "stem": "wees",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -27632,7 +29353,10 @@
       "id": "p3730",
       "domain": "core",
       "topic": "potention",
-      "stem": "leg"
+      "stem": "leg",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -27677,7 +29401,10 @@
       "id": "p3215",
       "domain": "socium",
       "topic": "common",
-      "stem": "welkom"
+      "stem": "welkom",
+      "pos": "adj",
+      "level": "a",
+      "similarity": "soundex"
     },
     {
       "pos": "noun",
@@ -27699,7 +29426,10 @@
       "domain": "core",
       "topic": "overall",
       "stem": "dien",
-      "parent": "p2566"
+      "parent": "p2566",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -27793,7 +29523,10 @@
       "domain": "spatial",
       "topic": "extent",
       "parent": "p2792",
-      "stem": "wereld"
+      "stem": "wereld",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -28139,7 +29872,10 @@
       "id": "p3741",
       "domain": "knowledge",
       "topic": "knowledge",
-      "stem": "wiskunde"
+      "stem": "wiskunde",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -28405,7 +30141,10 @@
       "id": "p3742",
       "domain": "mental",
       "topic": "attitude",
-      "stem": "wreed"
+      "stem": "wreed",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "domain": "spatial",
@@ -28506,7 +30245,10 @@
       "domain": "spatial",
       "topic": "move",
       "stem": "reis",
-      "parent": "p2042"
+      "parent": "p2042",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "domain": "spatial",
@@ -28539,7 +30281,10 @@
       "id": "p3217",
       "domain": "civil",
       "topic": "justice",
-      "stem": "zak"
+      "stem": "zak",
+      "pos": "noun",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "zalf",
@@ -28561,7 +30306,10 @@
       "id": "p3744",
       "domain": "food",
       "topic": "ingredients",
-      "stem": "zalm"
+      "stem": "zalm",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -28652,7 +30400,10 @@
       "domain": "mental",
       "topic": "certainty",
       "parent": "p2873",
-      "stem": "zeek"
+      "stem": "zeek",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "zelden",
@@ -28674,7 +30425,10 @@
       "domain": "core",
       "topic": "pattern",
       "stem": "zeld",
-      "parent": "p2874"
+      "parent": "p2874",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "name": "zelfstandig",
@@ -28695,7 +30449,10 @@
       "id": "p3748",
       "domain": "culture",
       "topic": "arts",
-      "stem": "zend"
+      "stem": "zend",
+      "pos": "noun",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "zetten",
@@ -28704,7 +30461,10 @@
       "also": "zet, gezet",
       "domain": "agentic",
       "topic": "operation",
-      "stem": "zet"
+      "stem": "zet",
+      "pos": "verb",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "verb",
@@ -28737,7 +30497,10 @@
       "domain": "experience",
       "topic": "visual",
       "parent": "p2886",
-      "stem": "zicht"
+      "stem": "zicht",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "ziek",
@@ -28747,7 +30510,6 @@
       "level": "b",
       "normalized": 0.778,
       "id": "p2888",
-      "parent": "p2890",
       "domain": "body",
       "topic": "health",
       "article": "de",
@@ -28761,7 +30523,10 @@
       "also": "ziekenhuizen",
       "domain": "body",
       "topic": "health",
-      "stem": "ziek"
+      "stem": "ziek",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -28991,7 +30756,10 @@
       "id": "p3755",
       "domain": "core",
       "topic": "overall",
-      "stem": "zomaar"
+      "stem": "zomaar",
+      "pos": "adv",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "zomer",
@@ -28999,7 +30767,10 @@
       "id": "p3221",
       "domain": "nature",
       "topic": "season",
-      "stem": "zomer"
+      "stem": "zomer",
+      "pos": "noun",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -29074,7 +30845,10 @@
       "domain": "mental",
       "topic": "attitude",
       "parent": "p2920",
-      "stem": "zorg"
+      "stem": "zorg",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "zorgwekkend",
@@ -29083,7 +30857,10 @@
       "domain": "mental",
       "topic": "fear",
       "parent": "p2920",
-      "stem": "zorg"
+      "stem": "zorg",
+      "pos": "adj",
+      "level": "c",
+      "similarity": "native"
     },
     {
       "pos": "enum",
@@ -29124,7 +30901,10 @@
       "id": "p3756",
       "domain": "spatial",
       "topic": "direction",
-      "stem": "zuid"
+      "stem": "zuid",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "pos": "adj",
@@ -29232,7 +31012,10 @@
       "also": "zwakke",
       "domain": "body",
       "topic": "body",
-      "stem": "zwak"
+      "stem": "zwak",
+      "pos": "adj",
+      "level": "b",
+      "similarity": "native"
     },
     {
       "name": "zwanger",
