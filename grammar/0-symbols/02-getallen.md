@@ -37,3 +37,11 @@
 |---|---|
 | 1/2 | halve |
 | 1/4 | kwart |
+
+| compound | name |
+|---|---|
+| single | enkel |
+| double | dubbel |
+| pair | paar |
+| both | beide |
+| triple | drievoudig |

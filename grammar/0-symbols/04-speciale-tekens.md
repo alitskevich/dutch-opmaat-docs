@@ -29,7 +29,7 @@
 | `@` | apenstaartje | "at" sign | e-mail: alex `apenstaartje` voorbeeld punt nl |
 | `#` | hekje | hash / pound | hashtag, telefoonmenu |
 | `&` | ampersand / en-teken | ampersand | bedrijfsnamen: Smit `&` Zoon |
-| `\`* | sterretje | asterisk | voetnoot |
+| `*` | sterretje | asterisk | voetnoot |
 | `~` | tilde | tilde | unix paden |
 | `^` | dakje | caret / circumflex | wiskunde / spelling |
 | `_` | liggend streepje / underscore | underscore | bestandsnamen |

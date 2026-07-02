@@ -1,6 +1,8 @@
 # Phonetic Similarity
 
-Grouped with a `Dutch - aware phonetic scheme`. It models how Dutch actually sounds:
+Grouped with a `Dutch - aware phonetic scheme`.
+
+It models how Dutch actually sounds:
 
 - [ ]`ij` = `ei` (both /ɛi/), `au` = `ou` (/ʌu/)
 - [ ]`g` = `ch` (/x/), `v`→f, `z`→s, `w`→/ʋ/ (voicing merges)

@@ -24,9 +24,10 @@
 | `volgens` | according to | **Volgens** mij heb je gelijk. |
 | `dankzij` | thanks to | **Dankzij** jou is het gelukt. |
 | `ondanks` | despite | **Ondanks** de regen, was het leuk. (Despite the rain, it was fun.) |
-| `hoe dan ook` | anyway | **Hoe dan ook**, ik kom morgen. (Anyway, I'm coming tomorrow.) |
 | `echter` | however | Hij kwam, **echter** te laat. (He came, however too late.) |
 | `hoewel` | although | **Hoewel** ik moe was, ging ik. (Although I was tired, I went.) |
+| `hoe dan ook` / `sowieso` | anyway | **Hoe dan ook**, ik kom morgen. (Anyway, I'm coming tomorrow.) |
+| `geenszins` / `in geen geval` | in no way | Dat is **geenszins** waar. |
 
 > "omdat" and "want" both mean "because," but "omdat" is more common and formal.
 
@@ -47,7 +48,6 @@ Prepositions play three roles in Dutch:
 | `op` venue | at workplaces, schools, and on streets | , op straat, op school, op het werk, op de Dam |
 | `op` date | on (day/date) | `Op* maandag werk ik thuis. |
 | `aan` | attached to / hanging from / next to a linear edge | *aan de muur, aan de telefoon, aan zee* |
-
 | `uit` | out of (origin or motion) | *uit de tas, uit Amsterdam, uit het raam* |
 | `om` tijd | at (clock time) | De film begint *om* acht uur. |
 | `met` | with | Ik schrijf *met* een pen. |

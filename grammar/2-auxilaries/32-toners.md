@@ -19,7 +19,18 @@ On their own they carry almost no weight — their job is to **set the tone**: s
 | gewoon | `zvyqajno` | simply |
 | eens | `razok` | once |
 | wat | `troxa` | a bit / somewhat |
+| best | `davoli` | quite / rather / willing to |
 | net | `amalj` | just now / almost exactly |
+| eigenlijk | `pa suti` | actually / really |
+| zeker | `napэvna` | surely / I bet / by any chance |
+| soms | `chasam` | by any chance (in questions) |
+| al | `uzho` | already / emphasis |
+| zo | `zaraz` | just / shortly / in a sec |
+| pas | `tolki` | only just / not until |
+| lekker | `smaqna` | nicely / just (defiant) |
+| gerust | `spakojna` | feel free / safely |
+| juist | `akurat` | precisely / on the contrary |
+| echt | `sapraudy` | really / genuinely |
 
 ## toch
 
@@ -203,6 +214,140 @@ Besides the question word "what", `wat` works as a particle **"a bit / somewhat"
 | Question word | `Wat` zeg je? | What did you say? |
 
 Flavor (as particle): "a touch, not too much" — milder than *een beetje*.
+
+## best
+
+Besides the superlative "best", `best` works as a particle.
+
+**A. Degree "quite / rather / pretty"** — turns an adjective up a notch, less strong than *heel*.
+
+| Use | Example | English |
+|-----|---------|---------|
+| Soften/scale an adjective | Het is `best` duur. | It's quite expensive. |
+| | Dat was `best` moeilijk. | That was pretty hard. |
+| | Ze is `best` aardig. | She's rather nice. |
+
+**B. Willingness "sure / I don't mind"** — like *wel*, agrees without enthusiasm.
+
+- *Ik wil `best` helpen.* — I'm happy enough to help.
+- *Dat kan `best`.* — That's quite possible / that's fine.
+- *— Koffie? — `Best`.* — Coffee? — Sure, why not.
+
+Flavor: "more than you'd think, but no big deal".
+
+## eigenlijk
+
+Reframing particle: **"actually / really / when you think about it"**. Reopens a question or gently corrects an assumption.
+
+| Use | Example | English |
+|-----|---------|---------|
+| Get to the real point | Wat wil je `eigenlijk`? | What do you actually want? |
+| Mild correction | Dat klopt `eigenlijk` niet. | That's not really right. |
+| Sudden realization | Ik heb `eigenlijk` best honger. | I'm actually pretty hungry. |
+
+Flavor: "if we're honest / underneath it all".
+
+## zeker
+
+Two senses — an adverb of certainty *and* a questioning particle.
+
+**A. Adverb "certainly / surely"**
+
+- *Dat weet ik `zeker`.* — I know that for sure.
+
+**B. Particle "I bet / by any chance"** — voices a strong guess, often mildly teasing.
+
+- *Jij bent `zeker` de nieuwe?* — You must be the new one, right?
+- *Je hebt `zeker` geen tijd?* — I don't suppose you've got time?
+
+Flavor (as particle): "I'm assuming, correct me if wrong".
+
+## soms
+
+Literally "sometimes", but as a particle in **questions** it means **"by any chance"** — softens and makes the question tentative.
+
+| Use | Example | English |
+|-----|---------|---------|
+| Tentative question | Heb je `soms` een pen? | Got a pen, by any chance? |
+| Polite probing | Weet jij `soms` waar hij is? | Do you happen to know where he is? |
+| Literal "sometimes" | Ik ga `soms` zwemmen. | I sometimes go swimming. |
+
+Flavor (as particle): "no pressure if not".
+
+## al
+
+Adverb **"already"**, also a lightener/emphasis particle.
+
+| Use | Example | English |
+|-----|---------|---------|
+| "already" | Ben je er `al`? | Are you there already? |
+| Scaling down | Zo moeilijk is het `al` niet. | It's not *that* hard. |
+| Memory-jog (`al weer`) | Hoe heet hij `al` weer? | What was his name again? |
+
+## zo
+
+Besides "so/thus", `zo` marks the **very near future**: **"in a sec / shortly"**.
+
+- *Ik kom `zo`.* — I'll be right there.
+- *We beginnen `zo`.* — We're starting in a moment.
+- *Tot `zo`!* — See you in a bit!
+
+> Contrast with `net` (just now, past) — `zo` points forward, `net` points back.
+
+## pas
+
+Adverb **"only just / not until"** — emphasizes that something is later or more recent than expected.
+
+- *Hij komt `pas` morgen.* — He won't come until tomorrow.
+- *Ik ben `pas` net thuis.* — I only just got home.
+- *Het is `pas` acht uur.* — It's only eight o'clock.
+
+Flavor: "later / less than you'd think" — the mirror of `al` ("already").
+
+## lekker
+
+Beyond "tasty", `lekker` is a strong **attitude particle** — comfort, indulgence, or cheeky defiance.
+
+| Use | Example | English |
+|-----|---------|---------|
+| Cosy indulgence | Ik ga `lekker` slapen. | I'm gonna have a nice sleep. |
+| Defiant / "and I don't care" | Ik doe het `lekker` toch. | I'm doing it anyway, so there. |
+| Sarcasm | Dat is `lekker` handig… | Well, *that's* convenient… |
+
+Flavor: "and I'm enjoying it / and you can't stop me".
+
+## gerust
+
+Reassuring particle **"feel free / safely / with no worry"** — gives permission and removes hesitation.
+
+- *Ga `gerust` zitten.* — Do feel free to sit.
+- *Vraag het `gerust`.* — Don't hesitate to ask.
+- *Je kunt me `gerust` bellen.* — You can absolutely call me.
+
+Flavor: warmer, stronger cousin of `maar` ("go ahead").
+
+## juist
+
+Adverb/particle **"precisely / exactly / on the contrary"** — sharpens rather than softens.
+
+| Use | Example | English |
+|-----|---------|---------|
+| Emphatic agreement | `Juist`! | Exactly! |
+| Contradiction | `Juist` niet! | Quite the opposite! |
+| Pinpointing | `Juist` daarom. | For that very reason. |
+
+Note: unlike most toners here, `juist` **adds** weight instead of removing it.
+
+## echt
+
+Intensifier **"really / genuinely / truly"** — underlines sincerity or degree.
+
+- *Dat is `echt` waar.* — That's really true.
+- *Ik meen het `echt`.* — I really mean it.
+- *`Echt`?* — Really? / Seriously?
+- *Het is `echt` niet mijn schuld.* — It's genuinely not my fault.
+
+Flavor: "no exaggeration, I mean this".
 
 ## The "just" trap
 
